@@ -1,0 +1,12 @@
+
+<html>
+<body>
+  <div>
+    <p> Vaingroly Pick Recommender</p>
+  {% for Hero in Heros %}
+    <input type="radio" name="choice" id="choice{{ forloop.counter }}" value="{{ Hero.hero_id }}" />
+    <label for="choice{{ forloop.counter }}">{{ Hero.name }}</label><br>
+  {% endfor %}
+  </div>
+</body>
+</html>
