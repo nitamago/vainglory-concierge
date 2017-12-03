@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T11:14:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "PharaohsKeep",
+                "Player": "8b119ad2-22cc-11e7-899b-02f3b4306918",
+                "Hero": "*Skaarf*"
+            }
+        },
+        {
+            "time": "2017-11-05T11:14:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Vonags",
+                "Player": "43735eb2-79dd-11e4-b3b6-06d90c28bf1a",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T11:14:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "NoSkinsAllWins",
+                "Player": "27a5f666-ba6a-11e6-8467-06ab1a16f8e5",
+                "Hero": "*Adagio*"
+            }
+        },
+        {
+            "time": "2017-11-05T11:14:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "TheProphet22",
+                "Player": "47bb82a6-9b7a-11e4-a8e1-06d90c28bf1a",
+                "Hero": "*Glaive*"
+            }
+        },
+        {
+            "time": "2017-11-05T11:14:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "BradyShi",
+                "Player": "544201d8-9cc9-11e6-a1b5-062cb73cdbb1",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T11:15:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "TangNaMo",
+                "Player": "4a372184-e74b-11e5-9f75-06c5ee41a4a5",
+                "Hero": "*Reza*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

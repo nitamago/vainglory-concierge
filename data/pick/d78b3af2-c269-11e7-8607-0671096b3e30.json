@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T20:42:48+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:42:58+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:43:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Boro5",
+                "Player": "5759b174-9c12-11e7-beb7-02866102f5a6",
+                "Hero": "*Krul*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:43:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "xPaynz",
+                "Player": "319c9bc0-b494-11e5-ae85-06eb725f8a76",
+                "Hero": "*Lance*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:43:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "wufuu",
+                "Player": "c587af68-6f8a-11e5-a3aa-068789513eb5",
+                "Hero": "*Ringo*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:43:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "InfamousKnight",
+                "Player": "6ac8a52a-79fe-11e7-b805-0297ea8a7ddc",
+                "Hero": "*Idris*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:43:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "eatshit818",
+                "Player": "a289b53e-97c0-11e5-a26f-0628b69bf6d1",
+                "Hero": "*Churnwalker*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:43:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "DudMoney",
+                "Player": "f608afb6-afef-11e5-a7fb-0628b69bf6d1",
+                "Hero": "*Koshka*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T10:19:15+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Flicker*"
+            }
+        },
+        {
+            "time": "2017-11-05T10:19:21+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T10:19:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Betterthenlife1",
+                "Player": "fcb4878a-4f32-11e6-b5d8-06fc87f1dd11",
+                "Hero": "*Samuel*"
+            }
+        },
+        {
+            "time": "2017-11-05T10:19:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "abadath",
+                "Player": "94768f68-7378-11e7-b12f-02081e0fc90e",
+                "Hero": "*Koshka*"
+            }
+        },
+        {
+            "time": "2017-11-05T10:19:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Bileca",
+                "Player": "44e7eb12-6f71-11e4-af50-062d0b175276",
+                "Hero": "*Ringo*"
+            }
+        },
+        {
+            "time": "2017-11-05T10:20:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Nmvp7",
+                "Player": "bc7a7b98-6e08-11e7-acf2-020ecf4900d0",
+                "Hero": "*Krul*"
+            }
+        },
+        {
+            "time": "2017-11-05T10:20:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "j5king",
+                "Player": "91842f48-8a2a-11e4-b5d5-06eb725f8a76",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T10:20:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Dragoknite",
+                "Player": "67c190a2-8810-11e6-aa9c-06fc87f1dd11",
+                "Hero": "*Lance*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

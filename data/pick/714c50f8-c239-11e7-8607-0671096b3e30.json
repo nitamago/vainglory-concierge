@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T14:56:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Kronnoss",
+                "Player": "e4c58c02-88b2-11e4-a8d3-06d90c28bf1a",
+                "Hero": "*Petal*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:56:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Abvalo",
+                "Player": "aad98af8-705b-11e4-ac9d-062d0b175276",
+                "Hero": "*Grumpjaw*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:56:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Leefla",
+                "Player": "c10adef2-990f-11e5-b5bb-06b48b82cd49",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:56:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "DyabloPacheco",
+                "Player": "b06506b6-91d3-11e4-b0a5-06d90c28bf1a",
+                "Hero": "*Baron*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:56:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "JoniBlack",
+                "Player": "7435f160-8e4e-11e4-bc89-06d90c28bf1a",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:56:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "PrinceNoc",
+                "Player": "36ead44e-10ba-11e5-befd-06d90c28bf1a",
+                "Hero": "*Glaive*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T11:43:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Elchacalote",
+                "Player": "39160f0c-72df-11e7-8748-06388a2f2ea7",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T11:43:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Ozoude",
+                "Player": "dfb7cc78-6f8c-11e4-9304-062d0b175276",
+                "Hero": "*Skye*"
+            }
+        },
+        {
+            "time": "2017-11-05T11:43:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "FeChef",
+                "Player": "1041daa4-7042-11e4-ba5e-062d0b175276",
+                "Hero": "*Lance*"
+            }
+        },
+        {
+            "time": "2017-11-05T11:43:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Bhatti",
+                "Player": "ecb436da-71b4-11e4-82c4-062d0b175276",
+                "Hero": "*Glaive*"
+            }
+        },
+        {
+            "time": "2017-11-05T11:44:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "DrakeAlas",
+                "Player": "5265fb12-c177-11e6-a6fb-068789513eb5",
+                "Hero": "*Petal*"
+            }
+        },
+        {
+            "time": "2017-11-05T11:44:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Minatothefirst",
+                "Player": "89bd485a-485f-11e5-8aab-06f4ee369f53",
+                "Hero": "*Churnwalker*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T20:33:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Ramseylovesme",
+                "Player": "e53bb58c-9e93-11e6-81bb-06eb725f8a76",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:33:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Ramseyhatesme",
+                "Player": "ba1ac5d8-9e92-11e6-862e-06f4ee369f53",
+                "Hero": "*Churnwalker*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:33:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "tzizmissing",
+                "Player": "96e3e2d4-ae55-11e6-a645-062cb73cdbb1",
+                "Hero": "*Taka*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:33:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "LunaDancer",
+                "Player": "94b1b294-fd37-11e6-984f-06f4ee369f53",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:34:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "PGghost",
+                "Player": "ca0b83e4-4813-11e7-a2ce-0224e22aef46",
+                "Hero": "*Baptiste*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:34:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "powderdog",
+                "Player": "754429c6-8c19-11e6-85c8-06fc87f1dd11",
+                "Hero": "*Glaive*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T19:43:15+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:43:19+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:43:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "HazeVoid",
+                "Player": "f07dd312-6fa0-11e5-8dfe-0628b69bf6d1",
+                "Hero": "*Baptiste*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:43:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "nevets2k",
+                "Player": "02d38d86-312a-11e6-bab3-06d90c28bf1a",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:44:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Crazedjellyfish",
+                "Player": "0430791a-35a6-11e7-ad6c-020ecf4900d0",
+                "Hero": "*Taka*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:44:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Deathbringer0527",
+                "Player": "e24920b8-93c6-11e5-ba5d-0628b69bf6d1",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:44:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "ThrJoLom",
+                "Player": "b84a4866-5fd0-11e5-b996-06b48b82cd49",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:45:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Dillion49",
+                "Player": "618b668c-71f5-11e4-8ccc-06d90c28bf1a",
+                "Hero": "*Ringo*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

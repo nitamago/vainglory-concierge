@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T20:17:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Skruub",
+                "Player": "ddd9d2fa-2170-11e7-a4be-06fc87f1dd11",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:17:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Weaklyexotic",
+                "Player": "bf27964e-4049-11e5-9d8a-0628b69bf6d1",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:17:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "DeathAngle",
+                "Player": "251cd5cc-76a1-11e4-b6fb-06d90c28bf1a",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:17:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "roxas890",
+                "Player": "140747fc-1883-11e5-b761-06eb725f8a76",
+                "Hero": "*Reza*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:18:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "mani1198",
+                "Player": "9bde9e0c-7af9-11e7-aae6-0297ea8a7ddc",
+                "Hero": "*Ozo*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:18:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "mystaque",
+                "Player": "af3f4b80-776f-11e4-9ae1-06d90c28bf1a",
+                "Hero": "*Kestrel*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

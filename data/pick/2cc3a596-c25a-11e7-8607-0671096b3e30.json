@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T18:50:36+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:50:39+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:51:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "ProLadyDark90",
+                "Player": "be522104-c62a-11e6-91c9-06b48b82cd49",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:51:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "ThaniTheMage",
+                "Player": "5f2cdbc6-7d1b-11e7-8fb6-0297ea8a7ddc",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:51:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "heirinji",
+                "Player": "85dd1cc0-04de-11e5-a158-06eb725f8a76",
+                "Hero": "*Ringo*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:51:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "SYTHHD",
+                "Player": "8aff9c24-8ac3-11e7-b8bb-06a9175d25fa",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:52:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "LurknMurk",
+                "Player": "b5a998ce-c69b-11e4-b314-06eb725f8a76",
+                "Hero": "*Joule*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:52:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Rabast",
+                "Player": "730f1a46-256e-11e7-87aa-06c5ee41a4a5",
+                "Hero": "*Lyra*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

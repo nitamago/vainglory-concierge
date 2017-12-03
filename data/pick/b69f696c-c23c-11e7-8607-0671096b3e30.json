@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T15:19:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "bonez0125",
+                "Player": "a622158e-4dfa-11e5-87e1-0628b69bf6d1",
+                "Hero": "*Taka*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:19:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "GodTwinKing",
+                "Player": "5ab837fa-bcf6-11e7-a6c6-067e8bc536fd",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:19:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "angimarmu",
+                "Player": "ab0853f2-c626-11e5-8dea-06d90c28bf1a",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:19:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "silverwarwolf",
+                "Player": "a579f182-c240-11e5-a5d3-06f4ee369f53",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:19:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "SilverrrZ",
+                "Player": "c53f7fd4-6a94-11e7-8816-067e8bc536fd",
+                "Hero": "*Taka*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:19:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "oscarblaze",
+                "Player": "349843c2-e7da-11e6-bbcf-06f4ee369f53",
+                "Hero": "*Ardan*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

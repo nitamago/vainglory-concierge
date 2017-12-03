@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T09:11:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Audron01",
+                "Player": "32c7a1a4-4735-11e7-83db-06c5ee41a4a5",
+                "Hero": "*Ringo*"
+            }
+        },
+        {
+            "time": "2017-11-05T09:11:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "DoubleCupLove",
+                "Player": "95891d06-abc5-11e6-90b0-068789513eb5",
+                "Hero": "*Phinn*"
+            }
+        },
+        {
+            "time": "2017-11-05T09:11:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "iDoNot",
+                "Player": "a17aa2ee-5a4b-11e7-bd0c-0224e22aef46",
+                "Hero": "*Grace*"
+            }
+        },
+        {
+            "time": "2017-11-05T09:11:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "famous808",
+                "Player": "e60d4a46-bc96-11e5-9a3a-068789513eb5",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T09:11:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Mellowmoods",
+                "Player": "67514678-ff5a-11e6-8372-067e8bc536fd",
+                "Hero": "*Ringo*"
+            }
+        },
+        {
+            "time": "2017-11-05T09:11:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Aimer",
+                "Player": "dc0e7120-8ddd-11e4-8897-06eb725f8a76",
+                "Hero": "*Reza*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

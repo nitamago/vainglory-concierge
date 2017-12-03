@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T09:46:39+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Churnwalker*"
+            }
+        },
+        {
+            "time": "2017-11-05T09:46:41+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T09:46:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Unrank3d",
+                "Player": "b0c2ce38-b690-11e7-878f-020ecf4900d0",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T09:46:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "CloudyThoughts",
+                "Player": "06079c5a-7d16-11e4-94bf-06eb725f8a76",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T09:47:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "XxxBrAzZerSxxX",
+                "Player": "e29d84a0-4871-11e5-9780-06b48b82cd49",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T09:47:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "madara10",
+                "Player": "abcd5468-be2e-11e5-b421-06eb725f8a76",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T09:47:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "RMCorey",
+                "Player": "2fbd55c0-e7e8-11e4-903b-06eb725f8a76",
+                "Hero": "*Koshka*"
+            }
+        },
+        {
+            "time": "2017-11-05T09:47:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Lolopechay",
+                "Player": "63baeffa-2856-11e5-a17d-06eb725f8a76",
+                "Hero": "*Skaarf*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

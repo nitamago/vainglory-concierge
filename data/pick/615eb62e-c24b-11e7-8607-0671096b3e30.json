@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T17:04:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "RaizoCyrax",
+                "Player": "46c46f0a-9350-11e6-b7f5-067e8bc536fd",
+                "Hero": "*Taka*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:04:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "TheCrackUltimate",
+                "Player": "fdc0f4ec-bab1-11e7-8b0c-06ab1a16f8e5",
+                "Hero": "*Joule*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:05:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "MaxChamPEON",
+                "Player": "2811230e-aabd-11e5-9541-06eb725f8a76",
+                "Hero": "*Adagio*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:05:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "tniehaus5",
+                "Player": "6ec707d4-3fbd-11e5-818a-068789513eb5",
+                "Hero": "*Flicker*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:05:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Cvmmy",
+                "Player": "858ca28a-a2bc-11e7-9973-067e8bc536fd",
+                "Hero": "*Gwen*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:05:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Elenya",
+                "Player": "8bdd75ce-5b9f-11e7-a582-06fc87f1dd11",
+                "Hero": "*Celeste*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

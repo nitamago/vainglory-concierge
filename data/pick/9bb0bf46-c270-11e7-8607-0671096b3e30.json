@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T21:31:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "iAlacrity",
+                "Player": "480b2438-9270-11e7-be99-029cb633549e",
+                "Hero": "*Taka*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:31:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "mdh808",
+                "Player": "84c17380-3cfc-11e5-99b3-06d90c28bf1a",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:31:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "LeBIanc",
+                "Player": "0b2b74fe-3e4e-11e6-aa36-062cb73cdbb1",
+                "Hero": "*Lance*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:32:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "AkaneOkami",
+                "Player": "fdd0bb1a-1fb3-11e6-aa6b-06388a2f2ea7",
+                "Hero": "*Skaarf*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:32:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Elusive12",
+                "Player": "4d6d6eb6-75e2-11e4-8b02-06d90c28bf1a",
+                "Hero": "*Glaive*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:32:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Mlota",
+                "Player": "fa0f9184-bf19-11e7-9347-06eb725f8a76",
+                "Hero": "*Ardan*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T21:09:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "CARBONCOPYCLYDE",
+                "Player": "4e40a0d6-a2cf-11e5-a932-068789513eb5",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:09:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "AllenGinsberg",
+                "Player": "6faffd46-4fb9-11e7-82fe-062cb73cdbb1",
+                "Hero": "*Taka*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:09:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "cjhitman33",
+                "Player": "54411066-b1f5-11e6-86bb-06c5ee41a4a5",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:10:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "AriesAscending",
+                "Player": "eefa64e2-26bb-11e6-93b8-06b48b82cd49",
+                "Hero": "*Koshka*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:10:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "WorstTeammate",
+                "Player": "fa1d6b5c-a6c8-11e6-b8cf-06388a2f2ea7",
+                "Hero": "*Glaive*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:10:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "RelaxingEnds",
+                "Player": "48281920-3738-11e5-8ee3-06b48b82cd49",
+                "Hero": "*Ardan*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

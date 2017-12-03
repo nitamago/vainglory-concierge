@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T14:35:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "SkySalem",
+                "Player": "87cae25c-9582-11e6-95b4-062cb73cdbb1",
+                "Hero": "*Fortress*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:35:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "nightprism47200",
+                "Player": "3cba9f4e-ef94-11e5-b19f-06ab1a16f8e5",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:35:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "coming4ya",
+                "Player": "285d2c28-54b8-11e5-9bc4-068789513eb5",
+                "Hero": "*Krul*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:35:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "ItsMeShimonn",
+                "Player": "e50603ca-71a5-11e7-8d63-0297ea8a7ddc",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:36:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "LELALING",
+                "Player": "3cee5330-995d-11e5-9315-068789513eb5",
+                "Hero": "*Petal*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:36:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "KPS1",
+                "Player": "3f7a2366-5155-11e7-a4e4-02081e0fc90e",
+                "Hero": "*Ardan*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

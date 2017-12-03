@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T09:55:49+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T09:55:54+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T09:56:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "WarriorsOfLight",
+                "Player": "cd182dc2-de31-11e6-b1c6-06388a2f2ea7",
+                "Hero": "*Grace*"
+            }
+        },
+        {
+            "time": "2017-11-05T09:56:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "darkeslime",
+                "Player": "51226c44-6dfa-11e5-95d9-06b48b82cd49",
+                "Hero": "*Lance*"
+            }
+        },
+        {
+            "time": "2017-11-05T09:56:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "HABS",
+                "Player": "f9e9f3f6-0c34-11e5-af33-06eb725f8a76",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T09:56:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "LoveRussianGirls",
+                "Player": "136cb160-6e54-11e6-ba72-0628b69bf6d1",
+                "Hero": "*Baron*"
+            }
+        },
+        {
+            "time": "2017-11-05T09:57:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Arnox",
+                "Player": "bd7d43e2-8970-11e4-9bf4-06eb725f8a76",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T09:57:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Refuze",
+                "Player": "a5c51286-f0fb-11e5-997f-06f4ee369f53",
+                "Hero": "*Krul*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

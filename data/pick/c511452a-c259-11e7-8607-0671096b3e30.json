@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T18:47:47+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Petal*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:48:02+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Krul*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:48:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "iKiddo",
+                "Player": "0d588784-95b5-11e7-a392-02b3611af5e6",
+                "Hero": "*Reza*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:48:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "PanterBell",
+                "Player": "9d912852-28aa-11e6-b5dc-062cb73cdbb1",
+                "Hero": "*Celeste*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:48:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "PokePlayzzz",
+                "Player": "b5deb7ea-7ef2-11e7-83fc-06c5ee41a4a5",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:49:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Irish4",
+                "Player": "d5e898b4-b84d-11e7-985a-06d90c28bf1a",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:49:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "BhadBaby",
+                "Player": "3e2f0a48-95c6-11e7-85c0-0224e22aef46",
+                "Hero": "*Joule*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:49:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "SprinklePlayzz10",
+                "Player": "950bbe10-a183-11e7-9219-0263a81144c0",
+                "Hero": "*Ardan*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

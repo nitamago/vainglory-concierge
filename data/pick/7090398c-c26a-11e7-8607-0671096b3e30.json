@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T20:47:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "manololopez97",
+                "Player": "60199264-720f-11e4-88b0-06d90c28bf1a",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:47:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "robertmckinney",
+                "Player": "0030ee8e-f5c6-11e4-8702-06d90c28bf1a",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:47:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "HeCGate",
+                "Player": "4ba9c24e-5a2a-11e7-90be-02866102f5a6",
+                "Hero": "*Kestrel*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:47:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "LuisValier",
+                "Player": "348cc37e-c0bd-11e6-b312-067e8bc536fd",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:47:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "KageMario",
+                "Player": "446c411a-7fa4-11e7-ac15-062cb73cdbb1",
+                "Hero": "*Flicker*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:47:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "EvanderMorito",
+                "Player": "332fa84e-82bd-11e7-a6a4-06d90c28bf1a",
+                "Hero": "*Taka*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

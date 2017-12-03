@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T21:17:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Crimhoof",
+                "Player": "5cfc4090-cb86-11e6-bd81-062cb73cdbb1",
+                "Hero": "*Ringo*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:17:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "YourfutureBf",
+                "Player": "7f88e222-241a-11e5-aa0f-06f4ee369f53",
+                "Hero": "*Gwen*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:17:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Crazymob777",
+                "Player": "ae4ebd20-8743-11e5-a01a-06eb725f8a76",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:17:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "KingLaz2020",
+                "Player": "279e26d8-af2b-11e6-b98e-06fc87f1dd11",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:18:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Veralord",
+                "Player": "adfe209c-6a3f-11e6-a9c7-06ab1a16f8e5",
+                "Hero": "*Rona*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:18:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Sgil",
+                "Player": "b14b8c4a-935b-11e6-8ea7-06f4ee369f53",
+                "Hero": "*Catherine*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T17:14:46+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:14:51+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:14:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "MurdaMount252",
+                "Player": "4bb212d6-ea33-11e5-a749-068789513eb5",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:15:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "JHOMcocMINI",
+                "Player": "a5aee59c-fa60-11e5-9224-06c5ee41a4a5",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:15:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "RyuujiTakasu",
+                "Player": "6636af1c-7c43-11e5-b0f2-06eb725f8a76",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:15:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "theDoctor92",
+                "Player": "ef38bcae-232b-11e5-ade4-0628b69bf6d1",
+                "Hero": "*Phinn*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:15:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "OldW1zzrd",
+                "Player": "9f81f62a-aad1-11e5-97d3-06eb725f8a76",
+                "Hero": "*Adagio*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:15:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "emisar10",
+                "Player": "976ec7b4-9e43-11e5-93bc-06d90c28bf1a",
+                "Hero": "*Skye*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

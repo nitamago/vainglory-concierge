@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T16:28:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "RedWolfGrey",
+                "Player": "011ecb1e-0bfa-11e5-be41-06d90c28bf1a",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:28:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "AisanNation",
+                "Player": "a47c5352-120e-11e5-97c8-06d90c28bf1a",
+                "Hero": "*Krul*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:28:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "jv2133",
+                "Player": "787b496a-8424-11e5-9f17-06d90c28bf1a",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:28:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "PHEONIXDRA",
+                "Player": "e1b8e22e-cdf4-11e5-b975-062cb73cdbb1",
+                "Hero": "*Rona*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:28:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Alexuniverse6716",
+                "Player": "f4182cfc-680a-11e7-8a6c-062cb73cdbb1",
+                "Hero": "*Skaarf*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:28:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Squatch79",
+                "Player": "da189c22-d56a-11e4-9863-06eb725f8a76",
+                "Hero": "*Ringo*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

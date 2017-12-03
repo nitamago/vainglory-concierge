@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T21:37:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "MedicMike",
+                "Player": "30fe4346-3652-11e5-b744-06eb725f8a76",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:37:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Snorlaxin",
+                "Player": "664debf2-5b60-11e7-95b8-0263a81144c0",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:37:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "RstarFUSION",
+                "Player": "fa8bc8b4-9e17-11e5-843b-06b48b82cd49",
+                "Hero": "*Koshka*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:37:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "BigNuggit",
+                "Player": "32228b1c-f74c-11e6-bb8b-06eb725f8a76",
+                "Hero": "*Krul*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:37:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Legend19",
+                "Player": "2d741668-7aea-11e7-9760-0224e22aef46",
+                "Hero": "*Ringo*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:37:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "gadoff",
+                "Player": "cd9395e4-b1e3-11e7-bf64-0263a81144c0",
+                "Hero": "*Grumpjaw*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

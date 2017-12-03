@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T19:25:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "meschrei",
+                "Player": "9d129784-109a-11e7-ab23-020355b21670",
+                "Hero": "*Lance*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:25:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "SaigonJon",
+                "Player": "c4aa83d6-10b5-11e7-b96d-029cb633549e",
+                "Hero": "*Kestrel*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:25:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "bronxmost",
+                "Player": "24f90c6e-f855-11e5-8698-06ab1a16f8e5",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:25:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "jhatfield123",
+                "Player": "93b64bb6-ec2b-11e5-98cf-06388a2f2ea7",
+                "Hero": "*Krul*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:25:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "TheBoyMaayo",
+                "Player": "c5e2dce6-7104-11e5-b235-068789513eb5",
+                "Hero": "*Churnwalker*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:26:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Infallibility",
+                "Player": "0b2c97b2-1751-11e7-a4b0-029cb633549e",
+                "Hero": "*Reim*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

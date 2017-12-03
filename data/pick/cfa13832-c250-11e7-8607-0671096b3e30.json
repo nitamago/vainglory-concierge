@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T17:43:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Dezman",
+                "Player": "da9c01e2-83c2-11e4-b0fa-06d90c28bf1a",
+                "Hero": "*Skye*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:43:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "thePrestige",
+                "Player": "feb8bffe-13ed-11e6-8883-062cb73cdbb1",
+                "Hero": "*Ozo*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:43:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Lilvue23",
+                "Player": "d95c3d3a-b36c-11e5-9c44-06eb725f8a76",
+                "Hero": "*Krul*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:43:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "AttackOnMemory",
+                "Player": "53638c20-c21b-11e5-86ad-06b48b82cd49",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:43:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Cassius57",
+                "Player": "563eaa86-86cb-11e6-875c-062cb73cdbb1",
+                "Hero": "*Lance*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:44:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Jmoney631",
+                "Player": "4142ecf2-35a7-11e6-ac09-0628b69bf6d1",
+                "Hero": "*Skaarf*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T19:11:28+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:11:31+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:11:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "RyuujiTakasu",
+                "Player": "6636af1c-7c43-11e5-b0f2-06eb725f8a76",
+                "Hero": "*Samuel*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:11:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "iAmAPotato",
+                "Player": "5d675d70-aa07-11e7-b0b6-0263a81144c0",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:12:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "AvrilitaxD",
+                "Player": "b9f6f86e-da90-11e4-8521-06d90c28bf1a",
+                "Hero": "*Celeste*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:12:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "emisar10",
+                "Player": "976ec7b4-9e43-11e5-93bc-06d90c28bf1a",
+                "Hero": "*Grace*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:12:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "JHOMcocMINI",
+                "Player": "a5aee59c-fa60-11e5-9224-06c5ee41a4a5",
+                "Hero": "*Ringo*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:12:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Crizby222",
+                "Player": "a18f2714-2262-11e5-8ede-0628b69bf6d1",
+                "Hero": "*Glaive*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

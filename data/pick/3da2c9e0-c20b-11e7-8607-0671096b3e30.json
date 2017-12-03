@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T09:25:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "DrugRoom",
+                "Player": "eaed9232-6aa5-11e7-a017-0263a81144c0",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T09:26:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "kilemal2003",
+                "Player": "ce703508-b7b6-11e6-bf59-06ab1a16f8e5",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T09:26:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "heartjosecastle",
+                "Player": "39551362-8fe0-11e4-95d8-06d90c28bf1a",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T09:26:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "KillemAlI",
+                "Player": "508db05a-54d4-11e7-891a-02b3611af5e6",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T09:26:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "drunkiepanda",
+                "Player": "5c833446-f48d-11e5-8dff-062cb73cdbb1",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T09:26:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Leonadiz",
+                "Player": "3d1dac80-862a-11e4-9c29-06d90c28bf1a",
+                "Hero": "*SAW*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

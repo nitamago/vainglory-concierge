@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T21:04:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "WarLordIroh",
+                "Player": "0e099580-b031-11e5-8eb2-0628b69bf6d1",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:04:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "hellfire1",
+                "Player": "037c7fde-1f1c-11e5-b8a5-06d90c28bf1a",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:04:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "AscendingStars",
+                "Player": "04409f0e-b0e7-11e7-87f0-02f3b4306918",
+                "Hero": "*Lance*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:04:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Wodeth",
+                "Player": "059fe89a-ade7-11e6-a6c6-06388a2f2ea7",
+                "Hero": "*Petal*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:04:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "bloodlad20",
+                "Player": "6bf9646e-bcc7-11e7-9759-062cb73cdbb1",
+                "Hero": "*Phinn*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:04:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "jakrpty",
+                "Player": "3593e700-5f27-11e5-b564-06eb725f8a76",
+                "Hero": "*Koshka*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

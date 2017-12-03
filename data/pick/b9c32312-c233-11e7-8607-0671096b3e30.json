@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T14:15:32+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Flicker*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:15:36+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:15:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "PissedOffPanda",
+                "Player": "ccab5804-b9cb-11e5-94ac-06d90c28bf1a",
+                "Hero": "*Phinn*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:16:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "datheOne",
+                "Player": "67e54522-bca3-11e4-a7f0-06eb725f8a76",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:16:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "chris87887",
+                "Player": "87c35a4c-d408-11e4-8cc1-06d90c28bf1a",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:16:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "ghostplayer666",
+                "Player": "b34a6a58-4ef3-11e7-9490-06c5ee41a4a5",
+                "Hero": "*Taka*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:16:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Lordmessiah",
+                "Player": "8745aa3e-3e92-11e6-a4d4-068789513eb5",
+                "Hero": "*Reza*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:17:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "ToxicFang",
+                "Player": "9efbb026-29eb-11e6-af13-06b48b82cd49",
+                "Hero": "*Idris*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

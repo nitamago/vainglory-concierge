@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T08:45:35+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T08:45:39+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T08:46:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "DrNeeks",
+                "Player": "6e5467d8-0723-11e5-9641-06d90c28bf1a",
+                "Hero": "*Lance*"
+            }
+        },
+        {
+            "time": "2017-11-05T08:46:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Alqajero",
+                "Player": "6346f450-9899-11e7-9e9c-06fc87f1dd11",
+                "Hero": "*Phinn*"
+            }
+        },
+        {
+            "time": "2017-11-05T08:46:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "VAPmoNsNER",
+                "Player": "4c8f5040-0628-11e6-8963-06388a2f2ea7",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T08:46:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Stratophyr",
+                "Player": "ce404f48-67fb-11e5-8653-06f4ee369f53",
+                "Hero": "*Celeste*"
+            }
+        },
+        {
+            "time": "2017-11-05T08:46:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "StopThrowing",
+                "Player": "e894578c-211e-11e5-acfe-06f4ee369f53",
+                "Hero": "*Ringo*"
+            }
+        },
+        {
+            "time": "2017-11-05T08:47:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Jamthrill",
+                "Player": "0092508c-7689-11e4-b111-06d90c28bf1a",
+                "Hero": "*Glaive*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

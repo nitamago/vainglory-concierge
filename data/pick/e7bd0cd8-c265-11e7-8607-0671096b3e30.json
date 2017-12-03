@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T20:14:43+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Alpha*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:14:54+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:14:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Jhangai",
+                "Player": "7693e5d0-4fca-11e7-9eb9-06ab1a16f8e5",
+                "Hero": "*Kestrel*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:15:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "shinigami0nik",
+                "Player": "9d5c2230-72b0-11e4-9bd2-06d90c28bf1a",
+                "Hero": "*Ringo*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:15:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "WholeLoT",
+                "Player": "56a1e0ce-ffee-11e5-9a85-06fc87f1dd11",
+                "Hero": "*Rona*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:15:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "BreakiingPoiint",
+                "Player": "4e97c824-f12c-11e5-ad74-06c5ee41a4a5",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:16:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Aequinoctium",
+                "Player": "8c7e8046-502d-11e6-b693-06ab1a16f8e5",
+                "Hero": "*Skye*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:16:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "PrettyLuiGi",
+                "Player": "e423d04c-af40-11e4-9728-06d90c28bf1a",
+                "Hero": "*SAW*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

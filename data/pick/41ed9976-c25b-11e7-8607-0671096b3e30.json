@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T18:58:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "BIGDADDYONE",
+                "Player": "af900ec6-7b3e-11e4-8d8a-06eb725f8a76",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:58:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Shimmy",
+                "Player": "43b36540-6eb9-11e4-af86-06641bcbf424",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:58:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Paradiem",
+                "Player": "80f8c9dc-be17-11e5-97ea-068789513eb5",
+                "Hero": "*Petal*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:58:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Ic3m4n911",
+                "Player": "2e770446-f26c-11e6-ad8f-06b48b82cd49",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:58:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Qelgarthos",
+                "Player": "125f455c-1ca1-11e7-90b1-02b3611af5e6",
+                "Hero": "*Lance*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:58:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "TheCuntSmuggler",
+                "Player": "8aa8878e-1ea1-11e6-9f33-0628b69bf6d1",
+                "Hero": "*Idris*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

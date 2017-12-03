@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T16:58:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "amanbappu",
+                "Player": "05fc6b78-7787-11e7-8b63-06ab1a16f8e5",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:58:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "narahsoblin",
+                "Player": "a2ca674e-b347-11e5-a706-06b48b82cd49",
+                "Hero": "*Samuel*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:58:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "AttackOnMemory",
+                "Player": "53638c20-c21b-11e5-86ad-06b48b82cd49",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:58:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Aduuuu",
+                "Player": "fac17e78-4308-11e6-9ed3-067e8bc536fd",
+                "Hero": "*Taka*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:58:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Yamalis",
+                "Player": "51b9acba-8a85-11e5-9fa9-06eb725f8a76",
+                "Hero": "*Grace*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:58:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Abvalo",
+                "Player": "aad98af8-705b-11e4-ac9d-062d0b175276",
+                "Hero": "*Grumpjaw*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

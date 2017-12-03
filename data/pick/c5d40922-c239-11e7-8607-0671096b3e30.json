@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T14:59:00+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:59:12+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Petal*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:59:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "CurtisGirl37",
+                "Player": "47147944-3e6f-11e7-a2ef-02081e0fc90e",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:59:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Xaixer",
+                "Player": "17b05e70-919e-11e7-8ce0-02081e0fc90e",
+                "Hero": "*Taka*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:59:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Perspective5D",
+                "Player": "9c9e7b7c-9bc0-11e7-b47c-06b48b82cd49",
+                "Hero": "*Krul*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:59:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "DeanzDope",
+                "Player": "6875273c-2139-11e5-9179-06f4ee369f53",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:59:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "BurbinMcFoogle",
+                "Player": "fa2751ca-7057-11e4-84d1-06641bcbf424",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:00:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "itsMeBibi",
+                "Player": "0c6e9f06-7235-11e6-a1a5-06d90c28bf1a",
+                "Hero": "*Skaarf*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

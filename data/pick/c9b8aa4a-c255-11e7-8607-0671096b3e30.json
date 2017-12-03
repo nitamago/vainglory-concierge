@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T18:19:35+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:19:57+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:19:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "MYMY28",
+                "Player": "1b101a68-54e3-11e6-bd0f-06388a2f2ea7",
+                "Hero": "*Phinn*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:20:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "JLCFade",
+                "Player": "b5e939b6-0123-11e6-8730-068789513eb5",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:20:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "HoiKoi",
+                "Player": "e031d170-face-11e5-a3d5-0628b69bf6d1",
+                "Hero": "*Fortress*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:20:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "kneroj",
+                "Player": "c7d7e8a0-21a1-11e5-8850-06b48b82cd49",
+                "Hero": "*Skaarf*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:20:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "MythBeast",
+                "Player": "becaff12-71c1-11e4-9d7d-06641bcbf424",
+                "Hero": "*Idris*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:21:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "MollyPercocet",
+                "Player": "0f28a666-6757-11e7-a8f4-06fc87f1dd11",
+                "Hero": "*Taka*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

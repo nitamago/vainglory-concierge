@@ -1,0 +1,74 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T18:45:24+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:45:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Infernioz",
+                "Player": "8c434e32-d132-11e6-8607-06c5ee41a4a5",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:45:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "LaughingYoda",
+                "Player": "95c3085e-4bc6-11e6-a550-06eb725f8a76",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:45:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "SideRaider",
+                "Player": "c1b044b0-3264-11e7-b435-0223dbc2587a",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:45:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "BrayanBoss420",
+                "Player": "5731fc5a-5ef8-11e5-a955-06f4ee369f53",
+                "Hero": "*Lance*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:46:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "CapitalVG",
+                "Player": "693f97cc-aef1-11e7-8348-062cb73cdbb1",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:46:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "LastPharaohNa",
+                "Player": "f7d252ae-a85c-11e7-9e5e-06d90c28bf1a",
+                "Hero": "*Petal*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

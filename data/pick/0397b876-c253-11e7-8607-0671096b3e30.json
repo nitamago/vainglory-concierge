@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T17:59:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "f3rnando",
+                "Player": "59e7df30-906e-11e5-92ec-068789513eb5",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:59:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Wodeth",
+                "Player": "059fe89a-ade7-11e6-a6c6-06388a2f2ea7",
+                "Hero": "*Petal*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:59:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "RenegadeInVain",
+                "Player": "8f2875bc-1306-11e7-8db4-0297ea8a7ddc",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:59:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "OmegaAid",
+                "Player": "3c86578a-8d44-11e7-ac1a-06ab1a16f8e5",
+                "Hero": "*Reza*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:00:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Min3rminor",
+                "Player": "eb0d05a2-2137-11e7-9e5c-06388a2f2ea7",
+                "Hero": "*Idris*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:00:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "MChallum",
+                "Player": "c4d84e6c-39da-11e7-b872-02a5820c0f16",
+                "Hero": "*Lyra*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T21:51:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "bonez0125",
+                "Player": "a622158e-4dfa-11e5-87e1-0628b69bf6d1",
+                "Hero": "*Taka*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:51:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "TacoDelSalMX",
+                "Player": "b07bac46-6be6-11e7-9656-06d90c28bf1a",
+                "Hero": "*Baptiste*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:52:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Sandstorm88",
+                "Player": "e8b0c468-a871-11e6-9af0-06d90c28bf1a",
+                "Hero": "*Taka*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:52:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Failuresaurus",
+                "Player": "85f71e9c-2fca-11e5-a56e-06b48b82cd49",
+                "Hero": "*Phinn*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:52:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Fasci",
+                "Player": "83348f96-709e-11e4-b6c2-062d0b175276",
+                "Hero": "*Joule*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:52:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "FueraOnline",
+                "Player": "2bb53a66-d3fa-11e5-8e3d-0628b69bf6d1",
+                "Hero": "*Kestrel*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

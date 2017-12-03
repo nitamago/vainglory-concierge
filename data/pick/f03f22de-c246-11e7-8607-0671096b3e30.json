@@ -1,0 +1,74 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T16:33:33+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:33:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "jodagoflo",
+                "Player": "875f0486-981c-11e7-8135-0263a81144c0",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:33:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "SideRaider",
+                "Player": "c1b044b0-3264-11e7-b435-0223dbc2587a",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:34:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Diiph",
+                "Player": "3eddb386-6f63-11e4-a7c9-06641bcbf424",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:34:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Caliber50",
+                "Player": "316bbe42-7799-11e6-927d-06c5ee41a4a5",
+                "Hero": "*Joule*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:34:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Anfanus",
+                "Player": "244ec0ea-9b0d-11e7-a557-02a5820c0f16",
+                "Hero": "*Lance*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:34:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "LastPharaohNa",
+                "Player": "f7d252ae-a85c-11e7-9e5e-06d90c28bf1a",
+                "Hero": "*Fortress*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}
