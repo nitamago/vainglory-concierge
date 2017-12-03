@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T17:54:57+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:55:06+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:55:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "ShriShot",
+                "Player": "4d66f09a-0ee8-11e6-bf75-0628b69bf6d1",
+                "Hero": "*Alpha*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:55:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "MythicalHero",
+                "Player": "17b8e562-dcfb-11e5-a175-06388a2f2ea7",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:55:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "KingDragon89",
+                "Player": "136c0792-6b08-11e5-9a73-06b48b82cd49",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:55:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Tristan8551",
+                "Player": "583e14e0-5dd4-11e6-b8ac-067e8bc536fd",
+                "Hero": "*Lance*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:55:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "SenpaiAsian",
+                "Player": "8d28497a-a816-11e4-821c-06eb725f8a76",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:56:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "ivanhuang",
+                "Player": "33fcdcf0-8311-11e4-bf99-06d90c28bf1a",
+                "Hero": "*Koshka*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

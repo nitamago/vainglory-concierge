@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T18:08:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "lordinglorious",
+                "Player": "ec9d351e-01e2-11e7-8923-02b3611af5e6",
+                "Hero": "*Petal*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:08:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "DizzyMotoz",
+                "Player": "e2d2f1cc-e897-11e6-b85b-06ab1a16f8e5",
+                "Hero": "*Petal*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:08:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "blackspartan717",
+                "Player": "320dd54a-0aea-11e6-957d-067e8bc536fd",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:08:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "TheOutbound",
+                "Player": "589b5ea0-f458-11e6-acff-06f4ee369f53",
+                "Hero": "*Gwen*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:08:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Legend19",
+                "Player": "2d741668-7aea-11e7-9760-0224e22aef46",
+                "Hero": "*Baron*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:08:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Cronusv1",
+                "Player": "037eb8e8-c022-11e4-9706-06eb725f8a76",
+                "Hero": "*Rona*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T17:28:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "RumpleForeskinn",
+                "Player": "f6df5cda-75b9-11e4-a51b-06d90c28bf1a",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:29:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "KingOfThe20Era",
+                "Player": "7ec854b0-aed2-11e5-96e3-06b48b82cd49",
+                "Hero": "*Churnwalker*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:29:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "LaloVelaTele",
+                "Player": "a582ca1c-286c-11e7-893c-0223dbc2587a",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:29:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "ChiefBeaver",
+                "Player": "16631d52-e6fe-11e4-9aef-06eb725f8a76",
+                "Hero": "*Grumpjaw*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:29:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "RoyalSam",
+                "Player": "eece3152-2616-11e5-a943-06f4ee369f53",
+                "Hero": "*Alpha*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:29:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Skullsk",
+                "Player": "198db23e-ac3e-11e5-8465-0628b69bf6d1",
+                "Hero": "*Fortress*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

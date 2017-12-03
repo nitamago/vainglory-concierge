@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T14:24:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "99percentLuck",
+                "Player": "b01975ae-4086-11e5-98f0-06b48b82cd49",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:24:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "FuryLiNk",
+                "Player": "2d5e32ca-7467-11e5-bc1e-06f4ee369f53",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:24:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "guitheking",
+                "Player": "3a3c75e2-c467-11e5-b637-0628b69bf6d1",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:24:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "qwando",
+                "Player": "50e16666-6f3d-11e4-81c7-062d0b175276",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:24:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "3D3R",
+                "Player": "514abbfe-893a-11e4-8938-06d90c28bf1a",
+                "Hero": "*Churnwalker*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:24:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "nitch",
+                "Player": "b0f5bc88-6b6c-11e5-a3b6-0628b69bf6d1",
+                "Hero": "*Baron*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

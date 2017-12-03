@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T16:05:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "TenOnez",
+                "Player": "0a3fe1e6-c505-11e5-899d-06b48b82cd49",
+                "Hero": "*Celeste*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:06:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Kekudo",
+                "Player": "b52527fa-166e-11e6-880b-06c5ee41a4a5",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:06:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Infektious",
+                "Player": "d8935b3a-bc91-11e5-9ffd-0628b69bf6d1",
+                "Hero": "*Fortress*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:06:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "lnigoMontoya",
+                "Player": "f5652442-8f18-11e5-819a-06eb725f8a76",
+                "Hero": "*Grace*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:06:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "isakyaki",
+                "Player": "ee02b06a-332a-11e5-802c-068789513eb5",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:06:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "JLJ365",
+                "Player": "e00d320a-9964-11e5-986a-06eb725f8a76",
+                "Hero": "*Lyra*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T14:07:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "ShabooyaRollCall",
+                "Player": "d5ba2250-bee8-11e5-8053-068789513eb5",
+                "Hero": "*Joule*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:07:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Dhimani",
+                "Player": "14e9805e-705e-11e4-a8d1-06641bcbf424",
+                "Hero": "*Adagio*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:07:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Exemplify",
+                "Player": "663bb014-aec5-11e7-befb-02f3b4306918",
+                "Hero": "*Kestrel*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:07:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "sahir123",
+                "Player": "c00ee61a-66f0-11e6-9386-067e8bc536fd",
+                "Hero": "*Celeste*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:07:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "acame2",
+                "Player": "34250e34-b915-11e4-bb0c-06eb725f8a76",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:07:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "EchoxRisen",
+                "Player": "753745d6-8f1b-11e5-8353-06b48b82cd49",
+                "Hero": "*Joule*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

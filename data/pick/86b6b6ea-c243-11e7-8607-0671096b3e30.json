@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T16:08:29+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:08:41+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:08:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "TaiDang",
+                "Player": "282f319a-a9b9-11e6-9bd9-062cb73cdbb1",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:09:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "ODC0",
+                "Player": "c6cdca8c-dc0e-11e6-9bd2-06fc87f1dd11",
+                "Hero": "*Lance*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:09:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "OverdoseOrder",
+                "Player": "338198b8-85ce-11e5-a22a-06f4ee369f53",
+                "Hero": "*Alpha*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:09:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "EnderCube14",
+                "Player": "767e0262-82d4-11e4-8ebd-06d90c28bf1a",
+                "Hero": "*Krul*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:09:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Dano23",
+                "Player": "fb295fb2-9651-11e4-b47c-06eb725f8a76",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:09:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "rikster",
+                "Player": "bde56c98-a489-11e6-b124-062cb73cdbb1",
+                "Hero": "*SAW*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

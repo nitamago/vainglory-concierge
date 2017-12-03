@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T17:14:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "ANTIHIGH",
+                "Player": "39afab0e-f9c2-11e5-9fdf-06f4ee369f53",
+                "Hero": "*Krul*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:14:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "TheVirusKilla",
+                "Player": "f5a03068-68ae-11e5-ae3f-06d90c28bf1a",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:15:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "iBr8kTuRRets",
+                "Player": "449521d8-1049-11e5-a5cf-06eb725f8a76",
+                "Hero": "*Baron*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:15:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "tellmewhyy",
+                "Player": "79dad2a4-6af1-11e5-bead-06b48b82cd49",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:15:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "zanglerska",
+                "Player": "f8d085f6-3015-11e6-88ac-068789513eb5",
+                "Hero": "*Churnwalker*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:15:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "TCG",
+                "Player": "dd517388-7a38-11e4-8aaa-06d90c28bf1a",
+                "Hero": "*Lance*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

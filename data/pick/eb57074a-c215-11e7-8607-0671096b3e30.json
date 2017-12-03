@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T10:42:17+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T10:42:22+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T10:42:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Jamthrill",
+                "Player": "0092508c-7689-11e4-b111-06d90c28bf1a",
+                "Hero": "*Gwen*"
+            }
+        },
+        {
+            "time": "2017-11-05T10:42:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "pawshopghost",
+                "Player": "d4454510-ce6d-11e4-9157-06eb725f8a76",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T10:43:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "IAmJustADroid",
+                "Player": "4f6e7e0c-12ff-11e5-bde8-06eb725f8a76",
+                "Hero": "*Idris*"
+            }
+        },
+        {
+            "time": "2017-11-05T10:43:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "AngosMegas",
+                "Player": "e82b9842-b047-11e5-b8b7-06f4ee369f53",
+                "Hero": "*Krul*"
+            }
+        },
+        {
+            "time": "2017-11-05T10:43:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "MyLIttlePony54",
+                "Player": "5a43a17e-2684-11e6-9d71-06d90c28bf1a",
+                "Hero": "*Phinn*"
+            }
+        },
+        {
+            "time": "2017-11-05T10:43:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Alqajero",
+                "Player": "6346f450-9899-11e7-9e9c-06fc87f1dd11",
+                "Hero": "*Petal*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T20:50:44+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:50:51+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:50:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "TheB4ne",
+                "Player": "4e555232-31d3-11e5-a200-0628b69bf6d1",
+                "Hero": "*Reza*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:51:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Lamassu",
+                "Player": "7b6f9ec6-d6a2-11e4-b69f-06eb725f8a76",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:51:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "AGenius",
+                "Player": "95dfe5d0-7d05-11e6-b22e-06c5ee41a4a5",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:51:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "SassyLeeMan2",
+                "Player": "0d58997c-a061-11e5-9ff3-06b48b82cd49",
+                "Hero": "*Kestrel*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:51:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "BestDstractionNA",
+                "Player": "7edd8eb4-1c6f-11e7-8e23-06ab1a16f8e5",
+                "Hero": "*Churnwalker*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:52:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "VibeWithMe",
+                "Player": "8c946252-0809-11e5-98f6-06eb725f8a76",
+                "Hero": "*Alpha*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

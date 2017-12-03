@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T11:27:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "zombieterminator",
+                "Player": "2fc98078-8e30-11e4-8c2f-06d90c28bf1a",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T11:27:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "ZombiePoop69",
+                "Player": "56bebdc6-9b78-11e7-ba2b-068789513eb5",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T11:27:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Wilson602",
+                "Player": "ecb955e8-31e7-11e7-9994-0263a81144c0",
+                "Hero": "*Taka*"
+            }
+        },
+        {
+            "time": "2017-11-05T11:27:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "monkydwill",
+                "Player": "2c878d5e-fd2f-11e6-959c-062cb73cdbb1",
+                "Hero": "*Krul*"
+            }
+        },
+        {
+            "time": "2017-11-05T11:28:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "vainglorybofei",
+                "Player": "1f7e6d40-ac8d-11e7-aede-02b3611af5e6",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T11:28:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "IronBrave",
+                "Player": "5c0761ea-b1c9-11e7-96a9-06b48b82cd49",
+                "Hero": "*Kestrel*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

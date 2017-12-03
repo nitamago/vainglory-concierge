@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T15:42:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "ArimaIII",
+                "Player": "4eec6bac-3864-11e6-89c6-067e8bc536fd",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:42:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Thomycz0302",
+                "Player": "dda5f414-c1a1-11e6-82df-068789513eb5",
+                "Hero": "*Fortress*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:42:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Wikiweezy",
+                "Player": "14c8886c-9762-11e7-a98a-02f3b4306918",
+                "Hero": "*Krul*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:42:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "gxles666",
+                "Player": "e1a8a610-35e7-11e6-ae8b-06d90c28bf1a",
+                "Hero": "*Baron*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:42:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "gboss",
+                "Player": "6d851d90-2409-11e5-adbd-06d90c28bf1a",
+                "Hero": "*Kestrel*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:43:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "WholeOfGlory",
+                "Player": "116c7fbc-2111-11e5-bbf5-06eb725f8a76",
+                "Hero": "*Ardan*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

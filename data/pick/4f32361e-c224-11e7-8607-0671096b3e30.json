@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T12:24:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "GranDogfish",
+                "Player": "54a6dd56-06cf-11e5-963e-06eb725f8a76",
+                "Hero": "*Ringo*"
+            }
+        },
+        {
+            "time": "2017-11-05T12:25:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Pinyon",
+                "Player": "58899740-4432-11e7-a5b1-06388a2f2ea7",
+                "Hero": "*Alpha*"
+            }
+        },
+        {
+            "time": "2017-11-05T12:25:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "xzerox115",
+                "Player": "ab206028-befb-11e5-a084-068789513eb5",
+                "Hero": "*Ringo*"
+            }
+        },
+        {
+            "time": "2017-11-05T12:25:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Biomech",
+                "Player": "aa766296-7850-11e4-b7f5-06d90c28bf1a",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T12:25:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "BrizzDaDumbNut",
+                "Player": "9c17de08-bb7f-11e7-98b4-02f3b4306918",
+                "Hero": "*Ozo*"
+            }
+        },
+        {
+            "time": "2017-11-05T12:25:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "1Deathstroke1",
+                "Player": "3a78ec1e-8619-11e7-a74a-06d90c28bf1a",
+                "Hero": "*Ardan*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

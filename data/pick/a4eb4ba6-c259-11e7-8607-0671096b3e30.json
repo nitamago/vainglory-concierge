@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T18:47:06+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:47:16+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:47:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Johan2346",
+                "Player": "0fa74086-36ea-11e7-833c-0263a81144c0",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:47:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "VexManifest",
+                "Player": "335e12d6-ee31-11e6-a646-06eb725f8a76",
+                "Hero": "*Alpha*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:47:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "MalakaiBaen",
+                "Player": "c5b1b236-2336-11e5-8c97-06d90c28bf1a",
+                "Hero": "*Taka*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:48:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "RadiantNightmare",
+                "Player": "39340edc-9077-11e4-9ad5-06eb725f8a76",
+                "Hero": "*Krul*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:48:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Yibram",
+                "Player": "21a084e6-2de9-11e7-9651-02a5820c0f16",
+                "Hero": "*Samuel*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:48:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Porkilla",
+                "Player": "6d825cbc-8849-11e7-865b-0224e22aef46",
+                "Hero": "*Adagio*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

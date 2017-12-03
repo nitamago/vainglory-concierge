@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T12:18:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "DivineRitual",
+                "Player": "b4bc06f6-bbd3-11e7-a32b-06b48b82cd49",
+                "Hero": "*Celeste*"
+            }
+        },
+        {
+            "time": "2017-11-05T12:18:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "mumurlen",
+                "Player": "da762f9c-7348-11e4-a579-06d90c28bf1a",
+                "Hero": "*Glaive*"
+            }
+        },
+        {
+            "time": "2017-11-05T12:18:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "AttackOnMemory",
+                "Player": "53638c20-c21b-11e5-86ad-06b48b82cd49",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T12:18:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "XeroWolf",
+                "Player": "5019fb42-3d2a-11e5-99fc-068789513eb5",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T12:18:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "fibonacci",
+                "Player": "4bffadec-7190-11e4-bab8-062d0b175276",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T12:18:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "StunningSilver",
+                "Player": "885834a4-d759-11e6-94df-06ab1a16f8e5",
+                "Hero": "*Taka*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

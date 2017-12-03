@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T13:53:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "mrDG",
+                "Player": "a796da9e-ef30-11e5-ac2b-06ab1a16f8e5",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:53:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "xXNightSlayerXx",
+                "Player": "dfce3628-e345-11e6-83f4-06d90c28bf1a",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:53:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "BeBeB",
+                "Player": "0a82fa64-d82c-11e5-9ae5-06b48b82cd49",
+                "Hero": "*Ringo*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:53:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "ToxicNova",
+                "Player": "489497d6-771b-11e4-a1d6-06d90c28bf1a",
+                "Hero": "*Ringo*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:53:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "RedRelic",
+                "Player": "00236d48-29ca-11e6-b632-068789513eb5",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:53:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "HellBinder",
+                "Player": "d828bdda-675d-11e6-bac9-062cb73cdbb1",
+                "Hero": "*Koshka*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

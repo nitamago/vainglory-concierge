@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T18:40:09+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:40:11+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:40:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "toanton",
+                "Player": "808dd6de-281e-11e5-a030-06f4ee369f53",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:40:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Saesenthessis",
+                "Player": "b03e4e72-b5a9-11e5-b443-0628b69bf6d1",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:40:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "SYNGODKING",
+                "Player": "93ef582a-889f-11e4-9a9d-06d90c28bf1a",
+                "Hero": "*Ringo*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:40:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "BleezyVg",
+                "Player": "85ca137e-22bf-11e5-8254-06f4ee369f53",
+                "Hero": "*Samuel*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:41:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "stb2000",
+                "Player": "5e75500e-1580-11e6-a040-06388a2f2ea7",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:41:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "OdinSlayer",
+                "Player": "b67c979c-8942-11e4-9ba0-06d90c28bf1a",
+                "Hero": "*Grace*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

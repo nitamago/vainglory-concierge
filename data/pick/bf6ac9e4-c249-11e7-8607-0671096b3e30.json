@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T16:52:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "lillith",
+                "Player": "8cbf9094-7853-11e4-8b95-06d90c28bf1a",
+                "Hero": "*Flicker*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:53:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "deadlock7",
+                "Player": "d4bb2a8a-7789-11e5-94e9-06eb725f8a76",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:53:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "TheThompson",
+                "Player": "506c8856-6a34-11e7-9765-06a9175d25fa",
+                "Hero": "*Ringo*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:53:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Elcris1382",
+                "Player": "7419ca6c-5f1c-11e6-a1d3-0628b69bf6d1",
+                "Hero": "*Ringo*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:53:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "KingNightHunter",
+                "Player": "9910301a-0b9a-11e7-9e79-06d90c28bf1a",
+                "Hero": "*Phinn*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:53:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "ItsNotPyro",
+                "Player": "1dd8f92e-dcff-11e5-8cda-067e8bc536fd",
+                "Hero": "*Blackfeather*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

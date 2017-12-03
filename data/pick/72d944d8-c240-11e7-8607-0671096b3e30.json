@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T15:46:39+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:47:01+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Taka*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:47:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "BigWes39",
+                "Player": "c015eafe-bb42-11e6-a105-06388a2f2ea7",
+                "Hero": "*Adagio*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:47:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Biomech",
+                "Player": "aa766296-7850-11e4-b7f5-06d90c28bf1a",
+                "Hero": "*Grace*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:47:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "PootyTang954",
+                "Player": "30d02da0-3da7-11e6-909a-06d90c28bf1a",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:47:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "King35",
+                "Player": "a4db1c72-874f-11e6-ad4b-062cb73cdbb1",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:48:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "BeetlejuiceBBB",
+                "Player": "383f1b40-40a5-11e6-bf18-06fc87f1dd11",
+                "Hero": "*Ringo*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:48:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "fibonacci",
+                "Player": "4bffadec-7190-11e4-bab8-062d0b175276",
+                "Hero": "*Rona*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

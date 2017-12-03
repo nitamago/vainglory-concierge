@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T16:16:42+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:16:58+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Skaarf*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:17:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "SacrificiaL",
+                "Player": "4f342964-b660-11e5-a038-0628b69bf6d1",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:17:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Charmander21",
+                "Player": "7987b0a8-77b0-11e5-9b2d-06d90c28bf1a",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:17:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Anakyn",
+                "Player": "33157864-1ba6-11e5-b938-06d90c28bf1a",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:17:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Nameunknown69",
+                "Player": "162a6808-3862-11e5-886e-0628b69bf6d1",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:18:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "chunnk",
+                "Player": "e29963e6-758d-11e4-a41a-06d90c28bf1a",
+                "Hero": "*Reza*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:18:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "AsianBlade",
+                "Player": "608ac1e4-84ee-11e5-be9e-068789513eb5",
+                "Hero": "*Taka*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

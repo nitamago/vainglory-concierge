@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T18:29:28+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:29:57+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:30:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "ORBT",
+                "Player": "4e529e52-f892-11e6-a046-0224e22aef46",
+                "Hero": "*Skaarf*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:30:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "huangqiaolin",
+                "Player": "a058f7c2-b3aa-11e7-8319-029cb633549e",
+                "Hero": "*Krul*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:30:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "GdoZ",
+                "Player": "96d7e5f2-77ec-11e4-a232-06d90c28bf1a",
+                "Hero": "*Kestrel*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:30:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "TheoGt",
+                "Player": "03720a30-7650-11e7-a82e-02f3b4306918",
+                "Hero": "*Baron*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:31:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "DjRioh",
+                "Player": "237aeeca-f903-11e6-8f17-0223dbc2587a",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:31:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "frostedflaked",
+                "Player": "278db9d8-f599-11e6-8159-02866102f5a6",
+                "Hero": "*Baptiste*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

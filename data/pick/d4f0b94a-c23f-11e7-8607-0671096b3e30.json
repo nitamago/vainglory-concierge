@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T15:41:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Daryle",
+                "Player": "ae8b4220-6ebe-11e4-9a8c-062d0b175276",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:42:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "lucca1803",
+                "Player": "7998acc4-cec2-11e4-8db7-06d90c28bf1a",
+                "Hero": "*Baptiste*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:42:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "DEVINE",
+                "Player": "9feef9e2-74ee-11e4-9faa-06d90c28bf1a",
+                "Hero": "*Churnwalker*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:42:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "BlankScreen",
+                "Player": "379dcbb8-f88e-11e6-ad1c-02b3611af5e6",
+                "Hero": "*Skaarf*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:42:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "MaxDestroyed",
+                "Player": "b4cf506c-1197-11e7-af40-06f4ee369f53",
+                "Hero": "*Koshka*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:42:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "FIGHTME15567",
+                "Player": "c0fdc572-b141-11e7-a494-06eb725f8a76",
+                "Hero": "*Ardan*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

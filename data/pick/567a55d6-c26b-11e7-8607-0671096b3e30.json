@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T20:53:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "hunterIV",
+                "Player": "050e87a0-a2e5-11e5-bd17-06f4ee369f53",
+                "Hero": "*Gwen*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:53:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "PrimalVengence",
+                "Player": "22ba9166-7227-11e5-80a5-06eb725f8a76",
+                "Hero": "*Rona*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:53:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "craZness",
+                "Player": "c22167ee-bbdf-11e7-86c9-06c5ee41a4a5",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:53:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "sekutma",
+                "Player": "0de1b664-aea4-11e7-b7b9-06eb725f8a76",
+                "Hero": "*Koshka*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:53:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Arrow0972",
+                "Player": "7673634e-add2-11e7-9521-0263a81144c0",
+                "Hero": "*Ringo*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:54:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Drakolie",
+                "Player": "09b4a60a-6ca5-11e7-8d8a-029cb633549e",
+                "Hero": "*Phinn*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

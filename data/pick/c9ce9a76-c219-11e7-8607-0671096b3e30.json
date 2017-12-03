@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T11:09:40+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T11:09:42+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T11:10:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Skenderbeu",
+                "Player": "af8386e4-5061-11e5-826b-06f4ee369f53",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T11:10:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "KitSun0",
+                "Player": "87a50f92-03fb-11e5-be24-06eb725f8a76",
+                "Hero": "*Baptiste*"
+            }
+        },
+        {
+            "time": "2017-11-05T11:10:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "DrGooJew",
+                "Player": "848f084e-8e03-11e4-aadc-06eb725f8a76",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T11:10:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "SCOOBYTHEGR8",
+                "Player": "e877e75c-7591-11e4-b6fb-06d90c28bf1a",
+                "Hero": "*Phinn*"
+            }
+        },
+        {
+            "time": "2017-11-05T11:10:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "FRANNKstyle",
+                "Player": "421b0df0-f8c9-11e5-b04a-06fc87f1dd11",
+                "Hero": "*Kestrel*"
+            }
+        },
+        {
+            "time": "2017-11-05T11:11:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "zubapants",
+                "Player": "d328b8f6-79c2-11e4-a9c0-06d90c28bf1a",
+                "Hero": "*Ardan*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

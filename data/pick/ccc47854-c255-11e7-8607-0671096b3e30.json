@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T18:19:18+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Grace*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:19:23+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:19:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "GucciToothy",
+                "Player": "14a3d0c8-895d-11e4-8c2f-06d90c28bf1a",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:19:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Jadesian",
+                "Player": "4bfa30f2-cde1-11e5-bd50-062cb73cdbb1",
+                "Hero": "*Gwen*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:19:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "DANLEE",
+                "Player": "1bab1fba-92ef-11e5-8ca6-06b48b82cd49",
+                "Hero": "*Koshka*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:19:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Dardelius",
+                "Player": "e9c96960-3c94-11e7-a49b-067e8bc536fd",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:20:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "DanSwag",
+                "Player": "bf3a4d16-cdc0-11e5-9fc8-06ab1a16f8e5",
+                "Hero": "*Ringo*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:20:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Estebro",
+                "Player": "a180d3ae-34b8-11e5-bde7-068789513eb5",
+                "Hero": "*Ardan*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

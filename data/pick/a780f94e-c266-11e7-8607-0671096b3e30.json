@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T20:19:56+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:20:00+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:20:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "TeddyKillerZ",
+                "Player": "06a634ca-6f5e-11e4-b7eb-06641bcbf424",
+                "Hero": "*Baron*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:20:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Bonnieee",
+                "Player": "55b3a444-ec67-11e5-845c-06eb725f8a76",
+                "Hero": "*Grace*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:20:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "BlueNinjaX",
+                "Player": "2dc4c03e-1dd3-11e5-aa9f-06eb725f8a76",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:20:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "KrueL",
+                "Player": "fcdb6b12-94a7-11e4-bf9c-06d90c28bf1a",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:20:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "FreakSty1e",
+                "Player": "7e55276a-ff73-11e4-af8b-06d90c28bf1a",
+                "Hero": "*Alpha*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:21:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "UniPhobia",
+                "Player": "237d61a0-e0fd-11e6-adfe-06f4ee369f53",
+                "Hero": "*Reza*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

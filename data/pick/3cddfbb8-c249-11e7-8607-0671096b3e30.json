@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T16:49:48+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:49:51+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:50:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "VGL4NT3",
+                "Player": "f5c8af30-ae5e-11e4-8437-06d90c28bf1a",
+                "Hero": "*Kestrel*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:50:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "PvMonster",
+                "Player": "94a4a666-65d1-11e5-81dc-06b48b82cd49",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:50:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "ExcuseMyLag",
+                "Player": "212f11f2-8fc6-11e5-b8f8-0628b69bf6d1",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:50:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "NasIsTheBest",
+                "Player": "5472b556-d34b-11e4-a9c9-06d90c28bf1a",
+                "Hero": "*Churnwalker*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:51:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "aaxe",
+                "Player": "836525be-0e9c-11e6-8e83-068789513eb5",
+                "Hero": "*Samuel*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:51:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "SaltyLaw",
+                "Player": "bb7bbda8-bff7-11e5-aa55-06b48b82cd49",
+                "Hero": "*Reza*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

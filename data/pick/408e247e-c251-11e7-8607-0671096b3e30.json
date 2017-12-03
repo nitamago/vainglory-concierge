@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T17:46:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "PrinceCJ",
+                "Player": "a9441844-7d2d-11e6-95ea-06f4ee369f53",
+                "Hero": "*Baptiste*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:47:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "atusi",
+                "Player": "10ffb87c-c636-11e4-b3c4-06eb725f8a76",
+                "Hero": "*Glaive*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:47:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Lycanthrope22",
+                "Player": "e724f406-2434-11e5-9f5d-06eb725f8a76",
+                "Hero": "*Skaarf*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:47:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "truepooh",
+                "Player": "339356a8-abb4-11e7-8e0e-02866102f5a6",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:47:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Jobssss",
+                "Player": "3a0ed2fa-1499-11e5-89ad-06eb725f8a76",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:47:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Trawll",
+                "Player": "5334f138-757f-11e4-9faa-06d90c28bf1a",
+                "Hero": "*Skaarf*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

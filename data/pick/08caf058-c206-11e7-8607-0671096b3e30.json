@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T08:48:28+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T08:48:34+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T08:48:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "TXGCrimson",
+                "Player": "0eb564dc-4f42-11e5-a74a-0628b69bf6d1",
+                "Hero": "*Kestrel*"
+            }
+        },
+        {
+            "time": "2017-11-05T08:48:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "l200",
+                "Player": "d8545ca8-d718-11e6-b1d2-062cb73cdbb1",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T08:49:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "JulDeadly",
+                "Player": "d00b5a4c-8b2a-11e4-9ad5-06eb725f8a76",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T08:49:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Ooo0ooO",
+                "Player": "a6c63ed8-7741-11e4-bac5-06d90c28bf1a",
+                "Hero": "*Celeste*"
+            }
+        },
+        {
+            "time": "2017-11-05T08:49:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "TXGR3DL1NK",
+                "Player": "25a80b76-72d5-11e4-bd86-06d90c28bf1a",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T08:49:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "RetraI",
+                "Player": "40271132-4c7c-11e5-8ae6-06eb725f8a76",
+                "Hero": "*Taka*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

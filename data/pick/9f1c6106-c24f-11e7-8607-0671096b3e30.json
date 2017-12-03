@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T17:35:09+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:35:14+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:35:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "GhostiIy",
+                "Player": "6d512694-c3c6-11e6-b213-067e8bc536fd",
+                "Hero": "*Kestrel*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:35:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "MaxTheBoss72",
+                "Player": "c1853d48-769f-11e4-8aaa-06d90c28bf1a",
+                "Hero": "*Skaarf*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:35:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Zangetso",
+                "Player": "c215a3ba-7109-11e4-8776-06641bcbf424",
+                "Hero": "*Idris*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:36:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "danggerr",
+                "Player": "416ea556-c70f-11e5-a9cf-06eb725f8a76",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:36:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "heirinji",
+                "Player": "85dd1cc0-04de-11e5-a158-06eb725f8a76",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:36:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "ExodiaMGS",
+                "Player": "3cb02d54-bd88-11e5-ae07-06f4ee369f53",
+                "Hero": "*Krul*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

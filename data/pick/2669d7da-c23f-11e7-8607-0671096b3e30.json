@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T15:37:15+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Petal*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:37:21+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:37:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "TBGDre",
+                "Player": "82b7cde8-0c70-11e6-bb15-06eb725f8a76",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:37:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Elfenhime",
+                "Player": "fbed8c34-4dee-11e5-8cb0-068789513eb5",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:38:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Rich64",
+                "Player": "c0164ad6-7b91-11e5-9684-0628b69bf6d1",
+                "Hero": "*Rona*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:38:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Aush",
+                "Player": "43f4c3ee-7104-11e4-a054-06641bcbf424",
+                "Hero": "*Taka*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:38:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "AngeIZ",
+                "Player": "651534c6-6eb8-11e4-b6cc-062d0b175276",
+                "Hero": "*Celeste*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:38:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "DarkSoul37",
+                "Player": "8c4d1584-2aa2-11e6-9a0e-0628b69bf6d1",
+                "Hero": "*Fortress*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T17:26:05+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:26:11+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:26:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "RealKushGod",
+                "Player": "dc9f5a5c-c6e8-11e4-b16f-06d90c28bf1a",
+                "Hero": "*Churnwalker*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:26:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "BASTER510",
+                "Player": "f9e92bb8-2860-11e5-828e-06d90c28bf1a",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:26:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "jonscrogg",
+                "Player": "4a538a2a-0ca1-11e5-b12f-06eb725f8a76",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:26:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "DvineJustice",
+                "Player": "c6900bac-c676-11e4-af5e-06d90c28bf1a",
+                "Hero": "*Krul*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:26:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Zon008",
+                "Player": "57f5e772-6f7f-11e5-a6d9-06b48b82cd49",
+                "Hero": "*Skye*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:26:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "PyroSpear",
+                "Player": "a8630b1c-7da0-11e4-a6e6-06eb725f8a76",
+                "Hero": "*Ardan*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

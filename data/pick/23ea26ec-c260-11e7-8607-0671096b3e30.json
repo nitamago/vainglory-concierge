@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T19:33:17+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:33:20+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:33:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "VgChamp",
+                "Player": "36dd8626-e487-11e5-8972-062cb73cdbb1",
+                "Hero": "*Ringo*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:33:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Sean_M",
+                "Player": "c4cda544-733e-11e4-a29d-06d90c28bf1a",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:34:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "KurapikaKurta",
+                "Player": "a16896ac-260f-11e5-9a33-06d90c28bf1a",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:34:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "N1eL",
+                "Player": "4d963d0a-e940-11e5-bab9-068789513eb5",
+                "Hero": "*Kestrel*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:34:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "butttt",
+                "Player": "4852209c-9bd5-11e5-82c5-06eb725f8a76",
+                "Hero": "*Lance*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:34:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "DogEatDogWorld",
+                "Player": "4eda1c02-de2f-11e5-a15e-06fc87f1dd11",
+                "Hero": "*Taka*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

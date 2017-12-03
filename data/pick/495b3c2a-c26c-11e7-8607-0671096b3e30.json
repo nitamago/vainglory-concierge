@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T21:00:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "ChronicMassacre",
+                "Player": "061c6dae-75b6-11e4-af77-06d90c28bf1a",
+                "Hero": "*Taka*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:00:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "gamerfreak35",
+                "Player": "449bb322-c4a8-11e5-b4b1-06eb725f8a76",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:00:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Donv",
+                "Player": "eeaf110c-d27b-11e5-a97f-06f4ee369f53",
+                "Hero": "*Rona*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:00:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "HotshotK10",
+                "Player": "a1986306-7063-11e6-ac98-067e8bc536fd",
+                "Hero": "*Lance*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:00:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Infektious",
+                "Player": "d8935b3a-bc91-11e5-9ffd-0628b69bf6d1",
+                "Hero": "*Celeste*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:01:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "FelipeBravo",
+                "Player": "bdb9de92-6bab-11e5-95b3-06d90c28bf1a",
+                "Hero": "*Adagio*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

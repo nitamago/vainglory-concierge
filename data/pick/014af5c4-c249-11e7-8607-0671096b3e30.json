@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T16:47:44+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:47:50+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:48:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Juguegos",
+                "Player": "93cc4626-262e-11e7-b354-06eb725f8a76",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:48:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "nakklang9",
+                "Player": "8ae6922c-4094-11e5-91aa-06b48b82cd49",
+                "Hero": "*Alpha*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:48:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "corn864",
+                "Player": "80487eae-b4a6-11e4-9b97-06eb725f8a76",
+                "Hero": "*Ringo*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:48:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "yurwife",
+                "Player": "909bb220-4811-11e7-88c0-06a9175d25fa",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:49:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Poncho",
+                "Player": "193377c2-7055-11e4-9da1-062d0b175276",
+                "Hero": "*Joule*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:49:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "TrashBruh",
+                "Player": "de615a9a-78ee-11e4-a9c0-06d90c28bf1a",
+                "Hero": "*Fortress*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

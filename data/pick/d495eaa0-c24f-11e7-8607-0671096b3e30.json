@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T17:36:35+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Kestrel*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:36:48+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:37:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "SoloQueueFrost",
+                "Player": "1fb70544-3884-11e5-80ff-06b48b82cd49",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:37:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Domiinus",
+                "Player": "cea643e4-3f6e-11e5-8c1b-0628b69bf6d1",
+                "Hero": "*Grace*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:37:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "LoIa",
+                "Player": "01da8c24-be38-11e4-a2a8-06eb725f8a76",
+                "Hero": "*Rona*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:38:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Nick40",
+                "Player": "11a12312-b73d-11e5-bc60-06eb725f8a76",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:38:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "SickSickSick",
+                "Player": "c2eb417a-05f2-11e7-9667-068789513eb5",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:38:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "SafariSalamander",
+                "Player": "fb028c84-245c-11e7-921d-02a5820c0f16",
+                "Hero": "*Baptiste*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

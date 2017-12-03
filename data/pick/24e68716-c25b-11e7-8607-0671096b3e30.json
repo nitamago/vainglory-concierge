@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T18:57:58+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:58:03+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:58:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "DoubleAccel",
+                "Player": "e168a0a2-0571-11e6-ade7-06ab1a16f8e5",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:58:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "SIum",
+                "Player": "e8666078-4e97-11e6-acc4-068789513eb5",
+                "Hero": "*Rona*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:58:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "GoofyASF",
+                "Player": "4f5b59e0-cd39-11e5-8d06-06eb725f8a76",
+                "Hero": "*Lance*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:58:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "SuperPride",
+                "Player": "9bcacbea-e958-11e5-ae8d-0628b69bf6d1",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:58:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "HaKoBu",
+                "Player": "3567def2-e407-11e5-babb-06c5ee41a4a5",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:58:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "TheB4ne",
+                "Player": "4e555232-31d3-11e5-a200-0628b69bf6d1",
+                "Hero": "*Koshka*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

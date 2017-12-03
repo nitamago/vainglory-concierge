@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T17:41:36+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:41:44+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:42:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "DonaldDarko",
+                "Player": "141a87c6-0b63-11e6-a062-062cb73cdbb1",
+                "Hero": "*Adagio*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:42:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "rlj",
+                "Player": "906cce74-8fda-11e5-9a4f-06d90c28bf1a",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:42:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "HugoMx",
+                "Player": "79b2a9ea-8ffe-11e6-b0e7-06388a2f2ea7",
+                "Hero": "*Baptiste*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:42:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "KlertiCraftFTW",
+                "Player": "60382706-a5df-11e5-9cd3-06eb725f8a76",
+                "Hero": "*Skaarf*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:42:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "DarKnight14",
+                "Player": "e23a35aa-bf16-11e5-a5d8-06eb725f8a76",
+                "Hero": "*Rona*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:43:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "SirSleepy33",
+                "Player": "65c78a46-4bba-11e6-b35a-06f4ee369f53",
+                "Hero": "*Krul*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

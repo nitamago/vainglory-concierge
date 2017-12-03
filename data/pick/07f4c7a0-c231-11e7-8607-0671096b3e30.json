@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T13:56:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "tsunamiman",
+                "Player": "3f758d00-6fa2-11e6-b232-068789513eb5",
+                "Hero": "*Celeste*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:56:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "PopAmolly",
+                "Player": "66db51d2-b233-11e4-bc60-06d90c28bf1a",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:56:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "pekkaslayeee",
+                "Player": "d2a09b90-bd14-11e7-ad5d-02081e0fc90e",
+                "Hero": "*Celeste*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:56:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Nekrotl",
+                "Player": "be7b5c6e-bbb2-11e5-85bb-06f4ee369f53",
+                "Hero": "*Alpha*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:56:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "wolf9292",
+                "Player": "9632e8b0-1275-11e7-8be1-02081e0fc90e",
+                "Hero": "*Baptiste*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:56:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "YanniMassi",
+                "Player": "cda8c70e-ad36-11e7-8294-06b48b82cd49",
+                "Hero": "*Taka*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

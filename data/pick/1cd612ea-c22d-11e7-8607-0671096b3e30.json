@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T13:28:09+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:28:31+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:28:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "DikShongg",
+                "Player": "333d23b0-9594-11e5-9315-068789513eb5",
+                "Hero": "*Krul*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:29:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "FuriousD",
+                "Player": "b6d9f17c-6abe-11e5-b118-06d90c28bf1a",
+                "Hero": "*Petal*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:29:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "SergeOfArni",
+                "Player": "42865604-33e0-11e5-b4ec-06b48b82cd49",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:29:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "QtPiggy",
+                "Player": "1816462c-997e-11e6-91cc-06f4ee369f53",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:29:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "JCookWhatUp",
+                "Player": "e5d326de-0e0a-11e6-a10d-06d90c28bf1a",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:29:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "NonToxicSaw",
+                "Player": "d358ab50-bdd6-11e7-bd8a-06ab1a16f8e5",
+                "Hero": "*Kestrel*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

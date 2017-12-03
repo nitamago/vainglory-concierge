@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T19:29:39+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:29:49+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:29:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Xelciar",
+                "Player": "e8167a82-6fa9-11e4-84d1-06641bcbf424",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:30:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "EmX412",
+                "Player": "08ac3a34-ac21-11e5-8fb9-06d90c28bf1a",
+                "Hero": "*Rona*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:30:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "educatedboss",
+                "Player": "f805ee56-6edb-11e4-ad1e-062d0b175276",
+                "Hero": "*Fortress*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:30:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "LanePetal",
+                "Player": "1c3afb3e-917f-11e4-b47c-06eb725f8a76",
+                "Hero": "*Koshka*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:31:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "DNZio",
+                "Player": "848214ae-9209-11e4-b0a5-06d90c28bf1a",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:31:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "jadecricket",
+                "Player": "339731c4-bf30-11e4-917c-06d90c28bf1a",
+                "Hero": "*Catherine*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

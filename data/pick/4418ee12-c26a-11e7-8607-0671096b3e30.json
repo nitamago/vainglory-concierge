@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T20:45:59+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:46:04+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:46:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "HeartbreakOne",
+                "Player": "b4c3dab8-ab49-11e4-8e2b-06eb725f8a76",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:46:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "AshDaGod",
+                "Player": "55715354-66a2-11e6-bbfd-068789513eb5",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:46:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "greenhstic",
+                "Player": "32599d2e-b4ad-11e5-99a1-06b48b82cd49",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:46:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Solidblaze",
+                "Player": "70340d92-8956-11e4-b5d5-06eb725f8a76",
+                "Hero": "*Ringo*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:47:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "MiracleSA",
+                "Player": "29e894ee-8e3c-11e4-947f-06eb725f8a76",
+                "Hero": "*Alpha*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:47:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "xDwest",
+                "Player": "6b9d76e2-8e7d-11e5-b072-0628b69bf6d1",
+                "Hero": "*Fortress*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

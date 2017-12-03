@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T13:40:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Sylver21",
+                "Player": "ff8b40ba-7b71-11e5-aa55-06eb725f8a76",
+                "Hero": "*Idris*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:40:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "inarwhal",
+                "Player": "6e06d7f6-b13b-11e7-ac3d-02081e0fc90e",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:40:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "FidoNet",
+                "Player": "e18a8e9e-21d6-11e5-a385-06d90c28bf1a",
+                "Hero": "*Reza*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:40:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Lirizarry ",
+                "Player": "8a836e78-310f-11e7-957d-020355b21670",
+                "Hero": "*Churnwalker*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:40:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "MahalaW",
+                "Player": "0b44f1c0-5d30-11e7-a835-0263a81144c0",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:40:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "MajesticXXX",
+                "Player": "4a7f1f24-1ee3-11e5-b645-06d90c28bf1a",
+                "Hero": "*Samuel*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

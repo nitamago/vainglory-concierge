@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T10:11:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Matimio",
+                "Player": "4506d6d8-8726-11e7-ba49-020ecf4900d0",
+                "Hero": "*Koshka*"
+            }
+        },
+        {
+            "time": "2017-11-05T10:11:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "DIABRUSE",
+                "Player": "755e9f38-c064-11e7-8271-068789513eb5",
+                "Hero": "*Petal*"
+            }
+        },
+        {
+            "time": "2017-11-05T10:11:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Km22",
+                "Player": "667f2d7c-4cd3-11e5-b5dd-0628b69bf6d1",
+                "Hero": "*Idris*"
+            }
+        },
+        {
+            "time": "2017-11-05T10:11:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Dexlord",
+                "Player": "2cf8719a-25a9-11e5-a611-06b48b82cd49",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T10:11:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "SymptomPlays",
+                "Player": "1553bc1e-2d06-11e7-8832-06d90c28bf1a",
+                "Hero": "*Baron*"
+            }
+        },
+        {
+            "time": "2017-11-05T10:12:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "JarvanJanna",
+                "Player": "c081b99e-511e-11e5-a7b9-068789513eb5",
+                "Hero": "*Adagio*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

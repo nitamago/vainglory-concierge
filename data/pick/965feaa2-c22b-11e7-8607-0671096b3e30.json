@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T13:17:05+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:17:09+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:17:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Freedom66",
+                "Player": "45858694-5970-11e5-a5bd-06f4ee369f53",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:17:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "iLoveTstreets",
+                "Player": "afa7f61c-64c0-11e7-8720-02b3611af5e6",
+                "Hero": "*Celeste*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:17:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "iLoveWillowsky",
+                "Player": "a19fb87a-d041-11e6-8b7d-06c5ee41a4a5",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:17:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "MagicSquid",
+                "Player": "a151ddee-2237-11e5-9042-06d90c28bf1a",
+                "Hero": "*Samuel*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:18:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "BatBolD",
+                "Player": "3df64774-2d5b-11e5-87fc-06f4ee369f53",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:18:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "rodrisees",
+                "Player": "954be6ae-20eb-11e5-acfe-06f4ee369f53",
+                "Hero": "*Krul*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

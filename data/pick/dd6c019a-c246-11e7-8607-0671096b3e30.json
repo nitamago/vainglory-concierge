@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T16:32:37+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:32:40+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:33:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "HBSlayer",
+                "Player": "f7d2db66-6a33-11e5-a85f-068789513eb5",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:33:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Skieblu",
+                "Player": "430a5cea-6014-11e6-8cee-067e8bc536fd",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:33:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "nvghostkiller49",
+                "Player": "5483bc30-8fe7-11e5-9910-06eb725f8a76",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:33:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Ke3ubi",
+                "Player": "b1bce644-e1bf-11e6-ac8f-06ab1a16f8e5",
+                "Hero": "*Celeste*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:34:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Mosquitocoil",
+                "Player": "ad210004-500d-11e7-852d-068789513eb5",
+                "Hero": "*Joule*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:34:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "WillOfWolves",
+                "Player": "8d9a5058-c163-11e5-a131-0628b69bf6d1",
+                "Hero": "*Taka*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

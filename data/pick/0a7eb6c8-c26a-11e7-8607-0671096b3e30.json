@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T20:44:19+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:44:24+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:44:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Hurion",
+                "Player": "f57f7456-21bc-11e5-9d73-0628b69bf6d1",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:44:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "iLLbeeasyonyou",
+                "Player": "d96ea0a6-0b33-11e5-95f7-06eb725f8a76",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:44:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Eddie12314",
+                "Player": "45283a9a-79da-11e5-b9da-068789513eb5",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:45:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "MarineForceRecon",
+                "Player": "bbe2029a-f737-11e4-b80d-06eb725f8a76",
+                "Hero": "*Adagio*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:45:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "IcantSEA",
+                "Player": "35f188a6-f0fa-11e4-bccd-06eb725f8a76",
+                "Hero": "*Skaarf*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:45:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "ProSergent",
+                "Player": "a0d4feee-12e4-11e5-96e2-06eb725f8a76",
+                "Hero": "*Celeste*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

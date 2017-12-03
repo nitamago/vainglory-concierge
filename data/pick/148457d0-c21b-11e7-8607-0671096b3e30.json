@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T11:18:57+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T11:19:00+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T11:19:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Kengie",
+                "Player": "bae20558-f6c8-11e4-92fe-06d90c28bf1a",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T11:19:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "MidnightLuli",
+                "Player": "70db96b8-380d-11e6-85e9-062cb73cdbb1",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T11:19:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "miyagi22",
+                "Player": "39682bd2-4c0a-11e5-aeb5-06d90c28bf1a",
+                "Hero": "*Petal*"
+            }
+        },
+        {
+            "time": "2017-11-05T11:19:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Angeloon",
+                "Player": "d270509a-6b69-11e7-a828-06c5ee41a4a5",
+                "Hero": "*Skaarf*"
+            }
+        },
+        {
+            "time": "2017-11-05T11:19:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "cabilla",
+                "Player": "16f8cb9e-303c-11e6-a9d3-06f4ee369f53",
+                "Hero": "*Krul*"
+            }
+        },
+        {
+            "time": "2017-11-05T11:20:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Gloria911",
+                "Player": "356ba338-01f0-11e5-a485-06d90c28bf1a",
+                "Hero": "*Adagio*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

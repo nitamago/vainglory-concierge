@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T18:20:34+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Petal*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:20:42+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Flicker*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:20:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Teuchi",
+                "Player": "1af259ca-372e-11e5-a728-0628b69bf6d1",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:20:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "maherz",
+                "Player": "91624b5c-6f2d-11e4-a8d1-06641bcbf424",
+                "Hero": "*Kestrel*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:21:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "MikeyGlorious",
+                "Player": "d6868514-c151-11e5-af26-06d90c28bf1a",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:21:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "BossNiggyInPain",
+                "Player": "3eed361c-5017-11e6-9cac-06ab1a16f8e5",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:21:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "PeakV",
+                "Player": "d0327b04-90bf-11e5-9edc-06eb725f8a76",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:21:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "IloveNevaeh",
+                "Player": "2d227866-7ace-11e6-ae98-0628b69bf6d1",
+                "Hero": "*Taka*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

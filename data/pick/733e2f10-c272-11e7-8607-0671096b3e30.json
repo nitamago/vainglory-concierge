@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T21:44:25+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:44:31+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:44:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Ahlam2001",
+                "Player": "ca20c3fc-c219-11e5-888e-06b48b82cd49",
+                "Hero": "*Glaive*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:44:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "SuMaDik",
+                "Player": "f0080008-bd7e-11e4-8d9a-06eb725f8a76",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:44:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "lawless47",
+                "Player": "86923378-105d-11e5-80ff-06d90c28bf1a",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:44:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "ktrooper",
+                "Player": "2eddf890-2036-11e5-9f6b-0628b69bf6d1",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:45:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Zacsteps",
+                "Player": "0385d92c-3739-11e6-8768-06c5ee41a4a5",
+                "Hero": "*Petal*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:45:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "OneWetLegend",
+                "Player": "556bc5a0-ef75-11e5-aa10-06b48b82cd49",
+                "Hero": "*Vox*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

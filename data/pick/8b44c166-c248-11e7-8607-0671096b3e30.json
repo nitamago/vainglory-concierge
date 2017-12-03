@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T16:44:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Oriox",
+                "Player": "83e9d2c4-cc6a-11e5-905b-06fc87f1dd11",
+                "Hero": "*Skye*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:44:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "lNFlNlTl",
+                "Player": "e80a2a9a-adf2-11e7-a785-067e8bc536fd",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:44:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "TombSt0ne",
+                "Player": "49976e6e-5538-11e5-b0b7-06eb725f8a76",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:44:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "SkillerBeast",
+                "Player": "b176a872-b907-11e6-8b44-06ab1a16f8e5",
+                "Hero": "*Reza*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:45:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Maj0rJJ",
+                "Player": "54a644fa-7ae0-11e6-8e99-06f4ee369f53",
+                "Hero": "*Glaive*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:45:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "johndiez",
+                "Player": "ee3c2cca-a8fd-11e5-8194-068789513eb5",
+                "Hero": "*Reim*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

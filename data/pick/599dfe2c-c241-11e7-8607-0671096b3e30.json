@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T15:53:02+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:53:30+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:53:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "RetiredSoldier",
+                "Player": "eedd79e6-ed31-11e4-b6fa-06eb725f8a76",
+                "Hero": "*Celeste*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:53:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "RealLegit",
+                "Player": "feda7952-4b96-11e5-ba19-06eb725f8a76",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:54:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Nameunknown69",
+                "Player": "162a6808-3862-11e5-886e-0628b69bf6d1",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:54:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "TurboTyco",
+                "Player": "800baf7a-c769-11e5-9413-0628b69bf6d1",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:54:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "TZxFOoLiSh",
+                "Player": "dc95aede-805b-11e6-b729-06388a2f2ea7",
+                "Hero": "*Krul*"
+            }
+        },
+        {
+            "time": "2017-11-05T15:55:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "chunnk",
+                "Player": "e29963e6-758d-11e4-a41a-06d90c28bf1a",
+                "Hero": "*Baptiste*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

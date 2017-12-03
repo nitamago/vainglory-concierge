@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T16:41:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Guest_997911457",
+                "Player": "fc9263e2-fed5-11e5-ba91-0628b69bf6d1",
+                "Hero": "*Gwen*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:41:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Kalinna",
+                "Player": "b09d89c8-b406-11e4-a6bb-06d90c28bf1a",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:41:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "madara01",
+                "Player": "e427744e-75de-11e5-b62d-06f4ee369f53",
+                "Hero": "*Kestrel*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:41:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "linnd2009",
+                "Player": "fcdb0fa8-6f74-11e4-afbd-06641bcbf424",
+                "Hero": "*Ozo*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:42:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Wardanghel",
+                "Player": "af0eab9a-5a96-11e6-80f7-062cb73cdbb1",
+                "Hero": "*Koshka*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:42:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Flooby",
+                "Player": "9179d354-9cb1-11e6-a670-06b48b82cd49",
+                "Hero": "*Krul*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

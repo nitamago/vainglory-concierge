@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T17:54:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "sandoan",
+                "Player": "d8eb5472-7f0a-11e4-a996-06eb725f8a76",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:55:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Powerranger121",
+                "Player": "58059c7a-7f70-11e5-9af5-06d90c28bf1a",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:55:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "MisterRyan",
+                "Player": "eff9addc-82da-11e6-9311-06388a2f2ea7",
+                "Hero": "*Adagio*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:55:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Puiwi",
+                "Player": "49d4936a-2c43-11e6-89be-06b48b82cd49",
+                "Hero": "*Taka*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:55:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "HateImGreat",
+                "Player": "8e1bae2e-e7fb-11e4-a006-06eb725f8a76",
+                "Hero": "*Baptiste*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:55:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "GettThisSkeet",
+                "Player": "73aaa2b0-3c57-11e5-9780-06b48b82cd49",
+                "Hero": "*Ardan*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

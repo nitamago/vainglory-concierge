@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T16:53:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "VTMineClone",
+                "Player": "0d85f95e-08de-11e6-b841-06b48b82cd49",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:54:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "KingInTheNorth",
+                "Player": "60eaa4c2-1001-11e5-b6ee-06d90c28bf1a",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:54:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "xKANGx",
+                "Player": "e230f84c-afca-11e5-b2f2-0628b69bf6d1",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:54:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "dhoko85",
+                "Player": "c88a4510-d5bc-11e6-a865-06b48b82cd49",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:54:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Dudrop",
+                "Player": "d19be8d6-eca9-11e5-add4-06d90c28bf1a",
+                "Hero": "*Idris*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:54:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "StormGlory",
+                "Player": "be08b0da-ba4e-11e4-b380-06d90c28bf1a",
+                "Hero": "*Catherine*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

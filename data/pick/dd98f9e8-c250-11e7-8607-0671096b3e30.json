@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T17:43:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "timtongtim2",
+                "Player": "d2120e58-6ca6-11e6-bccf-06388a2f2ea7",
+                "Hero": "*Glaive*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:44:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Pseudoism",
+                "Player": "bf4b0b54-62a0-11e6-b4cd-06b48b82cd49",
+                "Hero": "*Idris*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:44:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Alamuerthe",
+                "Player": "988333b0-9394-11e5-825b-06d90c28bf1a",
+                "Hero": "*Ozo*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:44:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "AttanoThe1",
+                "Player": "bfaa8fd8-a268-11e4-bf9c-06d90c28bf1a",
+                "Hero": "*Lance*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:44:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Nemertines",
+                "Player": "9210ce6a-37f4-11e7-a326-068789513eb5",
+                "Hero": "*Churnwalker*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:44:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "CharlesSinclair",
+                "Player": "e399c20e-b2d9-11e7-b757-067e8bc536fd",
+                "Hero": "*SAW*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T17:38:27+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:38:30+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:38:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "ZunK",
+                "Player": "0f4d474e-375d-11e6-80f7-06eb725f8a76",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:39:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Baluga",
+                "Player": "6c7071b0-7b0e-11e4-9851-06eb725f8a76",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:39:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "DrXL7",
+                "Player": "b01cea3a-6c4c-11e5-9de5-06b48b82cd49",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:39:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "jason21",
+                "Player": "294816ec-2516-11e5-adbd-06d90c28bf1a",
+                "Hero": "*Gwen*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:39:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "XxSilenzerxX",
+                "Player": "1a9017be-84c3-11e5-bb55-068789513eb5",
+                "Hero": "*Reza*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:40:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "MiniWalterFTW",
+                "Player": "50732b28-49fd-11e6-aa0e-06eb725f8a76",
+                "Hero": "*Alpha*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

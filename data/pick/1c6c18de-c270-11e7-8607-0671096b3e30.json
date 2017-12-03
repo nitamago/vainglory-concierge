@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T21:27:54+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:27:59+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:28:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "OblivionRiot",
+                "Player": "95a3b7f2-252e-11e5-a02b-06b48b82cd49",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:28:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "TwasADream",
+                "Player": "16cf571a-c5ed-11e4-bd1f-06d90c28bf1a",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:28:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "bybrian",
+                "Player": "8ee511c2-92ca-11e5-aa15-06eb725f8a76",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:28:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "galaxywolf",
+                "Player": "a6218c26-6f9e-11e4-a9c4-06641bcbf424",
+                "Hero": "*Celeste*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:29:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "PrimeSorcerer",
+                "Player": "182635ae-1311-11e5-8e77-06d90c28bf1a",
+                "Hero": "*Krul*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:29:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "KewlKiwi",
+                "Player": "fb5fa522-177a-11e5-b761-06eb725f8a76",
+                "Hero": "*Skye*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

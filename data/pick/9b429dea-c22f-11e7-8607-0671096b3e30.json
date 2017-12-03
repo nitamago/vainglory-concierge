@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T13:45:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "apocalypse7",
+                "Player": "60556b48-7374-11e4-a941-06d90c28bf1a",
+                "Hero": "*Samuel*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:45:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "WerdzDaWizard",
+                "Player": "3b2a486c-8e08-11e4-8cbd-06d90c28bf1a",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:45:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Lightehammer",
+                "Player": "ff37786a-a84b-11e6-979e-06c5ee41a4a5",
+                "Hero": "*Petal*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:46:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Teirisius",
+                "Player": "f1f36eae-7173-11e4-b1ff-06641bcbf424",
+                "Hero": "*Idris*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:46:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Darknight355",
+                "Player": "df39fe74-6c34-11e5-bb8c-068789513eb5",
+                "Hero": "*Idris*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:46:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "xKingMikex23",
+                "Player": "bb5c76e6-ec48-11e5-a243-067e8bc536fd",
+                "Hero": "*Catherine*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

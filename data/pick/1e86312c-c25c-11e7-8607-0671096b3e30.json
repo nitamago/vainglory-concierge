@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T19:04:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "meiemma7",
+                "Player": "134526cc-ca2f-11e6-a517-06eb725f8a76",
+                "Hero": "*Celeste*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:04:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "KeyDash",
+                "Player": "11562ce0-64f7-11e7-833c-020355b21670",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:04:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "spartandriv3r",
+                "Player": "33c38e3c-bb63-11e6-9735-06ab1a16f8e5",
+                "Hero": "*Rona*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:04:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "ProjectFishBowl",
+                "Player": "d1965fc4-ac60-11e7-9fd0-068789513eb5",
+                "Hero": "*Krul*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:04:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "krakentrake",
+                "Player": "9a3274ee-a94c-11e7-91e2-02081e0fc90e",
+                "Hero": "*Skaarf*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:04:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "MegaMudkip5044",
+                "Player": "478f22a0-ccac-11e6-a013-06b48b82cd49",
+                "Hero": "*Catherine*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

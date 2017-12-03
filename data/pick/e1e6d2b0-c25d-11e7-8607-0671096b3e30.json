@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T19:17:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "sandwichs4life",
+                "Player": "5a21c736-3d76-11e5-a0ab-06b48b82cd49",
+                "Hero": "*Kestrel*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:17:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "DarthEdubal",
+                "Player": "429d93aa-cc5f-11e6-9a01-06f4ee369f53",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:17:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "P1gBenis",
+                "Player": "232b18dc-3837-11e7-830a-067e8bc536fd",
+                "Hero": "*Alpha*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:17:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "kingVain",
+                "Player": "2e5bcdb0-f5b7-11e4-b8a2-06d90c28bf1a",
+                "Hero": "*Skaarf*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:17:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Garryolo",
+                "Player": "00ee2040-d7dd-11e5-a5e0-06eb725f8a76",
+                "Hero": "*Fortress*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:17:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Craigoir",
+                "Player": "c38885e8-21dd-11e5-a63e-0628b69bf6d1",
+                "Hero": "*Krul*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

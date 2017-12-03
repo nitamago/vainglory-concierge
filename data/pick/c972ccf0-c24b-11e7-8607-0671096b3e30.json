@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T17:07:49+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:08:05+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Krul*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:08:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "SafariSalamander",
+                "Player": "fb028c84-245c-11e7-921d-02a5820c0f16",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:08:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Vantino17",
+                "Player": "7e408418-1099-11e5-8e77-06d90c28bf1a",
+                "Hero": "*Alpha*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:08:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Fatal",
+                "Player": "177792a8-c7c8-11e5-bb7b-068789513eb5",
+                "Hero": "*Rona*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:09:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "LoIa",
+                "Player": "01da8c24-be38-11e4-a2a8-06eb725f8a76",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:09:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Domiinus",
+                "Player": "cea643e4-3f6e-11e5-8c1b-0628b69bf6d1",
+                "Hero": "*Fortress*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:09:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "notcesar",
+                "Player": "cbe9f116-7686-11e4-b04e-06d90c28bf1a",
+                "Hero": "*Ardan*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

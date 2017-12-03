@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T20:16:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "atlasnow22",
+                "Player": "f5c842d8-8939-11e4-8211-06eb725f8a76",
+                "Hero": "*Celeste*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:16:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "bluDMighty",
+                "Player": "739eaefc-2e63-11e6-a921-06ab1a16f8e5",
+                "Hero": "*Baron*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:16:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "SaltedToast",
+                "Player": "521a1036-667b-11e7-8d60-06f4ee369f53",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:16:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Darktemptation",
+                "Player": "7643178c-a34d-11e7-8324-06c5ee41a4a5",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:17:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "CrOnOs699",
+                "Player": "2b938802-66a3-11e7-92bd-02a5820c0f16",
+                "Hero": "*Koshka*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:17:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "biolife",
+                "Player": "01b20b80-59c0-11e6-a064-06fc87f1dd11",
+                "Hero": "*Glaive*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

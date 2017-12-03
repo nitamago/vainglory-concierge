@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T08:42:52+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T08:42:54+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T08:43:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Unrank3d",
+                "Player": "b0c2ce38-b690-11e7-878f-020ecf4900d0",
+                "Hero": "*Celeste*"
+            }
+        },
+        {
+            "time": "2017-11-05T08:43:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "MarcoGP",
+                "Player": "9afdf6ce-1316-11e5-b114-06d90c28bf1a",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T08:43:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "FancyAcorn",
+                "Player": "160b0a48-9754-11e5-8193-068789513eb5",
+                "Hero": "*Joule*"
+            }
+        },
+        {
+            "time": "2017-11-05T08:43:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "xxWickedxx",
+                "Player": "23b4517c-4172-11e6-bea5-067e8bc536fd",
+                "Hero": "*Lance*"
+            }
+        },
+        {
+            "time": "2017-11-05T08:43:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Emerson29",
+                "Player": "86232d7c-bd07-11e6-be6c-06b48b82cd49",
+                "Hero": "*Krul*"
+            }
+        },
+        {
+            "time": "2017-11-05T08:44:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Marco14CoC",
+                "Player": "c8879924-eecb-11e5-9cf2-06fc87f1dd11",
+                "Hero": "*Kestrel*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T19:24:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "nanzhong",
+                "Player": "1d45bb00-697d-11e5-8f93-068789513eb5",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:24:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "MorphNeoTrin",
+                "Player": "708c1d4a-84b0-11e7-ad59-02a5820c0f16",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:24:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Zezar",
+                "Player": "3d574448-c14f-11e5-8e7e-0628b69bf6d1",
+                "Hero": "*Koshka*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:24:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Drakillen",
+                "Player": "c7c08ae8-7206-11e4-9a91-06d90c28bf1a",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:24:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "SpiritSwag",
+                "Player": "2104602e-7eae-11e6-a85e-06b48b82cd49",
+                "Hero": "*Alpha*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:24:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Jacksito",
+                "Player": "b4a0667e-ddce-11e5-a5cc-06f4ee369f53",
+                "Hero": "*Churnwalker*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

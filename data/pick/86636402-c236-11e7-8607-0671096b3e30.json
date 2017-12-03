@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T14:35:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Mason232",
+                "Player": "3fc17c0a-b476-11e7-974d-06ab1a16f8e5",
+                "Hero": "*Krul*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:35:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "paitofo",
+                "Player": "64e88e8c-cbb1-11e6-b4b2-06b48b82cd49",
+                "Hero": "*Flicker*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:35:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Tribiris76",
+                "Player": "287b4864-a92d-11e6-bc71-068789513eb5",
+                "Hero": "*Skye*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:35:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Staley",
+                "Player": "5eb3c330-a275-11e5-9fbb-06d90c28bf1a",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:35:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "MinoTauro",
+                "Player": "4b5d97e0-7c84-11e6-88cb-06eb725f8a76",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:36:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Tattooed",
+                "Player": "1909b7ee-70ea-11e4-a7c9-06641bcbf424",
+                "Hero": "*Koshka*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

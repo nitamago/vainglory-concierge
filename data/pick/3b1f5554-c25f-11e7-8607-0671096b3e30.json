@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T19:26:57+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:27:02+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:27:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "keyserSoze",
+                "Player": "e2fee502-7f57-11e5-9232-06b48b82cd49",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:27:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "thykingdom",
+                "Player": "1e2b05b0-9561-11e5-8d73-068789513eb5",
+                "Hero": "*Adagio*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:27:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "JinSnow",
+                "Player": "99797e12-efc0-11e6-b2dc-062cb73cdbb1",
+                "Hero": "*Gwen*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:27:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "xApathy",
+                "Player": "a85aef96-9c7b-11e4-8243-06eb725f8a76",
+                "Hero": "*Kestrel*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:28:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "TribalZ3ro",
+                "Player": "b04d03e0-bd2e-11e5-bf82-0628b69bf6d1",
+                "Hero": "*Alpha*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:28:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "DaniBanani",
+                "Player": "60e5643e-3325-11e5-bf7c-06eb725f8a76",
+                "Hero": "*Baptiste*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

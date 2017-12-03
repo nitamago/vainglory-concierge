@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T17:50:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "knightlypeacock",
+                "Player": "e602afd0-204e-11e5-87d8-0628b69bf6d1",
+                "Hero": "*Taka*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:50:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "KingOfThe20Era",
+                "Player": "7ec854b0-aed2-11e5-96e3-06b48b82cd49",
+                "Hero": "*Baron*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:50:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Xxsourzombiexx",
+                "Player": "0313d214-8f97-11e4-947f-06eb725f8a76",
+                "Hero": "*Skaarf*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:50:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "WILLO",
+                "Player": "ca81ea9c-95ec-11e4-b997-06d90c28bf1a",
+                "Hero": "*Fortress*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:50:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "cookie2005",
+                "Player": "9f0d67cc-ba24-11e4-9d6b-06d90c28bf1a",
+                "Hero": "*Grumpjaw*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:50:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "SynergicX",
+                "Player": "b7bd4c12-c6d7-11e6-98c7-06fc87f1dd11",
+                "Hero": "*Lance*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

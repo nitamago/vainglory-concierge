@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T16:59:07+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:59:20+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:59:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "QueenCunty",
+                "Player": "a19c0a64-f4fa-11e4-9dab-06eb725f8a76",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:59:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "bezzle",
+                "Player": "b498642c-b577-11e4-b28b-06eb725f8a76",
+                "Hero": "*Rona*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:59:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "DSTAR",
+                "Player": "6613ad72-a74b-11e5-9d1c-06b48b82cd49",
+                "Hero": "*Churnwalker*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:59:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Pumaj",
+                "Player": "70e189c0-d011-11e4-8a5a-06d90c28bf1a",
+                "Hero": "*Celeste*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:00:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "DunderBolt",
+                "Player": "350ef370-c6d7-11e5-9813-06eb725f8a76",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:00:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "nvghostkiller49",
+                "Player": "5483bc30-8fe7-11e5-9910-06eb725f8a76",
+                "Hero": "*Taka*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T20:28:43+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:28:47+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:28:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "IrvingCancela",
+                "Player": "3bc443ee-1540-11e5-a6bc-06eb725f8a76",
+                "Hero": "*Koshka*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:28:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "DapJ",
+                "Player": "4489216e-bee8-11e5-87d6-06f4ee369f53",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:29:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "TheUnsullied1",
+                "Player": "a0c550ac-4237-11e5-9ae4-068789513eb5",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:29:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "jkill123",
+                "Player": "c3317f68-14cc-11e6-b947-06f4ee369f53",
+                "Hero": "*Baron*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:29:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Splashkillin",
+                "Player": "398e7444-695b-11e6-a674-062cb73cdbb1",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:29:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "JaviAir",
+                "Player": "1e5d9202-bd37-11e5-8355-06eb725f8a76",
+                "Hero": "*Ardan*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

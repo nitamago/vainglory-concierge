@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T10:42:33+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T10:42:35+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T10:42:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "wiIdy",
+                "Player": "deaf9462-7b2b-11e6-a093-06ab1a16f8e5",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T10:42:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "ReCoIL",
+                "Player": "ea5f1702-8f42-11e7-9552-02a5820c0f16",
+                "Hero": "*Ringo*"
+            }
+        },
+        {
+            "time": "2017-11-05T10:43:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "lunaticPo",
+                "Player": "a0692ade-d45e-11e5-9dd5-06b48b82cd49",
+                "Hero": "*Fortress*"
+            }
+        },
+        {
+            "time": "2017-11-05T10:43:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "PaddingtonBear",
+                "Player": "a7571ad0-7d53-11e4-97d3-06eb725f8a76",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T10:43:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Beesus",
+                "Player": "92f4b002-90e2-11e7-babe-020355b21670",
+                "Hero": "*Reza*"
+            }
+        },
+        {
+            "time": "2017-11-05T10:43:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "LuckyBandit",
+                "Player": "dc29f52e-2dbc-11e5-a5d5-06d90c28bf1a",
+                "Hero": "*Taka*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

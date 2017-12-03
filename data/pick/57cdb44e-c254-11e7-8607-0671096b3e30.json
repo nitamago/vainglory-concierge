@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T18:08:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "TotorooooooM",
+                "Player": "a23fdffa-12b3-11e5-8150-06eb725f8a76",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:08:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Lightmord",
+                "Player": "9685b9c8-c092-11e4-8970-06d90c28bf1a",
+                "Hero": "*Idris*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:08:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Avolta",
+                "Player": "07883290-4f08-11e6-af3d-06fc87f1dd11",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:08:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "AldaUchiha",
+                "Player": "5b445962-94d4-11e4-a162-06d90c28bf1a",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:09:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "andydy69",
+                "Player": "6a3da94c-4833-11e5-ab07-06b48b82cd49",
+                "Hero": "*Churnwalker*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:09:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "jizzface",
+                "Player": "158bce46-21a1-11e5-a502-06d90c28bf1a",
+                "Hero": "*Krul*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

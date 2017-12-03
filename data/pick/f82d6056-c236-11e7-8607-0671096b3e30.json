@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T14:38:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "GoodSmurf",
+                "Player": "23dff2c6-7413-11e7-8002-029cb633549e",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:38:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "LuXiDsneaky",
+                "Player": "c08916ca-5e5c-11e6-98d4-06f4ee369f53",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:38:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "BlazeeyLaFlamme",
+                "Player": "2d5c098a-b47f-11e4-bcaa-06d90c28bf1a",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:39:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "djorkaeff",
+                "Player": "27818aee-4871-11e6-a0c9-067e8bc536fd",
+                "Hero": "*Glaive*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:39:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Peacockpurple096",
+                "Player": "99a44884-3dda-11e5-a717-068789513eb5",
+                "Hero": "*Taka*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:39:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "FlameToast",
+                "Player": "b29b1de6-cef6-11e6-97ed-06d90c28bf1a",
+                "Hero": "*Grace*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

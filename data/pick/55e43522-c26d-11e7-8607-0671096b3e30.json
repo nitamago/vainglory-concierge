@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T21:07:44+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:07:46+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:08:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Asokumura",
+                "Player": "62ab0ae6-6cb6-11e6-9f33-06b48b82cd49",
+                "Hero": "*Kestrel*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:08:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Aghost03",
+                "Player": "29fcd76a-4178-11e6-9544-067e8bc536fd",
+                "Hero": "*Alpha*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:08:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Arezfc",
+                "Player": "11b7b900-416d-11e6-b0b2-06ab1a16f8e5",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:08:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "TeaBeeH",
+                "Player": "0de76c64-c178-11e5-bf82-0628b69bf6d1",
+                "Hero": "*Fortress*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:08:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Wavebreaker",
+                "Player": "17000e5c-0b14-11e5-b6e7-06d90c28bf1a",
+                "Hero": "*Grace*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:09:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "DaDesk",
+                "Player": "a57339d8-8492-11e4-9954-06eb725f8a76",
+                "Hero": "*Rona*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T13:12:48+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:12:55+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:12:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "destrollerdark",
+                "Player": "b3f0053a-f0ad-11e5-94e2-06b48b82cd49",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:13:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Beesus",
+                "Player": "92f4b002-90e2-11e7-babe-020355b21670",
+                "Hero": "*Skaarf*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:13:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "MilfHunter007",
+                "Player": "033cd25e-3e0b-11e5-b2a1-0628b69bf6d1",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:13:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "chefcoca",
+                "Player": "4b849252-234a-11e6-b372-06ab1a16f8e5",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:13:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "demonprinceX",
+                "Player": "f1b76048-d527-11e6-8ab4-06f4ee369f53",
+                "Hero": "*Reza*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:13:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "MaxDodson",
+                "Player": "fbb787f8-0ee0-11e5-b4a8-06eb725f8a76",
+                "Hero": "*Krul*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

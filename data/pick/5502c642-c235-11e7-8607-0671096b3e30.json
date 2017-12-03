@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T14:26:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "JaimePinkSeason",
+                "Player": "32b7ddb4-dc00-11e6-b299-06fc87f1dd11",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:26:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "gucciLucci",
+                "Player": "7c8d0c32-40e9-11e6-a666-06388a2f2ea7",
+                "Hero": "*Lance*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:27:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "mvpelsalvaje",
+                "Player": "a2549514-2189-11e5-8cec-06d90c28bf1a",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:27:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Char388",
+                "Player": "e40d8966-11d8-11e7-976b-06ab1a16f8e5",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:27:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Leoniedus",
+                "Player": "7e87bdae-1814-11e7-85b5-06fc87f1dd11",
+                "Hero": "*Flicker*"
+            }
+        },
+        {
+            "time": "2017-11-05T14:27:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "MadGoddess",
+                "Player": "363ae8a0-7a0c-11e7-b340-06eb725f8a76",
+                "Hero": "*SAW*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

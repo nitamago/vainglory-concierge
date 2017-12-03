@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T13:29:43+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:29:48+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Taka*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:30:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Lordmessiah",
+                "Player": "8745aa3e-3e92-11e6-a4d4-068789513eb5",
+                "Hero": "*Lance*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:30:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "UnKnownLegend",
+                "Player": "8135c550-00ff-11e6-a4a7-067e8bc536fd",
+                "Hero": "*Samuel*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:30:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "KINGDOM99",
+                "Player": "01054eb0-9923-11e7-a691-029cb633549e",
+                "Hero": "*Flicker*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:30:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "ghostplayer666",
+                "Player": "b34a6a58-4ef3-11e7-9490-06c5ee41a4a5",
+                "Hero": "*Gwen*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:30:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "PissedOffPanda",
+                "Player": "ccab5804-b9cb-11e5-94ac-06d90c28bf1a",
+                "Hero": "*Fortress*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:30:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "THESHEEPDOG",
+                "Player": "32a14f7c-4f70-11e5-90e6-06d90c28bf1a",
+                "Hero": "*Joule*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

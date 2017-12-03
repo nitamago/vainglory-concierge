@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T19:10:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "illwill26",
+                "Player": "01578dca-3b27-11e6-aa3e-067e8bc536fd",
+                "Hero": "*Glaive*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:11:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "siris108",
+                "Player": "7e695766-b159-11e4-a9af-06eb725f8a76",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:11:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Pigraven",
+                "Player": "8cc0a266-71f2-11e4-95b3-06d90c28bf1a",
+                "Hero": "*Baron*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:11:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Mophling",
+                "Player": "216981f0-cea1-11e6-9a01-06f4ee369f53",
+                "Hero": "*Taka*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:11:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Frenglish",
+                "Player": "e6a85dd6-05f3-11e7-8e8d-02b3611af5e6",
+                "Hero": "*Grace*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:11:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "awwstin",
+                "Player": "207062d6-4212-11e5-a0ad-068789513eb5",
+                "Hero": "*Skaarf*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

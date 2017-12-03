@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T19:33:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "WarLordIroh",
+                "Player": "0e099580-b031-11e5-8eb2-0628b69bf6d1",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:33:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Ravgre",
+                "Player": "a69d3e12-272a-11e6-99b9-06f4ee369f53",
+                "Hero": "*Fortress*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:33:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "NextAlpha",
+                "Player": "c3faab1e-7bb6-11e4-9f0a-06eb725f8a76",
+                "Hero": "*Kestrel*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:33:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Dxrevo",
+                "Player": "5d8aedc2-a0b7-11e5-94ac-06d90c28bf1a",
+                "Hero": "*Rona*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:33:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "CheliSilvaR",
+                "Player": "8db976e4-ba47-11e6-9354-06a9175d25fa",
+                "Hero": "*Idris*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:34:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "nunzers",
+                "Player": "06e40178-176b-11e5-92bd-06d90c28bf1a",
+                "Hero": "*Catherine*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

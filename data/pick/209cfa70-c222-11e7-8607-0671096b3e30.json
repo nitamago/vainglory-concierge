@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T12:09:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Exemplify",
+                "Player": "663bb014-aec5-11e7-befb-02f3b4306918",
+                "Hero": "*Kestrel*"
+            }
+        },
+        {
+            "time": "2017-11-05T12:09:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "xPARADIGMx",
+                "Player": "ca352cfc-8740-11e5-a611-0628b69bf6d1",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T12:09:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "ahung0401",
+                "Player": "77dd5f78-a451-11e5-b03b-06f4ee369f53",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T12:09:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "martianalert",
+                "Player": "18498b26-6c2b-11e5-8e99-0628b69bf6d1",
+                "Hero": "*Churnwalker*"
+            }
+        },
+        {
+            "time": "2017-11-05T12:10:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "TheGreatJustinn",
+                "Player": "103f7d24-1437-11e5-a78f-06d90c28bf1a",
+                "Hero": "*Baron*"
+            }
+        },
+        {
+            "time": "2017-11-05T12:10:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "GGtrick",
+                "Player": "244ee6d0-bb38-11e5-a940-06b48b82cd49",
+                "Hero": "*Lance*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

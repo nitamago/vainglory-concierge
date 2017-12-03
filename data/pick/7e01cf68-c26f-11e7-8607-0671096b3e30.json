@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T21:23:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Icaro19",
+                "Player": "cf09faae-db2f-11e4-aee7-06d90c28bf1a",
+                "Hero": "*Celeste*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:23:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "cesarmaster",
+                "Player": "1e9f0f30-9f9f-11e5-95af-06f4ee369f53",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:23:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "KuteKat",
+                "Player": "cfae90fe-aa7f-11e4-b28b-06eb725f8a76",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:23:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Edsbots",
+                "Player": "c0bf50f8-e1e4-11e6-ae16-06d90c28bf1a",
+                "Hero": "*Phinn*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:23:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "CaptainSlappy",
+                "Player": "319dd5d0-97e3-11e5-848d-06b48b82cd49",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:23:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "TheMaster1333",
+                "Player": "98f0104c-222a-11e5-b031-06d90c28bf1a",
+                "Hero": "*Rona*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

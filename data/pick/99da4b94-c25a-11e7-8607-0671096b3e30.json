@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T18:53:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Ykiii",
+                "Player": "6d527d66-2cee-11e5-a642-06b48b82cd49",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:53:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "The_Fear",
+                "Player": "5fec7bb0-70ef-11e4-9c06-062d0b175276",
+                "Hero": "*Skaarf*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:53:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "AngelsSports",
+                "Player": "24c4703c-65b2-11e7-af80-020ecf4900d0",
+                "Hero": "*Taka*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:53:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "xlbxrt",
+                "Player": "532be386-9d64-11e6-94cf-06d90c28bf1a",
+                "Hero": "*Alpha*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:53:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "DFN4LIFE",
+                "Player": "b49877f4-6013-11e5-ac3e-06eb725f8a76",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:54:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "ShoulderDeepInMe",
+                "Player": "fe5d6224-9742-11e7-b0de-020ecf4900d0",
+                "Hero": "*Lance*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

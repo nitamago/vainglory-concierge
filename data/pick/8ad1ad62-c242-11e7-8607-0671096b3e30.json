@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T16:01:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Maximort",
+                "Player": "d3026ece-c329-11e5-9fad-06d90c28bf1a",
+                "Hero": "*Krul*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:01:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "mvpelsalvaje",
+                "Player": "a2549514-2189-11e5-8cec-06d90c28bf1a",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:01:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "EruDraugDin",
+                "Player": "84e5653a-cba7-11e5-978d-06fc87f1dd11",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:01:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "emotiohns",
+                "Player": "d3d395b6-8f2b-11e6-8459-06ab1a16f8e5",
+                "Hero": "*Kestrel*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:01:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Derptydoo",
+                "Player": "ef7c5b84-940b-11e5-8193-068789513eb5",
+                "Hero": "*Phinn*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:01:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "RealNightTerror",
+                "Player": "847532f2-8a68-11e7-824a-06a9175d25fa",
+                "Hero": "*Skaarf*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T17:29:21+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:29:26+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:29:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Mezza9",
+                "Player": "4b311c00-f03b-11e4-a11c-06eb725f8a76",
+                "Hero": "*Baron*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:29:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "InSPLitINFiNiTY",
+                "Player": "88e517ec-950f-11e7-ad21-02866102f5a6",
+                "Hero": "*Koshka*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:29:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Slossage",
+                "Player": "595ad846-809e-11e4-b6d5-06d90c28bf1a",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:30:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "AlexMATZ",
+                "Player": "4b072168-bef6-11e5-97ea-068789513eb5",
+                "Hero": "*Lance*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:30:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "UprisingStorm",
+                "Player": "a50f8b32-3d8c-11e5-a450-0628b69bf6d1",
+                "Hero": "*Alpha*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:30:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "darthdavid",
+                "Player": "a5bc674e-9f7a-11e5-b36e-06f4ee369f53",
+                "Hero": "*Churnwalker*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

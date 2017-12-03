@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T17:27:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "shadowsjudgement",
+                "Player": "60ad4c2c-7299-11e4-8932-06d90c28bf1a",
+                "Hero": "*Skaarf*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:27:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "mongolian",
+                "Player": "d7dc7c68-8668-11e4-888b-06d90c28bf1a",
+                "Hero": "*Baron*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:27:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "lllF0Xlll",
+                "Player": "948f0356-619e-11e5-a6df-06f4ee369f53",
+                "Hero": "*Rona*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:27:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "mafujose",
+                "Player": "8e5845be-d440-11e5-aa80-062cb73cdbb1",
+                "Hero": "*Adagio*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:28:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "BenOne",
+                "Player": "862dd82a-0f08-11e5-8e1d-06d90c28bf1a",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:28:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "UnKnownLegend",
+                "Player": "8135c550-00ff-11e6-a4a7-067e8bc536fd",
+                "Hero": "*Ozo*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

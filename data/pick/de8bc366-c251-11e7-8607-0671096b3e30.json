@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T17:51:16+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:51:17+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:51:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "zZDream",
+                "Player": "1da44afc-d3eb-11e5-8851-062cb73cdbb1",
+                "Hero": "*Celeste*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:51:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "DSTAR",
+                "Player": "6613ad72-a74b-11e5-9d1c-06b48b82cd49",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:52:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "PvE",
+                "Player": "a64d836e-5bb9-11e5-a63e-06eb725f8a76",
+                "Hero": "*Baron*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:52:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "ownedbe",
+                "Player": "05edb96c-8189-11e4-9982-06eb725f8a76",
+                "Hero": "*Krul*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:52:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Phyxxius",
+                "Player": "6b7fe46e-a9fe-11e5-89f4-06b48b82cd49",
+                "Hero": "*Lance*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:53:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "ForcedAccord",
+                "Player": "063584c6-ca13-11e5-82e3-06eb725f8a76",
+                "Hero": "*Skye*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

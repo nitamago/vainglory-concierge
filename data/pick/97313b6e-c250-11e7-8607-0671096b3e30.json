@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T17:42:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "OneMadBastich",
+                "Player": "937c1f44-a4c2-11e7-9b6d-0263a81144c0",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:42:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "MrGolfBall",
+                "Player": "66ba93ea-f515-11e5-ab7f-068789513eb5",
+                "Hero": "*Phinn*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:42:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "nothingelse",
+                "Player": "544f0a6a-60ef-11e6-bbad-0628b69bf6d1",
+                "Hero": "*Reza*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:42:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "tROCK",
+                "Player": "2b8161d6-bf5e-11e7-8f26-02a5820c0f16",
+                "Hero": "*Petal*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:42:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "KwanahWhite",
+                "Player": "a91ec588-7865-11e7-bcc1-0224e22aef46",
+                "Hero": "*Flicker*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:42:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "KwanahBlue",
+                "Player": "c2f50378-7eab-11e6-9bd2-06388a2f2ea7",
+                "Hero": "*Ringo*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T21:33:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "ChetUbetcha",
+                "Player": "343123b0-5150-11e7-bfb6-06fc87f1dd11",
+                "Hero": "*Skaarf*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:33:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Shredhead",
+                "Player": "985b2b6e-c718-11e6-a8bf-062cb73cdbb1",
+                "Hero": "*Lance*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:33:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Partygod",
+                "Player": "ec3adcac-1967-11e6-9ba9-06b48b82cd49",
+                "Hero": "*Krul*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:33:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "OctoNerd",
+                "Player": "1eaba5f6-440d-11e7-ab8b-02081e0fc90e",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:33:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "RagdollPuppet",
+                "Player": "7394df92-4638-11e7-bc70-06a9175d25fa",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:33:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "KronosGreek",
+                "Player": "96c95cb4-bc72-11e5-935c-06d90c28bf1a",
+                "Hero": "*Ringo*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

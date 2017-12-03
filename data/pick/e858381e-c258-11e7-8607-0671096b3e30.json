@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T18:41:43+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:41:46+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:41:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "smurf4practice",
+                "Player": "74a2a5b8-e645-11e4-b081-06eb725f8a76",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:42:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "B17gaming",
+                "Player": "5c02e624-161c-11e5-a382-06eb725f8a76",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:42:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "LightningT",
+                "Player": "aec84b44-7cf5-11e4-97d3-06eb725f8a76",
+                "Hero": "*Kestrel*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:42:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "InevitableRise",
+                "Player": "0cd75f88-1acd-11e6-9487-06eb725f8a76",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:42:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "KyogreGhost",
+                "Player": "5a9814a8-3fed-11e5-bbe6-06d90c28bf1a",
+                "Hero": "*Samuel*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:43:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "ElixHill",
+                "Player": "b11fc9aa-20bd-11e5-8a7c-06d90c28bf1a",
+                "Hero": "*Ozo*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

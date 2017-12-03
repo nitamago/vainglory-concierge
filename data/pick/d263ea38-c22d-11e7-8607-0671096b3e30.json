@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T13:33:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Phaerun ",
+                "Player": "e6ab07e2-a813-11e4-a9bb-06eb725f8a76",
+                "Hero": "*Gwen*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:33:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Bhatti",
+                "Player": "ecb436da-71b4-11e4-82c4-062d0b175276",
+                "Hero": "*Glaive*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:33:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "looofy",
+                "Player": "af9a30a8-a1e1-11e4-a6cd-06d90c28bf1a",
+                "Hero": "*Churnwalker*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:33:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "R3dRobin714",
+                "Player": "94dd8ce2-4351-11e7-b6eb-06f4ee369f53",
+                "Hero": "*Alpha*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:33:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "meny1989",
+                "Player": "3d80fc26-08d4-11e6-99e1-06eb725f8a76",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:33:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "soyelgranalfil13",
+                "Player": "6bd12c40-c58a-11e6-a787-06d90c28bf1a",
+                "Hero": "*Ardan*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

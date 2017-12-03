@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T17:28:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "MaKeO",
+                "Player": "2b802850-561a-11e7-9ee9-02866102f5a6",
+                "Hero": "*Joule*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:28:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "killerkiros",
+                "Player": "0f910e9e-65dc-11e7-a0e9-02866102f5a6",
+                "Hero": "*Kestrel*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:28:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "expendatble ",
+                "Player": "4d9c96fc-5c65-11e7-be5b-02866102f5a6",
+                "Hero": "*Baron*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:28:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "kcalbPaster",
+                "Player": "f278af86-2a43-11e5-aea9-06d90c28bf1a",
+                "Hero": "*Krul*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:28:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "batman888",
+                "Player": "f3032fca-8b9d-11e4-84bf-06eb725f8a76",
+                "Hero": "*Fortress*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:29:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "LunaDancer",
+                "Player": "94b1b294-fd37-11e6-984f-06f4ee369f53",
+                "Hero": "*Adagio*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

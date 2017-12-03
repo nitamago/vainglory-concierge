@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T20:20:17+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:20:26+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:20:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "CathysTeamWins",
+                "Player": "fd3d629a-fb9e-11e5-b67a-06f4ee369f53",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:20:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "GIRAFFE",
+                "Player": "65ba9af2-6f84-11e4-9fbd-062d0b175276",
+                "Hero": "*Baptiste*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:20:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "DonquixoteMingo",
+                "Player": "ace3405e-5a10-11e7-9880-06b48b82cd49",
+                "Hero": "*Alpha*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:21:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "LuckyDucky12",
+                "Player": "436d494c-c116-11e5-9940-06d90c28bf1a",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:21:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "JoseyReyes100",
+                "Player": "7f8aed90-71f7-11e4-a941-06d90c28bf1a",
+                "Hero": "*Reza*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:21:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Bloomly",
+                "Player": "71ae9eea-9945-11e4-bf99-06d90c28bf1a",
+                "Hero": "*Lyra*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T17:42:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "DeadStrike",
+                "Player": "9199d12a-595c-11e5-b95e-068789513eb5",
+                "Hero": "*Kestrel*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:42:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "prefinity",
+                "Player": "b25afa40-0b50-11e7-b687-02f3b4306918",
+                "Hero": "*Reza*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:42:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "FreeGuacamole",
+                "Player": "0355f7d4-6d8e-11e7-9757-02081e0fc90e",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:42:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Versago71",
+                "Player": "2fb0e558-4324-11e7-a220-029cb633549e",
+                "Hero": "*Samuel*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:42:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "xXskyXx",
+                "Player": "a0cc2b26-d4f4-11e4-9517-06d90c28bf1a",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:42:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Khmersoldier",
+                "Player": "902ebbf2-93b4-11e4-84bf-06eb725f8a76",
+                "Hero": "*Koshka*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

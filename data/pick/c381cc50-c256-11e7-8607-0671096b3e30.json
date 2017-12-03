@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T18:26:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "AkaneOkami",
+                "Player": "fdd0bb1a-1fb3-11e6-aa6b-06388a2f2ea7",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:26:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "SeveredBean",
+                "Player": "9ad92992-bb32-11e5-9940-06d90c28bf1a",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:26:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "AdudeFromiowa",
+                "Player": "e997a0ec-a5d3-11e4-9ab9-06eb725f8a76",
+                "Hero": "*Skye*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:27:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Estaarossa",
+                "Player": "e30d9dca-2d82-11e6-912f-06388a2f2ea7",
+                "Hero": "*Fortress*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:27:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "LaMagra23",
+                "Player": "6dfe1238-bd72-11e5-aa55-06b48b82cd49",
+                "Hero": "*Krul*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:27:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "CristoMatador",
+                "Player": "062f338e-b386-11e6-9ee6-06388a2f2ea7",
+                "Hero": "*Lance*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

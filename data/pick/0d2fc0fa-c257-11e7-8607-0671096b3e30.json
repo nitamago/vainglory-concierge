@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T18:28:14+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:28:20+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:28:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Sebastian5449",
+                "Player": "7ec4a42e-25b0-11e5-a671-06b48b82cd49",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:28:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "TBGDre",
+                "Player": "82b7cde8-0c70-11e6-bb15-06eb725f8a76",
+                "Hero": "*Lance*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:29:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Blackconvent",
+                "Player": "f934d268-ae65-11e5-a66a-0628b69bf6d1",
+                "Hero": "*Rona*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:29:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "JrRivera29",
+                "Player": "1057630a-63f4-11e5-bdf3-068789513eb5",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:29:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "finicky",
+                "Player": "566de880-d772-11e6-96b9-067e8bc536fd",
+                "Hero": "*Celeste*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:29:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Taohz",
+                "Player": "5782afca-3a71-11e5-b2e9-06b48b82cd49",
+                "Hero": "*Skye*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

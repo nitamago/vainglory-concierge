@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T20:45:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "silverwolf1999",
+                "Player": "09642730-be09-11e5-9341-0628b69bf6d1",
+                "Hero": "*Glaive*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:46:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "zzzzz112",
+                "Player": "7a11c8a8-8456-11e5-b532-068789513eb5",
+                "Hero": "*Kestrel*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:46:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "live2play",
+                "Player": "cc9115a2-f39c-11e4-8490-06eb725f8a76",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:46:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Paradiem",
+                "Player": "80f8c9dc-be17-11e5-97ea-068789513eb5",
+                "Hero": "*Celeste*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:46:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "silviasol",
+                "Player": "dea2c148-e1c5-11e4-a16f-06d90c28bf1a",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T20:46:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "SirKadabra",
+                "Player": "cd0a5386-201a-11e5-9d0a-06d90c28bf1a",
+                "Hero": "*Churnwalker*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T21:02:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Avecesedgar",
+                "Player": "7a7db5ac-7f98-11e6-8b20-06d90c28bf1a",
+                "Hero": "*Samuel*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:02:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Mathturbation",
+                "Player": "40b3f93a-82ba-11e4-a6cd-06d90c28bf1a",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:02:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "RedneckBeast",
+                "Player": "a47863b8-0688-11e6-8c4f-06d90c28bf1a",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:02:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Turn1p",
+                "Player": "19575646-c05f-11e5-bd20-06f4ee369f53",
+                "Hero": "*Krul*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:02:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "MrNoLackin",
+                "Player": "ba5a06c2-77b8-11e6-9b96-068789513eb5",
+                "Hero": "*Reza*"
+            }
+        },
+        {
+            "time": "2017-11-05T21:02:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "FireDragon21",
+                "Player": "9b7d7d76-23b5-11e6-97bc-0628b69bf6d1",
+                "Hero": "*Grace*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

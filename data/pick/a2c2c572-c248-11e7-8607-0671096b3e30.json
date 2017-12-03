@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T16:45:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Wodeth",
+                "Player": "059fe89a-ade7-11e6-a6c6-06388a2f2ea7",
+                "Hero": "*Petal*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:45:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "BhadBaby",
+                "Player": "3e2f0a48-95c6-11e7-85c0-0224e22aef46",
+                "Hero": "*Fortress*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:45:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "UCLAra",
+                "Player": "d50664c6-8b59-11e5-82c2-06eb725f8a76",
+                "Hero": "*Taka*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:45:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Sarcastibetch",
+                "Player": "8b33768c-b8de-11e6-9a32-06b48b82cd49",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:45:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "thePepon",
+                "Player": "d7209840-8706-11e6-aed9-06fc87f1dd11",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:45:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "BN408",
+                "Player": "920204c4-b1da-11e7-ab4c-06fc87f1dd11",
+                "Hero": "*Celeste*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

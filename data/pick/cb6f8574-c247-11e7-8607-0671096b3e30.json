@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T16:39:00+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:39:16+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:39:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "theDoctor92",
+                "Player": "ef38bcae-232b-11e5-ade4-0628b69bf6d1",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:39:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "zachy88",
+                "Player": "9cc700c8-f72c-11e4-b28d-06eb725f8a76",
+                "Hero": "*Idris*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:39:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "BirdsOfHerme",
+                "Player": "6f7163ba-b410-11e5-a9bf-06b48b82cd49",
+                "Hero": "*Grace*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:39:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "KittenBeach",
+                "Player": "d89ebe56-8ee4-11e5-8f26-06b48b82cd49",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:39:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "OldW1zzrd",
+                "Player": "9f81f62a-aad1-11e5-97d3-06eb725f8a76",
+                "Hero": "*Phinn*"
+            }
+        },
+        {
+            "time": "2017-11-05T16:39:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "killer29292829",
+                "Player": "30383ce2-24e4-11e6-886f-06fc87f1dd11",
+                "Hero": "*Fortress*"
+            }
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

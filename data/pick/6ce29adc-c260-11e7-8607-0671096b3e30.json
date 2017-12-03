@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T19:35:21+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:35:23+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:35:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Rev3nge",
+                "Player": "280c9e86-b1cc-11e5-93bc-06d90c28bf1a",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:35:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "IcantSEA",
+                "Player": "35f188a6-f0fa-11e4-bccd-06eb725f8a76",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:36:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "MarineForceRecon",
+                "Player": "bbe2029a-f737-11e4-b80d-06eb725f8a76",
+                "Hero": "*Kestrel*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:36:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "bezzle",
+                "Player": "b498642c-b577-11e4-b28b-06eb725f8a76",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:36:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Qidzkang",
+                "Player": "05f3ebd2-2031-11e6-96e0-0628b69bf6d1",
+                "Hero": "*Petal*"
+            }
+        },
+        {
+            "time": "2017-11-05T19:36:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "PIagueDoctor",
+                "Player": "3217a2f6-a13f-11e5-a114-06d90c28bf1a",
+                "Hero": "*Ozo*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

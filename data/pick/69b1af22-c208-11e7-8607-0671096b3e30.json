@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T09:05:23+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T09:05:28+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T09:05:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "MiracleSA",
+                "Player": "29e894ee-8e3c-11e4-947f-06eb725f8a76",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T09:05:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "nvghostkiller49",
+                "Player": "5483bc30-8fe7-11e5-9910-06eb725f8a76",
+                "Hero": "*Rona*"
+            }
+        },
+        {
+            "time": "2017-11-05T09:05:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "M0N4RCH",
+                "Player": "5af4db74-e74b-11e5-bec5-06c5ee41a4a5",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T09:05:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "DelirioN",
+                "Player": "6ac53e28-1afe-11e5-bd69-06d90c28bf1a",
+                "Hero": "*Vox*"
+            }
+        },
+        {
+            "time": "2017-11-05T09:06:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "MADAFACA",
+                "Player": "841a68a2-7284-11e5-b141-06b48b82cd49",
+                "Hero": "*Grace*"
+            }
+        },
+        {
+            "time": "2017-11-05T09:06:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "IcantSEA",
+                "Player": "35f188a6-f0fa-11e4-bccd-06eb725f8a76",
+                "Hero": "*Alpha*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

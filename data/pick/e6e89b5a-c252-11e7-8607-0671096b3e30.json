@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T17:58:37+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:58:43+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:58:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "EastingMen",
+                "Player": "79ee23ee-d992-11e5-b75e-06ab1a16f8e5",
+                "Hero": "*Churnwalker*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:59:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "justKuro",
+                "Player": "55dd5488-25c5-11e5-ab75-06eb725f8a76",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:59:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "SLENDERMAX",
+                "Player": "64d7122a-61a7-11e6-89cf-062cb73cdbb1",
+                "Hero": "*Ringo*"
+            }
+        },
+        {
+            "time": "2017-11-05T17:59:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Anthobhu",
+                "Player": "aa0c8c82-7d02-11e6-95f0-06fc87f1dd11",
+                "Hero": "*Taka*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:00:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "TaiDang",
+                "Player": "282f319a-a9b9-11e6-9bd9-062cb73cdbb1",
+                "Hero": "*Baron*"
+            }
+        },
+        {
+            "time": "2017-11-05T18:00:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Stoic212",
+                "Player": "aecc5c8e-b272-11e6-882f-06b48b82cd49",
+                "Hero": "*Baptiste*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T13:34:37+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "1",
+                "Hero": "*Ardan*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:34:48+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Team": "2",
+                "Hero": "*Kestrel*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:35:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "AuroraLeia",
+                "Player": "9441afcc-90b8-11e5-a57c-06b48b82cd49",
+                "Hero": "*Catherine*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:35:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "louisvuittondon",
+                "Player": "8887ee96-04d9-11e5-bc8e-06eb725f8a76",
+                "Hero": "*SAW*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:35:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "buckeTs",
+                "Player": "24974c80-bbfc-11e5-9b1f-06eb725f8a76",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:35:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Thechoppa3000",
+                "Player": "c6cc9f98-8f16-11e7-9e06-06d90c28bf1a",
+                "Hero": "*Skaarf*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:36:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "DragoRule",
+                "Player": "6a7eb180-cb4b-11e5-8b04-06b48b82cd49",
+                "Hero": "*Glaive*"
+            }
+        },
+        {
+            "time": "2017-11-05T13:36:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Pajama",
+                "Player": "a6068ab6-96f4-11e4-9954-06eb725f8a76",
+                "Hero": "*Blackfeather*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

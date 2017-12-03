@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-11-05T12:23:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "ACErevolution",
+                "Player": "b1c3a124-9d9d-11e7-9a0d-067e8bc536fd",
+                "Hero": "*Blackfeather*"
+            }
+        },
+        {
+            "time": "2017-11-05T12:23:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "KhanOfKhans",
+                "Player": "b05296d0-48e6-11e7-bb1c-020ecf4900d0",
+                "Hero": "*Reim*"
+            }
+        },
+        {
+            "time": "2017-11-05T12:24:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "2",
+                "Handle": "Stromer",
+                "Player": "66ab6000-e0b7-11e4-9fa1-06d90c28bf1a",
+                "Hero": "*Baptiste*"
+            }
+        },
+        {
+            "time": "2017-11-05T12:24:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Alecxia",
+                "Player": "765873aa-733b-11e5-a820-06f4ee369f53",
+                "Hero": "*Lyra*"
+            }
+        },
+        {
+            "time": "2017-11-05T12:24:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "edwierdo227",
+                "Player": "4e07d8cc-ee84-11e5-a443-06388a2f2ea7",
+                "Hero": "*Gwen*"
+            }
+        },
+        {
+            "time": "2017-11-05T12:24:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Team": "1",
+                "Handle": "Shankie",
+                "Player": "917ce840-fe89-11e4-b28d-06eb725f8a76",
+                "Hero": "*Petal*"
+            }
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}
