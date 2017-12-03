@@ -1,4 +1,5 @@
 from django.http.response import HttpResponse
+from django.shortcuts import render
 
 def index_page(request):
-    return HttpResponse('This is urls test.')
+    return render(request, 'vainconcierge/index.html')
