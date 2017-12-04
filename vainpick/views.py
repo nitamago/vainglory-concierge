@@ -89,6 +89,8 @@ def get_recommends(heros):
     for match in tmp_matches:
         s = set([match.hero1, match.hero2, match.hero3])
         rack_hero_set = s - selected_hero
+        if len(s) != 3:
+            continue
         rack_hero_list.append(rack_hero_set)
 
     if len(rack_hero_list) == 0:
@@ -127,8 +129,7 @@ def get_recommends(heros):
 
     elif len(rack_hero_list[0]) == 2:
         for rack_heros in rack_hero_list:
-            _hero = list(rack_heros)[0]
-            _hero2 = list(rack_heros)[1]
+            _hero, _hero2 = tuple(rack_heros)
             if _hero is None:
                 continue
             elif _hero2 is None:
@@ -138,8 +139,8 @@ def get_recommends(heros):
                                               Q(hero3 = _hero))
 
             _tmp_matches = _tmp_matches.filter(Q(hero1 = _hero2) |
-                                           Q(hero2 = _hero2) |
-                                           Q(hero3 = _hero2))
+                                               Q(hero2 = _hero2) |
+                                               Q(hero3 = _hero2))
             win_count = 0
             for win in _tmp_matches:
                 if win.win:
