@@ -3,10 +3,39 @@
 <body>
   <div>
     <p> Vaingroly Pick Recommender</p>
-  {% for Hero in Heros %}
-    <input type="radio" name="choice" id="choice{{ forloop.counter }}" value="{{ Hero.hero_id }}" />
-    <label for="choice{{ forloop.counter }}">{{ Hero.name }}</label><br>
-  {% endfor %}
+    <form action="/pick/" method="POST">{% csrf_token %}
+      {{ select }}
+      <input type="submit" value="Submit" />
+    </form>
+  </div>
+  <div>
+    <p>Reccomendation</p>
+    {% for hero in heros %}
+      {{ hero.value }}
+    {% endfor %}
+
+    <table border="1">
+      <thead>
+        <tr>
+          <th>Hero</th>
+          <th>Hero</th>
+          <th>Hero</th>
+          <th>勝率</th>
+          <th>試合数</th>
+        </tr>
+      </thead>
+      <tbody>
+
+          <tr>
+            <td>{{ pick.hero1 }}</td>
+            <td>{{ pick.hero2 }}</td>
+            <td>{{ pick.hero3 }}</td>
+            <td>{{ pick.win_rate_str }}%</td>
+            <td>{{ pick.sample_count }}</td>
+          </tr>
+
+      </tbody>
+    </table>
   </div>
 </body>
 </html>
