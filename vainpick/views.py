@@ -41,7 +41,7 @@ def get_pick_stat(heros):
             hero_id = '%'
         else:
             hero_id = hero.hero_id
-            tmp_matches = Match.objects.filter(Q(hero1 = hero_id) |
+            tmp_matches = tmp_matches.filter(Q(hero1 = hero_id) |
                                            Q(hero2 = hero_id) |
                                            Q(hero3 = hero_id))
 
