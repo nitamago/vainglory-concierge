@@ -35,7 +35,31 @@
           </tr>
 
       </tbody>
+    </table> <br>
+    {% if True %}
+    <table border="1">
+      <thead>
+        <tr>
+          <th>Hero</th>
+          <th>Hero</th>
+          <th>Hero</th>
+          <th>勝率</th>
+          <th>試合数</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for r in recommend %}
+          <tr>
+            <td>{{ r.hero1 }}</td>
+            <td>{{ r.hero2 }}</td>
+            <td>{{ r.hero3 }}</td>
+            <td>{{ r.win_rate_str }}%</td>
+            <td>{{ r.sample_count }}</td>
+          </tr>
+        {% endfor %}
+      </tbody>
     </table>
+    {% endif %}
   </div>
 </body>
 </html>

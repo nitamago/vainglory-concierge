@@ -16,6 +16,7 @@ def index_page(request):
              hero3 = select.cleaned_data['hero3']
              heros = [hero1, hero2, hero3]
              pick_stat = get_pick_stat(heros)
+             recommend = get_recommends(heros)
         else:
              message = 'データ検証に失敗しました'
              message = None
@@ -26,10 +27,12 @@ def index_page(request):
         message = None
         heros = None
         pick_stat = None
+        recommend = None
     return render(request, 'vainpick/index.html', {
                   'select': select,
                   'message': message,
                   'pick': pick_stat,
+                  'recommend': recommend,
                   })
 
 
@@ -65,4 +68,98 @@ def get_pick_stat(heros):
                                              win_rate_str="{0:.1f}".format(win_rate*100))
     if created:
         obj.save()
+    return obj
+
+
+def get_recommends(heros):
+    tmp_matches = Match.objects.all()
+
+    None_num = 0
+    selected_hero = set()
+    for hero in heros:
+        if hero is None:
+            None_num += 1
+        else:
+            hero_id = hero.hero_id
+            selected_hero.add(hero_id)
+            tmp_matches = tmp_matches.filter(Q(hero1 = hero_id) |
+                                           Q(hero2 = hero_id) |
+                                           Q(hero3 = hero_id))
+    rack_hero_list = []
+    for match in tmp_matches:
+        s = set([match.hero1, match.hero2, match.hero3])
+        rack_hero_set = s - selected_hero
+        rack_hero_list.append(rack_hero_set)
+
+    if len(rack_hero_list) == 0:
+        return None
+
+    if len(rack_hero_list[0]) == 1:
+        for rack_hero in rack_hero_list:
+            _hero = list(rack_hero)[0]
+            if _hero is None:
+                continue
+            _tmp_matches = tmp_matches.filter(Q(hero1 = _hero) |
+                                           Q(hero2 = _hero) |
+                                           Q(hero3 = _hero))
+            win_count = 0
+            for win in _tmp_matches:
+                if win.win:
+                    win_count += 1
+            if len(_tmp_matches) == 0:
+                win_rate = 0.0
+            else:
+                win_rate = win_count / len(_tmp_matches)
+
+            hero1 = heros[0].hero_id if heros[0] is not None else None
+            hero2 = heros[1].hero_id if heros[1] is not None else None
+            obj, created = HeroPickStat.objects.get_or_create(
+                                                     sample_count=len(_tmp_matches),
+                                                     hero1=hero1,
+                                                     hero2=hero2,
+                                                     hero3=_hero,
+                                                     win_rate=win_rate,
+                                                     win_rate_str="{0:.1f}".format(win_rate*100))
+            if created:
+                obj.save()
+        obj = HeroPickStat.objects.filter(hero1=hero1,
+                                              hero2=hero2).exclude(hero3=None).order_by('win_rate').reverse()[:5]
+
+    elif len(rack_hero_list[0]) == 2:
+        for rack_heros in rack_hero_list:
+            _hero = list(rack_heros)[0]
+            _hero2 = list(rack_heros)[1]
+            if _hero is None:
+                continue
+            elif _hero2 is None:
+                continue
+            _tmp_matches = tmp_matches.filter(Q(hero1 = _hero) |
+                                              Q(hero2 = _hero) |
+                                              Q(hero3 = _hero))
+
+            _tmp_matches = _tmp_matches.filter(Q(hero1 = _hero2) |
+                                           Q(hero2 = _hero2) |
+                                           Q(hero3 = _hero2))
+            win_count = 0
+            for win in _tmp_matches:
+                if win.win:
+                    win_count += 1
+            if len(_tmp_matches) == 0:
+                win_rate = 0.0
+            else:
+                win_rate = win_count / len(_tmp_matches)
+
+            hero1 = heros[0].hero_id if heros[0] is not None else None
+            obj, created = HeroPickStat.objects.get_or_create(sample_count=len(_tmp_matches),
+                                                     hero1=hero1,
+                                                     hero2=_hero2,
+                                                     hero3=_hero,
+                                                     win_rate=win_rate,
+                                                     win_rate_str="{0:.1f}".format(win_rate*100))
+            if created:
+                obj.save()
+
+        obj = HeroPickStat.objects.filter(hero1=hero1).exclude(hero2=None, hero3=None).order_by('win_rate').reverse()[:5]
+    else:
+        obj = None
     return obj

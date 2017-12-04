@@ -37,4 +37,4 @@ class HeroPickStat(models.Model):
     hero2 = models.CharField(max_length=40, null=True)
     hero3 = models.CharField(max_length=40, null=True)
     win_rate = models.FloatField(default=0.0)
-    win_rate_str = models.CharField(max_length=5)
+    win_rate_str = models.CharField(max_length=5, default="0.0")
