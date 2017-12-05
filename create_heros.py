@@ -26,7 +26,7 @@ if __name__ == "__main__":
              '*Skye*', '*Alpha*', '*Reim*', '*Grace*', '*Flicker*',
              '*Ozo*', '*Krul*']
 
-    for hero_id in Heros:
+    for hero_id in sorted(Heros):
         name = hero_id.replace("*", "")
         hero_obj, created = Hero.objects.get_or_create(hero_id=hero_id,
                                           name=name, image="no")
