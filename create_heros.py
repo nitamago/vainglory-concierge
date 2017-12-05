@@ -1,3 +1,10 @@
+#! /usr/bin/python3
+# -*- coding:utf-8 -*-
+
+"""
+heroレコードをDBへ登録する
+"""
+
 import os
 import django
 

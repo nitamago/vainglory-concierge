@@ -1,4 +1,9 @@
 #! /usr/bin/python3
+# -*- coding:utf-8 -*-
+
+"""
+matchレコードをDBへ登録する
+"""
 
 import os
 import django
