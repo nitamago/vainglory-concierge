@@ -1,5 +1,6 @@
 #! /usr/bin/python3
 
+import os
 import requests
 import json
 import time
@@ -17,7 +18,8 @@ def get_matches(offset):
     query = {
             "filter[gameMode]": "ranked",
             "page[offset]": offset,
-            "page[limit]": "5"
+            "page[limit]": "5",
+            "filter[createdAt-start]": "2017-12-05T08:25:30Z",
             }
 
     r = requests.get(url, headers=header, params=query)
@@ -25,7 +27,8 @@ def get_matches(offset):
     for data in r.json()["data"]:
         ID = data["id"]
         asset_id = data["relationships"]["assets"]["data"][0]["id"]
-        IDs.append({"id": ID, "asset": asset_id})
+        version = data["attributes"]["patchVersion"]
+        IDs.append({"id": ID, "asset": asset_id, "version": version})
 
 
     with open("data/raw/raw_%d.json" % offset, "w") as f:
@@ -39,6 +42,7 @@ def get_matches(offset):
     for ID_obj in IDs:
         ID = ID_obj["id"]
         asset_id = ID_obj["asset"]
+        version = ID_obj["version"]
 
         dic = {}
         tel_url = tel_infos[asset_id]
@@ -54,7 +58,9 @@ def get_matches(offset):
             dic["winner"] = "another"
             dic["loser"] = side
 
-        with open("data/pick/%s.json" % ID, "w") as f:
+        if not os.path.exists("data/pick/%s" % version):
+            os.mkdir("data/pick/%s" % version)
+        with open("data/pick/%s/%s.json" % (version, ID), "w") as f:
             f.write(json.dumps(dic, indent=4))
         num += 1
         time.sleep(5)
