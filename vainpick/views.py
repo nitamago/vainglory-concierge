@@ -60,10 +60,11 @@ def get_pick_stat(heros):
     hero1 = heros[0].hero_id if heros[0] is not None else None
     hero2 = heros[1].hero_id if heros[1] is not None else None
     hero3 = heros[2].hero_id if heros[2] is not None else None
+    sorted_hero = sorted([hero1, hero2, hero3])
     obj, created = HeroPickStat.objects.get_or_create(sample_count=len(tmp_matches),
-                                             hero1=hero1,
-                                             hero2=hero2,
-                                             hero3=hero3,
+                                             hero1=sorted_hero[0],
+                                             hero2=sorted_hero[1],
+                                             hero3=sorted_hero[2],
                                              win_rate=win_rate,
                                              win_rate_str="{0:.1f}".format(win_rate*100))
     if created:
@@ -115,17 +116,19 @@ def get_recommends(heros):
 
             hero1 = heros[0].hero_id if heros[0] is not None else None
             hero2 = heros[1].hero_id if heros[1] is not None else None
+            sorted_hero = sorted([hero1, hero2, _hero])
             obj, created = HeroPickStat.objects.get_or_create(
                                                      sample_count=len(_tmp_matches),
-                                                     hero1=hero1,
-                                                     hero2=hero2,
-                                                     hero3=_hero,
+                                                     hero1=sorted_hero[0],
+                                                     hero2=sorted_hero[1],
+                                                     hero3=sorted_hero[2],
                                                      win_rate=win_rate,
                                                      win_rate_str="{0:.1f}".format(win_rate*100))
             if created:
                 obj.save()
-        obj = HeroPickStat.objects.filter(hero1=hero1,
-                                              hero2=hero2).exclude(hero3=None).order_by('win_rate').reverse()[:5]
+        obj = HeroPickStat.objects.filter(hero1=hero1, hero2=hero2)\
+                          .exclude(hero3=None)\
+                          .order_by('win_rate').reverse()[:5]
 
     elif len(rack_hero_list[0]) == 2:
         for rack_heros in rack_hero_list:
@@ -151,16 +154,19 @@ def get_recommends(heros):
                 win_rate = win_count / len(_tmp_matches)
 
             hero1 = heros[0].hero_id if heros[0] is not None else None
+            sorted_hero = sorted([hero1, _hero, _hero2])
             obj, created = HeroPickStat.objects.get_or_create(sample_count=len(_tmp_matches),
-                                                     hero1=hero1,
-                                                     hero2=_hero2,
-                                                     hero3=_hero,
+                                                     hero1=sorted_hero[0],
+                                                     hero2=sorted_hero[1],
+                                                     hero3=sorted_hero[2],
                                                      win_rate=win_rate,
                                                      win_rate_str="{0:.1f}".format(win_rate*100))
             if created:
                 obj.save()
 
-        obj = HeroPickStat.objects.filter(hero1=hero1).exclude(hero2=None, hero3=None).order_by('win_rate').reverse()[:5]
+        obj = HeroPickStat.objects.filter(hero1=hero1)\
+                          .exclude(hero2=None, hero3=None)\
+                          .order_by('win_rate').reverse()[:5]
     else:
         obj = None
     return obj
