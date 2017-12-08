@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:08:27+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:08:30+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:08:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d79ac4a4-77de-11e5-b1ef-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "APieceOfRiceCake"
+            }
+        },
+        {
+            "time": "2017-12-06T01:08:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9fd96d00-623e-11e5-9f98-06f4ee369f53",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Simxn"
+            }
+        },
+        {
+            "time": "2017-12-06T01:08:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "491ba078-7c4c-11e5-b0cb-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "Swiftt"
+            }
+        },
+        {
+            "time": "2017-12-06T01:09:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "76ac350a-c573-11e5-85ff-0628b69bf6d1",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "Sunnnight"
+            }
+        },
+        {
+            "time": "2017-12-06T01:09:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e4aab850-24b9-11e7-b36d-0263a81144c0",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "ohsosweet"
+            }
+        },
+        {
+            "time": "2017-12-06T01:09:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d08d6870-6c93-11e5-9de5-06b48b82cd49",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "megatronVG"
+            }
+        }
+    ],
+    "winner": "another"
+}

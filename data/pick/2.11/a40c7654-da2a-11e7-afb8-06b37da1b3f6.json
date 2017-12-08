@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:10:43+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:11:07+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:11:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e668665a-c616-11e4-acbf-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "gdistruction"
+            }
+        },
+        {
+            "time": "2017-12-06T02:11:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "632747bc-7bd5-11e7-a8d4-06fc87f1dd11",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Diplomatik"
+            }
+        },
+        {
+            "time": "2017-12-06T02:12:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "59a4bd66-a903-11e4-9580-06d90c28bf1a",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "200West"
+            }
+        },
+        {
+            "time": "2017-12-06T02:12:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "60c9f834-a487-11e4-9bb5-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "PooThrower"
+            }
+        },
+        {
+            "time": "2017-12-06T02:12:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6c26a588-79ee-11e4-b6fb-06d90c28bf1a",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "DanYO"
+            }
+        },
+        {
+            "time": "2017-12-06T02:13:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ef4485cc-9505-11e7-bea0-06fc87f1dd11",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "JoeMaker"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

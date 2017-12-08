@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:32:10+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:32:24+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:32:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c14334b2-bc42-11e6-bea4-06388a2f2ea7",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "ByNameCoC"
+            }
+        },
+        {
+            "time": "2017-12-05T23:32:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f7a01534-3886-11e5-a3c4-06b48b82cd49",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "EndoTheG0D"
+            }
+        },
+        {
+            "time": "2017-12-05T23:32:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d8fd7e60-076a-11e6-94f0-06388a2f2ea7",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "FuryLeon"
+            }
+        },
+        {
+            "time": "2017-12-05T23:33:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9a1982e2-a983-11e5-963a-0628b69bf6d1",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "dirtymanwhkre"
+            }
+        },
+        {
+            "time": "2017-12-05T23:33:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8d6d5c8a-a119-11e4-9c3a-06eb725f8a76",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "Ictobi"
+            }
+        },
+        {
+            "time": "2017-12-05T23:33:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a8da15c4-d91e-11e5-bd37-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Keij52"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

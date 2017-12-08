@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:24:04+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:24:09+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Ardan*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:24:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "48525fa0-0983-11e6-bf26-06fc87f1dd11",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "davidroquet"
+            }
+        },
+        {
+            "time": "2017-12-06T00:24:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "492550f0-d73c-11e5-a9af-06388a2f2ea7",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "zRedemption"
+            }
+        },
+        {
+            "time": "2017-12-06T00:24:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7ba74ae6-72ee-11e4-a192-06d90c28bf1a",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "C4bb4ge"
+            }
+        },
+        {
+            "time": "2017-12-06T00:24:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "61155de4-2e6d-11e6-a2f7-06fc87f1dd11",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "GunmasterDraco"
+            }
+        },
+        {
+            "time": "2017-12-06T00:25:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6b22deba-d950-11e4-a2a5-06eb725f8a76",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "Trixster"
+            }
+        },
+        {
+            "time": "2017-12-06T00:25:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "844b8076-e60d-11e4-a110-06d90c28bf1a",
+                "Hero": "*Ozo*",
+                "Team": "2",
+                "Handle": "Workableapple8"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:54:55+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:55:05+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:55:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "98b5d6be-fe12-11e6-92f7-062cb73cdbb1",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "jenty123"
+            }
+        },
+        {
+            "time": "2017-12-06T01:55:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ef74abcc-7275-11e4-a8db-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "bryanc921"
+            }
+        },
+        {
+            "time": "2017-12-06T01:55:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "040249dc-93f2-11e7-a238-020ecf4900d0",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "Marky98"
+            }
+        },
+        {
+            "time": "2017-12-06T01:55:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d1ecd304-aed6-11e7-9032-020355b21670",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "Oooff"
+            }
+        },
+        {
+            "time": "2017-12-06T01:56:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8b997b96-1789-11e5-8150-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "Pielord"
+            }
+        },
+        {
+            "time": "2017-12-06T01:56:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ef22d4b0-1196-11e7-a35f-0297ea8a7ddc",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "edandres"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

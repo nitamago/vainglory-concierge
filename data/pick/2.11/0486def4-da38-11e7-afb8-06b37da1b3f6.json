@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:46:32+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:46:35+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:46:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bf9f91d4-2817-11e5-9611-06b48b82cd49",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Iumii"
+            }
+        },
+        {
+            "time": "2017-12-06T03:47:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6b22deba-d950-11e4-a2a5-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Trixster"
+            }
+        },
+        {
+            "time": "2017-12-06T03:47:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "40271132-4c7c-11e5-8ae6-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "RetraI"
+            }
+        },
+        {
+            "time": "2017-12-06T03:47:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "05edb96c-8189-11e4-9982-06eb725f8a76",
+                "Hero": "*Samuel*",
+                "Team": "1",
+                "Handle": "ownedbe"
+            }
+        },
+        {
+            "time": "2017-12-06T03:47:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "47747fda-4656-11e7-91c6-06a9175d25fa",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "M3L0NZ"
+            }
+        },
+        {
+            "time": "2017-12-06T03:47:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4a359198-908a-11e4-bc71-06d90c28bf1a",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "imjustapril"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:21:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3464e556-7426-11e4-9a06-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "HomeWrecker"
+            }
+        },
+        {
+            "time": "2017-12-06T00:21:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9fac65ae-e838-11e6-902b-067e8bc536fd",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "EFEBO"
+            }
+        },
+        {
+            "time": "2017-12-06T00:21:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d6be768a-d2f8-11e7-a3e7-020c8314066a",
+                "Hero": "*Samuel*",
+                "Team": "1",
+                "Handle": "TurboTavius"
+            }
+        },
+        {
+            "time": "2017-12-06T00:22:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1a2fbeec-33d2-11e5-a17d-06eb725f8a76",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "plzhelp"
+            }
+        },
+        {
+            "time": "2017-12-06T00:22:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "287c8220-bcff-11e6-bc03-06388a2f2ea7",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "Niersaro"
+            }
+        },
+        {
+            "time": "2017-12-06T00:22:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "53e18d84-9ad7-11e5-9544-06b48b82cd49",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Korupted"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

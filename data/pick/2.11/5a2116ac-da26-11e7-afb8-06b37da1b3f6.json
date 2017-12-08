@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:40:32+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:40:46+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:41:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "631acfde-f195-11e6-868b-0224e22aef46",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "Xtrixx"
+            }
+        },
+        {
+            "time": "2017-12-06T01:41:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "69d76910-7061-11e5-b34b-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "vondee130"
+            }
+        },
+        {
+            "time": "2017-12-06T01:41:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7901f53e-7644-11e5-8a2f-06f4ee369f53",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "RoyGbiv"
+            }
+        },
+        {
+            "time": "2017-12-06T01:42:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "25aba55e-7011-11e4-b1ff-06641bcbf424",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "Natsuno"
+            }
+        },
+        {
+            "time": "2017-12-06T01:42:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4b96a26e-eba4-11e4-a16f-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "bluesz"
+            }
+        },
+        {
+            "time": "2017-12-06T01:42:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3d7153b2-2c7d-11e6-8383-067e8bc536fd",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "lykuz"
+            }
+        }
+    ],
+    "winner": "another"
+}

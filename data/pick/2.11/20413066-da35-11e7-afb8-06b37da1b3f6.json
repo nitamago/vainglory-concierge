@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:26:01+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:26:09+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:26:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bf00e46e-be74-11e5-896f-0628b69bf6d1",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "KUSHandOJ"
+            }
+        },
+        {
+            "time": "2017-12-06T03:26:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d92cf052-7a38-11e4-9fcd-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "nightstar451"
+            }
+        },
+        {
+            "time": "2017-12-06T03:26:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "adf97b1a-203e-11e5-9d73-0628b69bf6d1",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "MrBadabuchi"
+            }
+        },
+        {
+            "time": "2017-12-06T03:27:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8a7367a8-5cbd-11e5-83cd-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "NeOnNezZy"
+            }
+        },
+        {
+            "time": "2017-12-06T03:27:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7f74bf36-ada0-11e4-8212-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Arutoria"
+            }
+        },
+        {
+            "time": "2017-12-06T03:27:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ac859258-7387-11e6-a467-06ab1a16f8e5",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "GabrielVZ"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

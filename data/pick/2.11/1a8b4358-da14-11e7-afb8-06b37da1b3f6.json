@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:29:35+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:29:53+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Alpha*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:30:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6e75854c-dde4-11e5-8f01-067e8bc536fd",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Arielsaenz"
+            }
+        },
+        {
+            "time": "2017-12-05T23:30:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2e53b720-9d5a-11e4-888b-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "forestm"
+            }
+        },
+        {
+            "time": "2017-12-05T23:30:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "89f85cc0-ced7-11e5-9bd6-06b48b82cd49",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "NAPOLEONXL"
+            }
+        },
+        {
+            "time": "2017-12-05T23:30:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d8344c08-7011-11e4-af86-06641bcbf424",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "sumasuma"
+            }
+        },
+        {
+            "time": "2017-12-05T23:30:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c9b831b8-697e-11e6-ba83-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "motherfckajones"
+            }
+        },
+        {
+            "time": "2017-12-05T23:31:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8bc46f34-a3ff-11e4-9439-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Dragonzord"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

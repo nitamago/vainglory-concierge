@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:16:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "416052ce-8058-11e5-a67a-06f4ee369f53",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "rotatablecub"
+            }
+        },
+        {
+            "time": "2017-12-06T01:17:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a0e6e74e-40f5-11e7-aa6e-0223dbc2587a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "iJustVagry"
+            }
+        },
+        {
+            "time": "2017-12-06T01:17:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e83fa6bc-251d-11e5-bbce-06b48b82cd49",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "KINGARTHUR"
+            }
+        },
+        {
+            "time": "2017-12-06T01:17:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6552fe4e-3100-11e6-97bc-0628b69bf6d1",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "cAsp3r"
+            }
+        },
+        {
+            "time": "2017-12-06T01:17:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "356ede7a-640b-11e7-9464-0297ea8a7ddc",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Drik007"
+            }
+        },
+        {
+            "time": "2017-12-06T01:17:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7d49b57e-b598-11e7-817a-062cb73cdbb1",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "DefinitelyNotLoc"
+            }
+        }
+    ],
+    "winner": "another"
+}

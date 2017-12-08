@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:18:05+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:18:07+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:18:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c62c7ff6-ba2b-11e6-8283-06a9175d25fa",
+                "Hero": "*Grumpjaw*",
+                "Team": "1",
+                "Handle": "Aethern"
+            }
+        },
+        {
+            "time": "2017-12-06T02:18:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "815e6098-668c-11e7-88c6-020355b21670",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Kazut0Sama"
+            }
+        },
+        {
+            "time": "2017-12-06T02:18:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "92770038-5936-11e6-be2c-062cb73cdbb1",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "Helgate666"
+            }
+        },
+        {
+            "time": "2017-12-06T02:19:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c8a04e5e-b317-11e6-ae55-06c5ee41a4a5",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "Predator47"
+            }
+        },
+        {
+            "time": "2017-12-06T02:19:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3006348e-bdad-11e5-a5bf-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "Omega47"
+            }
+        },
+        {
+            "time": "2017-12-06T02:19:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a2d3eb4a-c717-11e6-a75b-06d90c28bf1a",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "Edgarsito"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

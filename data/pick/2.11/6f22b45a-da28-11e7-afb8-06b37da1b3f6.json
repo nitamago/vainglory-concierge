@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:55:03+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:55:10+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Baron*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:55:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "18c0f5ce-8439-11e4-a63b-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Lys"
+            }
+        },
+        {
+            "time": "2017-12-06T01:55:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5ab3e3e8-d856-11e5-853f-0628b69bf6d1",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "Reaperslash11"
+            }
+        },
+        {
+            "time": "2017-12-06T01:55:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dc7146bc-e6d2-11e4-a206-06eb725f8a76",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "0ki7o"
+            }
+        },
+        {
+            "time": "2017-12-06T01:56:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6bffe7d2-7367-11e4-86a0-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Snowball123"
+            }
+        },
+        {
+            "time": "2017-12-06T01:56:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d2e796d8-08c1-11e7-bc98-02f3b4306918",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "BoOoTyEaTeR"
+            }
+        },
+        {
+            "time": "2017-12-06T01:56:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "990e1f06-7442-11e4-9ae1-06d90c28bf1a",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "GBfloatzel"
+            }
+        }
+    ],
+    "winner": "another"
+}

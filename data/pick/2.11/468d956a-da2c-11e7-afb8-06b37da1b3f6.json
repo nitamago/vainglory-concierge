@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:22:34+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:22:36+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:22:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b3f0053a-f0ad-11e5-94e2-06b48b82cd49",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "destrollerdark"
+            }
+        },
+        {
+            "time": "2017-12-06T02:22:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "92f4b002-90e2-11e7-babe-020355b21670",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Beesus"
+            }
+        },
+        {
+            "time": "2017-12-06T02:22:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6ae1cd64-4987-11e6-a024-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "SilverParagon"
+            }
+        },
+        {
+            "time": "2017-12-06T02:23:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4e924470-04c5-11e5-ac48-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "NightK1NG"
+            }
+        },
+        {
+            "time": "2017-12-06T02:23:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "85464f5e-8589-11e4-ac6d-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "Mitch1014"
+            }
+        },
+        {
+            "time": "2017-12-06T02:24:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "30b14e36-a324-11e4-87fd-06d90c28bf1a",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "Azezal"
+            }
+        }
+    ],
+    "winner": "another"
+}

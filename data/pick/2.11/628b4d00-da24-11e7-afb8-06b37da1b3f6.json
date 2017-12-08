@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:26:23+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:26:33+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:26:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4daebe52-d33d-11e5-8633-067e8bc536fd",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "KingCharlesVG"
+            }
+        },
+        {
+            "time": "2017-12-06T01:27:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e134a59a-2880-11e6-87ac-06f4ee369f53",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "JuanTheBozs"
+            }
+        },
+        {
+            "time": "2017-12-06T01:27:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d1a8bb7c-6a56-11e5-b94d-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "Russcrowe"
+            }
+        },
+        {
+            "time": "2017-12-06T01:27:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b16c9ee0-7a14-11e6-8455-067e8bc536fd",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "FatOnFatCrime"
+            }
+        },
+        {
+            "time": "2017-12-06T01:27:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ce3283f4-82cd-11e4-9223-06eb725f8a76",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "HydekX"
+            }
+        },
+        {
+            "time": "2017-12-06T01:27:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d8176612-6c9d-11e6-bb2c-0628b69bf6d1",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "McYGomas"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

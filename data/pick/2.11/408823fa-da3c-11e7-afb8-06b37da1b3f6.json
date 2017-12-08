@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:16:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "af048844-d03a-11e6-9790-06f4ee369f53",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "LordVipeR"
+            }
+        },
+        {
+            "time": "2017-12-06T04:16:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4ddb9678-10fd-11e5-8301-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "hmmmaryan"
+            }
+        },
+        {
+            "time": "2017-12-06T04:17:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fc0817f8-73dc-11e4-9533-06d90c28bf1a",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "gojokhan"
+            }
+        },
+        {
+            "time": "2017-12-06T04:17:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1c76a022-96b5-11e4-9b5c-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Cataclyptic"
+            }
+        },
+        {
+            "time": "2017-12-06T04:17:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d0c044a8-ad1e-11e6-ad25-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "StraightFlexing"
+            }
+        },
+        {
+            "time": "2017-12-06T04:17:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8b119ad2-22cc-11e7-899b-02f3b4306918",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "PharaohsKeep"
+            }
+        }
+    ],
+    "winner": "another"
+}

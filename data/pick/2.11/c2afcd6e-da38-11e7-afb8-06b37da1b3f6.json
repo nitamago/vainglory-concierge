@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:51:51+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:52:07+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:52:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4eda1c02-de2f-11e5-a15e-06fc87f1dd11",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "DogEatDogWorld"
+            }
+        },
+        {
+            "time": "2017-12-06T03:52:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2c4f3252-692d-11e5-b6da-06b48b82cd49",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "YOOOONNGGJJAEEEE"
+            }
+        },
+        {
+            "time": "2017-12-06T03:52:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "60aec89a-a591-11e6-9d13-06b48b82cd49",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "SRuff"
+            }
+        },
+        {
+            "time": "2017-12-06T03:52:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d59f7a1a-e64c-11e4-9e46-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "MASQUERAD3"
+            }
+        },
+        {
+            "time": "2017-12-06T03:53:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8f0ae5da-836d-11e5-a245-0628b69bf6d1",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "Mendozer"
+            }
+        },
+        {
+            "time": "2017-12-06T03:53:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "46286e48-b763-11e6-8381-067e8bc536fd",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "ImCheesed"
+            }
+        }
+    ],
+    "winner": "another"
+}

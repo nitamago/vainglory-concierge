@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:38:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "13ba42b0-4188-11e7-aefd-0223dbc2587a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Amenadill"
+            }
+        },
+        {
+            "time": "2017-12-06T03:38:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "453279ec-8794-11e6-b0e0-06ab1a16f8e5",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "elreus"
+            }
+        },
+        {
+            "time": "2017-12-06T03:38:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d51d3dd4-d5dd-11e6-bea8-06d90c28bf1a",
+                "Hero": "*Reza*",
+                "Team": "2",
+                "Handle": "Versos"
+            }
+        },
+        {
+            "time": "2017-12-06T03:38:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b8c5a948-8cdd-11e7-8ae1-06c5ee41a4a5",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Balphas"
+            }
+        },
+        {
+            "time": "2017-12-06T03:38:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fa54a9fc-c0f1-11e7-b30a-06f4ee369f53",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "Calef"
+            }
+        },
+        {
+            "time": "2017-12-06T03:38:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a68ad1ec-f79a-11e5-8631-06eb725f8a76",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "SyeWu"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

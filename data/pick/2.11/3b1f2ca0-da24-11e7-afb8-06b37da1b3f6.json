@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:24:57+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:25:17+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:25:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f4ad6414-cdee-11e5-86a3-062cb73cdbb1",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Ninjaskillz"
+            }
+        },
+        {
+            "time": "2017-12-06T01:25:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cb998e10-7151-11e7-b4f5-06d90c28bf1a",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "astroninja0007"
+            }
+        },
+        {
+            "time": "2017-12-06T01:25:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e132ed2a-8de4-11e7-964f-02a5820c0f16",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "GU4RROCRVNTS"
+            }
+        },
+        {
+            "time": "2017-12-06T01:25:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a8552ad2-76bc-11e4-a756-06d90c28bf1a",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "trapman"
+            }
+        },
+        {
+            "time": "2017-12-06T01:26:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bb62be3a-9664-11e7-8d1a-0224e22aef46",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "XxMAFIAxX"
+            }
+        },
+        {
+            "time": "2017-12-06T01:26:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dc15a644-2c81-11e7-843a-06388a2f2ea7",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "YungOpac91uWs"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

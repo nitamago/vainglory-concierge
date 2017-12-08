@@ -1,0 +1,74 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:06:18+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:07:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "571f92d6-04e4-11e5-ab8d-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "delcegno"
+            }
+        },
+        {
+            "time": "2017-12-06T04:07:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4ea96580-19ae-11e5-af4e-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "TinyMe"
+            }
+        },
+        {
+            "time": "2017-12-06T04:07:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "55194ae8-c8df-11e6-be3f-06ab1a16f8e5",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "KKiritto"
+            }
+        },
+        {
+            "time": "2017-12-06T04:08:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "33784678-c650-11e6-94f2-06fc87f1dd11",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "xXBonesBreakerXx"
+            }
+        },
+        {
+            "time": "2017-12-06T04:08:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0ebe5126-d945-11e6-8ca0-06fc87f1dd11",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "LaLechuga"
+            }
+        },
+        {
+            "time": "2017-12-06T04:08:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d98ea47c-cb59-11e6-a731-06b48b82cd49",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "CopyWheelEye"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

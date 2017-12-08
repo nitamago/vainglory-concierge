@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:42:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8ac1741e-c249-11e6-b691-06fc87f1dd11",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "RealComptonCrip"
+            }
+        },
+        {
+            "time": "2017-12-05T23:42:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "17db1822-9829-11e7-b499-020ecf4900d0",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "MEKASO"
+            }
+        },
+        {
+            "time": "2017-12-05T23:43:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b8479bc0-c709-11e5-9213-06d90c28bf1a",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "xCrAzYwItChx"
+            }
+        },
+        {
+            "time": "2017-12-05T23:43:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "35478638-7848-11e4-9ddc-06d90c28bf1a",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "DevolutionXero"
+            }
+        },
+        {
+            "time": "2017-12-05T23:43:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fce78534-852a-11e7-b240-06f4ee369f53",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Gelertsvenom"
+            }
+        },
+        {
+            "time": "2017-12-05T23:43:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3096acda-c18f-11e6-a694-06f4ee369f53",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "GoDOFWar"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

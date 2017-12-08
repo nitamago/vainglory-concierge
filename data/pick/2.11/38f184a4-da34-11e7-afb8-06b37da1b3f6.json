@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:19:45+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:19:47+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:20:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "80fbc886-b01a-11e5-8d4b-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "BasicSnooze"
+            }
+        },
+        {
+            "time": "2017-12-06T03:20:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d6af1dd6-f2b0-11e5-b79a-06fc87f1dd11",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "Jaimeblack2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:20:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bd7de704-dee6-11e4-bc0d-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "goyo21"
+            }
+        },
+        {
+            "time": "2017-12-06T03:20:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cdbd952e-6d75-11e5-9e8f-06f4ee369f53",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "bichobi"
+            }
+        },
+        {
+            "time": "2017-12-06T03:21:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a22059ba-0803-11e5-94c1-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "spinXO"
+            }
+        },
+        {
+            "time": "2017-12-06T03:21:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2ba78a60-631b-11e5-9387-068789513eb5",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "Luxtion"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:11:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4751ba64-79ba-11e5-9a02-0628b69bf6d1",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "get2dachoppaa"
+            }
+        },
+        {
+            "time": "2017-12-06T02:11:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "32e4ee82-ae63-11e6-95a1-06388a2f2ea7",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "SouperNick"
+            }
+        },
+        {
+            "time": "2017-12-06T02:11:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5019fb42-3d2a-11e5-99fc-068789513eb5",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "XeroWolf"
+            }
+        },
+        {
+            "time": "2017-12-06T02:11:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "381b8750-6f27-11e7-a394-062cb73cdbb1",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "Nutico"
+            }
+        },
+        {
+            "time": "2017-12-06T02:11:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f46a4654-297c-11e6-887c-06b48b82cd49",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "youngthuggerbaby"
+            }
+        },
+        {
+            "time": "2017-12-06T02:11:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bd497c7a-c5e9-11e7-bfb7-02ce883f709a",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "LegendVulcan"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:52:18+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:52:34+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:52:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ba1b7640-8ffb-11e6-9492-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "junglethief"
+            }
+        },
+        {
+            "time": "2017-12-06T01:52:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6a1e1532-3942-11e5-b74b-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "BABYDRE"
+            }
+        },
+        {
+            "time": "2017-12-06T01:53:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3cb02d54-bd88-11e5-ae07-06f4ee369f53",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "ExodiaMGS"
+            }
+        },
+        {
+            "time": "2017-12-06T01:53:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "05b67e1e-7dc4-11e6-858a-06eb725f8a76",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "Galger"
+            }
+        },
+        {
+            "time": "2017-12-06T01:53:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "81d19d5c-2213-11e5-80d7-06b48b82cd49",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "xetto"
+            }
+        },
+        {
+            "time": "2017-12-06T01:53:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e7b9983a-721f-11e4-b709-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Chugi"
+            }
+        }
+    ],
+    "winner": "another"
+}

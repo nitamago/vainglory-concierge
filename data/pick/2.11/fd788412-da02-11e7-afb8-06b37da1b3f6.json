@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:27:08+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:27:33+0000",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:27:52+0000",
+            "payload": {
+                "Player": "e0f8d082-3507-11e5-abbd-0628b69bf6d1",
+                "Handle": "SOBxRBE",
+                "Hero": "*Lance*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:28:16+0000",
+            "payload": {
+                "Player": "59e9d146-8b69-11e5-8181-06b48b82cd49",
+                "Handle": "hemoplague",
+                "Hero": "*Taka*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:28:25+0000",
+            "payload": {
+                "Player": "eb6ddece-152f-11e5-9496-06eb725f8a76",
+                "Handle": "Tamada",
+                "Hero": "*Catherine*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:28:30+0000",
+            "payload": {
+                "Player": "90a8c652-aedc-11e4-ad86-06d90c28bf1a",
+                "Handle": "Nilton",
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:28:42+0000",
+            "payload": {
+                "Player": "239beb7e-38bb-11e6-92b2-062cb73cdbb1",
+                "Handle": "xKingX",
+                "Hero": "*Vox*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:29:01+0000",
+            "payload": {
+                "Player": "2dd8799a-78d7-11e4-a68c-06d90c28bf1a",
+                "Handle": "zKarnage",
+                "Hero": "*Kestrel*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

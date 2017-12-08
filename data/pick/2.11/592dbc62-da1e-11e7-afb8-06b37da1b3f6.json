@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:42:55+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Alpha*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:43:02+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:43:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7ce4ff50-fb6f-11e6-b62f-020ecf4900d0",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "proKrul"
+            }
+        },
+        {
+            "time": "2017-12-06T00:43:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d57157bc-33c6-11e5-87d4-06f4ee369f53",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "AkuseruX"
+            }
+        },
+        {
+            "time": "2017-12-06T00:43:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "af158610-7166-11e4-9c3c-06641bcbf424",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "Airwreckage"
+            }
+        },
+        {
+            "time": "2017-12-06T00:44:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "96dc6a80-2062-11e6-a0e3-06c5ee41a4a5",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "DarkenKiller"
+            }
+        },
+        {
+            "time": "2017-12-06T00:44:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9137c874-62ec-11e5-9b7a-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "edwinthegreat"
+            }
+        },
+        {
+            "time": "2017-12-06T00:44:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3686d448-42b6-11e5-89fb-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "TheDragonKai"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

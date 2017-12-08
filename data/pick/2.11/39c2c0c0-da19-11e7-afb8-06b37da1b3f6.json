@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:06:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "46539a2c-ce4d-11e6-b668-068789513eb5",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Efesto96"
+            }
+        },
+        {
+            "time": "2017-12-06T00:06:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "eb7ec0de-c8b2-11e7-b97b-0654fca4c20c",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "1Elo"
+            }
+        },
+        {
+            "time": "2017-12-06T00:06:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8a92f2a2-0f7d-11e7-b1f9-062cb73cdbb1",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "dragon3601"
+            }
+        },
+        {
+            "time": "2017-12-06T00:06:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "565b6ab8-a512-11e5-9244-06f4ee369f53",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "Alejandro82"
+            }
+        },
+        {
+            "time": "2017-12-06T00:06:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3ff06e52-ae84-11e4-88e9-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "SnakeHorseLord"
+            }
+        },
+        {
+            "time": "2017-12-06T00:06:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7301b9b0-5b3e-11e5-bf33-068789513eb5",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "DiegoLeo"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

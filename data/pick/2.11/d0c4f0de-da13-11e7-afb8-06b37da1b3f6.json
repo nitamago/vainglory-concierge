@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:27:40+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:27:51+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Ardan*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:27:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "458db71e-c7b2-11e5-a365-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "Ryleepro88"
+            }
+        },
+        {
+            "time": "2017-12-05T23:27:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cee1a29c-dc8d-11e5-b7fc-06388a2f2ea7",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "Project152"
+            }
+        },
+        {
+            "time": "2017-12-05T23:27:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "280d003a-3b91-11e5-8b54-0628b69bf6d1",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "RoyBrandt"
+            }
+        },
+        {
+            "time": "2017-12-05T23:28:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4c99660e-c24b-11e6-800e-06f4ee369f53",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "ShaperOfWorlds"
+            }
+        },
+        {
+            "time": "2017-12-05T23:28:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "81cbbbbc-161a-11e5-a694-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "terryence"
+            }
+        },
+        {
+            "time": "2017-12-05T23:28:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8f740e0e-22db-11e5-a3b6-06b48b82cd49",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "PureChaos666"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:00:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f8c25ae8-9df3-11e6-ab10-06b48b82cd49",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Genigma"
+            }
+        },
+        {
+            "time": "2017-12-06T01:00:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d8d3a5e8-a795-11e5-b8b7-06f4ee369f53",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "zeroced"
+            }
+        },
+        {
+            "time": "2017-12-06T01:01:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ecc140a0-7f21-11e7-a65f-0297ea8a7ddc",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "Inuyari"
+            }
+        },
+        {
+            "time": "2017-12-06T01:01:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "94cba7ec-71fe-11e4-961b-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "waterphenox"
+            }
+        },
+        {
+            "time": "2017-12-06T01:01:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "44e7099e-88f6-11e7-b10a-02866102f5a6",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "IsRaEl"
+            }
+        },
+        {
+            "time": "2017-12-06T01:01:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "784b7076-0dcd-11e7-a5d8-062cb73cdbb1",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "killamockingbird"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

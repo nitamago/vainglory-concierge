@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:10:30+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:10:36+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Alpha*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:10:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1932e8bc-39bb-11e6-a60a-068789513eb5",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "Suzsano"
+            }
+        },
+        {
+            "time": "2017-12-06T01:11:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4527b86a-1942-11e6-aeb7-06c5ee41a4a5",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Logger20"
+            }
+        },
+        {
+            "time": "2017-12-06T01:11:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "79426c0a-00eb-11e5-bb07-06d90c28bf1a",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "SUPERmario"
+            }
+        },
+        {
+            "time": "2017-12-06T01:11:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "48c871e8-3667-11e6-a3ca-06388a2f2ea7",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "Crimzoncrusade"
+            }
+        },
+        {
+            "time": "2017-12-06T01:11:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e7f35860-367f-11e6-9451-06f4ee369f53",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Legendork"
+            }
+        },
+        {
+            "time": "2017-12-06T01:11:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "509bae62-8e52-11e4-ae0c-06d90c28bf1a",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "PumpkinBtch"
+            }
+        }
+    ],
+    "winner": "another"
+}

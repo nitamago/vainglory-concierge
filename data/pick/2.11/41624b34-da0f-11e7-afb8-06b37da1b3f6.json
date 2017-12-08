@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T22:55:00+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T22:55:18+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T22:55:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bb756756-a409-11e4-9d4c-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "Grvpes"
+            }
+        },
+        {
+            "time": "2017-12-05T22:55:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3325bd8a-e1af-11e5-b38e-06d90c28bf1a",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "iLoveBen"
+            }
+        },
+        {
+            "time": "2017-12-05T22:55:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "935f5afc-4304-11e5-9662-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Flowerboi"
+            }
+        },
+        {
+            "time": "2017-12-05T22:55:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5921ebc8-cb08-11e7-8016-02ce883f709a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "RedKes"
+            }
+        },
+        {
+            "time": "2017-12-05T22:56:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "893fbecc-5957-11e5-b210-0628b69bf6d1",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "tankyy"
+            }
+        },
+        {
+            "time": "2017-12-05T22:56:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0b716a76-7a6d-11e6-bf53-06b48b82cd49",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "Frameblade"
+            }
+        }
+    ],
+    "winner": "another"
+}

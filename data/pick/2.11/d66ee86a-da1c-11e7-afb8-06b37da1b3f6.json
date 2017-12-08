@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:32:20+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:32:32+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:32:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "94f426cc-1e2d-11e6-986d-0628b69bf6d1",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "Marquez121"
+            }
+        },
+        {
+            "time": "2017-12-06T00:32:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "af632a8e-f155-11e6-b9d6-02866102f5a6",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Xander500"
+            }
+        },
+        {
+            "time": "2017-12-06T00:33:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fa1a7850-5b0d-11e5-8c6c-068789513eb5",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "Drizztskilllvl"
+            }
+        },
+        {
+            "time": "2017-12-06T00:33:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2faa03bc-b0c4-11e5-a3f9-06eb725f8a76",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "JesusHolkCrew"
+            }
+        },
+        {
+            "time": "2017-12-06T00:33:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ef7e2c06-24f4-11e5-8e1f-068789513eb5",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "JKidding"
+            }
+        },
+        {
+            "time": "2017-12-06T00:33:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b5a998ce-c69b-11e4-b314-06eb725f8a76",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "LurknMurk"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

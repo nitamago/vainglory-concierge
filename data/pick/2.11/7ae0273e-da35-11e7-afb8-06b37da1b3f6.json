@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:28:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3096cb44-2e62-11e7-bb87-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "HeavyD3"
+            }
+        },
+        {
+            "time": "2017-12-06T03:28:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8746e71a-8ea4-11e7-8e5a-06fc87f1dd11",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "HotNReadyPizza"
+            }
+        },
+        {
+            "time": "2017-12-06T03:28:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e1efb728-7aef-11e7-9249-02081e0fc90e",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "GunOil"
+            }
+        },
+        {
+            "time": "2017-12-06T03:28:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "df8502c4-8400-11e4-bc89-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Ace2020"
+            }
+        },
+        {
+            "time": "2017-12-06T03:28:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1ea4fb6c-421e-11e6-a5db-062cb73cdbb1",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "NeoXOver"
+            }
+        },
+        {
+            "time": "2017-12-06T03:29:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "967a8b10-bd16-11e7-ad0d-06c5ee41a4a5",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "bebelin"
+            }
+        }
+    ],
+    "winner": "another"
+}

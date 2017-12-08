@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:38:56+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:39:24+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:39:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c5f6ad5e-6660-11e7-8c67-06fc87f1dd11",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "iLOveAudrey"
+            }
+        },
+        {
+            "time": "2017-12-06T03:40:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4566031c-dbeb-11e4-8568-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "kingkeemy4884"
+            }
+        },
+        {
+            "time": "2017-12-06T03:40:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6e188040-0315-11e5-bd2b-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "StandinSolo"
+            }
+        },
+        {
+            "time": "2017-12-06T03:40:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "157a9f22-d5c9-11e5-b83b-06388a2f2ea7",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "IcedSpark"
+            }
+        },
+        {
+            "time": "2017-12-06T03:40:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "96f32cf4-8953-11e4-8ebd-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "Ctf"
+            }
+        },
+        {
+            "time": "2017-12-06T03:40:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7466324c-c465-11e4-9157-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "MANNY"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

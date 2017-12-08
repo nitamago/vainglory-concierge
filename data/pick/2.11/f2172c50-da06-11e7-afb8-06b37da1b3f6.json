@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:55:17+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:55:29+0000",
+            "payload": {
+                "Hero": "*Alpha*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:55:48+0000",
+            "payload": {
+                "Player": "345da0d0-9e73-11e4-8566-06eb725f8a76",
+                "Handle": "Luna8",
+                "Hero": "*Catherine*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:56:01+0000",
+            "payload": {
+                "Player": "a5b6b7e6-60d6-11e5-9d5f-06f4ee369f53",
+                "Handle": "MUERTEBLANCA",
+                "Hero": "*Lyra*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:56:10+0000",
+            "payload": {
+                "Player": "4c99660e-c24b-11e6-800e-06f4ee369f53",
+                "Handle": "ShaperOfWorlds",
+                "Hero": "*Gwen*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:56:28+0000",
+            "payload": {
+                "Player": "44defe62-364e-11e6-80c2-06c5ee41a4a5",
+                "Handle": "RebornTenko",
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:56:52+0000",
+            "payload": {
+                "Player": "3a2e0956-d150-11e7-8e3d-0654fca4c20c",
+                "Handle": "xAzalea",
+                "Hero": "*Baron*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:56:56+0000",
+            "payload": {
+                "Player": "3f0eb880-c71a-11e6-b943-068789513eb5",
+                "Handle": "Deckur",
+                "Hero": "*Petal*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

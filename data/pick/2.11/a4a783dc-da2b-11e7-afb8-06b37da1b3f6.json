@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:18:28+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:18:50+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Alpha*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:19:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b49bff6e-42d1-11e5-8133-06f4ee369f53",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Androxd117"
+            }
+        },
+        {
+            "time": "2017-12-06T02:19:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3882a134-577a-11e7-a046-06388a2f2ea7",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "OzGodly3"
+            }
+        },
+        {
+            "time": "2017-12-06T02:19:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "23aca4d4-02ae-11e6-aaec-0628b69bf6d1",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "JoshuaAlonso"
+            }
+        },
+        {
+            "time": "2017-12-06T02:20:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e82e0840-7716-11e4-8b95-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "NINE"
+            }
+        },
+        {
+            "time": "2017-12-06T02:20:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4cd54924-c5fa-11e5-b387-06f4ee369f53",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "TheRealMordoc"
+            }
+        },
+        {
+            "time": "2017-12-06T02:20:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c042f19e-751b-11e4-96e8-06d90c28bf1a",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "SightUnseen"
+            }
+        }
+    ],
+    "winner": "another"
+}

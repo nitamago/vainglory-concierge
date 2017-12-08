@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T23:57:18+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:57:28+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:57:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fae47f56-4523-11e5-a717-068789513eb5",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "PetalNA"
+            }
+        },
+        {
+            "time": "2017-12-05T23:57:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5ab3e3e8-d856-11e5-853f-0628b69bf6d1",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Reaperslash11"
+            }
+        },
+        {
+            "time": "2017-12-05T23:57:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6942e2ee-acee-11e5-b45d-06f4ee369f53",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Rayer23"
+            }
+        },
+        {
+            "time": "2017-12-05T23:58:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "315891d4-834f-11e6-8da1-067e8bc536fd",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "metime78"
+            }
+        },
+        {
+            "time": "2017-12-05T23:58:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "aa682994-0b5a-11e6-b916-0628b69bf6d1",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "KrillerGames"
+            }
+        },
+        {
+            "time": "2017-12-05T23:58:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "12691bfe-68bf-11e6-be3f-06ab1a16f8e5",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Kramir7"
+            }
+        }
+    ],
+    "winner": "another"
+}

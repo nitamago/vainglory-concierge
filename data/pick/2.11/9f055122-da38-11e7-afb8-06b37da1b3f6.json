@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:51:16+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Skye*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:51:18+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:51:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "17000e5c-0b14-11e5-b6e7-06d90c28bf1a",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "Wavebreaker"
+            }
+        },
+        {
+            "time": "2017-12-06T03:51:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3face6a8-4958-11e6-8c4e-06ab1a16f8e5",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "arrowjules"
+            }
+        },
+        {
+            "time": "2017-12-06T03:51:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8d89d0f0-87f5-11e4-bf9c-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "spratos"
+            }
+        },
+        {
+            "time": "2017-12-06T03:51:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "57055ea2-1974-11e6-a838-06fc87f1dd11",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "DefaultError"
+            }
+        },
+        {
+            "time": "2017-12-06T03:52:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "068ba336-bf39-11e5-84e3-0628b69bf6d1",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "alldaywakebake"
+            }
+        },
+        {
+            "time": "2017-12-06T03:52:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c9413bf4-fd2b-11e5-ad87-06f4ee369f53",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "ImUrOwner"
+            }
+        }
+    ],
+    "winner": "another"
+}

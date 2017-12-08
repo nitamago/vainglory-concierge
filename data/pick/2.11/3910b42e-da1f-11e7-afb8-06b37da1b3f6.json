@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:49:09+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:49:34+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:49:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "51662ce8-132a-11e5-9069-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "Reiku"
+            }
+        },
+        {
+            "time": "2017-12-06T00:50:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "783d4dd6-f6e3-11e5-ab80-068789513eb5",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "FeelsOnWheels"
+            }
+        },
+        {
+            "time": "2017-12-06T00:50:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cc2bd642-8efc-11e4-a8d3-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "XyberJosh"
+            }
+        },
+        {
+            "time": "2017-12-06T00:50:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "918820c0-8660-11e5-8d65-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "iAmbition"
+            }
+        },
+        {
+            "time": "2017-12-06T00:50:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "46119e00-1103-11e5-ba2d-06eb725f8a76",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "Qbuert"
+            }
+        },
+        {
+            "time": "2017-12-06T00:51:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ca01dc28-31cf-11e6-a319-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "iLovejesus"
+            }
+        }
+    ],
+    "winner": "another"
+}

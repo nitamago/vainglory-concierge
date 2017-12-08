@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:41:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d3922090-3d5a-11e6-9842-0628b69bf6d1",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "YoungEscobar"
+            }
+        },
+        {
+            "time": "2017-12-06T00:41:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b1d21e36-78e1-11e4-ba76-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "eshquia"
+            }
+        },
+        {
+            "time": "2017-12-06T00:41:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "45b9ea54-fbb1-11e5-9f0b-06f4ee369f53",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "GANX"
+            }
+        },
+        {
+            "time": "2017-12-06T00:41:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d3aa9238-2d9d-11e5-8816-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "RomanWarrior1204"
+            }
+        },
+        {
+            "time": "2017-12-06T00:41:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c579188a-72a2-11e4-933c-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "yjk828"
+            }
+        },
+        {
+            "time": "2017-12-06T00:41:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b5cc82ba-a816-11e4-b47c-06eb725f8a76",
+                "Hero": "*Flicker*",
+                "Team": "2",
+                "Handle": "Rizwan"
+            }
+        }
+    ],
+    "winner": "another"
+}

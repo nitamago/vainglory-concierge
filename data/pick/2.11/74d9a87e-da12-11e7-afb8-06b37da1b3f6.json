@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T23:17:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "aed12590-af6f-11e5-a27b-06d90c28bf1a",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "kente1126"
+            }
+        },
+        {
+            "time": "2017-12-05T23:18:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "55fec34a-80d7-11e4-bb00-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Shmoopy"
+            }
+        },
+        {
+            "time": "2017-12-05T23:18:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5d4c7c88-68b1-11e5-b94d-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Spectrus"
+            }
+        },
+        {
+            "time": "2017-12-05T23:18:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d4301372-f232-11e5-84be-06d90c28bf1a",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "Cupcrake"
+            }
+        },
+        {
+            "time": "2017-12-05T23:18:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f14866a4-e421-11e5-a749-068789513eb5",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "brokeblokegg"
+            }
+        },
+        {
+            "time": "2017-12-05T23:18:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cef99f88-3a7a-11e5-9027-06b48b82cd49",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "Zacharia"
+            }
+        }
+    ],
+    "winner": "another"
+}

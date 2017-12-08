@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:03:14+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:03:39+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:03:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "db5528b8-bec6-11e4-9f6a-06d90c28bf1a",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "Dodanga"
+            }
+        },
+        {
+            "time": "2017-12-06T04:03:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a8941370-3bf9-11e5-881e-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "KuyaRice"
+            }
+        },
+        {
+            "time": "2017-12-06T04:03:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7ba74ae6-72ee-11e4-a192-06d90c28bf1a",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "C4bb4ge"
+            }
+        },
+        {
+            "time": "2017-12-06T04:04:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "338c8a68-21ea-11e5-9904-068789513eb5",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "Selvin504"
+            }
+        },
+        {
+            "time": "2017-12-06T04:04:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "afbe2050-8f68-11e6-9804-06d90c28bf1a",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "FatesForever"
+            }
+        },
+        {
+            "time": "2017-12-06T04:04:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9a70ae0a-746e-11e4-a9c0-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "DerRabbit"
+            }
+        }
+    ],
+    "winner": "another"
+}

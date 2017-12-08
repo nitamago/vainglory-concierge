@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:53:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "044fdbaa-3712-11e5-b3e6-06d90c28bf1a",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "SephirothOG"
+            }
+        },
+        {
+            "time": "2017-12-06T03:53:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "27b72a5a-4232-11e5-b9e1-06f4ee369f53",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "XpabloGamer03"
+            }
+        },
+        {
+            "time": "2017-12-06T03:53:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c1798a4c-b86a-11e7-b990-06ab1a16f8e5",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Kubanito"
+            }
+        },
+        {
+            "time": "2017-12-06T03:53:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "252997aa-e5c5-11e5-a615-0628b69bf6d1",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "Vanarost"
+            }
+        },
+        {
+            "time": "2017-12-06T03:53:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f2850baa-c976-11e5-954b-068789513eb5",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "MindBogglin"
+            }
+        },
+        {
+            "time": "2017-12-06T03:54:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "34d6e2da-9886-11e4-ae0c-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "sheedster"
+            }
+        }
+    ],
+    "winner": "another"
+}

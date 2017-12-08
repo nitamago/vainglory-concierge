@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T22:40:28+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T22:40:33+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Skye*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T22:40:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "01a47828-34e9-11e5-8ae7-0628b69bf6d1",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "bluer123"
+            }
+        },
+        {
+            "time": "2017-12-05T22:40:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5a242140-fd44-11e6-8107-06f4ee369f53",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "lmpale"
+            }
+        },
+        {
+            "time": "2017-12-05T22:40:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "066a708e-4e18-11e7-9038-02b3611af5e6",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Futureplays"
+            }
+        },
+        {
+            "time": "2017-12-05T22:41:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a6c63ed8-7741-11e4-bac5-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Ooo0ooO"
+            }
+        },
+        {
+            "time": "2017-12-05T22:41:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f6bac696-9222-11e5-a799-06f4ee369f53",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "DivineStorm"
+            }
+        },
+        {
+            "time": "2017-12-05T22:41:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f0997cb4-6d63-11e5-bc65-06f4ee369f53",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "DieNuBs"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

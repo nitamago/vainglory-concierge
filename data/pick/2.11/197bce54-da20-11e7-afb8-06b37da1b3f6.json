@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:55:28+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:55:36+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:55:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c6408f18-ca7a-11e7-a2ae-06b672bd5be2",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "UrANub"
+            }
+        },
+        {
+            "time": "2017-12-06T00:56:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "10505930-510a-11e6-807d-06ab1a16f8e5",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "grandass"
+            }
+        },
+        {
+            "time": "2017-12-06T00:56:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "048c7552-44f7-11e7-a685-06388a2f2ea7",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "C0NV0Y"
+            }
+        },
+        {
+            "time": "2017-12-06T00:56:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "02119d2e-664b-11e6-97ad-06eb725f8a76",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "onrefnlx"
+            }
+        },
+        {
+            "time": "2017-12-06T00:57:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b9749f22-b2d3-11e7-be48-02f3b4306918",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Charmandor"
+            }
+        },
+        {
+            "time": "2017-12-06T00:57:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "61135828-37bf-11e5-a150-06d90c28bf1a",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "Archender"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

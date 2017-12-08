@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:15:50+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:16:15+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Skye*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:16:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "21465314-6deb-11e5-990d-06f4ee369f53",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Supwes12"
+            }
+        },
+        {
+            "time": "2017-12-06T02:16:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "71c56248-78b0-11e4-9fcd-06d90c28bf1a",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "Legend_Warfare"
+            }
+        },
+        {
+            "time": "2017-12-06T02:16:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "578ab61c-de13-11e4-903b-06eb725f8a76",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "timothy81185"
+            }
+        },
+        {
+            "time": "2017-12-06T02:17:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6796a68c-a9fc-11e5-9378-06b48b82cd49",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "Argixaan"
+            }
+        },
+        {
+            "time": "2017-12-06T02:17:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e4470cd0-7122-11e4-97bd-062d0b175276",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Aquio"
+            }
+        },
+        {
+            "time": "2017-12-06T02:17:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "90d219d8-a30b-11e6-aa43-06d90c28bf1a",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "TC7777"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:17:33+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:17:36+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Ardan*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:17:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f55e7902-31ed-11e7-a86d-029cb633549e",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "LemLegend3"
+            }
+        },
+        {
+            "time": "2017-12-06T04:18:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7ad69420-8ff0-11e6-9ce5-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "CondeWolf"
+            }
+        },
+        {
+            "time": "2017-12-06T04:18:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b642a5fa-03b6-11e7-84da-02081e0fc90e",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "SCORPA"
+            }
+        },
+        {
+            "time": "2017-12-06T04:18:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bffdeb62-01ce-11e6-8574-06b48b82cd49",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "Sather"
+            }
+        },
+        {
+            "time": "2017-12-06T04:18:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "04630eb2-59c9-11e5-b209-06b48b82cd49",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "Lemonicus"
+            }
+        },
+        {
+            "time": "2017-12-06T04:18:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a0c550ac-4237-11e5-9ae4-068789513eb5",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "TheUnsullied1"
+            }
+        }
+    ],
+    "winner": "another"
+}

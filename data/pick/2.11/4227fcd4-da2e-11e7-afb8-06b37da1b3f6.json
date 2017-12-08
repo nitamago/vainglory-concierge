@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:36:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d825be8a-fd51-11e5-a8a6-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "dragonking91"
+            }
+        },
+        {
+            "time": "2017-12-06T02:36:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8075d55a-aca3-11e7-80f5-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "ShadowStalker12"
+            }
+        },
+        {
+            "time": "2017-12-06T02:36:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2b8c7e48-883a-11e5-9453-06b48b82cd49",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "cRo78oRc"
+            }
+        },
+        {
+            "time": "2017-12-06T02:37:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "49341bc8-b160-11e5-b88f-06eb725f8a76",
+                "Hero": "*Samuel*",
+                "Team": "1",
+                "Handle": "McSmashum"
+            }
+        },
+        {
+            "time": "2017-12-06T02:37:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6207904a-d676-11e5-b010-06f4ee369f53",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "kingleen"
+            }
+        },
+        {
+            "time": "2017-12-06T02:37:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a6926120-e2c5-11e6-ac44-062cb73cdbb1",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "Gamebred"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

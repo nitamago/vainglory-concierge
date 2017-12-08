@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:52:10+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:52:15+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:52:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f03e6764-c15c-11e5-8463-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Henrry27"
+            }
+        },
+        {
+            "time": "2017-12-06T00:52:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cc811758-179e-11e5-96c7-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "CyberTraxx"
+            }
+        },
+        {
+            "time": "2017-12-06T00:52:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9ae205e6-9218-11e5-a7ae-06f4ee369f53",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "THEKILLERJOKER"
+            }
+        },
+        {
+            "time": "2017-12-06T00:53:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b1bce644-e1bf-11e6-ac8f-06ab1a16f8e5",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "Ke3ubi"
+            }
+        },
+        {
+            "time": "2017-12-06T00:53:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "91658fa2-d5c4-11e5-ab98-06ab1a16f8e5",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "senpaikaneki"
+            }
+        },
+        {
+            "time": "2017-12-06T00:53:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "17163e62-0807-11e5-8385-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "Esteban534"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

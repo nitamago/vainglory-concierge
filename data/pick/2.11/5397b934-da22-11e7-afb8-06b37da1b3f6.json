@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:11:38+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:11:39+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:11:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "60c9f834-a487-11e4-9bb5-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "PooThrower"
+            }
+        },
+        {
+            "time": "2017-12-06T01:12:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2ddd5504-ac81-11e4-9b4e-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "amazingkg"
+            }
+        },
+        {
+            "time": "2017-12-06T01:12:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4c99660e-c24b-11e6-800e-06f4ee369f53",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "ShaperOfWorlds"
+            }
+        },
+        {
+            "time": "2017-12-06T01:12:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9f80350a-37dc-11e5-946e-06d90c28bf1a",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "Finessin"
+            }
+        },
+        {
+            "time": "2017-12-06T01:12:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6dd4fb66-4322-11e5-935a-06f4ee369f53",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "basketpaul"
+            }
+        },
+        {
+            "time": "2017-12-06T01:12:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "458db71e-c7b2-11e5-a365-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Ryleepro88"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

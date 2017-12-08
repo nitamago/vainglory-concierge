@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:46:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9632e8b0-1275-11e7-8be1-02081e0fc90e",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "wolf9292"
+            }
+        },
+        {
+            "time": "2017-12-06T00:46:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0ab3be6a-6af4-11e5-a28b-06d90c28bf1a",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "guadalahabra"
+            }
+        },
+        {
+            "time": "2017-12-06T00:46:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6ad59b4e-feea-11e5-91ca-06388a2f2ea7",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "miggz91"
+            }
+        },
+        {
+            "time": "2017-12-06T00:46:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "25972342-99d5-11e5-9a73-0628b69bf6d1",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "EchoZ1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:47:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "64fd441e-2363-11e5-a585-068789513eb5",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "Wizard10fun"
+            }
+        },
+        {
+            "time": "2017-12-06T00:47:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "937ac098-ee3f-11e6-b6a2-06b48b82cd49",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "AceOfTheUnKnown"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

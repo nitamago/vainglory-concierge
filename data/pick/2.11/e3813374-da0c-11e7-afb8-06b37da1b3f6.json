@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T22:37:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "47384d0e-d2a6-11e6-ae3b-067e8bc536fd",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Xisle"
+            }
+        },
+        {
+            "time": "2017-12-05T22:38:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "661c4666-ffb1-11e6-9c2a-068789513eb5",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "EnragedZoro"
+            }
+        },
+        {
+            "time": "2017-12-05T22:38:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "88d3be7c-c223-11e5-a5d3-06f4ee369f53",
+                "Hero": "*Flicker*",
+                "Team": "2",
+                "Handle": "BladeCrazed"
+            }
+        },
+        {
+            "time": "2017-12-05T22:38:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f010b69e-ca2e-11e6-a893-06f4ee369f53",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "hanibalpanda"
+            }
+        },
+        {
+            "time": "2017-12-05T22:38:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ca0b83e4-4813-11e7-a2ce-0224e22aef46",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "PGghost"
+            }
+        },
+        {
+            "time": "2017-12-05T22:38:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "82650ce6-e635-11e4-9787-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "narutodragneel"
+            }
+        }
+    ],
+    "winner": "another"
+}

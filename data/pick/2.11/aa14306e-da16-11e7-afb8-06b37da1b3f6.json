@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:48:04+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Glaive*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:48:09+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Alpha*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:48:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "71bd1d20-706f-11e4-9c3c-06641bcbf424",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "blex"
+            }
+        },
+        {
+            "time": "2017-12-05T23:48:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a75dfaa0-d7a3-11e7-9017-06b672bd5be2",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "InfinityForce"
+            }
+        },
+        {
+            "time": "2017-12-05T23:48:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "adb6bc12-9f74-11e4-9a9d-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Figget "
+            }
+        },
+        {
+            "time": "2017-12-05T23:48:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fdd0bb1a-1fb3-11e6-aa6b-06388a2f2ea7",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "AkaneOkami"
+            }
+        },
+        {
+            "time": "2017-12-05T23:49:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "603f2566-056b-11e5-be3e-06eb725f8a76",
+                "Hero": "*Flicker*",
+                "Team": "1",
+                "Handle": "TheGodOsiris"
+            }
+        },
+        {
+            "time": "2017-12-05T23:49:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c300790c-cd78-11e7-8e77-02ce883f709a",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "Kur0Sensei"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:47:32+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:47:37+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:47:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e4a9ddc8-f91d-11e4-bb67-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "BEEFandBroccoli"
+            }
+        },
+        {
+            "time": "2017-12-06T03:48:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0510408e-3f86-11e6-976d-062cb73cdbb1",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "GhostHusky"
+            }
+        },
+        {
+            "time": "2017-12-06T03:48:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0b716a76-7a6d-11e6-bf53-06b48b82cd49",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "Frameblade"
+            }
+        },
+        {
+            "time": "2017-12-06T03:48:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "59f4d24a-c108-11e7-a87b-06eb725f8a76",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "repIay"
+            }
+        },
+        {
+            "time": "2017-12-06T03:48:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c5c77ad0-fd56-11e5-8730-068789513eb5",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "VerSaceY"
+            }
+        },
+        {
+            "time": "2017-12-06T03:48:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "97369e46-8829-11e5-8d8c-06eb725f8a76",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "ExamiNationZun"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

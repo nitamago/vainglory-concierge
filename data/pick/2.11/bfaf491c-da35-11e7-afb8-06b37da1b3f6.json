@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:30:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dd9c945e-7447-11e4-ba76-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Rudolpho"
+            }
+        },
+        {
+            "time": "2017-12-06T03:30:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e399c20e-b2d9-11e7-b757-067e8bc536fd",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "CharlesSinclair"
+            }
+        },
+        {
+            "time": "2017-12-06T03:30:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7c7fd980-69c6-11e6-949c-06ab1a16f8e5",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "FrenchPress"
+            }
+        },
+        {
+            "time": "2017-12-06T03:30:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fa403384-9c28-11e7-ac34-06a9175d25fa",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "ThomasFoolery"
+            }
+        },
+        {
+            "time": "2017-12-06T03:30:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0d8dde28-6e86-11e5-a2e1-06f4ee369f53",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Friedrice14"
+            }
+        },
+        {
+            "time": "2017-12-06T03:30:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "23d8ed44-a83c-11e6-815a-06fc87f1dd11",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "666Harambae666"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:58:59+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Ardan*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:59:01+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:59:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4c01a470-904f-11e4-9144-06eb725f8a76",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "Psyrenous"
+            }
+        },
+        {
+            "time": "2017-12-06T03:59:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8a3d12b8-6855-11e5-8ddb-06b48b82cd49",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "EmperorTrump1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:59:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "473bf964-9e7c-11e4-9dc5-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "BobbehB"
+            }
+        },
+        {
+            "time": "2017-12-06T04:00:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f9e92bb8-2860-11e5-828e-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "BASTER510"
+            }
+        },
+        {
+            "time": "2017-12-06T04:00:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ca48173c-ddd4-11e5-bd50-062cb73cdbb1",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "STARSTRUCK"
+            }
+        },
+        {
+            "time": "2017-12-06T04:00:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "91624b5c-6f2d-11e4-a8d1-06641bcbf424",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "maherz"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

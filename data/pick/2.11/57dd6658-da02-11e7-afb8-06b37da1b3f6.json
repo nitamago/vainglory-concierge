@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:22:29+0000",
+            "payload": {
+                "Hero": "*Churnwalker*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:22:37+0000",
+            "payload": {
+                "Hero": "*Ardan*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:22:39+0000",
+            "payload": {
+                "Player": "870b7646-d121-11e4-8c14-06d90c28bf1a",
+                "Handle": "mag187",
+                "Hero": "*Koshka*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:22:42+0000",
+            "payload": {
+                "Player": "7ad69420-8ff0-11e6-9ce5-06eb725f8a76",
+                "Handle": "CondeWolf",
+                "Hero": "*Lyra*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:22:53+0000",
+            "payload": {
+                "Player": "4c0645f0-7cf9-11e6-af64-062cb73cdbb1",
+                "Handle": "wlee4",
+                "Hero": "*SAW*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:22:54+0000",
+            "payload": {
+                "Player": "68939eae-6ed0-11e4-af50-062d0b175276",
+                "Handle": "angelwolf",
+                "Hero": "*Grace*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:22:58+0000",
+            "payload": {
+                "Player": "e3da3bba-213e-11e5-96a9-06f4ee369f53",
+                "Handle": "H0777",
+                "Hero": "*Ringo*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:23:21+0000",
+            "payload": {
+                "Player": "0254da16-d086-11e7-8443-02ce883f709a",
+                "Handle": "NolyFabulous",
+                "Hero": "*Taka*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:56:50+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:56:58+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:57:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bb7bbda8-bff7-11e5-aa55-06b48b82cd49",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "SaltyLaw"
+            }
+        },
+        {
+            "time": "2017-12-06T02:57:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3325bd8a-e1af-11e5-b38e-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "iLoveBen"
+            }
+        },
+        {
+            "time": "2017-12-06T02:58:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "935f5afc-4304-11e5-9662-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Flowerboi"
+            }
+        },
+        {
+            "time": "2017-12-06T02:58:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cec4cfdc-01c3-11e5-b8cd-06d90c28bf1a",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "AryaHuntress"
+            }
+        },
+        {
+            "time": "2017-12-06T02:58:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "94a4a666-65d1-11e5-81dc-06b48b82cd49",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "PvMonster"
+            }
+        },
+        {
+            "time": "2017-12-06T02:59:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0a43fa64-861e-11e4-a8e1-06d90c28bf1a",
+                "Hero": "*Ozo*",
+                "Team": "2",
+                "Handle": "JtG"
+            }
+        }
+    ],
+    "winner": "another"
+}

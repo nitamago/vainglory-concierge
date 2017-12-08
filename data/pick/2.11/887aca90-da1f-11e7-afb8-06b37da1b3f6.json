@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:51:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "243df58e-bff0-11e5-a5d3-06f4ee369f53",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Stuzal"
+            }
+        },
+        {
+            "time": "2017-12-06T00:51:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8dc0e1f6-8ee1-11e4-94a3-06d90c28bf1a",
+                "Hero": "*Ozo*",
+                "Team": "1",
+                "Handle": "lincolnabe"
+            }
+        },
+        {
+            "time": "2017-12-06T00:51:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cae67290-c858-11e7-934c-0654fca4c20c",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "Masternate"
+            }
+        },
+        {
+            "time": "2017-12-06T00:52:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5585233a-56d9-11e6-ac80-06f4ee369f53",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "aSHAN"
+            }
+        },
+        {
+            "time": "2017-12-06T00:52:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "44250fc8-63ea-11e7-b5dd-062cb73cdbb1",
+                "Hero": "*Reza*",
+                "Team": "2",
+                "Handle": "DynoCat76"
+            }
+        },
+        {
+            "time": "2017-12-06T00:52:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e4dee7fe-7d1d-11e6-a31d-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "SAKURAZAWA"
+            }
+        }
+    ],
+    "winner": "another"
+}

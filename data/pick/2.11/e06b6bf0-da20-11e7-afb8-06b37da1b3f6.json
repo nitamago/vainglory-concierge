@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:01:13+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Grace*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:01:17+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:01:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0dee80de-3c1b-11e7-b15b-06a9175d25fa",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "GothicLolis"
+            }
+        },
+        {
+            "time": "2017-12-06T01:01:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "184b3330-3571-11e6-97bb-06b48b82cd49",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "alfonsox93"
+            }
+        },
+        {
+            "time": "2017-12-06T01:01:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9e35c70e-fc35-11e6-9c98-06c5ee41a4a5",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "TheAdo"
+            }
+        },
+        {
+            "time": "2017-12-06T01:02:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0778cc62-c8a9-11e7-ba0d-020c8314066a",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "WishIHadSkins"
+            }
+        },
+        {
+            "time": "2017-12-06T01:02:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "85a630de-59d8-11e6-a9c0-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "AutumnEclipse"
+            }
+        },
+        {
+            "time": "2017-12-06T01:02:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5660af62-2b60-11e6-a1d5-06b48b82cd49",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "llCuatroOll"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

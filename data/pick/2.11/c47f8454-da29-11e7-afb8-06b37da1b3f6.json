@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:04:45+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:04:50+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:04:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1ae5d204-f4bf-11e6-bf9e-06fc87f1dd11",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "sokt"
+            }
+        },
+        {
+            "time": "2017-12-06T02:05:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "342bf2ae-74ea-11e4-a232-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "AlexWeapons"
+            }
+        },
+        {
+            "time": "2017-12-06T02:05:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "29fcd76a-4178-11e6-9544-067e8bc536fd",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "Aghost03"
+            }
+        },
+        {
+            "time": "2017-12-06T02:05:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c15fbc74-eee7-11e4-91bf-06d90c28bf1a",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "Willus11"
+            }
+        },
+        {
+            "time": "2017-12-06T02:06:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "556c5432-be09-11e4-b16f-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "veryrare"
+            }
+        },
+        {
+            "time": "2017-12-06T02:06:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "84713b74-d818-11e5-abf6-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "iNeverDie"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:10:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "aad08582-6b1f-11e6-a01d-06eb725f8a76",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "Dairyu"
+            }
+        },
+        {
+            "time": "2017-12-06T00:10:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "df9e2258-aa35-11e4-9555-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "kappuchino"
+            }
+        },
+        {
+            "time": "2017-12-06T00:10:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1c40cef8-74c7-11e4-a5ea-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "TexCal7"
+            }
+        },
+        {
+            "time": "2017-12-06T00:11:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0f246f96-c0ef-11e7-abee-0297ea8a7ddc",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "Pangel"
+            }
+        },
+        {
+            "time": "2017-12-06T00:11:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b1a09918-d56f-11e7-bdf1-025e5fb8fe9e",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "ZzSupermanzZ"
+            }
+        },
+        {
+            "time": "2017-12-06T00:11:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0ecb4722-09bd-11e5-b1ba-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "AnalParsley"
+            }
+        }
+    ],
+    "winner": "another"
+}

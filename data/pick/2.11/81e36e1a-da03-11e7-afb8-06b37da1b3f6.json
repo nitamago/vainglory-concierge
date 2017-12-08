@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:30:58+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:31:05+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:31:16+0000",
+            "payload": {
+                "Player": "556c5432-be09-11e4-b16f-06d90c28bf1a",
+                "Handle": "veryrare",
+                "Hero": "*Catherine*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:31:19+0000",
+            "payload": {
+                "Player": "6986d21a-c278-11e6-8594-06c5ee41a4a5",
+                "Handle": "cee2bi",
+                "Hero": "*Ardan*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:31:30+0000",
+            "payload": {
+                "Player": "4a856804-9acf-11e4-8ebd-06d90c28bf1a",
+                "Handle": "MisterDuck",
+                "Hero": "*Ringo*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:31:50+0000",
+            "payload": {
+                "Player": "aa27a52c-a6c3-11e6-8534-06c5ee41a4a5",
+                "Handle": "ModeIo",
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:31:55+0000",
+            "payload": {
+                "Player": "84a0cfc0-641c-11e6-b7d6-0628b69bf6d1",
+                "Handle": "GankaSaurusRex",
+                "Hero": "*Koshka*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:31:59+0000",
+            "payload": {
+                "Player": "bdda5366-90b8-11e5-a943-06eb725f8a76",
+                "Handle": "uchija",
+                "Hero": "*Reim*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

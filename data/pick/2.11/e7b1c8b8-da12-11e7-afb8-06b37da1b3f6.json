@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:21:09+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:21:23+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Koshka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:21:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "15ae05ba-ee96-11e6-9cc8-06f4ee369f53",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "heartheat"
+            }
+        },
+        {
+            "time": "2017-12-05T23:21:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "95d387da-14dc-11e7-9634-02866102f5a6",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "ActiveSystem"
+            }
+        },
+        {
+            "time": "2017-12-05T23:22:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "134a134e-3bd3-11e5-97a5-0628b69bf6d1",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Syade"
+            }
+        },
+        {
+            "time": "2017-12-05T23:22:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "758ff3b4-cad2-11e5-abba-06f4ee369f53",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "Inklement"
+            }
+        },
+        {
+            "time": "2017-12-05T23:22:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d3768b38-9114-11e6-96dd-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "ThatKidLuigi"
+            }
+        },
+        {
+            "time": "2017-12-05T23:22:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a99f6046-db2a-11e5-aee4-06b48b82cd49",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "Zayach"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

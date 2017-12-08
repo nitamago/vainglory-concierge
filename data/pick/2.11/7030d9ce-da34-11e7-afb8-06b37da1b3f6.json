@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:21:13+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Joule*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:21:35+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Flicker*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:21:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a5b6b7e6-60d6-11e5-9d5f-06f4ee369f53",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "MUERTEBLANCA"
+            }
+        },
+        {
+            "time": "2017-12-06T03:21:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fc636f16-d80f-11e5-8785-06fc87f1dd11",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "highestfool21"
+            }
+        },
+        {
+            "time": "2017-12-06T03:22:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3cb02d54-bd88-11e5-ae07-06f4ee369f53",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "ExodiaMGS"
+            }
+        },
+        {
+            "time": "2017-12-06T03:22:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e668665a-c616-11e4-acbf-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "gdistruction"
+            }
+        },
+        {
+            "time": "2017-12-06T03:22:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9ad29070-948e-11e5-832e-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "Setuiret"
+            }
+        },
+        {
+            "time": "2017-12-06T03:23:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "458db71e-c7b2-11e5-a365-06eb725f8a76",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "Ryleepro88"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

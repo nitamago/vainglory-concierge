@@ -35,7 +35,7 @@ def get_pick(path):
 
 def pick_list():
     pick_dict = {}
-    for path in glob.glob("data/pick/*.json"):
+    for path in glob.glob("data/pick/2.11/*.json"):
         dic = get_pick(path)
         if dic is not None:
             basename = os.path.basename(path)

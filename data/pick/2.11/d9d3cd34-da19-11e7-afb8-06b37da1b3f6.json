@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:10:37+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:10:53+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:11:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4aef77b4-c830-11e5-b0a2-06b48b82cd49",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "Datazuke"
+            }
+        },
+        {
+            "time": "2017-12-06T00:11:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f9fa020a-a379-11e5-a752-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "WhiTell"
+            }
+        },
+        {
+            "time": "2017-12-06T00:11:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b3a3c75e-90d3-11e5-bd55-0628b69bf6d1",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "MartzZell"
+            }
+        },
+        {
+            "time": "2017-12-06T00:11:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3ed6ac96-b7f7-11e7-940b-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "eKSiF"
+            }
+        },
+        {
+            "time": "2017-12-06T00:11:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cff125fc-c957-11e5-a8ef-06d90c28bf1a",
+                "Hero": "*Samuel*",
+                "Team": "1",
+                "Handle": "xluffy"
+            }
+        },
+        {
+            "time": "2017-12-06T00:12:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0e31760c-996b-11e7-aeff-0224e22aef46",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "ArjunaRamessesII"
+            }
+        }
+    ],
+    "winner": "another"
+}

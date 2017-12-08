@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:07:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "609129c4-6c0e-11e5-9de5-06b48b82cd49",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Orochitara"
+            }
+        },
+        {
+            "time": "2017-12-06T02:07:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dbf59f4c-f6e6-11e5-9cde-06f4ee369f53",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "enderdapanda"
+            }
+        },
+        {
+            "time": "2017-12-06T02:07:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6eb5671c-894f-11e7-8129-0224e22aef46",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "XoNicKillZ"
+            }
+        },
+        {
+            "time": "2017-12-06T02:08:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a2a82362-8737-11e7-bd88-02866102f5a6",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "SunGunSlinger"
+            }
+        },
+        {
+            "time": "2017-12-06T02:08:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5a336580-b0da-11e6-928c-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "BlueShirtMorty"
+            }
+        },
+        {
+            "time": "2017-12-06T02:08:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d74c4ca0-10d4-11e5-ac45-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Flako19"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

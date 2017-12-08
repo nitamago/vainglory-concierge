@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:43:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bc35e966-1025-11e6-9c46-068789513eb5",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "Chordata"
+            }
+        },
+        {
+            "time": "2017-12-06T01:44:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "45902c20-ff16-11e4-8169-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "chaistood"
+            }
+        },
+        {
+            "time": "2017-12-06T01:44:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ea4817f2-141c-11e6-b303-062cb73cdbb1",
+                "Hero": "*Petal*",
+                "Team": "1",
+                "Handle": "Sherald"
+            }
+        },
+        {
+            "time": "2017-12-06T01:44:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b8158a10-10a9-11e6-b905-068789513eb5",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "OblivionDragon"
+            }
+        },
+        {
+            "time": "2017-12-06T01:44:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e7ba99f4-a187-11e5-ac1b-06f4ee369f53",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "francisdrake"
+            }
+        },
+        {
+            "time": "2017-12-06T01:44:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b36c308a-21e0-11e5-9731-068789513eb5",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "jjMaX"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

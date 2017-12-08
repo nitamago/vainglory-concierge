@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:03:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e80a2a9a-adf2-11e7-a785-067e8bc536fd",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "lNFlNlTl"
+            }
+        },
+        {
+            "time": "2017-12-06T04:03:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "480cec36-b5ea-11e6-9e1f-06fc87f1dd11",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "TerraTorri"
+            }
+        },
+        {
+            "time": "2017-12-06T04:03:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ee863452-ad0a-11e6-ac79-06b48b82cd49",
+                "Hero": "*Grumpjaw*",
+                "Team": "2",
+                "Handle": "TrickrTreat"
+            }
+        },
+        {
+            "time": "2017-12-06T04:03:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7094245a-21b0-11e5-94d9-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "AC312"
+            }
+        },
+        {
+            "time": "2017-12-06T04:03:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "39193fe4-3e2b-11e7-bc07-0223dbc2587a",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "Blackking16"
+            }
+        },
+        {
+            "time": "2017-12-06T04:04:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dd8d76a0-5398-11e5-b9c8-06f4ee369f53",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "Merriadoc"
+            }
+        }
+    ],
+    "winner": "another"
+}

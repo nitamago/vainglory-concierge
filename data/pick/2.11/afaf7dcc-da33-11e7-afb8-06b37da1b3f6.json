@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:15:42+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:16:01+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:16:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "92e914e0-b77c-11e5-8d94-0628b69bf6d1",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Immortalhero"
+            }
+        },
+        {
+            "time": "2017-12-06T03:16:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8ee511c2-92ca-11e5-aa15-06eb725f8a76",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "bybrian"
+            }
+        },
+        {
+            "time": "2017-12-06T03:16:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "da59cff4-5778-11e5-9b0f-06b48b82cd49",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "EpicMidget"
+            }
+        },
+        {
+            "time": "2017-12-06T03:17:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "24d83a96-91fb-11e4-bf9c-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Often"
+            }
+        },
+        {
+            "time": "2017-12-06T03:17:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4fea8fc6-f506-11e5-91a1-06d90c28bf1a",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "XxRypigxX"
+            }
+        },
+        {
+            "time": "2017-12-06T03:17:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2dea3aa2-64d3-11e5-84ad-06d90c28bf1a",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "Mewmewmjolnir"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:00:19+0000",
+            "payload": {
+                "Player": "a124c0ca-8d9d-11e6-a8dc-06d90c28bf1a",
+                "Handle": "Kruizenga",
+                "Hero": "*Varya*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:00:28+0000",
+            "payload": {
+                "Player": "a38eeba2-c8a6-11e7-ac21-0654fca4c20c",
+                "Handle": "ForbiddenOcean",
+                "Hero": "*Baron*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:00:34+0000",
+            "payload": {
+                "Player": "5ec6c1d4-be6c-11e5-8f1a-0628b69bf6d1",
+                "Handle": "Garadat",
+                "Hero": "*Ardan*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:00:35+0000",
+            "payload": {
+                "Player": "b0abc5e8-75df-11e4-a68c-06d90c28bf1a",
+                "Handle": "GeneralYao",
+                "Hero": "*Koshka*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:00:41+0000",
+            "payload": {
+                "Player": "8157ca68-b505-11e7-841b-06eb725f8a76",
+                "Handle": "JdadK8ngPin",
+                "Hero": "*Joule*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:00:46+0000",
+            "payload": {
+                "Player": "3271735e-b686-11e7-8024-0224e22aef46",
+                "Handle": "jrad1990",
+                "Hero": "*Glaive*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

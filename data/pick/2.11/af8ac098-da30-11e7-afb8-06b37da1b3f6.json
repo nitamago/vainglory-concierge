@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:54:29+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Baron*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:54:52+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Vox*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:54:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f2a454e0-04c0-11e5-b1f6-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "theMist"
+            }
+        },
+        {
+            "time": "2017-12-06T02:55:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "907284e4-58fe-11e5-9b0f-06b48b82cd49",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "brian2213"
+            }
+        },
+        {
+            "time": "2017-12-06T02:55:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cdbd952e-6d75-11e5-9e8f-06f4ee369f53",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "bichobi"
+            }
+        },
+        {
+            "time": "2017-12-06T02:55:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b0420df0-ad84-11e5-960c-06d90c28bf1a",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "FOLEN"
+            }
+        },
+        {
+            "time": "2017-12-06T02:55:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f68733e0-7c27-11e6-b656-06ab1a16f8e5",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "Soccerpuppy"
+            }
+        },
+        {
+            "time": "2017-12-06T02:55:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0f4d474e-375d-11e6-80f7-06eb725f8a76",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "ZunK"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

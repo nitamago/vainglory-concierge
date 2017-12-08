@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:15:19+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Catherine*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:15:34+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:15:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "984563fe-1f17-11e7-93da-06f4ee369f53",
+                "Hero": "*Samuel*",
+                "Team": "1",
+                "Handle": "SsjEmerGod"
+            }
+        },
+        {
+            "time": "2017-12-06T01:16:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "022867be-a09b-11e5-9056-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "esmer14"
+            }
+        },
+        {
+            "time": "2017-12-06T01:16:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "759afd9a-70fb-11e4-84d1-06641bcbf424",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "twisteredx"
+            }
+        },
+        {
+            "time": "2017-12-06T01:16:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c570a080-97d8-11e6-9f86-062cb73cdbb1",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "Exonoob67"
+            }
+        },
+        {
+            "time": "2017-12-06T01:16:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "77960c56-86a3-11e6-82f0-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "mamba804"
+            }
+        },
+        {
+            "time": "2017-12-06T01:16:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0bf5b928-d5b5-11e5-ae21-06f4ee369f53",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "ghostJ5"
+            }
+        }
+    ],
+    "winner": "another"
+}

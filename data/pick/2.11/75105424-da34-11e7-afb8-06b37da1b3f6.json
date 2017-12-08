@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:21:15+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:21:27+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:21:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9dbd8f20-2880-11e6-aa65-06fc87f1dd11",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "ReyKriss"
+            }
+        },
+        {
+            "time": "2017-12-06T03:22:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "91328e38-8889-11e4-9144-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "OutPIayed"
+            }
+        },
+        {
+            "time": "2017-12-06T03:22:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6f85ae48-22bf-11e5-bff3-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Oriflamme"
+            }
+        },
+        {
+            "time": "2017-12-06T03:22:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "21cb1422-cfe2-11e7-af98-069ef91bd55c",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "MoiraDelaTorre"
+            }
+        },
+        {
+            "time": "2017-12-06T03:22:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5b941546-a973-11e6-bfc5-06eb725f8a76",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "XxCristianxX"
+            }
+        },
+        {
+            "time": "2017-12-06T03:22:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4730de1a-88d9-11e5-ade3-0628b69bf6d1",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "brokennotes"
+            }
+        }
+    ],
+    "winner": "another"
+}

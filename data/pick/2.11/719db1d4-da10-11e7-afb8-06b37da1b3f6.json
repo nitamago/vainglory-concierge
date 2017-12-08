@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T23:03:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5be606e0-ae96-11e5-afcd-06b48b82cd49",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "KingOfSlayers"
+            }
+        },
+        {
+            "time": "2017-12-05T23:03:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c6160930-1962-11e5-8969-06d90c28bf1a",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "inktomi"
+            }
+        },
+        {
+            "time": "2017-12-05T23:03:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b6821ab0-9a7d-11e7-9e1d-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Retrinput"
+            }
+        },
+        {
+            "time": "2017-12-05T23:04:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9d61d9de-54ab-11e7-9b26-0224e22aef46",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "DarkRob1030"
+            }
+        },
+        {
+            "time": "2017-12-05T23:04:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c79018d6-d266-11e7-a31a-025e5fb8fe9e",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "floormat"
+            }
+        },
+        {
+            "time": "2017-12-05T23:04:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7241065c-db64-11e4-8fca-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "BEARbones"
+            }
+        }
+    ],
+    "winner": "another"
+}

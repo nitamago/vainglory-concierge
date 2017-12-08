@@ -1,0 +1,74 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T22:37:15+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T22:37:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4963c52a-228c-11e5-89b7-06b48b82cd49",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "PukyPR"
+            }
+        },
+        {
+            "time": "2017-12-05T22:38:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9bf4630a-4cb4-11e6-a3df-06388a2f2ea7",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "giorge1945"
+            }
+        },
+        {
+            "time": "2017-12-05T22:38:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "56810ca6-bbb4-11e5-ad2a-06d90c28bf1a",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "exod"
+            }
+        },
+        {
+            "time": "2017-12-05T22:38:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0cc3c0dc-abb8-11e6-8c02-06a9175d25fa",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Splooshhh"
+            }
+        },
+        {
+            "time": "2017-12-05T22:38:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "98d0b0f0-a1e9-11e5-a3b7-06b48b82cd49",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "Centella"
+            }
+        },
+        {
+            "time": "2017-12-05T22:38:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f2427952-53f1-11e5-b588-06f4ee369f53",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "frizzie"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

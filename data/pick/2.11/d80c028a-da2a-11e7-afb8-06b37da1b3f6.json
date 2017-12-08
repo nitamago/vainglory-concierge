@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:12:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ff500570-71df-11e7-bf01-06388a2f2ea7",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "Haegro"
+            }
+        },
+        {
+            "time": "2017-12-06T02:12:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f80f4e10-a92c-11e5-bfb8-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Hideking"
+            }
+        },
+        {
+            "time": "2017-12-06T02:12:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7f9a93fe-d2f8-11e5-8e5c-06ab1a16f8e5",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "AuraNova"
+            }
+        },
+        {
+            "time": "2017-12-06T02:12:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "18e186a6-cd59-11e7-a76c-02ce883f709a",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "pigsteak"
+            }
+        },
+        {
+            "time": "2017-12-06T02:12:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a84c84d2-7093-11e5-a1f9-068789513eb5",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "ghostiger"
+            }
+        },
+        {
+            "time": "2017-12-06T02:12:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "eefa64e2-26bb-11e6-93b8-06b48b82cd49",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "AriesAscending"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

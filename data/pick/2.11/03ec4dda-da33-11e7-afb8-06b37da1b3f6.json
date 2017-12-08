@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:10:45+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:10:56+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:11:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "75a1779e-47ae-11e5-8b7b-068789513eb5",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "xXSilentWraithXx"
+            }
+        },
+        {
+            "time": "2017-12-06T03:11:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f4a2e692-9de2-11e5-b076-0628b69bf6d1",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Caesar"
+            }
+        },
+        {
+            "time": "2017-12-06T03:11:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "394f6eee-75f0-11e4-9d68-06d90c28bf1a",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "RAiN"
+            }
+        },
+        {
+            "time": "2017-12-06T03:11:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c71a2388-72dd-11e4-a8db-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "zRichie"
+            }
+        },
+        {
+            "time": "2017-12-06T03:11:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4eda1c02-de2f-11e5-a15e-06fc87f1dd11",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "DogEatDogWorld"
+            }
+        },
+        {
+            "time": "2017-12-06T03:12:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9a70ae0a-746e-11e4-a9c0-06d90c28bf1a",
+                "Hero": "*Ozo*",
+                "Team": "2",
+                "Handle": "DerRabbit"
+            }
+        }
+    ],
+    "winner": "another"
+}

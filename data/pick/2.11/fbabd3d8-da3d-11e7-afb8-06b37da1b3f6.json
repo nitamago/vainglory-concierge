@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:29:28+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:29:31+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:29:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d66ac6b0-abb7-11e7-ac95-067e8bc536fd",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "TxBryan"
+            }
+        },
+        {
+            "time": "2017-12-06T04:29:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8a3d12b8-6855-11e5-8ddb-06b48b82cd49",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "EmperorTrump1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:29:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0cfbf68a-b349-11e6-b312-067e8bc536fd",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "ManiIsALegend"
+            }
+        },
+        {
+            "time": "2017-12-06T04:29:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0851d978-7e11-11e6-ab4c-06f4ee369f53",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "AwakenDevils"
+            }
+        },
+        {
+            "time": "2017-12-06T04:30:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "28f46b58-4b05-11e6-ae0c-06ab1a16f8e5",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "LyKen0226"
+            }
+        },
+        {
+            "time": "2017-12-06T04:30:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4c01a470-904f-11e4-9144-06eb725f8a76",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "Psyrenous"
+            }
+        }
+    ],
+    "winner": "another"
+}

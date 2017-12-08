@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T20:49:30+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:49:39+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:49:40+0000",
+            "payload": {
+                "Player": "48a5101a-ed59-11e5-a1bc-06c5ee41a4a5",
+                "Handle": "bohan113547220",
+                "Hero": "*Vox*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:49:52+0000",
+            "payload": {
+                "Player": "4f9267ae-7b0e-11e6-bbf9-06388a2f2ea7",
+                "Handle": "DrDev",
+                "Hero": "*Baron*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:49:58+0000",
+            "payload": {
+                "Player": "616801b0-ba55-11e6-9b56-068789513eb5",
+                "Handle": "TheREALdirtyDan",
+                "Hero": "*Catherine*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:50:08+0000",
+            "payload": {
+                "Player": "c2990c24-54b0-11e5-8918-068789513eb5",
+                "Handle": "CDubs3287",
+                "Hero": "*Lance*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:50:18+0000",
+            "payload": {
+                "Player": "9b8cadf8-30e6-11e6-9b78-06fc87f1dd11",
+                "Handle": "stellarevolution",
+                "Hero": "*Taka*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:50:42+0000",
+            "payload": {
+                "Player": "09496edc-7c75-11e7-be05-020ecf4900d0",
+                "Handle": "InakiZorro",
+                "Hero": "*Petal*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

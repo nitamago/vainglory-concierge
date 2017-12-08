@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:21:04+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:21:13+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:21:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "730868ca-3aa2-11e6-88fe-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "dragonboy2732"
+            }
+        },
+        {
+            "time": "2017-12-06T01:21:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d757a972-cb7f-11e5-961b-06c5ee41a4a5",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "NessTek"
+            }
+        },
+        {
+            "time": "2017-12-06T01:21:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d0d26f46-fbe7-11e4-9e84-06eb725f8a76",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "nicademus11"
+            }
+        },
+        {
+            "time": "2017-12-06T01:21:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7e7049c2-d9e9-11e5-b434-06c5ee41a4a5",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "Demente1993"
+            }
+        },
+        {
+            "time": "2017-12-06T01:22:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "89c97f0c-5968-11e5-b9c8-06f4ee369f53",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "yui2000"
+            }
+        },
+        {
+            "time": "2017-12-06T01:22:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4ab905e0-a1f7-11e4-9d4c-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Sahil"
+            }
+        }
+    ],
+    "winner": "another"
+}

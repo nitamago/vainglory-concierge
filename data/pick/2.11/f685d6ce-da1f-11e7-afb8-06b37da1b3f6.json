@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:54:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a75dfaa0-d7a3-11e7-9017-06b672bd5be2",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "InfinityForce"
+            }
+        },
+        {
+            "time": "2017-12-06T00:54:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "83821c10-8bc5-11e4-ac6d-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "cerebrum"
+            }
+        },
+        {
+            "time": "2017-12-06T00:54:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1646c8ca-f38a-11e5-968b-06c5ee41a4a5",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "ghaxt"
+            }
+        },
+        {
+            "time": "2017-12-06T00:54:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c300790c-cd78-11e7-8e77-02ce883f709a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Kur0Sensei"
+            }
+        },
+        {
+            "time": "2017-12-06T00:54:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "21c3cbb4-816f-11e4-a59c-06eb725f8a76",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "spudly"
+            }
+        },
+        {
+            "time": "2017-12-06T00:54:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c043e97c-04ad-11e7-a1c7-06fc87f1dd11",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "Arattzg"
+            }
+        }
+    ],
+    "winner": "another"
+}

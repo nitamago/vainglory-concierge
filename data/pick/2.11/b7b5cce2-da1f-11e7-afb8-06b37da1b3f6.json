@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:53:03+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:53:08+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:53:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "50afeaca-3e1a-11e6-9016-06c5ee41a4a5",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "HilariousAnimal"
+            }
+        },
+        {
+            "time": "2017-12-06T00:53:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c4273b4a-0dfe-11e5-84b8-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Anoos21"
+            }
+        },
+        {
+            "time": "2017-12-06T00:53:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7f890528-d26f-11e5-91f8-06ab1a16f8e5",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "Meddina21"
+            }
+        },
+        {
+            "time": "2017-12-06T00:54:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d3b22922-feb1-11e5-8698-06ab1a16f8e5",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "V3NUX"
+            }
+        },
+        {
+            "time": "2017-12-06T00:54:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9801237c-6155-11e6-bea0-067e8bc536fd",
+                "Hero": "*Samuel*",
+                "Team": "1",
+                "Handle": "JorgeFD12"
+            }
+        },
+        {
+            "time": "2017-12-06T00:54:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4ad08596-820e-11e6-b394-068789513eb5",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "Tiersquote"
+            }
+        }
+    ],
+    "winner": "another"
+}

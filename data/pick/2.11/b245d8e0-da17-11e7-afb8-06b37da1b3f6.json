@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T23:55:28+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:55:38+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:55:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c043e97c-04ad-11e7-a1c7-06fc87f1dd11",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "Arattzg"
+            }
+        },
+        {
+            "time": "2017-12-05T23:56:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "926b07f4-23bd-11e7-9306-0223dbc2587a",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "Xxchuy360gamerxX"
+            }
+        },
+        {
+            "time": "2017-12-05T23:56:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2dce3406-477c-11e6-915d-06c5ee41a4a5",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "ale4lucard"
+            }
+        },
+        {
+            "time": "2017-12-05T23:56:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d0123ea6-6f51-11e4-a8d1-06641bcbf424",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Armin1409"
+            }
+        },
+        {
+            "time": "2017-12-05T23:56:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ef74abcc-7275-11e4-a8db-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "bryanc921"
+            }
+        },
+        {
+            "time": "2017-12-05T23:56:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cfbc6d2e-9ac9-11e5-ae41-06eb725f8a76",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "ninjasushi305"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:44:10+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:44:16+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Churnwalker*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:44:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a8956a1a-23d3-11e5-a010-06f4ee369f53",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "BlowOffValve"
+            }
+        },
+        {
+            "time": "2017-12-06T03:44:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cdbd952e-6d75-11e5-9e8f-06f4ee369f53",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "bichobi"
+            }
+        },
+        {
+            "time": "2017-12-06T03:44:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "14ede3bc-947e-11e4-9d4c-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "xReptile"
+            }
+        },
+        {
+            "time": "2017-12-06T03:44:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d18cc114-0eb8-11e5-9155-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "STRlX"
+            }
+        },
+        {
+            "time": "2017-12-06T03:45:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "878e2f58-b02a-11e5-b338-06f4ee369f53",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "ProvidenceKB"
+            }
+        },
+        {
+            "time": "2017-12-06T03:45:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "56897cc4-a5bc-11e4-9bb5-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "LTSHD"
+            }
+        }
+    ],
+    "winner": "another"
+}

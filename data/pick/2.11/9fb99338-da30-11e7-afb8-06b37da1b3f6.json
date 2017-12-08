@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:53:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a51de206-9201-11e7-a703-06f4ee369f53",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Purecurse"
+            }
+        },
+        {
+            "time": "2017-12-06T02:53:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "feda7b84-d650-11e4-ae21-06d90c28bf1a",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "ABnoC"
+            }
+        },
+        {
+            "time": "2017-12-06T02:53:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "36326f42-8872-11e4-9439-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "knightoflight"
+            }
+        },
+        {
+            "time": "2017-12-06T02:53:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7f02bc30-abed-11e7-a71d-068789513eb5",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "Notsuper"
+            }
+        },
+        {
+            "time": "2017-12-06T02:54:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "39618b80-90cd-11e5-8020-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "davidpreciado"
+            }
+        },
+        {
+            "time": "2017-12-06T02:54:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4d167c0c-b71b-11e5-b09d-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "lemonsislife"
+            }
+        }
+    ],
+    "winner": "another"
+}

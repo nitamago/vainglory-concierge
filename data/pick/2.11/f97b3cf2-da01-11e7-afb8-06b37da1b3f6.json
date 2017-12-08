@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:19:57+0000",
+            "payload": {
+                "Player": "8b119ad2-22cc-11e7-899b-02f3b4306918",
+                "Handle": "PharaohsKeep",
+                "Hero": "*Ringo*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:19:59+0000",
+            "payload": {
+                "Player": "5a52a558-f3df-11e4-bfe7-06eb725f8a76",
+                "Handle": "Kemar712",
+                "Hero": "*Varya*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:20:42+0000",
+            "payload": {
+                "Player": "c9dfbd4a-d6c2-11e5-ae80-068789513eb5",
+                "Handle": "Xivorex",
+                "Hero": "*Grace*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:20:43+0000",
+            "payload": {
+                "Player": "451e23fa-aeaf-11e7-bc96-02b3611af5e6",
+                "Handle": "Dave1212",
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:20:47+0000",
+            "payload": {
+                "Player": "dea2c148-e1c5-11e4-a16f-06d90c28bf1a",
+                "Handle": "silviasol",
+                "Hero": "*Rona*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:20:48+0000",
+            "payload": {
+                "Player": "b0e6bfe4-f696-11e4-82df-06eb725f8a76",
+                "Handle": "Diego99",
+                "Hero": "*Celeste*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

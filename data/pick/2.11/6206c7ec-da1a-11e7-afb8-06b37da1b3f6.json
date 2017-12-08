@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:14:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f1be0892-8c56-11e4-a162-06d90c28bf1a",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "fatherofTy"
+            }
+        },
+        {
+            "time": "2017-12-06T00:14:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9bc268c2-1f70-11e5-94d9-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "timster89"
+            }
+        },
+        {
+            "time": "2017-12-06T00:14:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "805975ce-91db-11e6-b83d-067e8bc536fd",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "hanshotfirst1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:15:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f6575088-f578-11e6-ae97-02f3b4306918",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "TankBS"
+            }
+        },
+        {
+            "time": "2017-12-06T00:15:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d587f046-82a3-11e4-93e7-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "AntArmy"
+            }
+        },
+        {
+            "time": "2017-12-06T00:15:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e8c1cb6a-b627-11e5-94ac-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Snaga16"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

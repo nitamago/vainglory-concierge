@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T23:25:59+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:26:08+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:26:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bffe9078-7361-11e4-a29d-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "jalex2050"
+            }
+        },
+        {
+            "time": "2017-12-05T23:26:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "61155de4-2e6d-11e6-a2f7-06fc87f1dd11",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "GunmasterDraco"
+            }
+        },
+        {
+            "time": "2017-12-05T23:26:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a002f30e-4061-11e5-96c2-068789513eb5",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "Dark5t4r"
+            }
+        },
+        {
+            "time": "2017-12-05T23:26:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e07736e4-f367-11e4-9580-06d90c28bf1a",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "S3crett0"
+            }
+        },
+        {
+            "time": "2017-12-05T23:26:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7a9d5676-3959-11e6-aecb-06c5ee41a4a5",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "OwenE"
+            }
+        },
+        {
+            "time": "2017-12-05T23:27:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7bf22aa2-7bbd-11e4-affb-06eb725f8a76",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "Gary"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T22:40:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a09d8240-5af7-11e7-9a29-02a5820c0f16",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "jyuviolegrace"
+            }
+        },
+        {
+            "time": "2017-12-05T22:40:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "aec3d252-a728-11e7-83e2-029cb633549e",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "Ar1dos"
+            }
+        },
+        {
+            "time": "2017-12-05T22:40:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "04545d90-b890-11e7-a568-06d90c28bf1a",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "Xenawars"
+            }
+        },
+        {
+            "time": "2017-12-05T22:40:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5d787d8a-8748-11e7-aa3a-06b48b82cd49",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "DeusEMachina"
+            }
+        },
+        {
+            "time": "2017-12-05T22:40:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a73351ea-a60f-11e6-bb4d-06a9175d25fa",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "Zeroxgod"
+            }
+        },
+        {
+            "time": "2017-12-05T22:41:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3d75af7c-c9b4-11e7-afda-06b672bd5be2",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Hunrune"
+            }
+        }
+    ],
+    "winner": "another"
+}

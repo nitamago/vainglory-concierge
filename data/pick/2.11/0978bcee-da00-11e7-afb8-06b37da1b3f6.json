@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:06:13+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:06:29+0000",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:06:44+0000",
+            "payload": {
+                "Player": "1491bf84-701f-11e4-b7eb-06641bcbf424",
+                "Handle": "TidaIWave",
+                "Hero": "*Grace*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:07:02+0000",
+            "payload": {
+                "Player": "bdda5366-90b8-11e5-a943-06eb725f8a76",
+                "Handle": "uchija",
+                "Hero": "*Vox*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:07:17+0000",
+            "payload": {
+                "Player": "d24f2602-9c4e-11e7-8f11-068789513eb5",
+                "Handle": "Vanishingkid",
+                "Hero": "*Churnwalker*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:07:41+0000",
+            "payload": {
+                "Player": "47386744-ba6f-11e5-bc70-068789513eb5",
+                "Handle": "BRAYAN045",
+                "Hero": "*Petal*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:07:41+0000",
+            "payload": {
+                "Player": "cf67471e-d507-11e4-ad66-06eb725f8a76",
+                "Handle": "WhoOvercameDeath",
+                "Hero": "*Reim*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:08:03+0000",
+            "payload": {
+                "Player": "556c5432-be09-11e4-b16f-06d90c28bf1a",
+                "Handle": "veryrare",
+                "Hero": "*Alpha*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

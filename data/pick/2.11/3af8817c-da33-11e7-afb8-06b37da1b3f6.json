@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:12:36+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Grace*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:12:38+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:12:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fa29cb06-b027-11e5-9d20-06eb725f8a76",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "AznBBQMachine"
+            }
+        },
+        {
+            "time": "2017-12-06T03:12:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ff1e1f88-2384-11e6-9ee8-06b48b82cd49",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "JonSalshichon"
+            }
+        },
+        {
+            "time": "2017-12-06T03:13:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "853cb394-babd-11e5-a8be-06b48b82cd49",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "MERSENARI0"
+            }
+        },
+        {
+            "time": "2017-12-06T03:13:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e4e8c2f8-80fb-11e4-bd27-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "aznmonster"
+            }
+        },
+        {
+            "time": "2017-12-06T03:13:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "57e93e36-814c-11e4-8dfa-06eb725f8a76",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "FlyToTheSky"
+            }
+        },
+        {
+            "time": "2017-12-06T03:13:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "086ea0c0-21ec-11e6-8d80-06388a2f2ea7",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "darckbull13"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:50:39+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:50:51+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:51:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7e9a94a8-a391-11e6-a4a6-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Harrison200"
+            }
+        },
+        {
+            "time": "2017-12-06T03:51:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9ba816f8-1ed3-11e6-9f93-06fc87f1dd11",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Marky19"
+            }
+        },
+        {
+            "time": "2017-12-06T03:51:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f986e5c4-f006-11e6-8833-06a9175d25fa",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Mordekai8v"
+            }
+        },
+        {
+            "time": "2017-12-06T03:51:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "04630eb2-59c9-11e5-b209-06b48b82cd49",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "Lemonicus"
+            }
+        },
+        {
+            "time": "2017-12-06T03:52:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f55e7902-31ed-11e7-a86d-029cb633549e",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "LemLegend3"
+            }
+        },
+        {
+            "time": "2017-12-06T03:52:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6bffe7d2-7367-11e4-86a0-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Snowball123"
+            }
+        }
+    ],
+    "winner": "another"
+}

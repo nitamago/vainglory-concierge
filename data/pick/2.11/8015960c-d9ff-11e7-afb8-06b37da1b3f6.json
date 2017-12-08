@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:01:54+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:01:59+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:02:12+0000",
+            "payload": {
+                "Player": "f33c496a-4ed2-11e5-b7e8-0628b69bf6d1",
+                "Handle": "H20Frezze",
+                "Hero": "*Lorelai*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:02:25+0000",
+            "payload": {
+                "Player": "04792d42-9fd7-11e5-a86e-06b48b82cd49",
+                "Handle": "TorviMartinez",
+                "Hero": "*Lyra*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:02:33+0000",
+            "payload": {
+                "Player": "23fc1892-b57f-11e5-a2f5-06f4ee369f53",
+                "Handle": "Akiraa",
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:02:50+0000",
+            "payload": {
+                "Player": "cad8ec40-ae8a-11e5-a74d-068789513eb5",
+                "Handle": "DM0L1SH",
+                "Hero": "*Baron*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:02:56+0000",
+            "payload": {
+                "Player": "a1b7d2cc-8b09-11e4-ac6d-06d90c28bf1a",
+                "Handle": "KillerRabbit",
+                "Hero": "*Grumpjaw*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:03:09+0000",
+            "payload": {
+                "Player": "e0976c4e-5c1b-11e5-bba6-06f4ee369f53",
+                "Handle": "DjMuErTe",
+                "Hero": "*Celeste*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:16:41+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:17:07+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:17:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "58847e5e-ed0d-11e5-8569-06388a2f2ea7",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "R4G3QUIT"
+            }
+        },
+        {
+            "time": "2017-12-06T00:17:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "edfafdf8-f499-11e5-bd66-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Acashix"
+            }
+        },
+        {
+            "time": "2017-12-06T00:18:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "627800d4-8e2b-11e5-b586-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "XerNa"
+            }
+        },
+        {
+            "time": "2017-12-06T00:18:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fb24bb10-ec7b-11e6-9786-06eb725f8a76",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "DealOfGold"
+            }
+        },
+        {
+            "time": "2017-12-06T00:18:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8b7c3c80-906a-11e4-93d5-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "arosa"
+            }
+        },
+        {
+            "time": "2017-12-06T00:18:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e13befd2-38a5-11e6-8f18-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Aguiler"
+            }
+        }
+    ],
+    "winner": "another"
+}

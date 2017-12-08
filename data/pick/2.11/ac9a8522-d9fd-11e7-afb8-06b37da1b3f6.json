@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T20:48:57+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:49:23+0000",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:49:44+0000",
+            "payload": {
+                "Player": "6a1429ca-3641-11e7-8787-020ecf4900d0",
+                "Handle": "TURALE",
+                "Hero": "*Catherine*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:50:05+0000",
+            "payload": {
+                "Player": "e3987e5c-dcd5-11e5-ad44-06388a2f2ea7",
+                "Handle": "guidemaster10",
+                "Hero": "*Reza*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:50:07+0000",
+            "payload": {
+                "Player": "c26cadb0-9e24-11e5-99a1-06b48b82cd49",
+                "Handle": "KeithKarnage",
+                "Hero": "*SAW*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:50:30+0000",
+            "payload": {
+                "Player": "0e5ce110-8baa-11e4-867a-06eb725f8a76",
+                "Handle": "PhatPenguin",
+                "Hero": "*Taka*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:50:41+0000",
+            "payload": {
+                "Player": "e002479e-8431-11e4-93e7-06d90c28bf1a",
+                "Handle": "Toxzikk",
+                "Hero": "*Baron*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:50:54+0000",
+            "payload": {
+                "Player": "4b7c217c-18d1-11e6-81a1-06eb725f8a76",
+                "Handle": "Scopespy",
+                "Hero": "*Baptiste*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

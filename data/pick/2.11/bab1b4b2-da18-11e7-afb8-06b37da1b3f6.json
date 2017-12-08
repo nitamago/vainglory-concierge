@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:02:41+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:02:50+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:03:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "97766228-6eea-11e4-bfea-06641bcbf424",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "luffy0325"
+            }
+        },
+        {
+            "time": "2017-12-06T00:03:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c26cadb0-9e24-11e5-99a1-06b48b82cd49",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "KeithKarnage"
+            }
+        },
+        {
+            "time": "2017-12-06T00:03:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "47fc9158-a6a8-11e5-919e-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Eric284"
+            }
+        },
+        {
+            "time": "2017-12-06T00:03:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "188324f8-621a-11e7-ab84-06fc87f1dd11",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "evenpast"
+            }
+        },
+        {
+            "time": "2017-12-06T00:03:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "20b7c772-fb25-11e4-87c3-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "DylanlovesAndrew"
+            }
+        },
+        {
+            "time": "2017-12-06T00:04:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "169d8cb6-08fb-11e5-b3a2-06eb725f8a76",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "bean69you"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

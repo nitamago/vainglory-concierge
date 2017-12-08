@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:03:55+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:04:17+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:04:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ac859258-7387-11e6-a467-06ab1a16f8e5",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "GabrielVZ"
+            }
+        },
+        {
+            "time": "2017-12-06T01:04:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dae09748-3c2c-11e6-a0b5-06b48b82cd49",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "XxBingBingxX"
+            }
+        },
+        {
+            "time": "2017-12-06T01:04:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e5409bda-8e5c-11e5-bcb5-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Giroto12"
+            }
+        },
+        {
+            "time": "2017-12-06T01:04:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "db5528b8-bec6-11e4-9f6a-06d90c28bf1a",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "Dodanga"
+            }
+        },
+        {
+            "time": "2017-12-06T01:05:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "43de57e6-37c7-11e5-857b-06b48b82cd49",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "Jahjin"
+            }
+        },
+        {
+            "time": "2017-12-06T01:05:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4e555232-31d3-11e5-a200-0628b69bf6d1",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "TheB4ne"
+            }
+        }
+    ],
+    "winner": "another"
+}

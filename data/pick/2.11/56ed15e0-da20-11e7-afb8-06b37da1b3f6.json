@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:57:10+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Ardan*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:57:16+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:57:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2248d56a-626f-11e6-b26c-068789513eb5",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "xXTruthXx"
+            }
+        },
+        {
+            "time": "2017-12-06T00:57:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ace3405e-5a10-11e7-9880-06b48b82cd49",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "DonquixoteMingo"
+            }
+        },
+        {
+            "time": "2017-12-06T00:57:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fad0dc68-ca0b-11e5-a7b7-0628b69bf6d1",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "trishp9"
+            }
+        },
+        {
+            "time": "2017-12-06T00:57:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "23fc1892-b57f-11e5-a2f5-06f4ee369f53",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "Akiraa"
+            }
+        },
+        {
+            "time": "2017-12-06T00:57:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ff795318-bad3-11e5-a57f-0628b69bf6d1",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "KING7X"
+            }
+        },
+        {
+            "time": "2017-12-06T00:57:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2f0375c8-868f-11e6-aa77-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Ratakuky"
+            }
+        }
+    ],
+    "winner": "another"
+}

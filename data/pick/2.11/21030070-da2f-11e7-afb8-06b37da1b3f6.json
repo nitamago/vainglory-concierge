@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:43:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b634cc6c-2380-11e6-96bb-06388a2f2ea7",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "MySexyBody"
+            }
+        },
+        {
+            "time": "2017-12-06T02:43:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a183b4b8-0378-11e6-aeec-0628b69bf6d1",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "Tuttles"
+            }
+        },
+        {
+            "time": "2017-12-06T02:43:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "72b32cfe-70cb-11e4-89a2-062d0b175276",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "insaneshield"
+            }
+        },
+        {
+            "time": "2017-12-06T02:43:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e503cda6-d7c9-11e6-a118-06388a2f2ea7",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "PdxCard"
+            }
+        },
+        {
+            "time": "2017-12-06T02:43:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d0d21638-728d-11e4-86a0-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "SHANE_W_P"
+            }
+        },
+        {
+            "time": "2017-12-06T02:43:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fec71f4c-d835-11e6-aef5-06388a2f2ea7",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "StompJesus"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:34:07+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:34:15+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:34:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7d970232-454c-11e7-b7cc-06b48b82cd49",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "D4rkW4ter"
+            }
+        },
+        {
+            "time": "2017-12-06T01:34:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0861dece-9ea9-11e5-a587-06b48b82cd49",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "Splicem"
+            }
+        },
+        {
+            "time": "2017-12-06T01:34:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6bffe7d2-7367-11e4-86a0-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Snowball123"
+            }
+        },
+        {
+            "time": "2017-12-06T01:35:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "974b11ec-9765-11e4-9223-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "D3ATHD3ASTR0YER"
+            }
+        },
+        {
+            "time": "2017-12-06T01:35:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c7b2711c-7ddf-11e4-83eb-06eb725f8a76",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "TheCrimson"
+            }
+        },
+        {
+            "time": "2017-12-06T01:35:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e4fe2654-9ea8-11e5-83df-0628b69bf6d1",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "Nystique "
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

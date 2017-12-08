@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:00:00+0000",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:00:15+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:00:30+0000",
+            "payload": {
+                "Player": "4b5c4bf0-a7a1-11e5-9056-06eb725f8a76",
+                "Handle": "Padpro101",
+                "Hero": "*Vox*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:00:51+0000",
+            "payload": {
+                "Player": "120f7d2a-c981-11e5-9fd1-06eb725f8a76",
+                "Handle": "StructuredChaos",
+                "Hero": "*Ardan*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:01:08+0000",
+            "payload": {
+                "Player": "ffe69678-3c21-11e7-8299-02f3b4306918",
+                "Handle": "Claudius01",
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:01:09+0000",
+            "payload": {
+                "Player": "c2bf1b1e-85fe-11e6-a299-06fc87f1dd11",
+                "Handle": "MojoRiewer",
+                "Hero": "*Phinn*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:01:15+0000",
+            "payload": {
+                "Player": "e2741e1e-b066-11e5-b0da-06d90c28bf1a",
+                "Handle": "Promaster233",
+                "Hero": "*Taka*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:01:21+0000",
+            "payload": {
+                "Player": "ed391d24-7388-11e5-b059-06b48b82cd49",
+                "Handle": "LungCancer",
+                "Hero": "*Koshka*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

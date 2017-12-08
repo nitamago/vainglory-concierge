@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:16:02+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Catherine*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:16:19+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:16:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3e73ca10-4b5e-11e6-8337-06ab1a16f8e5",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "Reiznp"
+            }
+        },
+        {
+            "time": "2017-12-06T02:16:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "beb45a8c-0ef1-11e5-b85a-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "AwesomeFighter49"
+            }
+        },
+        {
+            "time": "2017-12-06T02:16:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "11a36f48-6cdf-11e6-86a2-06fc87f1dd11",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "ThEdArKlOrD"
+            }
+        },
+        {
+            "time": "2017-12-06T02:16:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d1bccd96-f6c5-11e5-8607-06eb725f8a76",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "Guest_188328809"
+            }
+        },
+        {
+            "time": "2017-12-06T02:17:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d757a972-cb7f-11e5-961b-06c5ee41a4a5",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "NessTek"
+            }
+        },
+        {
+            "time": "2017-12-06T02:17:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c55343ca-1f64-11e5-921b-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "NoYoLk"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

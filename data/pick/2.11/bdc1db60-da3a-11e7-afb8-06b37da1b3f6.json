@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:06:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "25c07214-78e9-11e4-9a06-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "HazardCPG"
+            }
+        },
+        {
+            "time": "2017-12-06T04:06:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "16eddc58-84ca-11e4-9ad5-06eb725f8a76",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "NoaNoAhnOa"
+            }
+        },
+        {
+            "time": "2017-12-06T04:06:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b0875b28-2f6f-11e5-ba0f-06f4ee369f53",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Thunderkid"
+            }
+        },
+        {
+            "time": "2017-12-06T04:06:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bccf7dc0-996d-11e6-a2bf-068789513eb5",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "CHURRAS"
+            }
+        },
+        {
+            "time": "2017-12-06T04:06:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a1feba7e-b60a-11e6-b5cd-06a9175d25fa",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "Slelesnia"
+            }
+        },
+        {
+            "time": "2017-12-06T04:06:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "947d4efe-b60e-11e4-a16e-06eb725f8a76",
+                "Hero": "*Flicker*",
+                "Team": "1",
+                "Handle": "RustyGriffen"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

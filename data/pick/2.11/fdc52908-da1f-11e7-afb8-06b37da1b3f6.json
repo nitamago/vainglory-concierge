@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:54:45+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:54:47+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:54:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fc613fa4-17ba-11e5-b365-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "MafiaOlier6"
+            }
+        },
+        {
+            "time": "2017-12-06T00:54:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "efc4611a-7b96-11e4-9e08-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Nickkdawwgg"
+            }
+        },
+        {
+            "time": "2017-12-06T00:55:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "92067ed8-252c-11e5-8818-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "b3astmod3"
+            }
+        },
+        {
+            "time": "2017-12-06T00:55:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5df681b4-7c6b-11e6-9ce5-06f4ee369f53",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "snackonmysack"
+            }
+        },
+        {
+            "time": "2017-12-06T00:55:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "475b0d7a-78fe-11e4-9ae1-06d90c28bf1a",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "praetor"
+            }
+        },
+        {
+            "time": "2017-12-06T00:56:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "de02f2f6-b972-11e4-b123-06eb725f8a76",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "Twilightsword"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

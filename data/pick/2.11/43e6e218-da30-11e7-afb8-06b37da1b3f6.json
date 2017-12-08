@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:51:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "73a17d58-00ea-11e7-b8f1-02081e0fc90e",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "ChickenAdobo06"
+            }
+        },
+        {
+            "time": "2017-12-06T02:51:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "84a85b30-2f8e-11e7-9d64-067e8bc536fd",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "Nakhiro"
+            }
+        },
+        {
+            "time": "2017-12-06T02:51:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b1f8ea4c-ea38-11e5-8eff-06b48b82cd49",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "West85"
+            }
+        },
+        {
+            "time": "2017-12-06T02:51:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "eed42028-81a5-11e4-ad40-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "killacal"
+            }
+        },
+        {
+            "time": "2017-12-06T02:51:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9526bb90-4673-11e7-804e-06f4ee369f53",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "techskill"
+            }
+        },
+        {
+            "time": "2017-12-06T02:51:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d689b01c-7480-11e6-9fc0-06c5ee41a4a5",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "Varkis"
+            }
+        }
+    ],
+    "winner": "another"
+}

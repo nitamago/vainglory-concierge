@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:31:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "66182350-6a75-11e6-936e-06388a2f2ea7",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "DaLAW"
+            }
+        },
+        {
+            "time": "2017-12-06T01:31:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "35168b08-c8bb-11e6-8b4b-068789513eb5",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "Messycascade"
+            }
+        },
+        {
+            "time": "2017-12-06T01:31:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9214facc-3975-11e6-9291-0628b69bf6d1",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "k9b"
+            }
+        },
+        {
+            "time": "2017-12-06T01:31:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9f9704f0-0fab-11e5-9fa7-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Menek"
+            }
+        },
+        {
+            "time": "2017-12-06T01:31:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fd56dae2-c734-11e6-8af1-067e8bc536fd",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Skepticole"
+            }
+        },
+        {
+            "time": "2017-12-06T01:32:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "27c536ec-d635-11e7-993d-0654fca4c20c",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Scathing"
+            }
+        }
+    ],
+    "winner": "another"
+}

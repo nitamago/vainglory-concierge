@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:49:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bb8caae8-2f52-11e7-be67-02081e0fc90e",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "karmastrikes"
+            }
+        },
+        {
+            "time": "2017-12-06T03:49:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8dc0b24a-9112-11e7-a925-02081e0fc90e",
+                "Hero": "*Grumpjaw*",
+                "Team": "1",
+                "Handle": "TyrannoX"
+            }
+        },
+        {
+            "time": "2017-12-06T03:50:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4a06ddd8-75ca-11e4-8365-06d90c28bf1a",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "RazorCliff"
+            }
+        },
+        {
+            "time": "2017-12-06T03:50:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3c0db476-a665-11e7-9ec1-067e8bc536fd",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "SkydiveSteve"
+            }
+        },
+        {
+            "time": "2017-12-06T03:50:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a442d860-6b6f-11e5-a8c4-06f4ee369f53",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "topnotch1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:50:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "66f2d4c0-9beb-11e7-a1a0-020355b21670",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Beurijit"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

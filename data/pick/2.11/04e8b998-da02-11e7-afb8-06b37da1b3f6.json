@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:19:59+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:20:17+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:20:29+0000",
+            "payload": {
+                "Player": "496c8698-29d9-11e5-acb4-06eb725f8a76",
+                "Handle": "Tsunami510",
+                "Hero": "*Grace*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:20:34+0000",
+            "payload": {
+                "Player": "3464e556-7426-11e4-9a06-06d90c28bf1a",
+                "Handle": "HomeWrecker",
+                "Hero": "*Varya*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:20:52+0000",
+            "payload": {
+                "Player": "b96e384e-30cb-11e5-a671-06b48b82cd49",
+                "Handle": "sourtable",
+                "Hero": "*Joule*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:21:11+0000",
+            "payload": {
+                "Player": "358e159c-29d9-11e5-bfb3-068789513eb5",
+                "Handle": "BossSause",
+                "Hero": "*Idris*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:21:22+0000",
+            "payload": {
+                "Player": "f6d6df56-069f-11e6-91a2-06ab1a16f8e5",
+                "Handle": "SixPathsStipe",
+                "Hero": "*Skaarf*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:21:41+0000",
+            "payload": {
+                "Player": "d3767a30-e331-11e5-96ad-06d90c28bf1a",
+                "Handle": "HaywireBoar75",
+                "Hero": "*Phinn*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

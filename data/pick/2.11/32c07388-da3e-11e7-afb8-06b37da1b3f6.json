@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:30:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "044fdbaa-3712-11e5-b3e6-06d90c28bf1a",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "SephirothOG"
+            }
+        },
+        {
+            "time": "2017-12-06T04:30:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a7f3e55c-411b-11e7-b34d-02f3b4306918",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "loganwolf3"
+            }
+        },
+        {
+            "time": "2017-12-06T04:30:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8cfa119c-b450-11e7-9248-020ecf4900d0",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "radda"
+            }
+        },
+        {
+            "time": "2017-12-06T04:30:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "be6037bc-828c-11e6-909d-06f4ee369f53",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "cerberusofdark"
+            }
+        },
+        {
+            "time": "2017-12-06T04:30:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7613a5fe-f2cb-11e4-ac46-06eb725f8a76",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "Littlesea"
+            }
+        },
+        {
+            "time": "2017-12-06T04:31:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "37832352-c8f5-11e7-8804-0654fca4c20c",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "Montavy"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

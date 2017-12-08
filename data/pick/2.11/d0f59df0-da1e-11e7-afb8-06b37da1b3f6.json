@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:46:22+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:46:26+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:46:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4c99660e-c24b-11e6-800e-06f4ee369f53",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "ShaperOfWorlds"
+            }
+        },
+        {
+            "time": "2017-12-06T00:46:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "67062404-a5bf-11e5-b9c1-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "CLPS"
+            }
+        },
+        {
+            "time": "2017-12-06T00:46:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ced99bca-4ab5-11e5-b061-0628b69bf6d1",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "MrRox1337"
+            }
+        },
+        {
+            "time": "2017-12-06T00:47:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "458db71e-c7b2-11e5-a365-06eb725f8a76",
+                "Hero": "*Reza*",
+                "Team": "1",
+                "Handle": "Ryleepro88"
+            }
+        },
+        {
+            "time": "2017-12-06T00:47:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6dd4fb66-4322-11e5-935a-06f4ee369f53",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "basketpaul"
+            }
+        },
+        {
+            "time": "2017-12-06T00:47:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c7ab29c4-8290-11e4-b0a5-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "TacoLove"
+            }
+        }
+    ],
+    "winner": "another"
+}

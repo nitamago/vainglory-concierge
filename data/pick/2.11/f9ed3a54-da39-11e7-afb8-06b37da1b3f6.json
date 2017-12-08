@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:01:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c870c88a-231c-11e7-b8ca-06eb725f8a76",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "TyphoeusFlugel"
+            }
+        },
+        {
+            "time": "2017-12-06T04:01:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "df9a4efe-e66f-11e5-860f-06ab1a16f8e5",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "LordNexis"
+            }
+        },
+        {
+            "time": "2017-12-06T04:01:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d2726d66-cf12-11e5-9fde-062cb73cdbb1",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "KingMurloc"
+            }
+        },
+        {
+            "time": "2017-12-06T04:01:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "74a89f36-d937-11e6-a46b-06c5ee41a4a5",
+                "Hero": "*Flicker*",
+                "Team": "1",
+                "Handle": "Trained4Dis"
+            }
+        },
+        {
+            "time": "2017-12-06T04:01:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fd3d629a-fb9e-11e5-b67a-06f4ee369f53",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "CathysTeamWins"
+            }
+        },
+        {
+            "time": "2017-12-06T04:01:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fd482afe-74d1-11e4-bfe8-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "w0mp"
+            }
+        }
+    ],
+    "winner": "another"
+}

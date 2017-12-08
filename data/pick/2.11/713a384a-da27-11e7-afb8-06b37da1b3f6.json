@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:48:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "71f20882-f39b-11e4-aac2-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "ZYAX"
+            }
+        },
+        {
+            "time": "2017-12-06T01:48:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1e556cd6-11a9-11e7-b4d1-020ecf4900d0",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "Rinako"
+            }
+        },
+        {
+            "time": "2017-12-06T01:48:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "96bca578-7114-11e4-9c35-062d0b175276",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "VaNDaL"
+            }
+        },
+        {
+            "time": "2017-12-06T01:48:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6cb52044-270f-11e7-84e9-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Claayster"
+            }
+        },
+        {
+            "time": "2017-12-06T01:48:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "baa19134-0e16-11e5-b42e-06eb725f8a76",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "Treewarrior"
+            }
+        },
+        {
+            "time": "2017-12-06T01:48:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7c91a630-5fed-11e5-96ba-06f4ee369f53",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "lavaman57"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

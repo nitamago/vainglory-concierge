@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:44:26+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:44:34+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:44:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dd2bfada-3ded-11e5-8b45-06b48b82cd49",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "CashinOut34"
+            }
+        },
+        {
+            "time": "2017-12-06T01:44:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b3efa63c-d3af-11e5-9b75-06c5ee41a4a5",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "ItsKamina"
+            }
+        },
+        {
+            "time": "2017-12-06T01:45:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "48dcf48e-0a11-11e5-a0c2-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "TuckerRvB"
+            }
+        },
+        {
+            "time": "2017-12-06T01:45:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bdda5366-90b8-11e5-a943-06eb725f8a76",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "uchija"
+            }
+        },
+        {
+            "time": "2017-12-06T01:45:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1140618a-9e22-11e7-8b03-06fc87f1dd11",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "AragornDragon"
+            }
+        },
+        {
+            "time": "2017-12-06T01:45:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9243420c-40e0-11e6-b71c-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "PyroxNubby"
+            }
+        }
+    ],
+    "winner": "another"
+}

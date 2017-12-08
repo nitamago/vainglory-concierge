@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:43:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d6280b32-aa9f-11e6-b637-06b48b82cd49",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Ghostplayer56"
+            }
+        },
+        {
+            "time": "2017-12-06T02:43:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "512ec5c6-a3b7-11e7-ab45-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "YoItsKike"
+            }
+        },
+        {
+            "time": "2017-12-06T02:44:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4af1dc6e-75e2-11e7-b652-02a5820c0f16",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "LuckyStrikE"
+            }
+        },
+        {
+            "time": "2017-12-06T02:44:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8f464ff8-882d-11e4-9954-06eb725f8a76",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "Jonaparedes"
+            }
+        },
+        {
+            "time": "2017-12-06T02:44:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7ddbe578-7447-11e5-908a-0628b69bf6d1",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "ChineseMafia"
+            }
+        },
+        {
+            "time": "2017-12-06T02:44:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "46a231c4-253c-11e6-aa36-06fc87f1dd11",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "KTranna"
+            }
+        }
+    ],
+    "winner": "another"
+}

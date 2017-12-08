@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:34:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5524ff84-77bf-11e7-8a04-06c5ee41a4a5",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "TheQuestion3"
+            }
+        },
+        {
+            "time": "2017-12-06T00:35:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "56539e00-0c36-11e7-9afd-0263a81144c0",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "Johan10203040"
+            }
+        },
+        {
+            "time": "2017-12-06T00:35:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d587f046-82a3-11e4-93e7-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "AntArmy"
+            }
+        },
+        {
+            "time": "2017-12-06T00:35:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4fa6738c-364f-11e7-a0f8-02b3611af5e6",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Blacksnow031"
+            }
+        },
+        {
+            "time": "2017-12-06T00:35:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9c933cac-ed58-11e5-aa65-06388a2f2ea7",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "ANDRS71"
+            }
+        },
+        {
+            "time": "2017-12-06T00:35:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "889317f2-5a61-11e5-8c4d-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "GodsDescend"
+            }
+        }
+    ],
+    "winner": "another"
+}

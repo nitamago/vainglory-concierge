@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:10:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0f1da4e4-ccfd-11e7-9029-025e5fb8fe9e",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "JesusChurches"
+            }
+        },
+        {
+            "time": "2017-12-06T00:10:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c8e38d30-9691-11e4-9ab9-06eb725f8a76",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "smknjoey"
+            }
+        },
+        {
+            "time": "2017-12-06T00:10:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9cb41632-3fd0-11e6-8b19-06ab1a16f8e5",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "Faitasi37"
+            }
+        },
+        {
+            "time": "2017-12-06T00:10:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d7c7b726-79a5-11e4-b745-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Shreder"
+            }
+        },
+        {
+            "time": "2017-12-06T00:10:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "46a416a2-b304-11e4-89ef-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "godfrid"
+            }
+        },
+        {
+            "time": "2017-12-06T00:10:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a16ba5ce-c62b-11e5-9aed-06b48b82cd49",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Soulblood13"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

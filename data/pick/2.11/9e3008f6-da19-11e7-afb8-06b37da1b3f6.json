@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:09:09+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:09:14+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:09:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "88e29b02-2f67-11e6-8fb4-06388a2f2ea7",
+                "Hero": "*Reza*",
+                "Team": "1",
+                "Handle": "TheSundancekid"
+            }
+        },
+        {
+            "time": "2017-12-06T00:09:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6ac8a52a-79fe-11e7-b805-0297ea8a7ddc",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "InfamousKnight"
+            }
+        },
+        {
+            "time": "2017-12-06T00:09:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ca9446bc-bb36-11e6-88ba-06fc87f1dd11",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "LedgeAnDairy"
+            }
+        },
+        {
+            "time": "2017-12-06T00:10:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "de740e5e-21e2-11e5-b968-06b48b82cd49",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "MrTajMahal"
+            }
+        },
+        {
+            "time": "2017-12-06T00:10:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7f02fad2-aabf-11e5-a1b9-06f4ee369f53",
+                "Hero": "*Samuel*",
+                "Team": "1",
+                "Handle": "RamirAnthony"
+            }
+        },
+        {
+            "time": "2017-12-06T00:10:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3a6297d2-9f11-11e7-9578-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "staYwOke"
+            }
+        }
+    ],
+    "winner": "another"
+}

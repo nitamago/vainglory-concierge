@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:16:42+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:17:02+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:17:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6cb52044-270f-11e7-84e9-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "Claayster"
+            }
+        },
+        {
+            "time": "2017-12-06T02:17:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4fedbe1c-7730-11e4-b12c-06d90c28bf1a",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "killernick5678"
+            }
+        },
+        {
+            "time": "2017-12-06T02:17:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "693c347c-2060-11e6-9a31-06b48b82cd49",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "jesterJAWZ"
+            }
+        },
+        {
+            "time": "2017-12-06T02:17:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "07b7ce4c-cca8-11e6-9769-06f4ee369f53",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "KNIGHTDRAGO"
+            }
+        },
+        {
+            "time": "2017-12-06T02:17:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d3e54f9a-0212-11e7-95fe-06eb725f8a76",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "AnDraMida"
+            }
+        },
+        {
+            "time": "2017-12-06T02:17:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "eed42028-81a5-11e4-ad40-06d90c28bf1a",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "killacal"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

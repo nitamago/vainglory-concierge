@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:49:57+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:50:11+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:50:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ee65669e-7127-11e4-9351-06641bcbf424",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "KittenPro"
+            }
+        },
+        {
+            "time": "2017-12-06T01:50:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ff8284aa-fcf6-11e5-9d6e-068789513eb5",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "DanielKimchi"
+            }
+        },
+        {
+            "time": "2017-12-06T01:50:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "410ae6e6-1183-11e7-b90b-0297ea8a7ddc",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "Caellach"
+            }
+        },
+        {
+            "time": "2017-12-06T01:50:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "475b0d7a-78fe-11e4-9ae1-06d90c28bf1a",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "praetor"
+            }
+        },
+        {
+            "time": "2017-12-06T01:50:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "88ce61ec-814a-11e7-82c1-02a5820c0f16",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "WolfWiz"
+            }
+        },
+        {
+            "time": "2017-12-06T01:51:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "45041876-fc4e-11e5-a6de-067e8bc536fd",
+                "Hero": "*Ozo*",
+                "Team": "2",
+                "Handle": "YinKim"
+            }
+        }
+    ],
+    "winner": "another"
+}

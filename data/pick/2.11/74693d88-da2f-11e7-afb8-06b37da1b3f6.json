@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:45:32+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:45:39+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:45:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "086ea0c0-21ec-11e6-8d80-06388a2f2ea7",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "darckbull13"
+            }
+        },
+        {
+            "time": "2017-12-06T02:45:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d30491d0-0d72-11e5-9431-06eb725f8a76",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "LordBaconButt"
+            }
+        },
+        {
+            "time": "2017-12-06T02:45:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f0164086-178e-11e5-bc70-06d90c28bf1a",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "BryantAnNguyen"
+            }
+        },
+        {
+            "time": "2017-12-06T02:46:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ff1e1f88-2384-11e6-9ee8-06b48b82cd49",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "JonSalshichon"
+            }
+        },
+        {
+            "time": "2017-12-06T02:46:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "853cb394-babd-11e5-a8be-06b48b82cd49",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "MERSENARI0"
+            }
+        },
+        {
+            "time": "2017-12-06T02:46:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0bef4044-0d73-11e5-b6bf-06d90c28bf1a",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "Slimeking"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

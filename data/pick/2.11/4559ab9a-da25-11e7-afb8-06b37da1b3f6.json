@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:32:32+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Catherine*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:32:49+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:32:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9f9f33e6-fad8-11e5-a5b4-06c5ee41a4a5",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Ganta777"
+            }
+        },
+        {
+            "time": "2017-12-06T01:33:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4852209c-9bd5-11e5-82c5-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "butttt"
+            }
+        },
+        {
+            "time": "2017-12-06T01:33:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2ef2a748-45c2-11e5-8a68-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Zimgame"
+            }
+        },
+        {
+            "time": "2017-12-06T01:33:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8d392010-9637-11e4-9439-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "BastreSSS"
+            }
+        },
+        {
+            "time": "2017-12-06T01:33:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9080c382-2203-11e6-b12e-067e8bc536fd",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "MysticFoX"
+            }
+        },
+        {
+            "time": "2017-12-06T01:33:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9dbc3a52-8bc8-11e6-959c-06388a2f2ea7",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "2rrNeverGiveUp"
+            }
+        }
+    ],
+    "winner": "another"
+}

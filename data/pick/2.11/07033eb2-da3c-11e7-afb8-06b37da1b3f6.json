@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:15:19+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:15:22+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:15:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "68e6a3c4-9926-11e6-9cac-06f4ee369f53",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "Star0902"
+            }
+        },
+        {
+            "time": "2017-12-06T04:15:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2168ab8a-d2fc-11e7-a634-069ef91bd55c",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "PizzaMaster1315"
+            }
+        },
+        {
+            "time": "2017-12-06T04:16:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "195e0fc6-756e-11e6-ae18-067e8bc536fd",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "SlinginBagels"
+            }
+        },
+        {
+            "time": "2017-12-06T04:16:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2a8d0340-5a9f-11e6-8d30-06c5ee41a4a5",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "IchimaruBankai"
+            }
+        },
+        {
+            "time": "2017-12-06T04:16:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "61e05dc6-c70d-11e6-9940-06d90c28bf1a",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "Metallichead2002"
+            }
+        },
+        {
+            "time": "2017-12-06T04:16:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fdbf0500-2144-11e5-97f8-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "Jsdhavel"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

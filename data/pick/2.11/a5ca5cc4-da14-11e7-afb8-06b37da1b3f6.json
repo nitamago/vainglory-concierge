@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:33:40+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Flicker*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:33:44+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:33:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3a6297d2-9f11-11e7-9578-06d90c28bf1a",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "staYwOke"
+            }
+        },
+        {
+            "time": "2017-12-05T23:33:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "333d4bac-ca2b-11e6-afdf-06f4ee369f53",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "YoungerMetro"
+            }
+        },
+        {
+            "time": "2017-12-05T23:34:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "481a9c5c-cf93-11e5-82a7-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "MerkzisOP"
+            }
+        },
+        {
+            "time": "2017-12-05T23:34:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6ac8a52a-79fe-11e7-b805-0297ea8a7ddc",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "InfamousKnight"
+            }
+        },
+        {
+            "time": "2017-12-05T23:34:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ca9446bc-bb36-11e6-88ba-06fc87f1dd11",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "LedgeAnDairy"
+            }
+        },
+        {
+            "time": "2017-12-05T23:35:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "192aa1a4-62a3-11e7-9895-02a5820c0f16",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Bodedly"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

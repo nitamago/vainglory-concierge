@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:08:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9e7db2e0-c17e-11e6-b25c-062cb73cdbb1",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Noctos"
+            }
+        },
+        {
+            "time": "2017-12-06T02:08:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2efed584-33ae-11e5-b0db-0628b69bf6d1",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "an5"
+            }
+        },
+        {
+            "time": "2017-12-06T02:09:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3276c120-53f2-11e7-910e-02081e0fc90e",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Trucis"
+            }
+        },
+        {
+            "time": "2017-12-06T02:09:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5aa5b750-8f04-11e5-8ec1-06d90c28bf1a",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "DALE820"
+            }
+        },
+        {
+            "time": "2017-12-06T02:09:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "88413110-79bd-11e4-aec7-06d90c28bf1a",
+                "Hero": "*Samuel*",
+                "Team": "1",
+                "Handle": "ErickRojitas"
+            }
+        },
+        {
+            "time": "2017-12-06T02:09:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f1cdddda-ad01-11e6-ba1e-06b48b82cd49",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "TexasHitBoy1"
+            }
+        }
+    ],
+    "winner": "another"
+}

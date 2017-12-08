@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:14:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a9ffd03c-4d51-11e5-a34a-06b48b82cd49",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "DrPerry"
+            }
+        },
+        {
+            "time": "2017-12-06T00:14:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bf905e06-c728-11e6-8fe4-06b48b82cd49",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "nathee"
+            }
+        },
+        {
+            "time": "2017-12-06T00:14:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "170703ac-edca-11e6-8b34-06fc87f1dd11",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "SaggyGoat"
+            }
+        },
+        {
+            "time": "2017-12-06T00:14:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "89a06912-f243-11e6-874a-06388a2f2ea7",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Blazay"
+            }
+        },
+        {
+            "time": "2017-12-06T00:14:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ed88d3a4-3351-11e5-970d-0628b69bf6d1",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "ShiRoTa"
+            }
+        },
+        {
+            "time": "2017-12-06T00:14:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "889317f2-5a61-11e5-8c4d-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "GodsDescend"
+            }
+        }
+    ],
+    "winner": "another"
+}

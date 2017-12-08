@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:53:16+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:53:17+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Alpha*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:53:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7a819148-21f4-11e5-a2f8-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "JhonSnowbaby"
+            }
+        },
+        {
+            "time": "2017-12-06T02:53:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ead77300-f0b0-11e5-bdc5-068789513eb5",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "franny88"
+            }
+        },
+        {
+            "time": "2017-12-06T02:53:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9664f07e-7359-11e5-ab8c-06eb725f8a76",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "Justthetip"
+            }
+        },
+        {
+            "time": "2017-12-06T02:53:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7b633b3e-dd6f-11e5-9565-06fc87f1dd11",
+                "Hero": "*Reza*",
+                "Team": "1",
+                "Handle": "JuniorLoliPop"
+            }
+        },
+        {
+            "time": "2017-12-06T02:53:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6806bd44-9bc1-11e5-ad80-06b48b82cd49",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "Jovannim10"
+            }
+        },
+        {
+            "time": "2017-12-06T02:54:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "870f526e-56aa-11e7-b8fe-029cb633549e",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "absoluteZero"
+            }
+        }
+    ],
+    "winner": "another"
+}

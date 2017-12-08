@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:32:26+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:32:39+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:32:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7061b4b6-f7ca-11e5-b792-06c5ee41a4a5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Giibson"
+            }
+        },
+        {
+            "time": "2017-12-06T03:32:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bffe9078-7361-11e4-a29d-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "jalex2050"
+            }
+        },
+        {
+            "time": "2017-12-06T03:33:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2b3497b6-3b47-11e7-8747-062cb73cdbb1",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Dracil"
+            }
+        },
+        {
+            "time": "2017-12-06T03:33:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "be945f40-ae41-11e4-8337-06d90c28bf1a",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "ApexNinja"
+            }
+        },
+        {
+            "time": "2017-12-06T03:33:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "42a99c14-3ede-11e5-8b54-0628b69bf6d1",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "guanwu777"
+            }
+        },
+        {
+            "time": "2017-12-06T03:34:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "585bcf16-8ecd-11e5-b177-06f4ee369f53",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "lDanceGood"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

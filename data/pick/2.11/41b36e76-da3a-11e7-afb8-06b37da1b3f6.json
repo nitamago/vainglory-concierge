@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:02:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "786fe16c-8f81-11e4-9bb5-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "JhonyyHardy"
+            }
+        },
+        {
+            "time": "2017-12-06T04:02:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ddf0612a-a03a-11e7-9d36-06f4ee369f53",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "OLDSPICE"
+            }
+        },
+        {
+            "time": "2017-12-06T04:02:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1ae0b9aa-99e6-11e7-b38e-06388a2f2ea7",
+                "Hero": "*Reza*",
+                "Team": "1",
+                "Handle": "Gaburias445"
+            }
+        },
+        {
+            "time": "2017-12-06T04:02:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9c9c303c-2cb5-11e5-bb78-06b48b82cd49",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "wasterman"
+            }
+        },
+        {
+            "time": "2017-12-06T04:03:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "774cc154-a067-11e5-b8f0-06b48b82cd49",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "frutamaldita"
+            }
+        },
+        {
+            "time": "2017-12-06T04:03:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c1a411e0-06f1-11e5-be7b-06d90c28bf1a",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "nefo"
+            }
+        }
+    ],
+    "winner": "another"
+}

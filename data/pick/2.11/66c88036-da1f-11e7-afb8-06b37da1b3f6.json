@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:50:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ada1a36e-6dea-11e5-b416-0628b69bf6d1",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "EddieEddie"
+            }
+        },
+        {
+            "time": "2017-12-06T00:50:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3c4fa0bc-b483-11e7-b727-029cb633549e",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "CaptPando"
+            }
+        },
+        {
+            "time": "2017-12-06T00:51:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3417c490-a0c6-11e7-a139-06b48b82cd49",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Jinsouyun"
+            }
+        },
+        {
+            "time": "2017-12-06T00:51:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9b8d148c-d8d5-11e5-89f2-06ab1a16f8e5",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "hallowgod4u"
+            }
+        },
+        {
+            "time": "2017-12-06T00:51:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "27c536ec-d635-11e7-993d-0654fca4c20c",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "Scathing"
+            }
+        },
+        {
+            "time": "2017-12-06T00:51:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b9c08bc4-b6b8-11e7-8f0e-06a9175d25fa",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "thanksfriend"
+            }
+        }
+    ],
+    "winner": "another"
+}

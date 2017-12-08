@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:25:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f5565cfa-141e-11e7-9de9-02f3b4306918",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Kamther"
+            }
+        },
+        {
+            "time": "2017-12-06T00:26:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3acc3862-5ab1-11e7-8300-067e8bc536fd",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "OGsolo"
+            }
+        },
+        {
+            "time": "2017-12-06T00:26:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "089065b0-f55a-11e6-97dd-06fc87f1dd11",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Roodabega"
+            }
+        },
+        {
+            "time": "2017-12-06T00:26:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "970d0180-710f-11e4-a72a-06641bcbf424",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "kris4000"
+            }
+        },
+        {
+            "time": "2017-12-06T00:26:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fc1e3754-938a-11e4-9a9d-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "ThePieMaster"
+            }
+        },
+        {
+            "time": "2017-12-06T00:26:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2958832a-d1ed-11e7-845f-02ce883f709a",
+                "Hero": "*Flicker*",
+                "Team": "2",
+                "Handle": "Hefest0"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

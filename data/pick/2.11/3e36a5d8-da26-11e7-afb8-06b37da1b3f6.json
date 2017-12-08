@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:39:22+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:39:33+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:39:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7987b0a8-77b0-11e5-9b2d-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Charmander21"
+            }
+        },
+        {
+            "time": "2017-12-06T01:39:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "516a7a40-a818-11e5-9796-06f4ee369f53",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "xBabyHaz"
+            }
+        },
+        {
+            "time": "2017-12-06T01:39:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6df64774-1098-11e5-9fd1-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "lolipo"
+            }
+        },
+        {
+            "time": "2017-12-06T01:40:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "686ad100-77b1-11e5-aaaf-068789513eb5",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Skadoosh1212"
+            }
+        },
+        {
+            "time": "2017-12-06T01:40:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c62c7ff6-ba2b-11e6-8283-06a9175d25fa",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "Aethern"
+            }
+        },
+        {
+            "time": "2017-12-06T01:40:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4db877a0-baa3-11e6-ba6e-06c5ee41a4a5",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "Nagatokun"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:21:18+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:21:31+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:21:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1b08eca6-80a1-11e4-8b20-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "K1ngKen"
+            }
+        },
+        {
+            "time": "2017-12-06T02:21:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "85a630de-59d8-11e6-a9c0-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "AutumnEclipse"
+            }
+        },
+        {
+            "time": "2017-12-06T02:21:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0dee80de-3c1b-11e7-b15b-06a9175d25fa",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "GothicLolis"
+            }
+        },
+        {
+            "time": "2017-12-06T02:22:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "147e6324-980b-11e6-b652-068789513eb5",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "DarkZephyrus"
+            }
+        },
+        {
+            "time": "2017-12-06T02:22:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "82df89dc-7716-11e4-9faa-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "XXIsavage"
+            }
+        },
+        {
+            "time": "2017-12-06T02:22:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9c37e8e6-a9a8-11e5-9796-06f4ee369f53",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "Danyyampy"
+            }
+        }
+    ],
+    "winner": "another"
+}

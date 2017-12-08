@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T20:53:00+0000",
+            "payload": {
+                "Hero": "*Churnwalker*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:53:15+0000",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:53:27+0000",
+            "payload": {
+                "Player": "848214ae-9209-11e4-b0a5-06d90c28bf1a",
+                "Handle": "DNZio",
+                "Hero": "*Grace*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:53:50+0000",
+            "payload": {
+                "Player": "a4582620-5ff8-11e5-a64b-06eb725f8a76",
+                "Handle": "LaVarBall",
+                "Hero": "*Ardan*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:53:55+0000",
+            "payload": {
+                "Player": "ecadd6ce-70c8-11e4-8f5c-06641bcbf424",
+                "Handle": "gabevizzle",
+                "Hero": "*Idris*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:54:11+0000",
+            "payload": {
+                "Player": "5d665a64-7671-11e4-ab4c-06d90c28bf1a",
+                "Handle": "Shine",
+                "Hero": "*Skye*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:54:35+0000",
+            "payload": {
+                "Player": "84d4dcf6-710d-11e4-92f7-062d0b175276",
+                "Handle": "NeonFire",
+                "Hero": "*Samuel*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:54:43+0000",
+            "payload": {
+                "Player": "8887ee96-04d9-11e5-bc8e-06eb725f8a76",
+                "Handle": "louisvuittondon",
+                "Hero": "*Taka*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

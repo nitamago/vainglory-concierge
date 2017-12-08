@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:55:47+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:55:53+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:56:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4982fc1c-5efd-11e5-8a2e-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "Dra90nL0rdL3da"
+            }
+        },
+        {
+            "time": "2017-12-06T03:56:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9bcacbea-e958-11e5-ae8d-0628b69bf6d1",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "SuperPride"
+            }
+        },
+        {
+            "time": "2017-12-06T03:56:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "591e0ba4-d589-11e6-9dcc-06a9175d25fa",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "noSananoLife"
+            }
+        },
+        {
+            "time": "2017-12-06T03:56:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b4c3dab8-ab49-11e4-8e2b-06eb725f8a76",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "HeartbreakOne"
+            }
+        },
+        {
+            "time": "2017-12-06T03:56:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b5803cc6-d26d-11e4-b964-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "GreenListerine"
+            }
+        },
+        {
+            "time": "2017-12-06T03:57:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0ee1163c-3482-11e7-8516-02866102f5a6",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "LoveScars"
+            }
+        }
+    ],
+    "winner": "another"
+}

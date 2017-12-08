@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:22:18+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:22:23+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:22:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7c28afbc-6b60-11e5-a3f1-06d90c28bf1a",
+                "Hero": "*Flicker*",
+                "Team": "1",
+                "Handle": "AnimalKingdom"
+            }
+        },
+        {
+            "time": "2017-12-06T00:22:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9ae205e6-9218-11e5-a7ae-06f4ee369f53",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "THEKILLERJOKER"
+            }
+        },
+        {
+            "time": "2017-12-06T00:23:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "84f73dc4-bb07-11e5-bbc3-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Euan32"
+            }
+        },
+        {
+            "time": "2017-12-06T00:23:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6a90e54a-9054-11e4-87fd-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "eonkid5"
+            }
+        },
+        {
+            "time": "2017-12-06T00:24:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8b257a56-3a71-11e5-b691-068789513eb5",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "JoDidley"
+            }
+        },
+        {
+            "time": "2017-12-06T00:24:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "28bde486-fe0a-11e5-a9f7-0628b69bf6d1",
+                "Hero": "*Reza*",
+                "Team": "2",
+                "Handle": "reus3000"
+            }
+        }
+    ],
+    "winner": "another"
+}

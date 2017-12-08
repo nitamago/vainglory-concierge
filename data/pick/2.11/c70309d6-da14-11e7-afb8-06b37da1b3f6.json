@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T23:34:36+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:34:55+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Kestrel*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:35:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "35c7233a-4088-11e5-a1bb-0628b69bf6d1",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "th4nh"
+            }
+        },
+        {
+            "time": "2017-12-05T23:35:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "390b8de4-7e44-11e4-b2a2-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "BHxartiest"
+            }
+        },
+        {
+            "time": "2017-12-05T23:35:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f06b9ece-8408-11e4-8211-06eb725f8a76",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "drake11"
+            }
+        },
+        {
+            "time": "2017-12-05T23:35:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ec7b244e-7be6-11e4-8753-06eb725f8a76",
+                "Hero": "*Petal*",
+                "Team": "1",
+                "Handle": "HighDiamond"
+            }
+        },
+        {
+            "time": "2017-12-05T23:36:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "08bb1496-05e9-11e7-841e-06eb725f8a76",
+                "Hero": "*Samuel*",
+                "Team": "1",
+                "Handle": "Sergio17"
+            }
+        },
+        {
+            "time": "2017-12-05T23:36:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d2fdfaec-6ca2-11e6-bc2b-062cb73cdbb1",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "Zekken24"
+            }
+        }
+    ],
+    "winner": "another"
+}

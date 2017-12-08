@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:08:38+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:08:47+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:09:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f926649a-dd2b-11e5-8e87-06fc87f1dd11",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Tach1bana"
+            }
+        },
+        {
+            "time": "2017-12-06T01:09:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dd7f2e4a-7305-11e7-b146-06b48b82cd49",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "Rainful"
+            }
+        },
+        {
+            "time": "2017-12-06T01:09:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8e057410-75cd-11e4-8aaa-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "LAST_Breath"
+            }
+        },
+        {
+            "time": "2017-12-06T01:09:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8a3d12b8-6855-11e5-8ddb-06b48b82cd49",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "EmperorTrump1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:09:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fdea78ba-ac2d-11e5-83df-0628b69bf6d1",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Player59251582"
+            }
+        },
+        {
+            "time": "2017-12-06T01:10:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c5dc0ed0-7ebd-11e6-8699-06388a2f2ea7",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "NightHawkOp"
+            }
+        }
+    ],
+    "winner": "another"
+}

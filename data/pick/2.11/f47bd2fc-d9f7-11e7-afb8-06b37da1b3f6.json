@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T20:08:07+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:08:10+0000",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:08:25+0000",
+            "payload": {
+                "Player": "239beb7e-38bb-11e6-92b2-062cb73cdbb1",
+                "Handle": "xKingX",
+                "Hero": "*Ardan*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:08:38+0000",
+            "payload": {
+                "Player": "0b87fe54-627b-11e5-9808-06eb725f8a76",
+                "Handle": "TheEternalMage",
+                "Hero": "*Lyra*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:08:44+0000",
+            "payload": {
+                "Player": "dfff1a2c-7524-11e4-b3b6-06d90c28bf1a",
+                "Handle": "shuy",
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:08:53+0000",
+            "payload": {
+                "Player": "0f0aceb6-cc63-11e4-af5e-06d90c28bf1a",
+                "Handle": "Giovani",
+                "Hero": "*Vox*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:09:14+0000",
+            "payload": {
+                "Player": "72cd0b5a-70ef-11e4-89a2-062d0b175276",
+                "Handle": "UnknownShadow",
+                "Hero": "*Reim*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:09:34+0000",
+            "payload": {
+                "Player": "7901f53e-7644-11e5-8a2f-06f4ee369f53",
+                "Handle": "RoyGbiv",
+                "Hero": "*Skye*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

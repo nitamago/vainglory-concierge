@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:45:04+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:45:07+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Baron*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:45:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cde2359c-96bf-11e4-a17f-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "Damon1981"
+            }
+        },
+        {
+            "time": "2017-12-06T01:45:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f234326c-bff2-11e5-a6aa-06f4ee369f53",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "mistressyurika"
+            }
+        },
+        {
+            "time": "2017-12-06T01:45:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "453ad2e6-18c6-11e6-b809-06f4ee369f53",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "TURTLESWAGLORD"
+            }
+        },
+        {
+            "time": "2017-12-06T01:45:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "280d003a-3b91-11e5-8b54-0628b69bf6d1",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "RoyBrandt"
+            }
+        },
+        {
+            "time": "2017-12-06T01:46:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1af259ca-372e-11e5-a728-0628b69bf6d1",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "Teuchi"
+            }
+        },
+        {
+            "time": "2017-12-06T01:46:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "29f11416-cf99-11e6-b783-06ab1a16f8e5",
+                "Hero": "*Ozo*",
+                "Team": "2",
+                "Handle": "KillerBee187"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

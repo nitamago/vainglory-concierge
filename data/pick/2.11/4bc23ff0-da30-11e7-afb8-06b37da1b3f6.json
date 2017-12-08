@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:51:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9dff80f8-b68c-11e5-b443-0628b69bf6d1",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "JHONNYGLEZ"
+            }
+        },
+        {
+            "time": "2017-12-06T02:51:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b2fbd8d6-be6a-11e5-9691-06b48b82cd49",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "eefen"
+            }
+        },
+        {
+            "time": "2017-12-06T02:51:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ea784466-a91f-11e6-a145-06eb725f8a76",
+                "Hero": "*Reza*",
+                "Team": "1",
+                "Handle": "Tewt"
+            }
+        },
+        {
+            "time": "2017-12-06T02:51:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "23dae286-87be-11e7-bbe1-02866102f5a6",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "DaddyDarkMeat"
+            }
+        },
+        {
+            "time": "2017-12-06T02:52:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e457628a-1ff1-11e7-a8e7-020355b21670",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "MiniGoomba"
+            }
+        },
+        {
+            "time": "2017-12-06T02:52:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a1a586b8-211c-11e5-8ab9-068789513eb5",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "MegaGoomba"
+            }
+        }
+    ],
+    "winner": "another"
+}

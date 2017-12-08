@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:30:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1ac06d62-9810-11e7-b1fb-02b3611af5e6",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "godLes"
+            }
+        },
+        {
+            "time": "2017-12-06T00:31:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "445e81ec-90b4-11e4-b310-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "doni1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:31:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "37d20454-5f82-11e7-94bb-029cb633549e",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "oBandit"
+            }
+        },
+        {
+            "time": "2017-12-06T00:31:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "acbbf548-abc5-11e6-9752-062cb73cdbb1",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "WiredToWin"
+            }
+        },
+        {
+            "time": "2017-12-06T00:31:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9dd2b170-ad18-11e7-9bb8-0297ea8a7ddc",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "ECFox"
+            }
+        },
+        {
+            "time": "2017-12-06T00:31:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "24c89af8-6b91-11e5-858e-068789513eb5",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "citybo"
+            }
+        }
+    ],
+    "winner": "another"
+}

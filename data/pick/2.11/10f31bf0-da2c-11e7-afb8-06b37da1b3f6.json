@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:21:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8c7a19b6-86b4-11e7-880c-02b3611af5e6",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Pegakoo"
+            }
+        },
+        {
+            "time": "2017-12-06T02:21:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e0587c60-5be2-11e6-a339-06fc87f1dd11",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Guest_140973486"
+            }
+        },
+        {
+            "time": "2017-12-06T02:21:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3850770a-b806-11e5-a114-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "DARKHAWK"
+            }
+        },
+        {
+            "time": "2017-12-06T02:21:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3e685088-10aa-11e7-be93-06d90c28bf1a",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "XWarWolfX"
+            }
+        },
+        {
+            "time": "2017-12-06T02:21:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "68d16130-c005-11e5-82cd-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "SpecialKurapika"
+            }
+        },
+        {
+            "time": "2017-12-06T02:22:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8cbb3428-fece-11e6-a1f9-06fc87f1dd11",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Xenopholix"
+            }
+        }
+    ],
+    "winner": "another"
+}

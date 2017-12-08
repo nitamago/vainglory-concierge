@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T22:44:06+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T22:44:18+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T22:44:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f4ed7274-54f5-11e5-9d6b-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "MrAxhandle"
+            }
+        },
+        {
+            "time": "2017-12-05T22:44:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3e40daee-7575-11e4-9ddc-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Synthex"
+            }
+        },
+        {
+            "time": "2017-12-05T22:44:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6c10b102-bc9a-11e5-bb84-06b48b82cd49",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Astemio"
+            }
+        },
+        {
+            "time": "2017-12-05T22:44:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b2b96966-9280-11e6-a597-06f4ee369f53",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "CarlosDuty"
+            }
+        },
+        {
+            "time": "2017-12-05T22:44:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "57f5e772-6f7f-11e5-a6d9-06b48b82cd49",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "Zon008"
+            }
+        },
+        {
+            "time": "2017-12-05T22:44:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "97766228-6eea-11e4-bfea-06641bcbf424",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "luffy0325"
+            }
+        }
+    ],
+    "winner": "another"
+}

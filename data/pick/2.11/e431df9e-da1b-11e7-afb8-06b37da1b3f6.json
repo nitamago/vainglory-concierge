@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:25:29+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:25:40+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:25:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0d3bbb1e-5eb9-11e7-8ec6-0297ea8a7ddc",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Angela2821"
+            }
+        },
+        {
+            "time": "2017-12-06T00:26:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8f740e0e-22db-11e5-a3b6-06b48b82cd49",
+                "Hero": "*Reza*",
+                "Team": "2",
+                "Handle": "PureChaos666"
+            }
+        },
+        {
+            "time": "2017-12-06T00:26:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2d96bb6c-4ec9-11e6-a47a-06388a2f2ea7",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "koleon44"
+            }
+        },
+        {
+            "time": "2017-12-06T00:26:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c3facbe6-c519-11e5-8073-06d90c28bf1a",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "DomCro"
+            }
+        },
+        {
+            "time": "2017-12-06T00:26:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3716bd1a-22bd-11e5-862e-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "Chubbles"
+            }
+        },
+        {
+            "time": "2017-12-06T00:27:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7f558ebc-fc37-11e6-bedb-06fc87f1dd11",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "dougacat2"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

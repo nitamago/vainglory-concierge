@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T23:46:38+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:46:46+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Adagio*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:46:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8ea648aa-a3bb-11e5-afcd-06b48b82cd49",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "jaaakie"
+            }
+        },
+        {
+            "time": "2017-12-05T23:46:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a12f9f68-1bec-11e6-83cf-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "JJcomp77"
+            }
+        },
+        {
+            "time": "2017-12-05T23:47:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f60cf05c-573f-11e5-8bbe-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "kingpaindathe2nd"
+            }
+        },
+        {
+            "time": "2017-12-05T23:47:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fa1353e4-011c-11e6-9562-062cb73cdbb1",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "srekofbmudd"
+            }
+        },
+        {
+            "time": "2017-12-05T23:47:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d8739954-9f29-11e7-8039-02b3611af5e6",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "nemohoz"
+            }
+        },
+        {
+            "time": "2017-12-05T23:47:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b8dce4f0-ab75-11e5-a114-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "nightmar"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:06:57+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:06:59+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:07:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e6240452-c1ff-11e5-87e2-06b48b82cd49",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "GIBA"
+            }
+        },
+        {
+            "time": "2017-12-06T02:07:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b2b861c6-725a-11e4-aca5-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "DevilsHoleSaint"
+            }
+        },
+        {
+            "time": "2017-12-06T02:07:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3277a5e2-06d6-11e5-b91f-06d90c28bf1a",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "vonlaust"
+            }
+        },
+        {
+            "time": "2017-12-06T02:07:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d7a1204a-f490-11e5-8bf2-06eb725f8a76",
+                "Hero": "*Petal*",
+                "Team": "1",
+                "Handle": "ALegitPikachu"
+            }
+        },
+        {
+            "time": "2017-12-06T02:08:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "58e7cac8-8816-11e6-894d-06f4ee369f53",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "MedGeographer"
+            }
+        },
+        {
+            "time": "2017-12-06T02:08:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7ca8f590-9e1e-11e6-b0aa-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Extrii"
+            }
+        }
+    ],
+    "winner": "another"
+}

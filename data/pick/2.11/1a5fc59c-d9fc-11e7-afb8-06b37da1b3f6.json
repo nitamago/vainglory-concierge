@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T20:37:49+0000",
+            "payload": {
+                "Hero": "*Alpha*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:38:00+0000",
+            "payload": {
+                "Hero": "*Skaarf*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:38:11+0000",
+            "payload": {
+                "Player": "7df55aca-8d85-11e4-8243-06eb725f8a76",
+                "Handle": "Kromwell",
+                "Hero": "*Baron*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:38:18+0000",
+            "payload": {
+                "Player": "b262cf02-a0ba-11e4-b5d5-06eb725f8a76",
+                "Handle": "smitty11",
+                "Hero": "*SAW*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:38:24+0000",
+            "payload": {
+                "Player": "0c1e67aa-7220-11e4-88f1-06d90c28bf1a",
+                "Handle": "munkhja",
+                "Hero": "*Joule*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:38:40+0000",
+            "payload": {
+                "Player": "7e55276a-ff73-11e4-af8b-06d90c28bf1a",
+                "Handle": "FreakSty1e",
+                "Hero": "*Ardan*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:38:41+0000",
+            "payload": {
+                "Player": "fcdb6b12-94a7-11e4-bf9c-06d90c28bf1a",
+                "Handle": "KrueL",
+                "Hero": "*Krul*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:38:52+0000",
+            "payload": {
+                "Player": "080ab930-7721-11e7-a1a0-06eb725f8a76",
+                "Handle": "VanesaGirlMX",
+                "Hero": "*Lance*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

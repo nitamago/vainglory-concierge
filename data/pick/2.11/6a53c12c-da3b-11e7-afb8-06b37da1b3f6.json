@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:11:05+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Koshka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:11:18+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Catherine*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:11:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "878e2f58-b02a-11e5-b338-06f4ee369f53",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "ProvidenceKB"
+            }
+        },
+        {
+            "time": "2017-12-06T04:11:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "56897cc4-a5bc-11e4-9bb5-06eb725f8a76",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "LTSHD"
+            }
+        },
+        {
+            "time": "2017-12-06T04:11:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6aca6778-3d1f-11e7-bc72-0223dbc2587a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "BeamRegimeYT"
+            }
+        },
+        {
+            "time": "2017-12-06T04:12:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "459f8518-7437-11e4-a232-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "iLoveFlawLesS"
+            }
+        },
+        {
+            "time": "2017-12-06T04:12:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4eda1c02-de2f-11e5-a15e-06fc87f1dd11",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "DogEatDogWorld"
+            }
+        },
+        {
+            "time": "2017-12-06T04:12:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d7d97fcc-8bee-11e5-b734-068789513eb5",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "TenzinT"
+            }
+        }
+    ],
+    "winner": "another"
+}

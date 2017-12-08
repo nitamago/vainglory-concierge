@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:44:41+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:44:44+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:44:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3fb3deba-b98a-11e7-80a2-06fc87f1dd11",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "ParTk"
+            }
+        },
+        {
+            "time": "2017-12-06T04:45:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "16952f5c-122a-11e5-ac8d-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "00oo"
+            }
+        },
+        {
+            "time": "2017-12-06T04:45:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "184b3330-3571-11e6-97bb-06b48b82cd49",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "alfonsox93"
+            }
+        },
+        {
+            "time": "2017-12-06T04:45:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "793defe8-4ae9-11e5-8a67-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "nica2004"
+            }
+        },
+        {
+            "time": "2017-12-06T04:45:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "081e9ab2-7c64-11e6-aa58-06fc87f1dd11",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "elmksan"
+            }
+        },
+        {
+            "time": "2017-12-06T04:45:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "671dcdbe-64b1-11e6-b78f-06388a2f2ea7",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Perregrin"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

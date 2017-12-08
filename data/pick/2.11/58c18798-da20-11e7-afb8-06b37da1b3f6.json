@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:57:07+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:57:21+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:57:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "806ef76c-9f20-11e6-b527-06a9175d25fa",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "razu69"
+            }
+        },
+        {
+            "time": "2017-12-06T00:57:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c704889a-7ad1-11e6-9768-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "SadlySilly"
+            }
+        },
+        {
+            "time": "2017-12-06T00:58:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "91cd5f48-7200-11e4-a20b-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "HerHigHness"
+            }
+        },
+        {
+            "time": "2017-12-06T00:58:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c55b5e70-db9c-11e6-8110-06fc87f1dd11",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "FERRET"
+            }
+        },
+        {
+            "time": "2017-12-06T00:58:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7c28afbc-6b60-11e5-a3f1-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "AnimalKingdom"
+            }
+        },
+        {
+            "time": "2017-12-06T00:58:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "372e00b0-6ff3-11e4-a054-06641bcbf424",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "Lobboy"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T23:16:24+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:16:33+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:16:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8c7e8046-502d-11e6-b693-06ab1a16f8e5",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Aequinoctium"
+            }
+        },
+        {
+            "time": "2017-12-05T23:17:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "666e83e8-0fe9-11e7-8af2-02f3b4306918",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "SorenBjerg21"
+            }
+        },
+        {
+            "time": "2017-12-05T23:17:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "eef9c2c2-de07-11e6-8b96-06b48b82cd49",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "QuocAnhNgonLu"
+            }
+        },
+        {
+            "time": "2017-12-05T23:17:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c26cadb0-9e24-11e5-99a1-06b48b82cd49",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "KeithKarnage"
+            }
+        },
+        {
+            "time": "2017-12-05T23:17:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3c4a20f8-c4e0-11e6-b5c7-06ab1a16f8e5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Tayzz"
+            }
+        },
+        {
+            "time": "2017-12-05T23:17:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "70367908-2f7a-11e6-8604-06ab1a16f8e5",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Pvman"
+            }
+        }
+    ],
+    "winner": "another"
+}

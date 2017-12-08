@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:10:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5a3a4b36-b09d-11e5-83c0-068789513eb5",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "ForceofReckoning"
+            }
+        },
+        {
+            "time": "2017-12-06T03:10:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9cf2ae52-74e2-11e4-a9c0-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Triple6"
+            }
+        },
+        {
+            "time": "2017-12-06T03:10:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6596b0da-2787-11e6-8467-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "KillerNeon"
+            }
+        },
+        {
+            "time": "2017-12-06T03:10:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5c877a6a-bf58-11e6-906b-068789513eb5",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "gato27"
+            }
+        },
+        {
+            "time": "2017-12-06T03:10:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b8903a1a-7651-11e4-8854-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Varkias"
+            }
+        },
+        {
+            "time": "2017-12-06T03:10:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a47a624c-933f-11e5-8271-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "HEISSX"
+            }
+        }
+    ],
+    "winner": "another"
+}

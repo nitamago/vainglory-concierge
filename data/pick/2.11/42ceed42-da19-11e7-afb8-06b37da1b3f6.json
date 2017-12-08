@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:06:23+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:06:27+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Ardan*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:06:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c2386720-04d3-11e5-843a-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "VainTamerLex"
+            }
+        },
+        {
+            "time": "2017-12-06T00:07:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7ad69420-8ff0-11e6-9ce5-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "CondeWolf"
+            }
+        },
+        {
+            "time": "2017-12-06T00:07:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b4434846-a3a8-11e5-9d1c-06b48b82cd49",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "JokerProdijay"
+            }
+        },
+        {
+            "time": "2017-12-06T00:07:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1d22e902-1254-11e5-bce2-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "AlienIzSick"
+            }
+        },
+        {
+            "time": "2017-12-06T00:07:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "70367908-2f7a-11e6-8604-06ab1a16f8e5",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "Pvman"
+            }
+        },
+        {
+            "time": "2017-12-06T00:07:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dc64aaae-378d-11e5-9a8d-06d90c28bf1a",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "OpTIcGUidO"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

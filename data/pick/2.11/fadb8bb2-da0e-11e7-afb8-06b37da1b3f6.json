@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T22:52:47+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T22:52:58+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T22:53:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "93bb9bbc-72e5-11e5-9c24-06f4ee369f53",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Leoblizzard"
+            }
+        },
+        {
+            "time": "2017-12-05T22:53:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b266edfa-f9af-11e4-af8b-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Latrigga"
+            }
+        },
+        {
+            "time": "2017-12-05T22:53:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f25e49a0-c586-11e5-8117-068789513eb5",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "shetsu"
+            }
+        },
+        {
+            "time": "2017-12-05T22:53:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "182c14a8-4d11-11e5-a89f-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "ooooohsnap"
+            }
+        },
+        {
+            "time": "2017-12-05T22:53:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4ff2380e-196c-11e6-adf2-067e8bc536fd",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "dreadlordss"
+            }
+        },
+        {
+            "time": "2017-12-05T22:54:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1aeaa5fe-454d-11e5-951c-06f4ee369f53",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "Nofaksu"
+            }
+        }
+    ],
+    "winner": "another"
+}

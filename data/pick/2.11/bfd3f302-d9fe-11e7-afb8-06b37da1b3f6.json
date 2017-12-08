@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T20:56:52+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:56:54+0000",
+            "payload": {
+                "Hero": "*Ardan*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:57:01+0000",
+            "payload": {
+                "Player": "ea5f1702-8f42-11e7-9552-02a5820c0f16",
+                "Handle": "ReCoIL",
+                "Hero": "*Lyra*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:57:09+0000",
+            "payload": {
+                "Player": "7ba74ae6-72ee-11e4-a192-06d90c28bf1a",
+                "Handle": "C4bb4ge",
+                "Hero": "*Adagio*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:57:23+0000",
+            "payload": {
+                "Player": "f6bac696-9222-11e5-a799-06f4ee369f53",
+                "Handle": "DivineStorm",
+                "Hero": "*Idris*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:57:30+0000",
+            "payload": {
+                "Player": "2f36e5ee-85ee-11e6-8e92-06eb725f8a76",
+                "Handle": "Yichun",
+                "Hero": "*Vox*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:57:49+0000",
+            "payload": {
+                "Player": "1c33582e-d374-11e5-866c-0628b69bf6d1",
+                "Handle": "LordYato",
+                "Hero": "*Alpha*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:58:02+0000",
+            "payload": {
+                "Player": "492550f0-d73c-11e5-a9af-06388a2f2ea7",
+                "Handle": "zRedemption",
+                "Hero": "*Krul*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

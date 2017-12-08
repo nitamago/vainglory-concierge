@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T22:01:33+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T22:01:44+0000",
+            "payload": {
+                "Hero": "*Skye*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T22:01:50+0000",
+            "payload": {
+                "Player": "26028a8a-dcd1-11e5-9db6-06b48b82cd49",
+                "Handle": "lDeLEONz",
+                "Hero": "*Varya*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T22:02:13+0000",
+            "payload": {
+                "Player": "068ba336-bf39-11e5-84e3-0628b69bf6d1",
+                "Handle": "alldaywakebake",
+                "Hero": "*Grace*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T22:02:38+0000",
+            "payload": {
+                "Player": "93171530-81a7-11e5-a71f-0628b69bf6d1",
+                "Handle": "MRstealYoSoul",
+                "Hero": "*SAW*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T22:02:42+0000",
+            "payload": {
+                "Player": "90a8c652-aedc-11e4-ad86-06d90c28bf1a",
+                "Handle": "Nilton",
+                "Hero": "*Krul*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T22:02:50+0000",
+            "payload": {
+                "Player": "eb6ddece-152f-11e5-9496-06eb725f8a76",
+                "Handle": "Tamada",
+                "Hero": "*Catherine*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T22:03:07+0000",
+            "payload": {
+                "Player": "583e60ae-2fcb-11e5-99f3-06f4ee369f53",
+                "Handle": "Deep7",
+                "Hero": "*Petal*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

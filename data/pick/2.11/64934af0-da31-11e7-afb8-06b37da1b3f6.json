@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:59:17+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:59:24+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:59:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "37eedc14-154c-11e5-a78f-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "ArchRan"
+            }
+        },
+        {
+            "time": "2017-12-06T02:59:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0dd410c0-c9bd-11e7-90af-02ce883f709a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "TakeMe2Bed"
+            }
+        },
+        {
+            "time": "2017-12-06T02:59:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e2ac5b46-c9bc-11e7-a5a0-0654fca4c20c",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "TakeMe2Bedroom"
+            }
+        },
+        {
+            "time": "2017-12-06T02:59:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "04630eb2-59c9-11e5-b209-06b48b82cd49",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "Lemonicus"
+            }
+        },
+        {
+            "time": "2017-12-06T03:00:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f55e7902-31ed-11e7-a86d-029cb633549e",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "LemLegend3"
+            }
+        },
+        {
+            "time": "2017-12-06T03:00:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "16612fa8-be65-11e5-a68d-0628b69bf6d1",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "POINTBLANK"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

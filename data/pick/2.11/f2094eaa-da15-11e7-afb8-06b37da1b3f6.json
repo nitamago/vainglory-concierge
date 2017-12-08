@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:42:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "56a65618-912c-11e4-aadc-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "tieler"
+            }
+        },
+        {
+            "time": "2017-12-05T23:42:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "deb58bf6-77cc-11e4-a756-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "iNo1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:42:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2d615dfe-76c7-11e4-a41a-06d90c28bf1a",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "INDICO"
+            }
+        },
+        {
+            "time": "2017-12-05T23:42:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3c659f0e-08ee-11e5-9641-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "Furlo"
+            }
+        },
+        {
+            "time": "2017-12-05T23:43:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ed650a66-b27f-11e5-a0a0-06b48b82cd49",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "QuaKeR"
+            }
+        },
+        {
+            "time": "2017-12-05T23:43:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "825c088e-c6ea-11e6-8bd9-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "Omnip0tent1"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:31:46+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:31:49+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:32:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "48a5101a-ed59-11e5-a1bc-06c5ee41a4a5",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "bohan113547220"
+            }
+        },
+        {
+            "time": "2017-12-06T00:32:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0f6d1d1a-3d6d-11e6-81af-06fc87f1dd11",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "SavageLemon"
+            }
+        },
+        {
+            "time": "2017-12-06T00:32:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c2c7a7c8-03f7-11e5-b0d9-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Codered"
+            }
+        },
+        {
+            "time": "2017-12-06T00:33:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f0a5b626-f1ad-11e6-85a3-029cb633549e",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "SheKills"
+            }
+        },
+        {
+            "time": "2017-12-06T00:33:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0f8f6d2c-60b6-11e6-855d-06b48b82cd49",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "KittyRules"
+            }
+        },
+        {
+            "time": "2017-12-06T00:33:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a5d17476-0412-11e5-aec3-06d90c28bf1a",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "UnEeVeN"
+            }
+        }
+    ],
+    "winner": "another"
+}

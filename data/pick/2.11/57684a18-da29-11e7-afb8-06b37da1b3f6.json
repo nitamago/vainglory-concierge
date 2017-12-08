@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:01:28+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:01:49+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:01:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d8176612-6c9d-11e6-bb2c-0628b69bf6d1",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "McYGomas"
+            }
+        },
+        {
+            "time": "2017-12-06T02:02:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "221ff744-c625-11e5-98c1-06eb725f8a76",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "Videogamerdude"
+            }
+        },
+        {
+            "time": "2017-12-06T02:02:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e0c59dd0-7be6-11e6-ba42-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "CuckHeadVG"
+            }
+        },
+        {
+            "time": "2017-12-06T02:02:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "71260e9a-7b72-11e4-8a18-06eb725f8a76",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "ShVirus"
+            }
+        },
+        {
+            "time": "2017-12-06T02:02:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c662fcba-d41d-11e5-9e7c-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Zagat0"
+            }
+        },
+        {
+            "time": "2017-12-06T02:02:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9a1982e2-a983-11e5-963a-0628b69bf6d1",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "dirtymanwhkre"
+            }
+        }
+    ],
+    "winner": "another"
+}

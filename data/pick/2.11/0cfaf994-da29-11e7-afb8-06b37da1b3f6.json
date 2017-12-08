@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:59:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "895f0a54-df96-11e6-aebf-06a9175d25fa",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "CaTnApPeR"
+            }
+        },
+        {
+            "time": "2017-12-06T01:59:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7e819b4e-fc51-11e4-a535-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Beast29"
+            }
+        },
+        {
+            "time": "2017-12-06T01:59:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2b258e48-2ff3-11e6-91c8-06b48b82cd49",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "OmegaLarry"
+            }
+        },
+        {
+            "time": "2017-12-06T02:00:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "805c39c6-752c-11e4-b6fb-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Playjuryst"
+            }
+        },
+        {
+            "time": "2017-12-06T02:00:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b498eb52-82d4-11e4-9bb5-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "ColumbusG"
+            }
+        },
+        {
+            "time": "2017-12-06T02:00:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4c7a6f76-e5eb-11e4-aee7-06d90c28bf1a",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "ExoDuS"
+            }
+        }
+    ],
+    "winner": "another"
+}

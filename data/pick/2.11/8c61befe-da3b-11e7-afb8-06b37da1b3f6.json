@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:12:01+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:12:10+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:12:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "babfca7e-5f81-11e6-9aaa-06388a2f2ea7",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "merezBoy"
+            }
+        },
+        {
+            "time": "2017-12-06T04:12:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "846caa5c-8d44-11e4-9f18-06d90c28bf1a",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "LordBryant"
+            }
+        },
+        {
+            "time": "2017-12-06T04:12:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0a645274-2842-11e6-9328-067e8bc536fd",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Phamtonface"
+            }
+        },
+        {
+            "time": "2017-12-06T04:13:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "892ea44a-6891-11e5-b941-06b48b82cd49",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "nagelo"
+            }
+        },
+        {
+            "time": "2017-12-06T04:13:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "785aa090-6956-11e5-ac7a-06b48b82cd49",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "cmplxmeiko78"
+            }
+        },
+        {
+            "time": "2017-12-06T04:13:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6ee32daa-04a8-11e6-9902-067e8bc536fd",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "xXOwlKingXx"
+            }
+        }
+    ],
+    "winner": "another"
+}

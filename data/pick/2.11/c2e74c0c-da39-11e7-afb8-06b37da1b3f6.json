@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:59:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "26331a8e-056b-11e6-8730-068789513eb5",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "Vepterocity"
+            }
+        },
+        {
+            "time": "2017-12-06T03:59:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "617ad3c4-b902-11e7-9d50-06a9175d25fa",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Thr3expres"
+            }
+        },
+        {
+            "time": "2017-12-06T03:59:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "acbbf548-abc5-11e6-9752-062cb73cdbb1",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "WiredToWin"
+            }
+        },
+        {
+            "time": "2017-12-06T03:59:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cc79de38-2753-11e5-9d4c-06f4ee369f53",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "Affinya"
+            }
+        },
+        {
+            "time": "2017-12-06T03:59:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "373a632a-714f-11e4-9ad1-062d0b175276",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "StayInPositive"
+            }
+        },
+        {
+            "time": "2017-12-06T04:00:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f4f644d2-ca2d-11e5-9c3b-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "TeckUp"
+            }
+        }
+    ],
+    "winner": "another"
+}

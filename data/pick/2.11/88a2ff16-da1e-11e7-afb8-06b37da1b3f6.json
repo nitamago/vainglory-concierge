@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:44:29+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:44:39+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:44:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d6ce6760-6f60-11e4-a933-062d0b175276",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "Slay4DaGODS"
+            }
+        },
+        {
+            "time": "2017-12-06T00:45:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8a3d12b8-6855-11e5-8ddb-06b48b82cd49",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "EmperorTrump1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:45:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0bed6b58-ca0f-11e5-85da-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "EoXNA"
+            }
+        },
+        {
+            "time": "2017-12-06T00:45:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8e943a00-b7f0-11e4-8337-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "Zelim"
+            }
+        },
+        {
+            "time": "2017-12-06T00:45:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e08df35a-bd53-11e5-b421-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "MeliodasDragoSin"
+            }
+        },
+        {
+            "time": "2017-12-06T00:46:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4daebe52-d33d-11e5-8633-067e8bc536fd",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "KingCharlesVG"
+            }
+        }
+    ],
+    "winner": "another"
+}

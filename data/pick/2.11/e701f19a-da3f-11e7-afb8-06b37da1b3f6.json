@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:43:19+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:43:39+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Alpha*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:43:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a4eb4a94-f01c-11e6-a849-02081e0fc90e",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "elAngel69"
+            }
+        },
+        {
+            "time": "2017-12-06T04:44:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "60327046-b72d-11e4-ae84-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "CaptainJohnny "
+            }
+        },
+        {
+            "time": "2017-12-06T04:44:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b96e384e-30cb-11e5-a671-06b48b82cd49",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "sourtable"
+            }
+        },
+        {
+            "time": "2017-12-06T04:44:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cab59182-ba41-11e6-937e-06b48b82cd49",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "Alexisloya15"
+            }
+        },
+        {
+            "time": "2017-12-06T04:44:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4e279032-ede3-11e5-aa2c-06eb725f8a76",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "AK47Boys"
+            }
+        },
+        {
+            "time": "2017-12-06T04:44:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3464e556-7426-11e4-9a06-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "HomeWrecker"
+            }
+        }
+    ],
+    "winner": "another"
+}

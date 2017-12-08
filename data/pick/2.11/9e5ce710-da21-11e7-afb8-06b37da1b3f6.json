@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:06:14+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:06:21+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:06:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dcc136ca-f43e-11e5-a928-06f4ee369f53",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "DDiesel"
+            }
+        },
+        {
+            "time": "2017-12-06T01:06:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a42d3424-798c-11e7-9f0f-02b3611af5e6",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "boubon"
+            }
+        },
+        {
+            "time": "2017-12-06T01:07:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1fbdd8d6-cd68-11e6-9b49-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "SnailMail"
+            }
+        },
+        {
+            "time": "2017-12-06T01:07:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f268dc80-3b2f-11e5-bfcb-06d90c28bf1a",
+                "Hero": "*Samuel*",
+                "Team": "1",
+                "Handle": "WickedApparition"
+            }
+        },
+        {
+            "time": "2017-12-06T01:07:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f9035eec-7340-11e4-a296-06d90c28bf1a",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "celebi"
+            }
+        },
+        {
+            "time": "2017-12-06T01:08:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d7ff6b2c-96b4-11e4-8211-06eb725f8a76",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "VolkenVoltage"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

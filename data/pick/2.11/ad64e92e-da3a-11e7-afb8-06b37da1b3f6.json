@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:06:02+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:06:15+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:06:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "11ff4b92-3ba2-11e6-a57e-06388a2f2ea7",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "SacredReaper"
+            }
+        },
+        {
+            "time": "2017-12-06T04:06:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8b5152de-01ea-11e6-868b-06ab1a16f8e5",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "JettiYeti"
+            }
+        },
+        {
+            "time": "2017-12-06T04:07:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7e34121e-7b66-11e4-afba-06eb725f8a76",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "HavoKWreakeR"
+            }
+        },
+        {
+            "time": "2017-12-06T04:07:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c244a9a2-84a3-11e7-8fee-02b3611af5e6",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "NationalBeast"
+            }
+        },
+        {
+            "time": "2017-12-06T04:07:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "23414846-fc69-11e6-8155-029cb633549e",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "KiteBandito"
+            }
+        },
+        {
+            "time": "2017-12-06T04:08:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5a0aa0b0-f96e-11e5-aa10-06fc87f1dd11",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "DMTestela"
+            }
+        }
+    ],
+    "winner": "another"
+}

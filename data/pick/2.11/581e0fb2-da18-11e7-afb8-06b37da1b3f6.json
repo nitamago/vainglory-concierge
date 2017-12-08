@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:59:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b710c26e-d576-11e6-910e-06eb725f8a76",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "iWillbegod"
+            }
+        },
+        {
+            "time": "2017-12-06T00:00:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6d6980ae-f702-11e5-be1e-068789513eb5",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Tedy007"
+            }
+        },
+        {
+            "time": "2017-12-06T00:00:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "43f1760e-6af4-11e5-bbb1-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "ChadB"
+            }
+        },
+        {
+            "time": "2017-12-06T00:00:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7c7fd980-69c6-11e6-949c-06ab1a16f8e5",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "FrenchPress"
+            }
+        },
+        {
+            "time": "2017-12-06T00:00:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f8410cec-b21b-11e4-8fdd-06d90c28bf1a",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "Montekillin"
+            }
+        },
+        {
+            "time": "2017-12-06T00:00:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bba22cc6-710c-11e4-95cb-062d0b175276",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "tavws"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

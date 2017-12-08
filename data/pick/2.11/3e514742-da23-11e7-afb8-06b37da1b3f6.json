@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:17:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f82aa520-3d96-11e7-b3b1-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "BrayanD16"
+            }
+        },
+        {
+            "time": "2017-12-06T01:17:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9419b8ac-cb01-11e7-a6a6-025e5fb8fe9e",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "firethief"
+            }
+        },
+        {
+            "time": "2017-12-06T01:17:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "36ae425e-b842-11e7-a638-020355b21670",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "IronFistr"
+            }
+        },
+        {
+            "time": "2017-12-06T01:18:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "86b8ab92-3eda-11e5-90db-06b48b82cd49",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "BlueLaural"
+            }
+        },
+        {
+            "time": "2017-12-06T01:18:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "70988242-b2c4-11e6-8475-06c5ee41a4a5",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Divinepower5"
+            }
+        },
+        {
+            "time": "2017-12-06T01:18:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9cd28c98-7ddd-11e6-9b2b-06fc87f1dd11",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "Carry4free"
+            }
+        }
+    ],
+    "winner": "another"
+}

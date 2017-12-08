@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:15:05+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:15:14+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Baron*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:15:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cad8ec40-ae8a-11e5-a74d-068789513eb5",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "DM0L1SH"
+            }
+        },
+        {
+            "time": "2017-12-06T03:15:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "631384be-c216-11e4-8a5a-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Kevdingo"
+            }
+        },
+        {
+            "time": "2017-12-06T03:15:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e116b5fa-b3c2-11e4-a16e-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "HastyCardshark"
+            }
+        },
+        {
+            "time": "2017-12-06T03:16:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f63d7a72-346e-11e5-8816-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Berserker99"
+            }
+        },
+        {
+            "time": "2017-12-06T03:16:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "34bc5c90-2133-11e5-8eff-068789513eb5",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "Shadox47"
+            }
+        },
+        {
+            "time": "2017-12-06T03:16:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "018896aa-91ea-11e4-b0e4-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Stormbringer1984"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:33:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "66efba2c-6918-11e5-a3b6-0628b69bf6d1",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "LilBill1022"
+            }
+        },
+        {
+            "time": "2017-12-06T04:33:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b16c2de2-6b1b-11e5-9820-06b48b82cd49",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "Jaydabadoo"
+            }
+        },
+        {
+            "time": "2017-12-06T04:34:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e997a0ec-a5d3-11e4-9ab9-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "AdudeFromiowa"
+            }
+        },
+        {
+            "time": "2017-12-06T04:34:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1bb81fba-f70e-11e6-8d10-067e8bc536fd",
+                "Hero": "*Ozo*",
+                "Team": "1",
+                "Handle": "Miiiikey"
+            }
+        },
+        {
+            "time": "2017-12-06T04:34:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e7b55420-959d-11e6-b044-06a9175d25fa",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "ImMIDI"
+            }
+        },
+        {
+            "time": "2017-12-06T04:34:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d38dbfe0-87de-11e6-a187-067e8bc536fd",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "DarkHadez"
+            }
+        }
+    ],
+    "winner": "another"
+}

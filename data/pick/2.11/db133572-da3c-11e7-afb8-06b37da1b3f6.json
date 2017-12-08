@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:21:10+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:21:24+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:21:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3e3751d6-329e-11e5-aff8-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "VGLxMasterx"
+            }
+        },
+        {
+            "time": "2017-12-06T04:21:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b6d95072-8609-11e4-8211-06eb725f8a76",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "Webstir"
+            }
+        },
+        {
+            "time": "2017-12-06T04:21:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b5803cc6-d26d-11e4-b964-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "GreenListerine"
+            }
+        },
+        {
+            "time": "2017-12-06T04:22:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9bcacbea-e958-11e5-ae8d-0628b69bf6d1",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "SuperPride"
+            }
+        },
+        {
+            "time": "2017-12-06T04:22:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e3480aac-fd9d-11e4-8169-06eb725f8a76",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "jaycritch"
+            }
+        },
+        {
+            "time": "2017-12-06T04:22:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8aff9c24-8ac3-11e7-b8bb-06a9175d25fa",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "SYTHHD"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

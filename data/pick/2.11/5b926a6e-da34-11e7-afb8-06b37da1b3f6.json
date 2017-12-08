@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:20:33+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Catherine*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:20:54+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:21:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a2a653ee-b1e8-11e7-9bb2-06a9175d25fa",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "AntisocialPleb"
+            }
+        },
+        {
+            "time": "2017-12-06T03:21:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "584d4b90-8b82-11e7-bf5e-0297ea8a7ddc",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "Ex4ample"
+            }
+        },
+        {
+            "time": "2017-12-06T03:21:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "262aa8c8-6ff7-11e4-b6cc-062d0b175276",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Blackzoom11"
+            }
+        },
+        {
+            "time": "2017-12-06T03:21:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ac409558-7713-11e4-a5ea-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Kanij"
+            }
+        },
+        {
+            "time": "2017-12-06T03:21:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8f740e0e-22db-11e5-a3b6-06b48b82cd49",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "PureChaos666"
+            }
+        },
+        {
+            "time": "2017-12-06T03:21:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "66511a20-be0a-11e4-a56d-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "SevStrike1"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:44:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "43b73256-710f-11e6-8455-067e8bc536fd",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "PheonixThunder"
+            }
+        },
+        {
+            "time": "2017-12-06T01:44:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "84a85b30-2f8e-11e7-9d64-067e8bc536fd",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Nakhiro"
+            }
+        },
+        {
+            "time": "2017-12-06T01:44:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "52eee276-d1df-11e4-bd2a-06d90c28bf1a",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "iCdp"
+            }
+        },
+        {
+            "time": "2017-12-06T01:45:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "55db138e-75cc-11e4-b7f5-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "jaaimelok"
+            }
+        },
+        {
+            "time": "2017-12-06T01:45:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "11bd3a92-4830-11e5-b00f-06b48b82cd49",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "starkiller7"
+            }
+        },
+        {
+            "time": "2017-12-06T01:45:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d0382cc0-53b5-11e6-949c-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "IdalzAbundis"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

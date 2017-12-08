@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:22:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "70a33b82-2388-11e5-b968-06b48b82cd49",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "MasterOmni"
+            }
+        },
+        {
+            "time": "2017-12-06T01:22:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2e529c78-9b98-11e4-93e7-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "Grizzly13"
+            }
+        },
+        {
+            "time": "2017-12-06T01:22:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7b147594-1c61-11e7-b8f7-06c5ee41a4a5",
+                "Hero": "*Flicker*",
+                "Team": "1",
+                "Handle": "Kalzt"
+            }
+        },
+        {
+            "time": "2017-12-06T01:22:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4ba2d596-8bb9-11e6-961f-06388a2f2ea7",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "DarkFalconR"
+            }
+        },
+        {
+            "time": "2017-12-06T01:23:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a0c52264-c7da-11e7-a0eb-06b672bd5be2",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Penaance"
+            }
+        },
+        {
+            "time": "2017-12-06T01:23:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9f40fadc-6752-11e7-921b-0224e22aef46",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "DaWeinerHero"
+            }
+        }
+    ],
+    "winner": "another"
+}

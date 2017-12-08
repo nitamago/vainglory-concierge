@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T23:49:19+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:49:27+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:49:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "76169d1e-05ac-11e6-8955-062cb73cdbb1",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "ECLlPSE"
+            }
+        },
+        {
+            "time": "2017-12-05T23:49:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "992854b6-fef6-11e6-9a96-067e8bc536fd",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "WHYAMISOBAD"
+            }
+        },
+        {
+            "time": "2017-12-05T23:50:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d40ad4e2-8ffa-11e7-aea7-0297ea8a7ddc",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "BOOSTEDMANKEY"
+            }
+        },
+        {
+            "time": "2017-12-05T23:50:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e07736e4-f367-11e4-9580-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "S3crett0"
+            }
+        },
+        {
+            "time": "2017-12-05T23:50:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9de48e9e-3c5f-11e5-b3e5-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "Blakenator2016"
+            }
+        },
+        {
+            "time": "2017-12-05T23:50:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bffe9078-7361-11e4-a29d-06d90c28bf1a",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "jalex2050"
+            }
+        }
+    ],
+    "winner": "another"
+}

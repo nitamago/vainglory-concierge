@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:36:57+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:37:11+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:37:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "80808e7e-b7db-11e4-8883-06d90c28bf1a",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "Nahalom"
+            }
+        },
+        {
+            "time": "2017-12-06T00:37:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3ca9a63a-75d8-11e4-a1d6-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "Bootylicious"
+            }
+        },
+        {
+            "time": "2017-12-06T00:37:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ea9f5fb6-31ba-11e5-a5d5-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "CrisDan"
+            }
+        },
+        {
+            "time": "2017-12-06T00:38:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cba55122-b309-11e4-9b97-06eb725f8a76",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "Hyphic"
+            }
+        },
+        {
+            "time": "2017-12-06T00:38:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c1395b6a-c320-11e6-a960-06fc87f1dd11",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "JustChillOut"
+            }
+        },
+        {
+            "time": "2017-12-06T00:38:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "008241bc-c1e0-11e5-9028-06d90c28bf1a",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "alex1117"
+            }
+        }
+    ],
+    "winner": "another"
+}

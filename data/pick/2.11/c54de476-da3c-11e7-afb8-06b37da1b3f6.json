@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:20:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4d32a204-3d1f-11e5-99b3-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "BenjiFeu"
+            }
+        },
+        {
+            "time": "2017-12-06T04:20:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cdf5b33e-f366-11e4-8a1c-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "DeityOfChrist"
+            }
+        },
+        {
+            "time": "2017-12-06T04:20:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "158a4836-9641-11e5-8660-0628b69bf6d1",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Armando11"
+            }
+        },
+        {
+            "time": "2017-12-06T04:20:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a83bad1c-9aa8-11e5-b2bf-06b48b82cd49",
+                "Hero": "*Flicker*",
+                "Team": "1",
+                "Handle": "iSu"
+            }
+        },
+        {
+            "time": "2017-12-06T04:20:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1575bd36-cb9c-11e5-a68d-0628b69bf6d1",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "VoidEon"
+            }
+        },
+        {
+            "time": "2017-12-06T04:21:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0d5d9430-aeb7-11e6-9752-062cb73cdbb1",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "WhatsMeta"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

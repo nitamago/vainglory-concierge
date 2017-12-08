@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:38:04+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:38:14+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:38:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1d22cae8-b2c7-11e6-8d8b-06a9175d25fa",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Derek1321"
+            }
+        },
+        {
+            "time": "2017-12-06T02:38:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "df1846c4-c230-11e5-93e1-06d90c28bf1a",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "LEONCTR"
+            }
+        },
+        {
+            "time": "2017-12-06T02:38:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3a98dc06-f860-11e5-b5d0-062cb73cdbb1",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "bullet2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:39:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "010c923e-9a65-11e4-9207-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "BananaGang"
+            }
+        },
+        {
+            "time": "2017-12-06T02:39:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "21866104-b61e-11e5-a752-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "millimax9"
+            }
+        },
+        {
+            "time": "2017-12-06T02:39:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dd7f2e4a-7305-11e7-b146-06b48b82cd49",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "Rainful"
+            }
+        }
+    ],
+    "winner": "another"
+}

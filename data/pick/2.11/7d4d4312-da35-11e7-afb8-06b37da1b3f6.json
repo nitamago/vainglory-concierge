@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:29:00+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:29:02+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:29:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c2ce5424-caee-11e5-bca4-06fc87f1dd11",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "GENERAL7133"
+            }
+        },
+        {
+            "time": "2017-12-06T03:29:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "acdc5cba-6fe8-11e7-8033-0224e22aef46",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "Kalmar2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:29:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7bf9eb0e-f941-11e5-a7e6-06fc87f1dd11",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "mendivilpsy"
+            }
+        },
+        {
+            "time": "2017-12-06T03:30:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "58c9249c-1747-11e5-bbd9-06eb725f8a76",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "PvpGOD"
+            }
+        },
+        {
+            "time": "2017-12-06T03:30:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "375e48a8-9001-11e6-af2c-06b48b82cd49",
+                "Hero": "*Flicker*",
+                "Team": "1",
+                "Handle": "MountainLocals"
+            }
+        },
+        {
+            "time": "2017-12-06T03:30:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b5cf146a-25b8-11e5-81a0-0628b69bf6d1",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "Faetheon"
+            }
+        }
+    ],
+    "winner": "another"
+}

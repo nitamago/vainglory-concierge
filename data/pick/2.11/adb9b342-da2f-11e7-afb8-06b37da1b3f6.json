@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:46:51+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Alpha*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:46:57+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:47:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8c4356fe-107f-11e5-aad8-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Sup3rm4n32"
+            }
+        },
+        {
+            "time": "2017-12-06T02:47:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4a7310a6-75b1-11e5-9b9b-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "soph9xox"
+            }
+        },
+        {
+            "time": "2017-12-06T02:47:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c0994572-7736-11e4-9faa-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "ModuleOne"
+            }
+        },
+        {
+            "time": "2017-12-06T02:47:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ba8c6f2c-6f45-11e4-9e0f-06641bcbf424",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "Angel757512"
+            }
+        },
+        {
+            "time": "2017-12-06T02:47:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "808dd6de-281e-11e5-a030-06f4ee369f53",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "toanton"
+            }
+        },
+        {
+            "time": "2017-12-06T02:48:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "257492fc-9100-11e4-9223-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "fordonius"
+            }
+        }
+    ],
+    "winner": "another"
+}

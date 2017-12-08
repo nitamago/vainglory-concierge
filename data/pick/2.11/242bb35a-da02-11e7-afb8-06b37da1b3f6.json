@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:21:25+0000",
+            "payload": {
+                "Player": "8556ceb8-7b4f-11e4-a281-06eb725f8a76",
+                "Handle": "TeeTime023",
+                "Hero": "*Taka*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:21:27+0000",
+            "payload": {
+                "Player": "e7573e04-0565-11e5-be41-06d90c28bf1a",
+                "Handle": "blackshirt",
+                "Hero": "*Varya*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:21:42+0000",
+            "payload": {
+                "Player": "60ad4c2c-7299-11e4-8932-06d90c28bf1a",
+                "Handle": "shadowsjudgement",
+                "Hero": "*Flicker*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:21:44+0000",
+            "payload": {
+                "Player": "d508a250-cf82-11e5-85a7-06fc87f1dd11",
+                "Handle": "estropajo709",
+                "Hero": "*Krul*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:21:48+0000",
+            "payload": {
+                "Player": "ef83c578-dc22-11e4-ad88-06d90c28bf1a",
+                "Handle": "sf2legit2quit",
+                "Hero": "*Idris*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:21:52+0000",
+            "payload": {
+                "Player": "0c271a28-3527-11e6-a04e-06388a2f2ea7",
+                "Handle": "Deface25",
+                "Hero": "*Catherine*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

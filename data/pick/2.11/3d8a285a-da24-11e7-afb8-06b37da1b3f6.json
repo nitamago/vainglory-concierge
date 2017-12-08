@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:25:12+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:25:33+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:25:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1a315924-20ee-11e5-8be0-06f4ee369f53",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "GrimDrago"
+            }
+        },
+        {
+            "time": "2017-12-06T01:25:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cfcc9aa8-0827-11e5-8168-06eb725f8a76",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "archersilver"
+            }
+        },
+        {
+            "time": "2017-12-06T01:25:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8ac1741e-c249-11e6-b691-06fc87f1dd11",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "RealComptonCrip"
+            }
+        },
+        {
+            "time": "2017-12-06T01:25:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2e089b7c-6f5e-11e7-b3fd-06388a2f2ea7",
+                "Hero": "*Flicker*",
+                "Team": "1",
+                "Handle": "ToxicDeadlyWolf"
+            }
+        },
+        {
+            "time": "2017-12-06T01:26:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "847532f2-8a68-11e7-824a-06a9175d25fa",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "GhostVision"
+            }
+        },
+        {
+            "time": "2017-12-06T01:26:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "97293fe2-47ba-11e7-b351-067e8bc536fd",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "XarrowjrX"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

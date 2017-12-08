@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:45:31+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Skye*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:45:45+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lance*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:45:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a5101f3a-d52f-11e5-8154-06eb725f8a76",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "Soulreaperr"
+            }
+        },
+        {
+            "time": "2017-12-06T00:46:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d2fdfaec-6ca2-11e6-bc2b-062cb73cdbb1",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Zekken24"
+            }
+        },
+        {
+            "time": "2017-12-06T00:46:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f06b9ece-8408-11e4-8211-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "drake11"
+            }
+        },
+        {
+            "time": "2017-12-06T00:46:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6d41cfce-ea6d-11e5-9841-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "Player74206487"
+            }
+        },
+        {
+            "time": "2017-12-06T00:46:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "268f5ba4-ce04-11e4-a56d-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "SoullessTact"
+            }
+        },
+        {
+            "time": "2017-12-06T00:46:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8d9a5058-c163-11e5-a131-0628b69bf6d1",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "WillOfWolves"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

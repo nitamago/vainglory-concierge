@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:13:27+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:13:34+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:13:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ad07add2-9a0d-11e5-8283-0628b69bf6d1",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "SDV2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:14:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "62e68eba-b827-11e6-912e-06a9175d25fa",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "HealeZz"
+            }
+        },
+        {
+            "time": "2017-12-06T01:14:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5f85e56e-80ab-11e4-a6bb-06d90c28bf1a",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "F3ARme"
+            }
+        },
+        {
+            "time": "2017-12-06T01:14:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fb0be1d4-9a39-11e5-bb42-068789513eb5",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "lenchito"
+            }
+        },
+        {
+            "time": "2017-12-06T01:14:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "01dc03ec-9ba0-11e5-984e-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Seahalks3"
+            }
+        },
+        {
+            "time": "2017-12-06T01:14:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6927b76a-7d62-11e4-97d3-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "smoothskys"
+            }
+        }
+    ],
+    "winner": "another"
+}

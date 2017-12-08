@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:33:26+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:33:41+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:33:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "feece9c4-7659-11e4-aec7-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Stumpelstiltskin"
+            }
+        },
+        {
+            "time": "2017-12-06T02:34:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f11697ce-a900-11e6-86bb-06c5ee41a4a5",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "RobinSaikou"
+            }
+        },
+        {
+            "time": "2017-12-06T02:34:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8c927d88-29dd-11e6-b516-068789513eb5",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "Pael583"
+            }
+        },
+        {
+            "time": "2017-12-06T02:34:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "73ba30ce-6ed8-11e4-bab8-062d0b175276",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "RunsWithScissors"
+            }
+        },
+        {
+            "time": "2017-12-06T02:34:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4856cd58-a686-11e4-8283-06eb725f8a76",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "pilotkarr"
+            }
+        },
+        {
+            "time": "2017-12-06T02:34:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3fa38276-2878-11e6-8e4b-068789513eb5",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "7john9"
+            }
+        }
+    ],
+    "winner": "another"
+}

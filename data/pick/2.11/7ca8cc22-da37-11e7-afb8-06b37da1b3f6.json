@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:42:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "514f3786-dd36-11e6-900c-062cb73cdbb1",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "superSage"
+            }
+        },
+        {
+            "time": "2017-12-06T03:43:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5fe054c0-12e8-11e5-a382-06eb725f8a76",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "groovechampion"
+            }
+        },
+        {
+            "time": "2017-12-06T03:43:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cd5b4d86-0304-11e6-84e7-06f4ee369f53",
+                "Hero": "*Flicker*",
+                "Team": "1",
+                "Handle": "NativePsycho"
+            }
+        },
+        {
+            "time": "2017-12-06T03:43:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e4a55a06-7285-11e4-88b0-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "kvothe7"
+            }
+        },
+        {
+            "time": "2017-12-06T03:43:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "024382ee-f738-11e5-9313-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "ChunkGoonie"
+            }
+        },
+        {
+            "time": "2017-12-06T03:43:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b6f4ef7a-43eb-11e6-9b13-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Siffah"
+            }
+        }
+    ],
+    "winner": "another"
+}

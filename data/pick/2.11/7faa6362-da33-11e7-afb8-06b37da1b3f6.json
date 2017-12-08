@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:14:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d94b1b90-bb28-11e5-9341-06eb725f8a76",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "Rydnako"
+            }
+        },
+        {
+            "time": "2017-12-06T03:14:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6af8bc62-43fc-11e6-92b2-062cb73cdbb1",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "Krestrel"
+            }
+        },
+        {
+            "time": "2017-12-06T03:14:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7f1f7c8e-9b4a-11e7-a363-029cb633549e",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "FateLiyah"
+            }
+        },
+        {
+            "time": "2017-12-06T03:14:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e79f344c-c698-11e7-a50b-025e5fb8fe9e",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "FlashyAF"
+            }
+        },
+        {
+            "time": "2017-12-06T03:14:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "693e9ce0-33f7-11e5-b1ec-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Dusse"
+            }
+        },
+        {
+            "time": "2017-12-06T03:14:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2f80fa64-834f-11e5-8e1d-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "SlaYER"
+            }
+        }
+    ],
+    "winner": "another"
+}

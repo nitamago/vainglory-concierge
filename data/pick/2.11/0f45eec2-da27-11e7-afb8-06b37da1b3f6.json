@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:45:23+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:45:26+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:45:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d8fd7e60-076a-11e6-94f0-06388a2f2ea7",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "FuryLeon"
+            }
+        },
+        {
+            "time": "2017-12-06T01:45:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "21cb1422-cfe2-11e7-af98-069ef91bd55c",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "MoiraDelaTorre"
+            }
+        },
+        {
+            "time": "2017-12-06T01:45:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2a52740a-618f-11e5-8e5b-06eb725f8a76",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "jzedx"
+            }
+        },
+        {
+            "time": "2017-12-06T01:45:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c9709156-8932-11e4-9c3a-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "prophasis"
+            }
+        },
+        {
+            "time": "2017-12-06T01:46:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e3457846-332b-11e5-a3e5-0628b69bf6d1",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "LostBoyLos"
+            }
+        },
+        {
+            "time": "2017-12-06T01:46:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "390b8de4-7e44-11e4-b2a2-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "BHxartiest"
+            }
+        }
+    ],
+    "winner": "another"
+}

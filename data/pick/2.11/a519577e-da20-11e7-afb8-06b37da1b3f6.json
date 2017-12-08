@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:59:19+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:59:33+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Alpha*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:59:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "559fb81e-9914-11e4-a8d3-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "YitronVSHevel"
+            }
+        },
+        {
+            "time": "2017-12-06T00:59:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a85aef96-9c7b-11e4-8243-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "xApathy"
+            }
+        },
+        {
+            "time": "2017-12-06T01:00:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d943e2da-8c12-11e4-8566-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "LeNNoX"
+            }
+        },
+        {
+            "time": "2017-12-06T01:00:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "41b30052-7053-11e4-92f7-062d0b175276",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "Diebecor"
+            }
+        },
+        {
+            "time": "2017-12-06T01:00:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "75a1779e-47ae-11e5-8b7b-068789513eb5",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "xXSilentWraithXx"
+            }
+        },
+        {
+            "time": "2017-12-06T01:01:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "985f051a-61ae-11e6-93d9-06eb725f8a76",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "AlanDani221"
+            }
+        }
+    ],
+    "winner": "another"
+}

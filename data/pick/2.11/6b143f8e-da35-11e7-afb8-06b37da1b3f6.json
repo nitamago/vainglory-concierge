@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:27:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8d40977e-b9fc-11e6-9cd1-06ab1a16f8e5",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "Astronaut13"
+            }
+        },
+        {
+            "time": "2017-12-06T03:27:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "814a3794-f914-11e5-853e-06b48b82cd49",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Bruinballer"
+            }
+        },
+        {
+            "time": "2017-12-06T03:28:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "639710f8-9235-11e7-8a21-020355b21670",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "AlphaNoble"
+            }
+        },
+        {
+            "time": "2017-12-06T03:28:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d8dad73e-91ac-11e7-8d10-0297ea8a7ddc",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "WormWood14"
+            }
+        },
+        {
+            "time": "2017-12-06T03:28:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7869df12-7bb9-11e6-bcad-068789513eb5",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "CloudProtector"
+            }
+        },
+        {
+            "time": "2017-12-06T03:28:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c3a4aaea-c866-11e5-b9bc-06eb725f8a76",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "Shane0"
+            }
+        }
+    ],
+    "winner": "another"
+}

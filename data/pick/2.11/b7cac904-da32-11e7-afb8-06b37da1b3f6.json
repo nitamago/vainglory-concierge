@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:08:39+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:09:00+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:09:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3a06310e-880d-11e4-b0fa-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Colgate"
+            }
+        },
+        {
+            "time": "2017-12-06T03:09:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "195e0fc6-756e-11e6-ae18-067e8bc536fd",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "SlinginBagels"
+            }
+        },
+        {
+            "time": "2017-12-06T03:09:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2168ab8a-d2fc-11e7-a634-069ef91bd55c",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "PizzaMaster1315"
+            }
+        },
+        {
+            "time": "2017-12-06T03:09:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "26bc2670-e62d-11e4-b746-06d90c28bf1a",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "Breticus"
+            }
+        },
+        {
+            "time": "2017-12-06T03:10:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "296547cc-767e-11e4-a51b-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "MrRed0"
+            }
+        },
+        {
+            "time": "2017-12-06T03:10:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fdbf0500-2144-11e5-97f8-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Jsdhavel"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

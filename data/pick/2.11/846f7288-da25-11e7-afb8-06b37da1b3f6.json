@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:34:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "adcc50ac-717c-11e4-bab8-062d0b175276",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "AUSAR"
+            }
+        },
+        {
+            "time": "2017-12-06T01:34:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2508a82c-7f6a-11e5-a058-06f4ee369f53",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "Daydarknes"
+            }
+        },
+        {
+            "time": "2017-12-06T01:34:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6db2f5da-9e98-11e5-8c92-068789513eb5",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "SpongyPlay"
+            }
+        },
+        {
+            "time": "2017-12-06T01:34:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c482895c-c24b-11e6-b72e-062cb73cdbb1",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "LoboModz004"
+            }
+        },
+        {
+            "time": "2017-12-06T01:34:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2455aac0-64ca-11e5-83f5-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Trump4Prez"
+            }
+        },
+        {
+            "time": "2017-12-06T01:34:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "db97f1c6-bd57-11e5-a7dc-0628b69bf6d1",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "Cano23"
+            }
+        }
+    ],
+    "winner": "another"
+}

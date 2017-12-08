@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:51:38+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:51:45+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Catherine*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:52:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "07dcc028-c8a9-11e7-b4bd-06b672bd5be2",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Ahorasoypior"
+            }
+        },
+        {
+            "time": "2017-12-06T03:52:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3cb02d54-bd88-11e5-ae07-06f4ee369f53",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "ExodiaMGS"
+            }
+        },
+        {
+            "time": "2017-12-06T03:52:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9ad29070-948e-11e5-832e-06d90c28bf1a",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "Setuiret"
+            }
+        },
+        {
+            "time": "2017-12-06T03:52:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9ffaaf0a-778a-11e4-8854-06d90c28bf1a",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "kingslayr"
+            }
+        },
+        {
+            "time": "2017-12-06T03:52:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a5b6b7e6-60d6-11e5-9d5f-06f4ee369f53",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "MUERTEBLANCA"
+            }
+        },
+        {
+            "time": "2017-12-06T03:52:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dd7f2e4a-7305-11e7-b146-06b48b82cd49",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Rainful"
+            }
+        }
+    ],
+    "winner": "another"
+}

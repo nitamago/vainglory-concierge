@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:03:10+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:03:30+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:03:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cbb6c7d2-80d5-11e5-81e1-0628b69bf6d1",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "BKedPotato"
+            }
+        },
+        {
+            "time": "2017-12-06T03:04:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b02e94ba-b0db-11e4-b380-06d90c28bf1a",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "Jimmayy"
+            }
+        },
+        {
+            "time": "2017-12-06T03:04:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c7005c10-807e-11e4-b8d4-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "ahhhhshlay"
+            }
+        },
+        {
+            "time": "2017-12-06T03:04:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "92e0dd9c-7a34-11e4-a756-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "XenoTekken"
+            }
+        },
+        {
+            "time": "2017-12-06T03:04:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "79f1ae76-464b-11e6-8138-0628b69bf6d1",
+                "Hero": "*Reza*",
+                "Team": "1",
+                "Handle": "fRosTbyte"
+            }
+        },
+        {
+            "time": "2017-12-06T03:04:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5a46df14-ac1d-11e6-abb9-06ab1a16f8e5",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "YouWillRegretIt"
+            }
+        }
+    ],
+    "winner": "another"
+}

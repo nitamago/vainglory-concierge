@@ -1,0 +1,74 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:59:10+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:59:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ceed62c2-d084-11e5-9084-06ab1a16f8e5",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "pyrobae"
+            }
+        },
+        {
+            "time": "2017-12-06T01:00:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "253ed414-945b-11e5-813b-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "impostri9"
+            }
+        },
+        {
+            "time": "2017-12-06T01:00:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d85b7fee-2f86-11e7-ad49-06c5ee41a4a5",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "IndigOrange"
+            }
+        },
+        {
+            "time": "2017-12-06T01:00:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "86acd65e-d13e-11e5-a8ae-06fc87f1dd11",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "nicholi4218"
+            }
+        },
+        {
+            "time": "2017-12-06T01:00:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6f16c984-daba-11e5-ad3c-068789513eb5",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Jezues"
+            }
+        },
+        {
+            "time": "2017-12-06T01:01:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6929a566-2bc5-11e7-a7cf-0297ea8a7ddc",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "Bethshiva"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

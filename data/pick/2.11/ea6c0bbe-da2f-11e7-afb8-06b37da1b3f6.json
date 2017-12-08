@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:48:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "21ba5c78-9e55-11e6-abf8-06f4ee369f53",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "iMember"
+            }
+        },
+        {
+            "time": "2017-12-06T02:48:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8edc8c0c-3247-11e5-8df2-068789513eb5",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "zelle"
+            }
+        },
+        {
+            "time": "2017-12-06T02:48:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "caddec2c-11a5-11e5-8150-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "kingiceGOD"
+            }
+        },
+        {
+            "time": "2017-12-06T02:48:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5f86d010-89a6-11e4-b6f0-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "PhilipRyu"
+            }
+        },
+        {
+            "time": "2017-12-06T02:48:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "52dadaf8-772e-11e4-8b02-06d90c28bf1a",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "underpressure"
+            }
+        },
+        {
+            "time": "2017-12-06T02:48:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "20e25ccc-cc5b-11e6-9e41-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "UnoGlen"
+            }
+        }
+    ],
+    "winner": "another"
+}

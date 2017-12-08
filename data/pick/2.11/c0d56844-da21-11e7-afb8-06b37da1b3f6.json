@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:07:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2d5296de-bbd6-11e5-8fb9-06b48b82cd49",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "padilla21"
+            }
+        },
+        {
+            "time": "2017-12-06T01:07:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d3f0d108-6f16-11e4-ac9d-062d0b175276",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "vulcan"
+            }
+        },
+        {
+            "time": "2017-12-06T01:07:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1d45204c-139b-11e5-8e77-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Sturmblade"
+            }
+        },
+        {
+            "time": "2017-12-06T01:07:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dfe9e430-9004-11e5-9e47-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Ness33"
+            }
+        },
+        {
+            "time": "2017-12-06T01:07:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e31ff662-2272-11e5-a3a1-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Slickric"
+            }
+        },
+        {
+            "time": "2017-12-06T01:08:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ef961086-d08d-11e7-866e-02ce883f709a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "SnpM"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

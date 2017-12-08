@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:15:38+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:15:43+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:15:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "afb3b0a6-70f7-11e5-887e-0628b69bf6d1",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "AncientSlay3r"
+            }
+        },
+        {
+            "time": "2017-12-06T03:15:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fd897db8-bf59-11e6-ba3c-06c5ee41a4a5",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "iAleexs"
+            }
+        },
+        {
+            "time": "2017-12-06T03:16:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "52d01fe0-226a-11e5-b08c-06f4ee369f53",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "buttersteve"
+            }
+        },
+        {
+            "time": "2017-12-06T03:16:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6b8cab0c-2e18-11e5-8332-068789513eb5",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "SaintBarbarian"
+            }
+        },
+        {
+            "time": "2017-12-06T03:16:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "64b1951a-71c8-11e5-b7b1-0628b69bf6d1",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "AncientAngel"
+            }
+        },
+        {
+            "time": "2017-12-06T03:17:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7ac498fc-94da-11e7-958e-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "VGsmurfpractice"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:58:02+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:58:18+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:58:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e08df35a-bd53-11e5-b421-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "MeliodasDragoSin"
+            }
+        },
+        {
+            "time": "2017-12-06T01:58:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "56a1e0ce-ffee-11e5-9a85-06fc87f1dd11",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "GoodDeeds"
+            }
+        },
+        {
+            "time": "2017-12-06T01:58:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "af0c0b9e-6ec3-11e4-84d1-06641bcbf424",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "TakaGodNinja"
+            }
+        },
+        {
+            "time": "2017-12-06T01:59:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a6a068a2-149e-11e5-b9a8-06eb725f8a76",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "Arrow254"
+            }
+        },
+        {
+            "time": "2017-12-06T01:59:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9be0b7ac-84e5-11e5-a780-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "alooex69"
+            }
+        },
+        {
+            "time": "2017-12-06T01:59:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f2014e2c-3039-11e5-b487-06f4ee369f53",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "NightDevil"
+            }
+        }
+    ],
+    "winner": "another"
+}

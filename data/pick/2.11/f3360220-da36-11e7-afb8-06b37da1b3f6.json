@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:38:55+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:38:58+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:39:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6dc9258c-c6c3-11e5-b36a-0628b69bf6d1",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "joseki98"
+            }
+        },
+        {
+            "time": "2017-12-06T03:39:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "338c8a68-21ea-11e5-9904-068789513eb5",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "Selvin504"
+            }
+        },
+        {
+            "time": "2017-12-06T03:39:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "afbe2050-8f68-11e6-9804-06d90c28bf1a",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "FatesForever"
+            }
+        },
+        {
+            "time": "2017-12-06T03:39:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8c946252-0809-11e5-98f6-06eb725f8a76",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "VibeWithMe"
+            }
+        },
+        {
+            "time": "2017-12-06T03:39:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c1395b6a-c320-11e6-a960-06fc87f1dd11",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "JustChillOut"
+            }
+        },
+        {
+            "time": "2017-12-06T03:40:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d447ebbc-774c-11e4-8b02-06d90c28bf1a",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "pancho007"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

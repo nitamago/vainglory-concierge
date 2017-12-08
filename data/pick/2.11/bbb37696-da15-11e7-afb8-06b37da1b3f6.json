@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:41:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "20fcff6e-f5c4-11e5-a175-06f4ee369f53",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "Alecdead"
+            }
+        },
+        {
+            "time": "2017-12-05T23:41:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "93cf9f40-c856-11e7-8ffb-0654fca4c20c",
+                "Hero": "*Reza*",
+                "Team": "2",
+                "Handle": "RenK0"
+            }
+        },
+        {
+            "time": "2017-12-05T23:41:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a7ebde96-c1df-11e5-8fdd-06f4ee369f53",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "Apotheon"
+            }
+        },
+        {
+            "time": "2017-12-05T23:41:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "446d4f0c-6fab-11e5-a433-06f4ee369f53",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Der333"
+            }
+        },
+        {
+            "time": "2017-12-05T23:41:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f055d17c-799d-11e4-9a06-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "heatseeker"
+            }
+        },
+        {
+            "time": "2017-12-05T23:42:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "74c86366-1c6d-11e6-8200-06388a2f2ea7",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "GuardianCruz"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

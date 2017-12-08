@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T23:49:43+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:49:46+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:49:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "006bb044-9591-11e5-8ad8-06b48b82cd49",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "Bcuzz"
+            }
+        },
+        {
+            "time": "2017-12-05T23:49:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "893fbecc-5957-11e5-b210-0628b69bf6d1",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "tankyy"
+            }
+        },
+        {
+            "time": "2017-12-05T23:50:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "94a4a666-65d1-11e5-81dc-06b48b82cd49",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "PvMonster"
+            }
+        },
+        {
+            "time": "2017-12-05T23:50:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6aca6778-3d1f-11e7-bc72-0223dbc2587a",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "BeamRegimeYT"
+            }
+        },
+        {
+            "time": "2017-12-05T23:50:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "79dc0b26-9fa0-11e6-a7ca-068789513eb5",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "SIumber"
+            }
+        },
+        {
+            "time": "2017-12-05T23:50:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a95bc8a4-9d70-11e7-8e93-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "DizzyVG"
+            }
+        }
+    ],
+    "winner": "another"
+}

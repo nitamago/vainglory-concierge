@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:29:54+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:29:57+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:30:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "00d997a4-70ac-11e4-bf97-062d0b175276",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "DaSpot8oh8"
+            }
+        },
+        {
+            "time": "2017-12-06T03:30:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "928855c0-545f-11e7-8389-02f3b4306918",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "gersonXD3"
+            }
+        },
+        {
+            "time": "2017-12-06T03:30:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0e23ae6c-1cc7-11e7-a6f5-0224e22aef46",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "wilson4003"
+            }
+        },
+        {
+            "time": "2017-12-06T03:31:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0dbe8d5e-262f-11e7-8b08-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Syncoronie"
+            }
+        },
+        {
+            "time": "2017-12-06T03:31:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3f226866-4737-11e6-a359-06f4ee369f53",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "ArtimesTC"
+            }
+        },
+        {
+            "time": "2017-12-06T03:31:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a8a0cbfc-5a6a-11e6-94a1-06d90c28bf1a",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "Erickjbdc222"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T23:43:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "687f0af8-6ea2-11e4-89a2-062d0b175276",
+                "Hero": "*Flicker*",
+                "Team": "1",
+                "Handle": "sidewinder"
+            }
+        },
+        {
+            "time": "2017-12-05T23:43:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c309584c-86e2-11e7-b7b8-02081e0fc90e",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "AlanJ99"
+            }
+        },
+        {
+            "time": "2017-12-05T23:43:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "66914dd4-5338-11e5-95fd-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "CopsRus"
+            }
+        },
+        {
+            "time": "2017-12-05T23:43:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f23232ae-6f81-11e4-bfea-06641bcbf424",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "blitz10035"
+            }
+        },
+        {
+            "time": "2017-12-05T23:43:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dd5a4ee0-7db2-11e4-9304-06eb725f8a76",
+                "Hero": "*Flicker*",
+                "Team": "2",
+                "Handle": "queenbeee"
+            }
+        },
+        {
+            "time": "2017-12-05T23:43:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2c784e30-a135-11e6-a288-06ab1a16f8e5",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "DrPerson"
+            }
+        }
+    ],
+    "winner": "another"
+}

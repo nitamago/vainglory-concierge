@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:09:42+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:09:45+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:09:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4334cbf2-07ee-11e6-9a1f-062cb73cdbb1",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "queenbshy"
+            }
+        },
+        {
+            "time": "2017-12-06T02:09:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0ec927f4-0a06-11e6-b4de-0628b69bf6d1",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "Falcon361"
+            }
+        },
+        {
+            "time": "2017-12-06T02:10:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c1853d48-769f-11e4-8aaa-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "MaxTheBoss72"
+            }
+        },
+        {
+            "time": "2017-12-06T02:10:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5bce8636-ebb4-11e5-bb11-0628b69bf6d1",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "dirtypeepants"
+            }
+        },
+        {
+            "time": "2017-12-06T02:10:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "484c8f02-be0d-11e4-8b84-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "Daannyyy"
+            }
+        },
+        {
+            "time": "2017-12-06T02:11:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8801883c-f9a8-11e5-8a1f-06ab1a16f8e5",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "Sxhomar12"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:41:07+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:41:13+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:41:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8d085b00-2107-11e5-ade8-06d90c28bf1a",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "rCONG"
+            }
+        },
+        {
+            "time": "2017-12-06T03:41:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "568d6df4-f88e-11e5-b57e-06c5ee41a4a5",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Cj300soldiers"
+            }
+        },
+        {
+            "time": "2017-12-06T03:41:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "95c41d24-8728-11e5-8ce2-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Buddiez"
+            }
+        },
+        {
+            "time": "2017-12-06T03:42:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9c75bcb8-2355-11e5-9f56-06f4ee369f53",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "TheDeebz"
+            }
+        },
+        {
+            "time": "2017-12-06T03:42:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f5f9a79c-8f78-11e5-b8aa-06b48b82cd49",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "AvilTezc"
+            }
+        },
+        {
+            "time": "2017-12-06T03:42:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "78e31bda-e80b-11e5-b391-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "XenoWert"
+            }
+        }
+    ],
+    "winner": "another"
+}

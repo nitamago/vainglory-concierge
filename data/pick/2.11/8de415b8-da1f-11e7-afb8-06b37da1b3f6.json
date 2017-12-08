@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:51:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cd5b4d86-0304-11e6-84e7-06f4ee369f53",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "NativePsycho"
+            }
+        },
+        {
+            "time": "2017-12-06T00:51:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "15d78c7e-ed05-11e6-8319-06fc87f1dd11",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "MsChulaBaby"
+            }
+        },
+        {
+            "time": "2017-12-06T00:51:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d9bc4f8e-ff8b-11e5-b35c-06b48b82cd49",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "DarknesDemigod"
+            }
+        },
+        {
+            "time": "2017-12-06T00:52:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6156c1f4-de02-11e6-a860-06a9175d25fa",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "ForbiddenToast"
+            }
+        },
+        {
+            "time": "2017-12-06T00:52:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8c955898-75ef-11e5-8373-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Dilfin"
+            }
+        },
+        {
+            "time": "2017-12-06T00:52:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "12f7dfd8-0793-11e7-987a-06fc87f1dd11",
+                "Hero": "*Ozo*",
+                "Team": "1",
+                "Handle": "Ghettotech"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

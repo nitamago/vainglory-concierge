@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:32:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ee37078c-6edd-11e4-bc95-06641bcbf424",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "ciscog"
+            }
+        },
+        {
+            "time": "2017-12-06T01:32:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "52dadaf8-772e-11e4-8b02-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "underpressure"
+            }
+        },
+        {
+            "time": "2017-12-06T01:32:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d124e144-84d1-11e6-b729-06388a2f2ea7",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "letITburn"
+            }
+        },
+        {
+            "time": "2017-12-06T01:32:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0afe3c2e-239b-11e5-9a4e-0628b69bf6d1",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "DuoChamp"
+            }
+        },
+        {
+            "time": "2017-12-06T01:32:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "befd5eac-9d3b-11e5-b2a5-06eb725f8a76",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "JohnDtmC"
+            }
+        },
+        {
+            "time": "2017-12-06T01:33:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a48a0b2a-fe0b-11e5-93da-06ab1a16f8e5",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "BluThund3r"
+            }
+        }
+    ],
+    "winner": "another"
+}

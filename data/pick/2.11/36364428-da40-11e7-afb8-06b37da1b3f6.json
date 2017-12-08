@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:45:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1e010d02-7d87-11e4-a996-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "MysteryTrain"
+            }
+        },
+        {
+            "time": "2017-12-06T04:45:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b19247c4-b624-11e7-91f2-06fc87f1dd11",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "BURNTAPPLE"
+            }
+        },
+        {
+            "time": "2017-12-06T04:45:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6d515d38-9334-11e7-acff-02b3611af5e6",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "takobo"
+            }
+        },
+        {
+            "time": "2017-12-06T04:45:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "211c3756-129b-11e5-8fab-06eb725f8a76",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "Odsfish"
+            }
+        },
+        {
+            "time": "2017-12-06T04:45:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5686a2b6-1fbe-11e5-96b1-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "KutChemist"
+            }
+        },
+        {
+            "time": "2017-12-06T04:45:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "14ecf3ee-7331-11e4-af34-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "FIEND"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

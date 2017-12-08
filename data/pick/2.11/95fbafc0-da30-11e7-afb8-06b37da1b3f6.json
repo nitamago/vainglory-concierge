@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:53:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "324e5a36-c455-11e7-9803-02f3b4306918",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "GOTHAMER"
+            }
+        },
+        {
+            "time": "2017-12-06T02:53:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b468497a-bcda-11e5-af26-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "ArysSkya"
+            }
+        },
+        {
+            "time": "2017-12-06T02:53:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3f9d0a02-6881-11e5-a021-06f4ee369f53",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "Frankiecheaa"
+            }
+        },
+        {
+            "time": "2017-12-06T02:53:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f1f705f8-1381-11e6-8508-06fc87f1dd11",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "Madgix90"
+            }
+        },
+        {
+            "time": "2017-12-06T02:53:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "77dd400a-b21f-11e7-8bf5-06c5ee41a4a5",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "ohyouknow"
+            }
+        },
+        {
+            "time": "2017-12-06T02:53:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "875466ec-8c36-11e4-8c2f-06d90c28bf1a",
+                "Hero": "*Flicker*",
+                "Team": "1",
+                "Handle": "cwsull"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

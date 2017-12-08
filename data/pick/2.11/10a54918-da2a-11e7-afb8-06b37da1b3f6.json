@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:06:50+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:06:59+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:07:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "93995da2-736f-11e4-9cec-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Franco829"
+            }
+        },
+        {
+            "time": "2017-12-06T02:07:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "161cedec-6f4d-11e4-9a7f-06641bcbf424",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Havoc1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:07:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b5ca8602-4958-11e5-882d-06b48b82cd49",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "AtTheHelm"
+            }
+        },
+        {
+            "time": "2017-12-06T02:07:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "56518a82-7dd3-11e4-a688-06eb725f8a76",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "Megasteel"
+            }
+        },
+        {
+            "time": "2017-12-06T02:07:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c8879924-eecb-11e5-9cf2-06fc87f1dd11",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Marco14CoC"
+            }
+        },
+        {
+            "time": "2017-12-06T02:08:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cb6ff888-6f16-11e4-8115-062d0b175276",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "theCrazyOne"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:25:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "754f7a76-de84-11e5-9d60-06388a2f2ea7",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "VioletNg"
+            }
+        },
+        {
+            "time": "2017-12-06T00:25:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f80f4e10-a92c-11e5-bfb8-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Hideking"
+            }
+        },
+        {
+            "time": "2017-12-06T00:25:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5db43aa8-c8b5-11e5-903e-06f4ee369f53",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "jshima"
+            }
+        },
+        {
+            "time": "2017-12-06T00:25:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ef7c6f36-c073-11e5-824c-068789513eb5",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "CelestialDemon26"
+            }
+        },
+        {
+            "time": "2017-12-06T00:25:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9c498134-99f8-11e4-9953-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "SuperMetroid"
+            }
+        },
+        {
+            "time": "2017-12-06T00:26:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5189d18a-f649-11e6-89e7-0263a81144c0",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "RevoltingSlob"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

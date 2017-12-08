@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:00:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2ccf3710-c900-11e7-9b2c-069ef91bd55c",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "SavageDiablo"
+            }
+        },
+        {
+            "time": "2017-12-05T23:00:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dd180f8a-de0e-11e6-9735-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Normakk1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:00:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cfac4dda-b730-11e5-9e9b-06eb725f8a76",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "ThebeastAbi"
+            }
+        },
+        {
+            "time": "2017-12-05T23:00:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fcd508f2-8c58-11e7-b77d-06f4ee369f53",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "cagefreebirdman"
+            }
+        },
+        {
+            "time": "2017-12-05T23:00:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4b967bc4-7712-11e4-a417-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "KrisV"
+            }
+        },
+        {
+            "time": "2017-12-05T23:00:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bec786f0-7a5d-11e7-b2c1-068789513eb5",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "LetsCockFight"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T20:53:27+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:53:50+0000",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:54:07+0000",
+            "payload": {
+                "Player": "a5101f3a-d52f-11e5-8154-06eb725f8a76",
+                "Handle": "Soulreaperr",
+                "Hero": "*Ardan*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:54:09+0000",
+            "payload": {
+                "Player": "95c41d24-8728-11e5-8ce2-06eb725f8a76",
+                "Handle": "Buddiez",
+                "Hero": "*Skye*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:54:27+0000",
+            "payload": {
+                "Player": "06df7156-6edf-11e4-81c7-062d0b175276",
+                "Handle": "Ultie",
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:54:51+0000",
+            "payload": {
+                "Player": "c50ceb86-456f-11e7-a8b7-067e8bc536fd",
+                "Handle": "VtotheNNA",
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:54:54+0000",
+            "payload": {
+                "Player": "84a0cfc0-641c-11e6-b7d6-0628b69bf6d1",
+                "Handle": "GankaSaurusRex",
+                "Hero": "*Taka*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:55:15+0000",
+            "payload": {
+                "Player": "50129664-7a0e-11e6-a37f-06d90c28bf1a",
+                "Handle": "SeguinBoy",
+                "Hero": "*Petal*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

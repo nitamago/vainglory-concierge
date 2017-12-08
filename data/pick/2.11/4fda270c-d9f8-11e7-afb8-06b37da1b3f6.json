@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T20:10:46+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:11:02+0000",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:11:09+0000",
+            "payload": {
+                "Player": "a3aaa2f4-7a5a-11e4-a41a-06d90c28bf1a",
+                "Handle": "purehemp",
+                "Hero": "*SAW*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:11:09+0000",
+            "payload": {
+                "Player": "85dd64d6-aed9-11e6-a143-06388a2f2ea7",
+                "Handle": "theflashy101",
+                "Hero": "*Grace*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:11:32+0000",
+            "payload": {
+                "Player": "e91b60ec-2618-11e6-820f-06b48b82cd49",
+                "Handle": "nelsmar",
+                "Hero": "*Skaarf*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:11:45+0000",
+            "payload": {
+                "Player": "95b0d40c-71f4-11e4-b278-06d90c28bf1a",
+                "Handle": "jartopian",
+                "Hero": "*Reim*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:12:00+0000",
+            "payload": {
+                "Player": "631384be-c216-11e4-8a5a-06d90c28bf1a",
+                "Handle": "Kevdingo",
+                "Hero": "*Catherine*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:12:07+0000",
+            "payload": {
+                "Player": "3c7c5808-3efc-11e6-afdf-067e8bc536fd",
+                "Handle": "ItsMocha",
+                "Hero": "*Fortress*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

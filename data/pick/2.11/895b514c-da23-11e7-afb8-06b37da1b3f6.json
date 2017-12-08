@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:20:07+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:20:26+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Idris*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:20:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dc627c02-0b2d-11e5-af62-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "TlNDER"
+            }
+        },
+        {
+            "time": "2017-12-06T01:20:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c71a2388-72dd-11e4-a8db-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "zRichie"
+            }
+        },
+        {
+            "time": "2017-12-06T01:20:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a2f12a0a-f929-11e5-aa74-06fc87f1dd11",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "Programs"
+            }
+        },
+        {
+            "time": "2017-12-06T01:21:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c1b044b0-3264-11e7-b435-0223dbc2587a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "SideRaider"
+            }
+        },
+        {
+            "time": "2017-12-06T01:21:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fc5313c4-fc9e-11e5-a44d-06b48b82cd49",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "DestroyerMode"
+            }
+        },
+        {
+            "time": "2017-12-06T01:21:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5c02e624-161c-11e5-a382-06eb725f8a76",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "B17gaming"
+            }
+        }
+    ],
+    "winner": "another"
+}

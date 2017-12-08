@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:36:07+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:36:28+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:36:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5af4db74-e74b-11e5-bec5-06c5ee41a4a5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "M0N4RCH"
+            }
+        },
+        {
+            "time": "2017-12-06T03:36:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "91ce29a0-3806-11e6-86f4-06ab1a16f8e5",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "ItsEddy"
+            }
+        },
+        {
+            "time": "2017-12-06T03:36:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "09496edc-7c75-11e7-be05-020ecf4900d0",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "InakiZorro"
+            }
+        },
+        {
+            "time": "2017-12-06T03:37:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4bd829de-7406-11e4-b12c-06d90c28bf1a",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "Souljagoku"
+            }
+        },
+        {
+            "time": "2017-12-06T03:37:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ab7f0bbc-a1ed-11e5-afaa-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "PhucVoGamingVN"
+            }
+        },
+        {
+            "time": "2017-12-06T03:37:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "247779b0-20ba-11e5-9c6a-06f4ee369f53",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "Byakushiki"
+            }
+        }
+    ],
+    "winner": "another"
+}

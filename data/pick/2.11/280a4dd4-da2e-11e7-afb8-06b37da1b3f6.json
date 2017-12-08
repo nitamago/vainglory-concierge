@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:36:14+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:36:40+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:36:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ebc9ad30-cabf-11e5-b376-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "ThinnerLobster"
+            }
+        },
+        {
+            "time": "2017-12-06T02:37:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d40ad4e2-8ffa-11e7-aea7-0297ea8a7ddc",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "BOOSTEDMANKEY"
+            }
+        },
+        {
+            "time": "2017-12-06T02:37:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5bd7733e-92e8-11e4-8cbd-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "iVersace "
+            }
+        },
+        {
+            "time": "2017-12-06T02:37:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "60aec89a-a591-11e6-9d13-06b48b82cd49",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "SRuff"
+            }
+        },
+        {
+            "time": "2017-12-06T02:37:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0a643c84-50f8-11e5-8823-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "RaffC3"
+            }
+        },
+        {
+            "time": "2017-12-06T02:37:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "46848c16-373d-11e5-8e01-06eb725f8a76",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "Coyan"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

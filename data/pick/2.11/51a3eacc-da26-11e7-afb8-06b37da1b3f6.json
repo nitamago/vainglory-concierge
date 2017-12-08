@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:39:57+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:40:23+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:40:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cba94cda-1a26-11e5-bc00-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "AggressiveAlex"
+            }
+        },
+        {
+            "time": "2017-12-06T01:40:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cb6ff888-6f16-11e4-8115-062d0b175276",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "theCrazyOne"
+            }
+        },
+        {
+            "time": "2017-12-06T01:40:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "93995da2-736f-11e4-9cec-06d90c28bf1a",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "Franco829"
+            }
+        },
+        {
+            "time": "2017-12-06T01:41:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "339731c4-bf30-11e4-917c-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "jadecricket"
+            }
+        },
+        {
+            "time": "2017-12-06T01:41:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8a3d12b8-6855-11e5-8ddb-06b48b82cd49",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "EmperorTrump1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:41:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fdea78ba-ac2d-11e5-83df-0628b69bf6d1",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "Player59251582"
+            }
+        }
+    ],
+    "winner": "another"
+}

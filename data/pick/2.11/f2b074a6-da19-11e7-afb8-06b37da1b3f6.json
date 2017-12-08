@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:11:27+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:11:30+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:11:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4d8e81ba-a354-11e4-93d5-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "DTara"
+            }
+        },
+        {
+            "time": "2017-12-06T00:12:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1ff3112e-cd1b-11e6-a7fa-06fc87f1dd11",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "Chefsito"
+            }
+        },
+        {
+            "time": "2017-12-06T00:12:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "af158610-7166-11e4-9c3c-06641bcbf424",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "Airwreckage"
+            }
+        },
+        {
+            "time": "2017-12-06T00:12:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "56518a82-7dd3-11e4-a688-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Megasteel"
+            }
+        },
+        {
+            "time": "2017-12-06T00:12:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dc7146bc-e6d2-11e4-a206-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "0ki7o"
+            }
+        },
+        {
+            "time": "2017-12-06T00:13:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3ac093b2-838e-11e7-bf81-02f3b4306918",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "ImtheTroll"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

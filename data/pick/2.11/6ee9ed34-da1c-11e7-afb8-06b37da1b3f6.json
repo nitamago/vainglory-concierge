@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:29:14+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:29:23+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:29:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0e573be2-3fb0-11e5-ab0d-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Jayquell"
+            }
+        },
+        {
+            "time": "2017-12-06T00:29:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9de92b40-28ee-11e5-afdc-06f4ee369f53",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "InJungleWeTrust"
+            }
+        },
+        {
+            "time": "2017-12-06T00:29:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "390b8de4-7e44-11e4-b2a2-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "BHxartiest"
+            }
+        },
+        {
+            "time": "2017-12-06T00:30:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4ff6c540-1008-11e5-8301-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "ChrisCzrs"
+            }
+        },
+        {
+            "time": "2017-12-06T00:30:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a9435a8c-3239-11e7-a57d-067e8bc536fd",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "yepitwasmurf"
+            }
+        },
+        {
+            "time": "2017-12-06T00:30:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "622a039e-7f57-11e5-9e4c-06f4ee369f53",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "Robustcheese"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

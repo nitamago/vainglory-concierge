@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:26:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "37d2bc26-d356-11e7-895e-06b672bd5be2",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "TuBun69"
+            }
+        },
+        {
+            "time": "2017-12-06T04:26:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "96a667ea-ac33-11e4-9580-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "reststrahlen"
+            }
+        },
+        {
+            "time": "2017-12-06T04:26:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "68d2e69a-f00b-11e6-9722-02081e0fc90e",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "C4QUACK"
+            }
+        },
+        {
+            "time": "2017-12-06T04:26:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "96ff63fc-7eab-11e7-ada5-06388a2f2ea7",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "Thebestoftherest"
+            }
+        },
+        {
+            "time": "2017-12-06T04:26:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ffbbd11c-ae52-11e5-89d5-0628b69bf6d1",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "YoungTriggy"
+            }
+        },
+        {
+            "time": "2017-12-06T04:27:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0cacf740-ed5d-11e5-be47-0628b69bf6d1",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Joseph629"
+            }
+        }
+    ],
+    "winner": "another"
+}

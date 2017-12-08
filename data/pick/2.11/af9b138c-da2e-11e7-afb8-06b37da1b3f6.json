@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:40:02+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:40:05+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Skye*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:40:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cc4fa0be-832f-11e4-93d5-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "DeadlyMario"
+            }
+        },
+        {
+            "time": "2017-12-06T02:40:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ef7e2c06-24f4-11e5-8e1f-068789513eb5",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "JKidding"
+            }
+        },
+        {
+            "time": "2017-12-06T02:40:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9936f84e-ae63-11e4-8e2b-06eb725f8a76",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "ParkourDaikiri"
+            }
+        },
+        {
+            "time": "2017-12-06T02:40:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c9709156-8932-11e4-9c3a-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "prophasis"
+            }
+        },
+        {
+            "time": "2017-12-06T02:41:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "83593f92-bb59-11e5-ba44-06f4ee369f53",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "GranMaster"
+            }
+        },
+        {
+            "time": "2017-12-06T02:41:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a60bf86e-0721-11e5-b12f-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "SilentKI11ER9"
+            }
+        }
+    ],
+    "winner": "another"
+}

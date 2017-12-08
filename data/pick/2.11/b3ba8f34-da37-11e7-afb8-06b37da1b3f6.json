@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:44:26+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Ardan*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:44:29+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Baptiste*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:44:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c40e184c-2650-11e7-b96e-0223dbc2587a",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "aeriza"
+            }
+        },
+        {
+            "time": "2017-12-06T03:44:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3d91d21a-85af-11e5-ab62-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "LefoTheWizard"
+            }
+        },
+        {
+            "time": "2017-12-06T03:45:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b1d16ca2-b0e2-11e7-b0af-02a5820c0f16",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "BuIwark"
+            }
+        },
+        {
+            "time": "2017-12-06T03:45:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ca9da92e-9fa8-11e4-b47c-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "malganys"
+            }
+        },
+        {
+            "time": "2017-12-06T03:45:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4899e016-75e8-11e5-8a2f-06f4ee369f53",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "ImMarshmello"
+            }
+        },
+        {
+            "time": "2017-12-06T03:45:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "60799280-2115-11e5-abca-0628b69bf6d1",
+                "Hero": "*Ozo*",
+                "Team": "2",
+                "Handle": "OfficeMaxJuan"
+            }
+        }
+    ],
+    "winner": "another"
+}

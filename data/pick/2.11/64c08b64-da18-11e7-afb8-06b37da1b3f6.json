@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:00:19+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Ringo*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:00:28+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:00:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3c39fd3c-7dcd-11e5-9c5d-068789513eb5",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "WubTank3346"
+            }
+        },
+        {
+            "time": "2017-12-06T00:00:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0c0633de-b0f9-11e4-bb0c-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "NXT"
+            }
+        },
+        {
+            "time": "2017-12-06T00:00:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a5b6b7e6-60d6-11e5-9d5f-06f4ee369f53",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "MUERTEBLANCA"
+            }
+        },
+        {
+            "time": "2017-12-06T00:01:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "931efa52-affc-11e4-855a-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "ObeyZero"
+            }
+        },
+        {
+            "time": "2017-12-06T00:01:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "87112ed2-4048-11e6-8614-068789513eb5",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "SirTonyll"
+            }
+        },
+        {
+            "time": "2017-12-06T00:01:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "befa2622-3f46-11e5-9760-068789513eb5",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "CuuuumGETSUM"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

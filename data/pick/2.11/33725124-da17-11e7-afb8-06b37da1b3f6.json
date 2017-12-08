@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:51:48+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:51:54+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:52:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dfa14578-8fbb-11e7-86bc-06f4ee369f53",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "JaffarAoD"
+            }
+        },
+        {
+            "time": "2017-12-05T23:52:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "adcfebe8-acce-11e5-8a4b-0628b69bf6d1",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "LittleJBro"
+            }
+        },
+        {
+            "time": "2017-12-05T23:52:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f27e2f32-d862-11e6-ada3-06fc87f1dd11",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "pbodypbody4000"
+            }
+        },
+        {
+            "time": "2017-12-05T23:53:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ef5ad862-90fb-11e7-a639-06eb725f8a76",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "SilverdollarX"
+            }
+        },
+        {
+            "time": "2017-12-05T23:53:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1a86a488-9471-11e4-9c3a-06eb725f8a76",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "tacotothe4th"
+            }
+        },
+        {
+            "time": "2017-12-05T23:53:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0fca5d2e-2016-11e5-8c83-06eb725f8a76",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "LonginusSmasher"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

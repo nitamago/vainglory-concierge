@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:10:39+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:10:46+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:11:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e1672606-0b24-11e6-9846-062cb73cdbb1",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "magicstick5"
+            }
+        },
+        {
+            "time": "2017-12-06T04:11:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c9709156-8932-11e4-9c3a-06eb725f8a76",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "prophasis"
+            }
+        },
+        {
+            "time": "2017-12-06T04:11:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8945af62-17e8-11e6-8be5-0628b69bf6d1",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "che3david"
+            }
+        },
+        {
+            "time": "2017-12-06T04:11:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d8fd7e60-076a-11e6-94f0-06388a2f2ea7",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "FuryLeon"
+            }
+        },
+        {
+            "time": "2017-12-06T04:12:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7ca75444-a615-11e5-8eb2-0628b69bf6d1",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "bunnywolf"
+            }
+        },
+        {
+            "time": "2017-12-06T04:12:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7c1c3acc-7fa7-11e7-aea4-06fc87f1dd11",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "ImperialSoulX"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

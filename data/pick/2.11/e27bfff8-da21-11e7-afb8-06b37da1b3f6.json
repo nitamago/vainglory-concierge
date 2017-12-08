@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:08:27+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:08:47+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:09:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0f44832a-f1ae-11e4-b7be-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "abscond"
+            }
+        },
+        {
+            "time": "2017-12-06T01:09:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9f9f33e6-fad8-11e5-a5b4-06c5ee41a4a5",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Ganta777"
+            }
+        },
+        {
+            "time": "2017-12-06T01:09:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8d392010-9637-11e4-9439-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "BastreSSS"
+            }
+        },
+        {
+            "time": "2017-12-06T01:09:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4b0fe0fe-64fb-11e6-a91d-06fc87f1dd11",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "Morphling15"
+            }
+        },
+        {
+            "time": "2017-12-06T01:10:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2ba78a60-631b-11e5-9387-068789513eb5",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "Luxtion"
+            }
+        },
+        {
+            "time": "2017-12-06T01:10:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "43bb1dca-ae39-11e4-8c44-06eb725f8a76",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "TrustReborn"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

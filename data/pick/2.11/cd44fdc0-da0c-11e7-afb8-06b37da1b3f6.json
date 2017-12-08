@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T22:37:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f80f4e10-a92c-11e5-bfb8-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Hideking"
+            }
+        },
+        {
+            "time": "2017-12-05T22:37:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "706b59c2-b593-11e5-a114-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Jo273"
+            }
+        },
+        {
+            "time": "2017-12-05T22:37:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "639710f8-9235-11e7-8a21-020355b21670",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "AlphaNoble"
+            }
+        },
+        {
+            "time": "2017-12-05T22:37:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "19a6c446-8ded-11e5-95c3-06b48b82cd49",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "Lobo002"
+            }
+        },
+        {
+            "time": "2017-12-05T22:37:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "47d37be4-60fe-11e7-b35f-06a9175d25fa",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "Uzibear"
+            }
+        },
+        {
+            "time": "2017-12-05T22:38:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3a5dcbb4-e290-11e6-bd7a-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "SmileyFace264"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:17:14+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:17:27+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:17:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e7f35860-367f-11e6-9451-06f4ee369f53",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "Legendork"
+            }
+        },
+        {
+            "time": "2017-12-06T03:17:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0bf5b928-d5b5-11e5-ae21-06f4ee369f53",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "ghostJ5"
+            }
+        },
+        {
+            "time": "2017-12-06T03:17:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "759afd9a-70fb-11e4-84d1-06641bcbf424",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "twisteredx"
+            }
+        },
+        {
+            "time": "2017-12-06T03:18:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "48c871e8-3667-11e6-a3ca-06388a2f2ea7",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "Crimzoncrusade"
+            }
+        },
+        {
+            "time": "2017-12-06T03:18:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1932e8bc-39bb-11e6-a60a-068789513eb5",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "Suzsano"
+            }
+        },
+        {
+            "time": "2017-12-06T03:18:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "17919ce6-ef93-11e5-be9f-068789513eb5",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "DaDeStRoYeR10"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

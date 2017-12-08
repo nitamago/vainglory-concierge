@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T20:25:21+0000",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:25:34+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:25:40+0000",
+            "payload": {
+                "Player": "bcef347c-2580-11e7-a289-06b48b82cd49",
+                "Handle": "screambloodygore",
+                "Hero": "*Vox*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:26:02+0000",
+            "payload": {
+                "Player": "90bff3fe-abb4-11e7-90c1-02866102f5a6",
+                "Handle": "lolguy22",
+                "Hero": "*Lance*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:26:04+0000",
+            "payload": {
+                "Player": "253f9578-8b66-11e5-882d-06eb725f8a76",
+                "Handle": "Deathkeeper",
+                "Hero": "*Baron*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:26:23+0000",
+            "payload": {
+                "Player": "0dbf7af0-4956-11e5-9c3d-06b48b82cd49",
+                "Handle": "OoHeadBangerSoO",
+                "Hero": "*Taka*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:26:47+0000",
+            "payload": {
+                "Player": "f641827e-75ef-11e7-8787-06a9175d25fa",
+                "Handle": "shreyascr7",
+                "Hero": "*Lorelai*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:26:54+0000",
+            "payload": {
+                "Player": "a5101f3a-d52f-11e5-8154-06eb725f8a76",
+                "Handle": "Soulreaperr",
+                "Hero": "*Krul*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

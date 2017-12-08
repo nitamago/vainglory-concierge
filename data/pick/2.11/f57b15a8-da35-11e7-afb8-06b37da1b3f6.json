@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:32:14+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:32:17+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:32:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "aa31ee66-38f8-11e7-886d-02a5820c0f16",
+                "Hero": "*Petal*",
+                "Team": "1",
+                "Handle": "SweetCookies1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:32:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b073511a-5aeb-11e7-ad2c-020355b21670",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "HoneyBadger3"
+            }
+        },
+        {
+            "time": "2017-12-06T03:32:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "83cd4884-4fc7-11e7-8813-06c5ee41a4a5",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "FlipDatTableYEET"
+            }
+        },
+        {
+            "time": "2017-12-06T03:32:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "13ddec7e-aeed-11e7-bb57-06b48b82cd49",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "DaWeirdoBananya"
+            }
+        },
+        {
+            "time": "2017-12-06T03:32:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8a4a2982-1bbc-11e7-ab58-06ab1a16f8e5",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "LynxesPichu"
+            }
+        },
+        {
+            "time": "2017-12-06T03:33:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "af92e1c8-58fe-11e7-9478-02081e0fc90e",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "Mogwai43"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

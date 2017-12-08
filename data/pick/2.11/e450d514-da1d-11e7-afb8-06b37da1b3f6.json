@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:39:36+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:39:41+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:39:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1411d390-21aa-11e5-a742-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "SonOfVictory"
+            }
+        },
+        {
+            "time": "2017-12-06T00:39:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d0d26f46-fbe7-11e4-9e84-06eb725f8a76",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "nicademus11"
+            }
+        },
+        {
+            "time": "2017-12-06T00:40:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "88cd0bba-29b9-11e6-a921-06ab1a16f8e5",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Chinonator"
+            }
+        },
+        {
+            "time": "2017-12-06T00:40:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2f7da29e-987c-11e7-8dfd-029cb633549e",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Gelidness"
+            }
+        },
+        {
+            "time": "2017-12-06T00:40:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0f7befb6-94d3-11e7-a9b8-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "ZeusRD"
+            }
+        },
+        {
+            "time": "2017-12-06T00:40:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5ea41a0e-adcb-11e6-9f79-06fc87f1dd11",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Bobbyjoe2"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:05:31+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:05:57+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:05:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fbb787f8-0ee0-11e5-b4a8-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "MaxDodson"
+            }
+        },
+        {
+            "time": "2017-12-06T02:06:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8a33dcb0-10f8-11e6-ade8-06388a2f2ea7",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "ScobaStove"
+            }
+        },
+        {
+            "time": "2017-12-06T02:06:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f06b9ece-8408-11e4-8211-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "drake11"
+            }
+        },
+        {
+            "time": "2017-12-06T02:06:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a60bf86e-0721-11e5-b12f-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "SilentKI11ER9"
+            }
+        },
+        {
+            "time": "2017-12-06T02:07:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8d89d0f0-87f5-11e4-bf9c-06d90c28bf1a",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "spratos"
+            }
+        },
+        {
+            "time": "2017-12-06T02:07:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "94f426cc-1e2d-11e6-986d-0628b69bf6d1",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "Marquez121"
+            }
+        }
+    ],
+    "winner": "another"
+}

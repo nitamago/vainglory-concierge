@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:52:08+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:52:25+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:52:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fd1c696a-ff31-11e4-913b-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "ProDeStRoYeR"
+            }
+        },
+        {
+            "time": "2017-12-06T02:52:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7c1c3acc-7fa7-11e7-aea4-06fc87f1dd11",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "ImperialSoulX"
+            }
+        },
+        {
+            "time": "2017-12-06T02:52:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1c9f4e82-842c-11e4-8cbd-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "BigP0ppa"
+            }
+        },
+        {
+            "time": "2017-12-06T02:52:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "07de2508-8436-11e5-bc21-06f4ee369f53",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Arithmetically"
+            }
+        },
+        {
+            "time": "2017-12-06T02:53:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "52f7f00c-94b9-11e6-8bd1-06fc87f1dd11",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Yoruha2B"
+            }
+        },
+        {
+            "time": "2017-12-06T02:53:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f2264554-b10b-11e4-8747-06eb725f8a76",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "RebelTiger"
+            }
+        }
+    ],
+    "winner": "another"
+}

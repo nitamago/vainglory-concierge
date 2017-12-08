@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:54:27+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:54:47+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:54:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "228b2224-7b4b-11e4-a40b-06eb725f8a76",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "Gottaprobelm"
+            }
+        },
+        {
+            "time": "2017-12-06T02:55:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b811afc6-8601-11e6-bfea-06a9175d25fa",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "papidaddy"
+            }
+        },
+        {
+            "time": "2017-12-06T02:55:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0a231e26-97b1-11e4-9f18-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Hirozx"
+            }
+        },
+        {
+            "time": "2017-12-06T02:55:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9479e176-7b42-11e4-a469-06eb725f8a76",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "sweg_feg"
+            }
+        },
+        {
+            "time": "2017-12-06T02:55:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "906b832e-7e4d-11e4-be83-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "mitchew"
+            }
+        },
+        {
+            "time": "2017-12-06T02:55:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "961b8a64-c21a-11e5-b3c3-06eb725f8a76",
+                "Hero": "*Ozo*",
+                "Team": "2",
+                "Handle": "XCailKiller"
+            }
+        }
+    ],
+    "winner": "another"
+}

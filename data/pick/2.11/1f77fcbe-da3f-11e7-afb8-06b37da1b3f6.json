@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:37:43+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Skye*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:37:50+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:38:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d80ca926-87ab-11e4-9909-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "Ant0nym"
+            }
+        },
+        {
+            "time": "2017-12-06T04:38:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "60ca8c5c-d963-11e4-b6cc-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "steviej"
+            }
+        },
+        {
+            "time": "2017-12-06T04:38:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d4080ff0-5410-11e5-b000-06b48b82cd49",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "narnia12"
+            }
+        },
+        {
+            "time": "2017-12-06T04:39:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c0ecba18-e590-11e4-8043-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "ICfrenzy"
+            }
+        },
+        {
+            "time": "2017-12-06T04:39:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "068ba336-bf39-11e5-84e3-0628b69bf6d1",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "alldaywakebake"
+            }
+        },
+        {
+            "time": "2017-12-06T04:39:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "add504d8-117a-11e5-bc70-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "cobra10"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

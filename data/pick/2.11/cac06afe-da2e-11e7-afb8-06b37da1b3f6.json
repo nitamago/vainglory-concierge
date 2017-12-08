@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:40:33+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:40:36+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:40:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3eccf66e-d500-11e5-a227-06c5ee41a4a5",
+                "Hero": "*Reza*",
+                "Team": "1",
+                "Handle": "PrimeTimez"
+            }
+        },
+        {
+            "time": "2017-12-06T02:41:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e40de9c0-e6a3-11e6-9bdc-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Chenier "
+            }
+        },
+        {
+            "time": "2017-12-06T02:41:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "92aa0754-ed79-11e5-be6b-06fc87f1dd11",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Kupothy"
+            }
+        },
+        {
+            "time": "2017-12-06T02:41:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1f8f6334-67e3-11e5-89c4-06f4ee369f53",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "G4RaNs"
+            }
+        },
+        {
+            "time": "2017-12-06T02:41:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ab5c4732-2b67-11e5-8f01-0628b69bf6d1",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "JediTaco"
+            }
+        },
+        {
+            "time": "2017-12-06T02:41:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0e7c1c6a-2461-11e5-b7b4-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "ace187"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

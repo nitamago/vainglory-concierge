@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:05:55+0000",
+            "payload": {
+                "Hero": "*Petal*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:06:10+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:06:24+0000",
+            "payload": {
+                "Player": "bb1d9226-aa5b-11e4-9c77-06eb725f8a76",
+                "Handle": "jakeman",
+                "Hero": "*Glaive*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:06:34+0000",
+            "payload": {
+                "Player": "b4434846-a3a8-11e5-9d1c-06b48b82cd49",
+                "Handle": "JokerProdijay",
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:06:41+0000",
+            "payload": {
+                "Player": "a081a578-8b11-11e5-bfe5-068789513eb5",
+                "Handle": "PKNY",
+                "Hero": "*Grumpjaw*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:07:01+0000",
+            "payload": {
+                "Player": "f641827e-75ef-11e7-8787-06a9175d25fa",
+                "Handle": "shreyascr7",
+                "Hero": "*Catherine*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:07:02+0000",
+            "payload": {
+                "Player": "73d81d18-e7f1-11e4-8e6d-06d90c28bf1a",
+                "Handle": "w0on",
+                "Hero": "*Varya*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:07:04+0000",
+            "payload": {
+                "Player": "55edcda4-8f4c-11e5-b37a-0628b69bf6d1",
+                "Handle": "NEWG",
+                "Hero": "*Baron*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

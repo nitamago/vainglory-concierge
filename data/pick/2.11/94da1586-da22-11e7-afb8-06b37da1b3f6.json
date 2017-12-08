@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:13:35+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:14:00+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Vox*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:14:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3d1e62f0-bd52-11e5-aefc-06b48b82cd49",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "Jackjared"
+            }
+        },
+        {
+            "time": "2017-12-06T01:14:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "50bac4cc-6f31-11e4-8a2e-062d0b175276",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Tirtouga"
+            }
+        },
+        {
+            "time": "2017-12-06T01:14:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "26552406-664d-11e6-8553-06388a2f2ea7",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "Jaydooo"
+            }
+        },
+        {
+            "time": "2017-12-06T01:14:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "82df89dc-7716-11e4-9faa-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "XXIsavage"
+            }
+        },
+        {
+            "time": "2017-12-06T01:15:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1b08eca6-80a1-11e4-8b20-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "K1ngKen"
+            }
+        },
+        {
+            "time": "2017-12-06T01:15:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "47c73358-3205-11e6-a3f1-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "PoeDameron157"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

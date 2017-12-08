@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:11:20+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:11:22+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Ardan*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:11:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "62ee6d46-de6d-11e4-b6cc-06eb725f8a76",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "Mwahahha"
+            }
+        },
+        {
+            "time": "2017-12-06T01:11:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7901f53e-7644-11e5-8a2f-06f4ee369f53",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "RoyGbiv"
+            }
+        },
+        {
+            "time": "2017-12-06T01:11:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d2fdfaec-6ca2-11e6-bc2b-062cb73cdbb1",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Zekken24"
+            }
+        },
+        {
+            "time": "2017-12-06T01:11:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fba5b09a-b1a7-11e5-b36c-06f4ee369f53",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "tylerdurden619"
+            }
+        },
+        {
+            "time": "2017-12-06T01:11:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dce6c81e-242c-11e5-87e4-06eb725f8a76",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "Pepsi1937"
+            }
+        },
+        {
+            "time": "2017-12-06T01:12:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8d9a5058-c163-11e5-a131-0628b69bf6d1",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "WillOfWolves"
+            }
+        }
+    ],
+    "winner": "another"
+}

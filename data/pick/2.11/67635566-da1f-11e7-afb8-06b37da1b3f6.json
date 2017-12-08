@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:50:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ed6b653c-0fb4-11e5-9567-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "rustyui"
+            }
+        },
+        {
+            "time": "2017-12-06T00:50:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "54cbe444-09c6-11e5-af89-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "BitterSweetnezz"
+            }
+        },
+        {
+            "time": "2017-12-06T00:50:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "067a6d22-928b-11e4-b47c-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Buck84"
+            }
+        },
+        {
+            "time": "2017-12-06T00:50:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8d1d3ce0-179e-11e5-a5ba-06d90c28bf1a",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "WaffleKiller12"
+            }
+        },
+        {
+            "time": "2017-12-06T00:50:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d61069ea-2202-11e5-bb0c-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Rotemm"
+            }
+        },
+        {
+            "time": "2017-12-06T00:51:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "31d4f1e0-1486-11e5-b114-06d90c28bf1a",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "Mayuri "
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

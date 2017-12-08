@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:17:20+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Vox*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:17:33+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Petal*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:17:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7e51b1f6-74d2-11e4-b7f5-06d90c28bf1a",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "Myst"
+            }
+        },
+        {
+            "time": "2017-12-06T02:18:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6c537ab4-f60a-11e6-90aa-068789513eb5",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Shiroshi"
+            }
+        },
+        {
+            "time": "2017-12-06T02:18:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6ee4dbe6-7318-11e4-aebc-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "KANTUTERROR"
+            }
+        },
+        {
+            "time": "2017-12-06T02:18:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d9496f24-521e-11e6-9910-06388a2f2ea7",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "TpOsborn"
+            }
+        },
+        {
+            "time": "2017-12-06T02:18:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6cd3ed90-5031-11e6-a141-06f4ee369f53",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "TpCharLie"
+            }
+        },
+        {
+            "time": "2017-12-06T02:18:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "df9c1ac2-74ec-11e4-bb59-06d90c28bf1a",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "GoldenWingX"
+            }
+        }
+    ],
+    "winner": "another"
+}

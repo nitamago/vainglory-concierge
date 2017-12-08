@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:04:20+0000",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:04:24+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:04:49+0000",
+            "payload": {
+                "Player": "b1897ca8-0ba8-11e5-8168-06eb725f8a76",
+                "Handle": "SkyFrozn",
+                "Hero": "*Vox*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:05:05+0000",
+            "payload": {
+                "Player": "9f80350a-37dc-11e5-946e-06d90c28bf1a",
+                "Handle": "Finessin",
+                "Hero": "*Baron*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:05:12+0000",
+            "payload": {
+                "Player": "a258bfd0-3c87-11e6-8b7a-06388a2f2ea7",
+                "Handle": "Habits66",
+                "Hero": "*Ardan*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:05:32+0000",
+            "payload": {
+                "Player": "fbb787f8-0ee0-11e5-b4a8-06eb725f8a76",
+                "Handle": "MaxDodson",
+                "Hero": "*Lance*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:05:36+0000",
+            "payload": {
+                "Player": "a8630b1c-7da0-11e4-a6e6-06eb725f8a76",
+                "Handle": "PyroSpear",
+                "Hero": "*Taka*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:05:43+0000",
+            "payload": {
+                "Player": "0dbf7af0-4956-11e5-9c3d-06b48b82cd49",
+                "Handle": "OoHeadBangerSoO",
+                "Hero": "*Rona*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

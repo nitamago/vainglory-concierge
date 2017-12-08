@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:26:13+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:26:19+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:26:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ad221af6-6a28-11e5-a874-0628b69bf6d1",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "TeamPlayer1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:26:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "815e6098-668c-11e7-88c6-020355b21670",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Kazut0Sama"
+            }
+        },
+        {
+            "time": "2017-12-05T23:27:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a2d3eb4a-c717-11e6-a75b-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "Edgarsito"
+            }
+        },
+        {
+            "time": "2017-12-05T23:27:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "af6a1704-2b53-11e6-af68-06b48b82cd49",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "Ares22"
+            }
+        },
+        {
+            "time": "2017-12-05T23:27:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "18d8fc4e-7c55-11e6-a50a-068789513eb5",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Praethor"
+            }
+        },
+        {
+            "time": "2017-12-05T23:27:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6461390c-e9e2-11e5-927a-0628b69bf6d1",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "Rosh10"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:54:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "af048844-d03a-11e6-9790-06f4ee369f53",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "LordVipeR"
+            }
+        },
+        {
+            "time": "2017-12-06T03:54:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0093535c-8463-11e7-b62c-02a5820c0f16",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "SADW0RLD"
+            }
+        },
+        {
+            "time": "2017-12-06T03:54:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "be7d177c-26d1-11e6-a156-0628b69bf6d1",
+                "Hero": "*Samuel*",
+                "Team": "1",
+                "Handle": "Vikingwolf"
+            }
+        },
+        {
+            "time": "2017-12-06T03:54:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "26ab2492-b139-11e5-aec1-06eb725f8a76",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "Gatitoo"
+            }
+        },
+        {
+            "time": "2017-12-06T03:54:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8b119ad2-22cc-11e7-899b-02f3b4306918",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "PharaohsKeep"
+            }
+        },
+        {
+            "time": "2017-12-06T03:54:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "589d8092-c44b-11e5-a78a-068789513eb5",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Memepepsi"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:41:59+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:42:13+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:42:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ba8c6f2c-6f45-11e4-9e0f-06641bcbf424",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "Angel757512"
+            }
+        },
+        {
+            "time": "2017-12-06T01:42:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9c37e8e6-a9a8-11e5-9796-06f4ee369f53",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "Danyyampy"
+            }
+        },
+        {
+            "time": "2017-12-06T01:42:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9698be1e-e5bd-11e5-bbe9-062cb73cdbb1",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "jainish31"
+            }
+        },
+        {
+            "time": "2017-12-06T01:42:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b20be42e-4dfe-11e6-81be-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "dvanz90"
+            }
+        },
+        {
+            "time": "2017-12-06T01:42:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a1c8ebb6-7ece-11e5-b7d8-068789513eb5",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "goey"
+            }
+        },
+        {
+            "time": "2017-12-06T01:43:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b7d1fc4e-2dc6-11e5-a200-0628b69bf6d1",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "ChrisPcream"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

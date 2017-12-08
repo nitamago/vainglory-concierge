@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:03:27+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:03:33+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:03:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f67ab178-7b66-11e5-8915-068789513eb5",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Achilles32"
+            }
+        },
+        {
+            "time": "2017-12-06T03:03:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "869ac7aa-2475-11e5-b9b3-06b48b82cd49",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "ARI3S"
+            }
+        },
+        {
+            "time": "2017-12-06T03:03:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a8956a1a-23d3-11e5-a010-06f4ee369f53",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "BlowOffValve"
+            }
+        },
+        {
+            "time": "2017-12-06T03:04:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c1395b6a-c320-11e6-a960-06fc87f1dd11",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "JustChillOut"
+            }
+        },
+        {
+            "time": "2017-12-06T03:04:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "23d063dc-5a94-11e5-84ec-068789513eb5",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Death2YouAll"
+            }
+        },
+        {
+            "time": "2017-12-06T03:05:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e071a1b0-a466-11e5-9891-0628b69bf6d1",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "xcfox"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

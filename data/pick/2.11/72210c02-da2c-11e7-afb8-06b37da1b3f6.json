@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:24:04+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:24:07+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:24:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6c128cb2-458c-11e7-8647-020ecf4900d0",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "HIERBA"
+            }
+        },
+        {
+            "time": "2017-12-06T02:24:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8baad57e-b8df-11e5-98b6-068789513eb5",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Put2Rest"
+            }
+        },
+        {
+            "time": "2017-12-06T02:24:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "be945f40-ae41-11e4-8337-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "ApexNinja"
+            }
+        },
+        {
+            "time": "2017-12-06T02:25:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d44aa34a-74fc-11e4-a417-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "AngelaBaby"
+            }
+        },
+        {
+            "time": "2017-12-06T02:25:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "907284e4-58fe-11e5-9b0f-06b48b82cd49",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "brian2213"
+            }
+        },
+        {
+            "time": "2017-12-06T02:25:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cec4ff6c-c8ce-11e4-8f4f-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "CurrynRice"
+            }
+        }
+    ],
+    "winner": "another"
+}

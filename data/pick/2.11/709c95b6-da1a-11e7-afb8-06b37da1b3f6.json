@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:15:02+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:15:05+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:15:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "926b07f4-23bd-11e7-9306-0223dbc2587a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Xxchuy360gamerxX"
+            }
+        },
+        {
+            "time": "2017-12-06T00:15:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ffe69678-3c21-11e7-8299-02f3b4306918",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Claudius01"
+            }
+        },
+        {
+            "time": "2017-12-06T00:16:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bf0308dc-6b0b-11e5-8653-06f4ee369f53",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "LuckyRoze"
+            }
+        },
+        {
+            "time": "2017-12-06T00:16:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ef765fe8-b83c-11e7-ba13-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "FiredFrenzy"
+            }
+        },
+        {
+            "time": "2017-12-06T00:16:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "161ba720-4f8d-11e7-b74a-06fc87f1dd11",
+                "Hero": "*Reza*",
+                "Team": "1",
+                "Handle": "AngelElement12"
+            }
+        },
+        {
+            "time": "2017-12-06T00:16:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0f7befb6-94d3-11e7-a9b8-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "ZeusRD"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

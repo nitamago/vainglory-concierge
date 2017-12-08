@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:08:25+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Ozo*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:08:28+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Glaive*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:08:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "14ede3bc-947e-11e4-9d4c-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "xReptile"
+            }
+        },
+        {
+            "time": "2017-12-06T02:08:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c71a2388-72dd-11e4-a8db-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "zRichie"
+            }
+        },
+        {
+            "time": "2017-12-06T02:09:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "43f4c3ee-7104-11e4-a054-06641bcbf424",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Aush"
+            }
+        },
+        {
+            "time": "2017-12-06T02:09:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7072b636-36ac-11e7-8afc-020ecf4900d0",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "KiryuinSatsuki"
+            }
+        },
+        {
+            "time": "2017-12-06T02:09:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "61155de4-2e6d-11e6-a2f7-06fc87f1dd11",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "GunmasterDraco"
+            }
+        },
+        {
+            "time": "2017-12-06T02:09:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bfb8fc74-3580-11e6-93c0-06388a2f2ea7",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Shmeng"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

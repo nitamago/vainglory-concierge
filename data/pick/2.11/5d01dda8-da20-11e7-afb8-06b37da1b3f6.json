@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:57:08+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:57:18+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:57:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c1dc71c8-7f61-11e5-ad4f-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "brian08"
+            }
+        },
+        {
+            "time": "2017-12-06T00:57:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "69213282-323e-11e5-8bb4-06b48b82cd49",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "ellag"
+            }
+        },
+        {
+            "time": "2017-12-06T00:57:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ce93a2c6-ec01-11e5-910b-06eb725f8a76",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "Demonstrations"
+            }
+        },
+        {
+            "time": "2017-12-06T00:58:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0356b766-31cf-11e5-afa4-0628b69bf6d1",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "lRenl"
+            }
+        },
+        {
+            "time": "2017-12-06T00:58:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7ca8f590-9e1e-11e6-b0aa-06d90c28bf1a",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "Extrii"
+            }
+        },
+        {
+            "time": "2017-12-06T00:58:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "392c7fa6-d5e4-11e5-8fd4-06fc87f1dd11",
+                "Hero": "*Reza*",
+                "Team": "2",
+                "Handle": "DMTLeo"
+            }
+        }
+    ],
+    "winner": "another"
+}

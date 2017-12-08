@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:38:24+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Flicker*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:38:33+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:38:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ca9446bc-bb36-11e6-88ba-06fc87f1dd11",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "LedgeAnDairy"
+            }
+        },
+        {
+            "time": "2017-12-06T02:39:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "96e5fb38-2082-11e7-89ef-0224e22aef46",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "PubStomper"
+            }
+        },
+        {
+            "time": "2017-12-06T02:39:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "47eb995c-0f31-11e5-a19c-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "DeatchChaser"
+            }
+        },
+        {
+            "time": "2017-12-06T02:39:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "91edf202-38f7-11e6-b5d8-06fc87f1dd11",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Tamkill"
+            }
+        },
+        {
+            "time": "2017-12-06T02:40:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3a6297d2-9f11-11e7-9578-06d90c28bf1a",
+                "Hero": "*Petal*",
+                "Team": "1",
+                "Handle": "staYwOke"
+            }
+        },
+        {
+            "time": "2017-12-06T02:40:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "195a4432-93ea-11e6-aa57-06f4ee369f53",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "noodlecham"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

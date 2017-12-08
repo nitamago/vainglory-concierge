@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T22:42:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3bcfcbea-718c-11e4-85b9-062d0b175276",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "ikolu"
+            }
+        },
+        {
+            "time": "2017-12-05T22:42:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a47c5f32-71a0-11e4-be2a-06641bcbf424",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "MajesticX"
+            }
+        },
+        {
+            "time": "2017-12-05T22:42:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "22913a76-bb62-11e5-98f1-068789513eb5",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "DrumNGun"
+            }
+        },
+        {
+            "time": "2017-12-05T22:42:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ed18d4d0-be2c-11e5-8fb9-06b48b82cd49",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "zamora322"
+            }
+        },
+        {
+            "time": "2017-12-05T22:42:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e399c20e-b2d9-11e7-b757-067e8bc536fd",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "CharlesSinclair"
+            }
+        },
+        {
+            "time": "2017-12-05T22:42:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cc9115a2-f39c-11e4-8490-06eb725f8a76",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "live2play"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:24:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e09185e6-81bc-11e6-abfa-06fc87f1dd11",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "Juan1699"
+            }
+        },
+        {
+            "time": "2017-12-06T01:24:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b18391a2-6674-11e7-b86f-06f4ee369f53",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "TauntingGiants"
+            }
+        },
+        {
+            "time": "2017-12-06T01:24:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f80f4e10-a92c-11e5-bfb8-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Hideking"
+            }
+        },
+        {
+            "time": "2017-12-06T01:24:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2e9732ba-d757-11e5-b97d-062cb73cdbb1",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "daniellionyang"
+            }
+        },
+        {
+            "time": "2017-12-06T01:25:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7d3d41e6-fbc2-11e4-bb67-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "Totoro101"
+            }
+        },
+        {
+            "time": "2017-12-06T01:25:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1eb61006-249b-11e5-afa5-068789513eb5",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "dOOp"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

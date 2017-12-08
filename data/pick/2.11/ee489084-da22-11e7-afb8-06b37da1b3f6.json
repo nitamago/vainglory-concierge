@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:15:45+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:15:52+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:16:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "befa55e4-f0a6-11e6-935a-06b48b82cd49",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "FadingBlu"
+            }
+        },
+        {
+            "time": "2017-12-06T01:16:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "280d003a-3b91-11e5-8b54-0628b69bf6d1",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "RoyBrandt"
+            }
+        },
+        {
+            "time": "2017-12-06T01:16:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1af259ca-372e-11e5-a728-0628b69bf6d1",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "Teuchi"
+            }
+        },
+        {
+            "time": "2017-12-06T01:16:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "37eedc14-154c-11e5-a78f-06d90c28bf1a",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "ArchRan"
+            }
+        },
+        {
+            "time": "2017-12-06T01:16:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b0d7142e-c205-11e4-8db7-06d90c28bf1a",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "leafwolf"
+            }
+        },
+        {
+            "time": "2017-12-06T01:16:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cde2359c-96bf-11e4-a17f-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "Damon1981"
+            }
+        }
+    ],
+    "winner": "another"
+}

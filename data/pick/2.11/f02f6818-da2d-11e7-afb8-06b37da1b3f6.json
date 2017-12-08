@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:34:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "998481a8-6af7-11e5-b416-0628b69bf6d1",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "ParadoxLost"
+            }
+        },
+        {
+            "time": "2017-12-06T02:34:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d051a430-acde-11e5-9887-06eb725f8a76",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "Goxeo"
+            }
+        },
+        {
+            "time": "2017-12-06T02:34:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "468681f4-a170-11e5-8c75-06b48b82cd49",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Asbe"
+            }
+        },
+        {
+            "time": "2017-12-06T02:34:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b16374fc-78f7-11e4-9ddc-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "KingCrab69"
+            }
+        },
+        {
+            "time": "2017-12-06T02:35:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "745e0866-abc5-11e7-b85c-029cb633549e",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "SiNArahim"
+            }
+        },
+        {
+            "time": "2017-12-06T02:35:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "da2715cc-5fb2-11e5-a563-0628b69bf6d1",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "Mirajne"
+            }
+        }
+    ],
+    "winner": "another"
+}

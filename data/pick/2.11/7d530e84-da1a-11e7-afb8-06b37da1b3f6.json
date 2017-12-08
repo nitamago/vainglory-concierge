@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:15:18+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:15:35+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:15:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2dce3406-477c-11e6-915d-06c5ee41a4a5",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "ale4lucard"
+            }
+        },
+        {
+            "time": "2017-12-06T00:15:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0dfad4a6-b959-11e5-8693-06d90c28bf1a",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "JOBella"
+            }
+        },
+        {
+            "time": "2017-12-06T00:16:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bc1e8580-fc09-11e5-be04-06f4ee369f53",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "killorkill"
+            }
+        },
+        {
+            "time": "2017-12-06T00:16:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e200d12e-9519-11e5-8163-068789513eb5",
+                "Hero": "*Petal*",
+                "Team": "1",
+                "Handle": "godskid"
+            }
+        },
+        {
+            "time": "2017-12-06T00:16:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "65ba9af2-6f84-11e4-9fbd-062d0b175276",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "GIRAFFE"
+            }
+        },
+        {
+            "time": "2017-12-06T00:16:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d5f3dcd2-775a-11e5-8a8f-06eb725f8a76",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "AZrealgaming"
+            }
+        }
+    ],
+    "winner": "another"
+}

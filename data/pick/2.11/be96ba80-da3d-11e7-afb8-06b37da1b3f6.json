@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:27:31+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:27:50+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Churnwalker*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:28:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5472b556-d34b-11e4-a9c9-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "NasIsTheBest"
+            }
+        },
+        {
+            "time": "2017-12-06T04:28:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d942d45e-8734-11e4-b997-06d90c28bf1a",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "JaecheonDaesong"
+            }
+        },
+        {
+            "time": "2017-12-06T04:28:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "66bfaf34-8d5a-11e4-947f-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "GOODLUCKHAVEFUN"
+            }
+        },
+        {
+            "time": "2017-12-06T04:28:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8b84bae8-c86a-11e5-8b24-06eb725f8a76",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "AllyPeterson"
+            }
+        },
+        {
+            "time": "2017-12-06T04:29:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "702bff5c-dc9f-11e4-a5a0-06eb725f8a76",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "XenoTek"
+            }
+        },
+        {
+            "time": "2017-12-06T04:29:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0ee1163c-3482-11e7-8516-02866102f5a6",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "LoveScars"
+            }
+        }
+    ],
+    "winner": "another"
+}

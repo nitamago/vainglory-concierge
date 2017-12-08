@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T20:20:29+0000",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:20:36+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:20:38+0000",
+            "payload": {
+                "Player": "47386744-ba6f-11e5-bc70-068789513eb5",
+                "Handle": "BRAYAN045",
+                "Hero": "*Vox*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:20:43+0000",
+            "payload": {
+                "Player": "fc4c92a0-1a14-11e5-8ea2-06d90c28bf1a",
+                "Handle": "TripleR11",
+                "Hero": "*Ringo*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:20:49+0000",
+            "payload": {
+                "Player": "f05089b4-8e5c-11e4-b7af-06eb725f8a76",
+                "Handle": "erickcgo ",
+                "Hero": "*Grace*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:21:09+0000",
+            "payload": {
+                "Player": "7be48f9a-9215-11e5-ac2d-06eb725f8a76",
+                "Handle": "zNGA",
+                "Hero": "*Churnwalker*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:21:23+0000",
+            "payload": {
+                "Player": "b41fe8e8-ec37-11e4-b9fe-06d90c28bf1a",
+                "Handle": "BIackCIover",
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:21:46+0000",
+            "payload": {
+                "Player": "6803e178-c557-11e4-8b16-06eb725f8a76",
+                "Handle": "HitBurn",
+                "Hero": "*Reza*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

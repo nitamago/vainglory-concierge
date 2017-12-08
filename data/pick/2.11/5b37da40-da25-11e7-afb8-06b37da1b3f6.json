@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:33:12+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Grace*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:33:21+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:33:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5f3b3c5c-c288-11e4-b3c4-06eb725f8a76",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "ndnskcksnckek "
+            }
+        },
+        {
+            "time": "2017-12-06T01:33:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "15cf5f58-d687-11e5-95c1-067e8bc536fd",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "KingOKings"
+            }
+        },
+        {
+            "time": "2017-12-06T01:33:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "af1d3c6e-2854-11e7-b459-02a5820c0f16",
+                "Hero": "*Ozo*",
+                "Team": "2",
+                "Handle": "ALEXISAPM"
+            }
+        },
+        {
+            "time": "2017-12-06T01:33:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "71458eb2-4eb8-11e6-a8c3-067e8bc536fd",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "lopval"
+            }
+        },
+        {
+            "time": "2017-12-06T01:33:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2ccf3710-c900-11e7-9b2c-069ef91bd55c",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "SavageDiablo"
+            }
+        },
+        {
+            "time": "2017-12-06T01:33:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1be57d08-a801-11e7-9e56-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Baconbitzs"
+            }
+        }
+    ],
+    "winner": "another"
+}

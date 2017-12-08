@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:12:56+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Ardan*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:12:59+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:13:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6e188040-0315-11e5-bd2b-06d90c28bf1a",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "StandinSolo"
+            }
+        },
+        {
+            "time": "2017-12-06T04:13:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6b22deba-d950-11e4-a2a5-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Trixster"
+            }
+        },
+        {
+            "time": "2017-12-06T04:13:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "136cb160-6e54-11e6-ba72-0628b69bf6d1",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "FlawLesS"
+            }
+        },
+        {
+            "time": "2017-12-06T04:13:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4325c5ee-803a-11e5-83d3-06b48b82cd49",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "End3rs"
+            }
+        },
+        {
+            "time": "2017-12-06T04:14:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9de48e9e-3c5f-11e5-b3e5-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Blakenator2016"
+            }
+        },
+        {
+            "time": "2017-12-06T04:14:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f570ef02-a73d-11e4-ac6d-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "GrindR"
+            }
+        }
+    ],
+    "winner": "another"
+}

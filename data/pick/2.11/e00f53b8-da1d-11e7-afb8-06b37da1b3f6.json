@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:39:31+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Flicker*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:39:56+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:40:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "aec84b44-7cf5-11e4-97d3-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "LightningT"
+            }
+        },
+        {
+            "time": "2017-12-06T00:40:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3da85c84-8a1d-11e5-9a44-06f4ee369f53",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "Push2Win"
+            }
+        },
+        {
+            "time": "2017-12-06T00:40:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1874ec1a-6f6b-11e5-b156-0628b69bf6d1",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "DarthRick"
+            }
+        },
+        {
+            "time": "2017-12-06T00:40:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "47747fda-4656-11e7-91c6-06a9175d25fa",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "M3L0NZ"
+            }
+        },
+        {
+            "time": "2017-12-06T00:40:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c7f79120-6f6b-11e4-b619-06641bcbf424",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "Juan9628"
+            }
+        },
+        {
+            "time": "2017-12-06T00:41:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3c10c178-0114-11e5-82df-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "God0fSins"
+            }
+        }
+    ],
+    "winner": "another"
+}

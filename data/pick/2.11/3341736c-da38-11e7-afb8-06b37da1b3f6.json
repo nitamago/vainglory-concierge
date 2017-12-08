@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:48:08+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Skye*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:48:28+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Grace*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:48:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2abbf864-86eb-11e4-a17f-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "iLoveGuavas"
+            }
+        },
+        {
+            "time": "2017-12-06T03:49:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5cf60c84-7b26-11e7-aa66-062cb73cdbb1",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "morgIay"
+            }
+        },
+        {
+            "time": "2017-12-06T03:49:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c4c611f6-5fee-11e5-b36b-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "kangmj1031"
+            }
+        },
+        {
+            "time": "2017-12-06T03:49:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "53a2894e-72bb-11e4-a26e-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "LovingEman"
+            }
+        },
+        {
+            "time": "2017-12-06T03:49:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d53ad078-8f22-11e4-bf99-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "NiToTheNah"
+            }
+        },
+        {
+            "time": "2017-12-06T03:49:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cb5e507a-92f9-11e6-9ab3-06388a2f2ea7",
+                "Hero": "*Reza*",
+                "Team": "2",
+                "Handle": "andrew223"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

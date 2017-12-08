@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:16:14+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:16:26+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:16:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f4be1c74-7c48-11e6-b246-06388a2f2ea7",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "Three6ix"
+            }
+        },
+        {
+            "time": "2017-12-06T00:16:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "08d00c6c-8ced-11e7-a04b-06b48b82cd49",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "N4GiSA"
+            }
+        },
+        {
+            "time": "2017-12-06T00:16:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6ac53e28-1afe-11e5-bd69-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "DelirioN"
+            }
+        },
+        {
+            "time": "2017-12-06T00:17:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0cb75e64-8545-11e4-9bb5-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Zephretheus"
+            }
+        },
+        {
+            "time": "2017-12-06T00:17:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "93fdc110-aed2-11e7-9186-06eb725f8a76",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "altered"
+            }
+        },
+        {
+            "time": "2017-12-06T00:17:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b27ec75c-d585-11e4-97a3-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "ClapThemCheeks"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

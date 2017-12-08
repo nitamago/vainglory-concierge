@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:41:52+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:42:01+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:42:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ae4945f4-375d-11e7-a0d4-02866102f5a6",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "PingMuteOP"
+            }
+        },
+        {
+            "time": "2017-12-05T23:42:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0724c4c6-7854-11e4-bfe8-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "hypnotoad"
+            }
+        },
+        {
+            "time": "2017-12-05T23:42:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "37ac33da-b5b1-11e6-85a3-062cb73cdbb1",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "ImpulsePlayz"
+            }
+        },
+        {
+            "time": "2017-12-05T23:43:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3a2e0956-d150-11e7-8e3d-0654fca4c20c",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "xAzalea"
+            }
+        },
+        {
+            "time": "2017-12-05T23:43:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "345da0d0-9e73-11e4-8566-06eb725f8a76",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "Luna8"
+            }
+        },
+        {
+            "time": "2017-12-05T23:43:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7bac7c12-b244-11e7-87ff-06d90c28bf1a",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "VainMello"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

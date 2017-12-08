@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:38:57+0000",
+            "payload": {
+                "Player": "3a424592-d4c2-11e5-b815-06c5ee41a4a5",
+                "Handle": "IMrsReckless",
+                "Hero": "*Ringo*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:38:58+0000",
+            "payload": {
+                "Player": "b87099a2-49d8-11e5-bcce-06f4ee369f53",
+                "Handle": "whitecollar",
+                "Hero": "*Fortress*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:39:05+0000",
+            "payload": {
+                "Player": "769c3234-803e-11e4-b238-06d90c28bf1a",
+                "Handle": "ObAYE",
+                "Hero": "*Idris*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:39:08+0000",
+            "payload": {
+                "Player": "241b23ca-7c4c-11e5-8df2-06eb725f8a76",
+                "Handle": "dmf10453",
+                "Hero": "*Celeste*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:39:10+0000",
+            "payload": {
+                "Player": "23c17aee-cab4-11e5-b9c2-06d90c28bf1a",
+                "Handle": "INoScopedJFK",
+                "Hero": "*Taka*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:39:22+0000",
+            "payload": {
+                "Player": "024382ee-f738-11e5-9313-06eb725f8a76",
+                "Handle": "ChunkGoonie",
+                "Hero": "*Krul*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

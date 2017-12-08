@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:40:43+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:41:11+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Samuel*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:41:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "eb61074a-3865-11e5-b685-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "eLiR0Ck"
+            }
+        },
+        {
+            "time": "2017-12-06T01:41:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "16d74a98-6948-11e5-9820-06b48b82cd49",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Joan128"
+            }
+        },
+        {
+            "time": "2017-12-06T01:41:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "92e914e0-b77c-11e5-8d94-0628b69bf6d1",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "Immortalhero"
+            }
+        },
+        {
+            "time": "2017-12-06T01:41:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "459f8518-7437-11e4-a232-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "iLoveFlawLesS"
+            }
+        },
+        {
+            "time": "2017-12-06T01:42:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e7d39f0e-88f8-11e6-a1c5-06388a2f2ea7",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Sniperrrinoo"
+            }
+        },
+        {
+            "time": "2017-12-06T01:42:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c2c7a7c8-03f7-11e5-b0d9-06eb725f8a76",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "Codered"
+            }
+        }
+    ],
+    "winner": "another"
+}

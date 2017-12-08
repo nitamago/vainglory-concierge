@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:24:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "37e29d4c-cd8b-11e7-a2f3-069ef91bd55c",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "DoNotFarmLane"
+            }
+        },
+        {
+            "time": "2017-12-06T03:24:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fc30b954-8ad5-11e5-b039-06f4ee369f53",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "yvngprince"
+            }
+        },
+        {
+            "time": "2017-12-06T03:24:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d701faaa-0987-11e5-a0c2-06eb725f8a76",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "deznuts666"
+            }
+        },
+        {
+            "time": "2017-12-06T03:24:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "23a646c0-72cc-11e4-88f0-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "IllAttack"
+            }
+        },
+        {
+            "time": "2017-12-06T03:24:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "86735ff2-b5a3-11e5-83df-0628b69bf6d1",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "LiLkill"
+            }
+        },
+        {
+            "time": "2017-12-06T03:25:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "998f7ed2-83ab-11e6-8524-067e8bc536fd",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "MisaCrak"
+            }
+        }
+    ],
+    "winner": "another"
+}

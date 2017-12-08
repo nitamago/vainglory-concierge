@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:20:19+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:20:29+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:20:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a24d93b6-895b-11e4-bc71-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "CooBooCooL"
+            }
+        },
+        {
+            "time": "2017-12-06T04:20:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fbdf34c8-899e-11e4-bc71-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "acallan1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:21:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fb3782ae-f7ac-11e6-834f-06c5ee41a4a5",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "NaDeShoT"
+            }
+        },
+        {
+            "time": "2017-12-06T04:21:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9e73be88-7a7d-11e4-9c8c-06eb725f8a76",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "Viaann"
+            }
+        },
+        {
+            "time": "2017-12-06T04:21:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cb981596-184b-11e5-b66c-06eb725f8a76",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "liz96"
+            }
+        },
+        {
+            "time": "2017-12-06T04:21:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e6aa2528-3082-11e5-8930-06d90c28bf1a",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "Ashrenserge"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:05:03+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:05:13+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:05:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5aa9a186-cb86-11e4-a0e2-06d90c28bf1a",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "DanielMV"
+            }
+        },
+        {
+            "time": "2017-12-06T01:05:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "328d3220-7691-11e4-b745-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "1PAIN2GLORY"
+            }
+        },
+        {
+            "time": "2017-12-06T01:06:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "beeed43c-7590-11e4-b745-06d90c28bf1a",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "sirkillalott"
+            }
+        },
+        {
+            "time": "2017-12-06T01:06:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "eaa6526c-387c-11e5-a296-06d90c28bf1a",
+                "Hero": "*Ozo*",
+                "Team": "1",
+                "Handle": "Shadowstrike23"
+            }
+        },
+        {
+            "time": "2017-12-06T01:06:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "afbe2050-8f68-11e6-9804-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "FatesForever"
+            }
+        },
+        {
+            "time": "2017-12-06T01:06:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a27d4d20-fd15-11e5-a7ca-06b48b82cd49",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "EyeLeSsTigER"
+            }
+        }
+    ],
+    "winner": "another"
+}

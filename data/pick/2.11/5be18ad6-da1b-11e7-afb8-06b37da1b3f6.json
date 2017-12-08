@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:22:07+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Idris*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:22:25+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:22:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d280c582-7054-11e4-b0e1-062d0b175276",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "FrostyLotus"
+            }
+        },
+        {
+            "time": "2017-12-06T00:22:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1120642c-4256-11e5-b938-068789513eb5",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Asxp"
+            }
+        },
+        {
+            "time": "2017-12-06T00:22:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d53ad078-8f22-11e4-bf99-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "NiToTheNah"
+            }
+        },
+        {
+            "time": "2017-12-06T00:23:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "afed3514-c837-11e5-adb7-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "LightningV"
+            }
+        },
+        {
+            "time": "2017-12-06T00:23:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2fe71bac-d9b5-11e5-bdad-062cb73cdbb1",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "TBladeV2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:23:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2c4f3252-692d-11e5-b6da-06b48b82cd49",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "YOOOONNGGJJAEEEE"
+            }
+        }
+    ],
+    "winner": "another"
+}

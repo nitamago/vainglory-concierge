@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:08:42+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:08:54+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:09:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5a3a4b36-b09d-11e5-83c0-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "ForceofReckoning"
+            }
+        },
+        {
+            "time": "2017-12-06T04:09:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "061cb82c-c0d7-11e6-a52f-06ab1a16f8e5",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Gojira87"
+            }
+        },
+        {
+            "time": "2017-12-06T04:09:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "13eee33e-74cc-11e4-af77-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "GankSter"
+            }
+        },
+        {
+            "time": "2017-12-06T04:09:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bf3690a8-3627-11e5-ba52-06b48b82cd49",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "TheSlayerOfAll"
+            }
+        },
+        {
+            "time": "2017-12-06T04:09:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "96206f08-4a27-11e6-b9d9-062cb73cdbb1",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "mrMuscul0s"
+            }
+        },
+        {
+            "time": "2017-12-06T04:10:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ddc89ebe-c841-11e6-af76-06388a2f2ea7",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "JaysusHunterv2"
+            }
+        }
+    ],
+    "winner": "another"
+}

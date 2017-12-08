@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T23:47:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "eed16d1c-d781-11e7-ab27-069ef91bd55c",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "NoGagReflexes"
+            }
+        },
+        {
+            "time": "2017-12-05T23:47:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0808a52c-469b-11e5-8083-06eb725f8a76",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "Ag3nTNeVeR"
+            }
+        },
+        {
+            "time": "2017-12-05T23:47:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0ec1eece-a2dd-11e6-bf8c-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "DemonNeverDie"
+            }
+        },
+        {
+            "time": "2017-12-05T23:47:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4ace3518-c7e3-11e7-a3c4-0654fca4c20c",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "NewEquinox"
+            }
+        },
+        {
+            "time": "2017-12-05T23:47:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "025208aa-f49a-11e5-9938-062cb73cdbb1",
+                "Hero": "*Ozo*",
+                "Team": "2",
+                "Handle": "DrakoGame"
+            }
+        },
+        {
+            "time": "2017-12-05T23:47:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "47883e54-049c-11e7-b84e-06ab1a16f8e5",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "ManHimSelf"
+            }
+        }
+    ],
+    "winner": "another"
+}

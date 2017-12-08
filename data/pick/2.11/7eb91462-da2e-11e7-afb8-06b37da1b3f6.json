@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:38:43+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:38:48+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Grace*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:39:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "828be900-e572-11e5-ad5d-06f4ee369f53",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Dnowell2013"
+            }
+        },
+        {
+            "time": "2017-12-06T02:39:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "59a4bd66-a903-11e4-9580-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "200West"
+            }
+        },
+        {
+            "time": "2017-12-06T02:39:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ef4485cc-9505-11e7-bea0-06fc87f1dd11",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "JoeMaker"
+            }
+        },
+        {
+            "time": "2017-12-06T02:39:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "632747bc-7bd5-11e7-a8d4-06fc87f1dd11",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Diplomatik"
+            }
+        },
+        {
+            "time": "2017-12-06T02:39:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "92067ed8-252c-11e5-8818-06eb725f8a76",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "b3astmod3"
+            }
+        },
+        {
+            "time": "2017-12-06T02:40:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b905ca54-512b-11e5-b329-06b48b82cd49",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "NVDE"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

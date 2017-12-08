@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:15:49+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:16:13+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:16:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0f7befb6-94d3-11e7-a9b8-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "ZeusRD"
+            }
+        },
+        {
+            "time": "2017-12-06T04:16:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "256ec242-3c0c-11e6-9fe0-06ab1a16f8e5",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "Cesar197"
+            }
+        },
+        {
+            "time": "2017-12-06T04:16:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2dd22e24-4cd8-11e6-a8df-0628b69bf6d1",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "FilthyRich420"
+            }
+        },
+        {
+            "time": "2017-12-06T04:17:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a111f6d6-7b68-11e5-ad4f-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "OsamaLoveTwins"
+            }
+        },
+        {
+            "time": "2017-12-06T04:17:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "89c97f0c-5968-11e5-b9c8-06f4ee369f53",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "yui2000"
+            }
+        },
+        {
+            "time": "2017-12-06T04:17:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7cd7fda6-8467-11e7-93db-0263a81144c0",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "NaoPearl"
+            }
+        }
+    ],
+    "winner": "another"
+}

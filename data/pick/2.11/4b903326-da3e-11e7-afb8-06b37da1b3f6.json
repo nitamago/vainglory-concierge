@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:31:28+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:31:40+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:31:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b0d3bd98-3b39-11e6-8dfd-0628b69bf6d1",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "WHATDIRASS"
+            }
+        },
+        {
+            "time": "2017-12-06T04:31:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b5cf146a-25b8-11e5-81a0-0628b69bf6d1",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Faetheon"
+            }
+        },
+        {
+            "time": "2017-12-06T04:32:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bfa035a0-0506-11e5-b7fa-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "SID69"
+            }
+        },
+        {
+            "time": "2017-12-06T04:32:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1dab2b2e-e624-11e5-88b0-06c5ee41a4a5",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "laadeedaa"
+            }
+        },
+        {
+            "time": "2017-12-06T04:32:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9d77543c-9b95-11e6-a5b0-06ab1a16f8e5",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "QUESASO"
+            }
+        },
+        {
+            "time": "2017-12-06T04:32:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "acdc5cba-6fe8-11e7-8033-0224e22aef46",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "Kalmar2"
+            }
+        }
+    ],
+    "winner": "another"
+}

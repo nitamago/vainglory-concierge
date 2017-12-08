@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:57:56+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Ardan*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:58:01+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:58:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "466bab40-7ff9-11e7-8101-06388a2f2ea7",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "BuiIldDefense"
+            }
+        },
+        {
+            "time": "2017-12-06T01:58:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c7f79120-6f6b-11e4-b619-06641bcbf424",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "Juan9628"
+            }
+        },
+        {
+            "time": "2017-12-06T01:58:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0a55c77c-0b64-11e6-bca1-06f4ee369f53",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "sanctified"
+            }
+        },
+        {
+            "time": "2017-12-06T01:58:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c3e23d48-55d3-11e5-b74b-068789513eb5",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "kirito1243"
+            }
+        },
+        {
+            "time": "2017-12-06T01:58:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e6de9372-52fd-11e7-add7-06fc87f1dd11",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "Skyeler"
+            }
+        },
+        {
+            "time": "2017-12-06T01:58:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c7c7a09e-d808-11e5-be01-06fc87f1dd11",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "Decetical"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:13:07+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:13:11+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:13:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a5159e5c-12d7-11e6-a402-06eb725f8a76",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "TssODINssT"
+            }
+        },
+        {
+            "time": "2017-12-06T04:13:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d129cc58-b412-11e5-aec1-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "OPWILL"
+            }
+        },
+        {
+            "time": "2017-12-06T04:13:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6b8cab0c-2e18-11e5-8332-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "SaintBarbarian"
+            }
+        },
+        {
+            "time": "2017-12-06T04:13:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4a2ab4ec-fd78-11e5-9954-06ab1a16f8e5",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "andrewhrra"
+            }
+        },
+        {
+            "time": "2017-12-06T04:14:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1135df06-719f-11e4-9da1-062d0b175276",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "Yosemitesam"
+            }
+        },
+        {
+            "time": "2017-12-06T04:14:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2d927a2e-68f6-11e6-a924-068789513eb5",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "Vaekon"
+            }
+        }
+    ],
+    "winner": "another"
+}

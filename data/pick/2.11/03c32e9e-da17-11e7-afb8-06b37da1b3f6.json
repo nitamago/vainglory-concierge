@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:50:30+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:50:40+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:50:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ae65b016-4b46-11e7-9295-06d90c28bf1a",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "Poosea"
+            }
+        },
+        {
+            "time": "2017-12-05T23:51:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d658f118-c885-11e5-be76-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "DANIELMARTINEZ"
+            }
+        },
+        {
+            "time": "2017-12-05T23:51:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "66448944-698a-11e7-a6b8-06a9175d25fa",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "GaelMasterX"
+            }
+        },
+        {
+            "time": "2017-12-05T23:51:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "59409d56-dcb3-11e5-b2ef-06ab1a16f8e5",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "aMotorBoatinS0B"
+            }
+        },
+        {
+            "time": "2017-12-05T23:51:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0e7c1c6a-2461-11e5-b7b4-06eb725f8a76",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "ace187"
+            }
+        },
+        {
+            "time": "2017-12-05T23:52:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "21c3cbb4-816f-11e4-a59c-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "spudly"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

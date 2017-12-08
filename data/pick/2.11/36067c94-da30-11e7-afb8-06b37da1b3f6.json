@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:50:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7d84410e-c8a8-11e6-aa24-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Vixxin"
+            }
+        },
+        {
+            "time": "2017-12-06T02:50:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "57c51ea8-ccf2-11e7-a02f-0654fca4c20c",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Bloodinferno"
+            }
+        },
+        {
+            "time": "2017-12-06T02:50:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2876c0a8-256c-11e7-abcf-0263a81144c0",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "Guest_083842277"
+            }
+        },
+        {
+            "time": "2017-12-06T02:50:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9f02db66-fe30-11e6-bf99-029cb633549e",
+                "Hero": "*Flicker*",
+                "Team": "1",
+                "Handle": "lambking"
+            }
+        },
+        {
+            "time": "2017-12-06T02:50:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a2de8794-bb4a-11e7-89f1-0297ea8a7ddc",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "Osire"
+            }
+        },
+        {
+            "time": "2017-12-06T02:51:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "15d78c7e-ed05-11e6-8319-06fc87f1dd11",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "MsChulaBaby"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

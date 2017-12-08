@@ -1,0 +1,74 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:04:41+0000",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:05:34+0000",
+            "payload": {
+                "Player": "de949a6a-7086-11e4-b4af-06641bcbf424",
+                "Handle": "EeyaaN",
+                "Hero": "*Celeste*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:05:36+0000",
+            "payload": {
+                "Player": "32cabcd8-b67a-11e5-8c36-0628b69bf6d1",
+                "Handle": "FinEsse",
+                "Hero": "*Baron*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:05:47+0000",
+            "payload": {
+                "Player": "f5cc2152-1d5c-11e5-9a30-06d90c28bf1a",
+                "Handle": "Sugabear",
+                "Hero": "*Lyra*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:06:07+0000",
+            "payload": {
+                "Player": "e07736e4-f367-11e4-9580-06d90c28bf1a",
+                "Handle": "S3crett0",
+                "Hero": "*Idris*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:06:27+0000",
+            "payload": {
+                "Player": "db00cdfe-96d8-11e6-b604-067e8bc536fd",
+                "Handle": "CRUNCHBERRIES",
+                "Hero": "*Catherine*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:06:43+0000",
+            "payload": {
+                "Player": "24ab80be-bf3b-11e5-bc65-06eb725f8a76",
+                "Handle": "LuisaoFG",
+                "Hero": "*Krul*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

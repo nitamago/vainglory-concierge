@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:08:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3f75fa76-bb14-11e5-9b07-06b48b82cd49",
+                "Hero": "*Petal*",
+                "Team": "1",
+                "Handle": "popat123"
+            }
+        },
+        {
+            "time": "2017-12-06T02:08:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c0bb9dee-598e-11e5-a44a-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Uzuumaki"
+            }
+        },
+        {
+            "time": "2017-12-06T02:08:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "932acac0-c653-11e6-ae6e-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "HackzLord"
+            }
+        },
+        {
+            "time": "2017-12-06T02:08:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "35c7212e-b66a-11e6-ba97-068789513eb5",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "Firbit"
+            }
+        },
+        {
+            "time": "2017-12-06T02:08:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fd70b902-6097-11e6-a241-06f4ee369f53",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "Swivneld"
+            }
+        },
+        {
+            "time": "2017-12-06T02:08:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5a3a4b36-b09d-11e5-83c0-068789513eb5",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "ForceofReckoning"
+            }
+        }
+    ],
+    "winner": "another"
+}

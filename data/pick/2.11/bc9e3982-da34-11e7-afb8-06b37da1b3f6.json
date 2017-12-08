@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:23:11+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:23:27+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:23:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d8250d0a-1fe3-11e6-8451-06c5ee41a4a5",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "boardman72"
+            }
+        },
+        {
+            "time": "2017-12-06T03:23:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "99adf27e-fc6e-11e4-b0d9-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "UnWeyFlamer"
+            }
+        },
+        {
+            "time": "2017-12-06T03:23:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d18cc114-0eb8-11e5-9155-06d90c28bf1a",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "STRlX"
+            }
+        },
+        {
+            "time": "2017-12-06T03:24:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6ac53e28-1afe-11e5-bd69-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "DelirioN"
+            }
+        },
+        {
+            "time": "2017-12-06T03:24:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3047d03a-7694-11e4-a756-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "aske808"
+            }
+        },
+        {
+            "time": "2017-12-06T03:24:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "14ede3bc-947e-11e4-9d4c-06d90c28bf1a",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "xReptile"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

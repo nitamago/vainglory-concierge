@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:33:43+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:33:46+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:33:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e7acac26-915c-11e5-8b7e-068789513eb5",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "abevious"
+            }
+        },
+        {
+            "time": "2017-12-06T03:34:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2233ac24-a7b9-11e5-9409-06d90c28bf1a",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "DaDdY27"
+            }
+        },
+        {
+            "time": "2017-12-06T03:34:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1b08eca6-80a1-11e4-8b20-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "K1ngKen"
+            }
+        },
+        {
+            "time": "2017-12-06T03:34:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "83f4c1b0-9d49-11e6-ae15-06a9175d25fa",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "ClawBotDzX"
+            }
+        },
+        {
+            "time": "2017-12-06T03:34:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0b18bfda-c724-11e6-aeb1-06388a2f2ea7",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "PlsHalpImNew"
+            }
+        },
+        {
+            "time": "2017-12-06T03:34:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "82df89dc-7716-11e4-9faa-06d90c28bf1a",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "XXIsavage"
+            }
+        }
+    ],
+    "winner": "another"
+}

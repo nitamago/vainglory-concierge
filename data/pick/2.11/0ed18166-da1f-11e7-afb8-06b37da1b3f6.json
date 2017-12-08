@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:47:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "af62ca28-f0ea-11e6-892f-06eb725f8a76",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "Troubleeeeeee"
+            }
+        },
+        {
+            "time": "2017-12-06T00:48:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e4a55a06-7285-11e4-88b0-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "kvothe7"
+            }
+        },
+        {
+            "time": "2017-12-06T00:48:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7e8c56ac-b12f-11e7-9525-06a9175d25fa",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "TouchMeAndDie"
+            }
+        },
+        {
+            "time": "2017-12-06T00:48:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1be57d08-a801-11e7-9e56-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Baconbitzs"
+            }
+        },
+        {
+            "time": "2017-12-06T00:48:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e4632d04-1d54-11e6-9916-0628b69bf6d1",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Robini"
+            }
+        },
+        {
+            "time": "2017-12-06T00:48:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "15cf5f58-d687-11e5-95c1-067e8bc536fd",
+                "Hero": "*Flicker*",
+                "Team": "1",
+                "Handle": "KingOKings"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

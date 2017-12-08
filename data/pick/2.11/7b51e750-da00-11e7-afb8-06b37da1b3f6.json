@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:09:31+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:09:45+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:09:53+0000",
+            "payload": {
+                "Player": "e6bfefb4-49b1-11e5-bcce-06f4ee369f53",
+                "Handle": "adlesnake",
+                "Hero": "*Ringo*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:10:16+0000",
+            "payload": {
+                "Player": "104ff0f6-872c-11e5-9059-06d90c28bf1a",
+                "Handle": "beejaybruh",
+                "Hero": "*Catherine*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:10:21+0000",
+            "payload": {
+                "Player": "25aba55e-7011-11e4-b1ff-06641bcbf424",
+                "Handle": "Natsuno",
+                "Hero": "*Varya*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:10:43+0000",
+            "payload": {
+                "Player": "0a3e5622-4287-11e7-bff4-020ecf4900d0",
+                "Handle": "1ogic",
+                "Hero": "*Grumpjaw*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:10:52+0000",
+            "payload": {
+                "Player": "bc8a9476-bf1b-11e5-8413-06f4ee369f53",
+                "Handle": "Malachor",
+                "Hero": "*Taka*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:11:17+0000",
+            "payload": {
+                "Player": "83f1fa98-25ea-11e5-b354-0628b69bf6d1",
+                "Handle": "skilI",
+                "Hero": "*Samuel*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

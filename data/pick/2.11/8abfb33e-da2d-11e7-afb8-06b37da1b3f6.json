@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:31:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "36ead44e-10ba-11e5-befd-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "PrinceNoc"
+            }
+        },
+        {
+            "time": "2017-12-06T02:31:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "600132f0-d807-11e5-89e7-067e8bc536fd",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Mez80"
+            }
+        },
+        {
+            "time": "2017-12-06T02:31:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ea2ea85e-2207-11e7-8d3e-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "PlaySmartNotHard"
+            }
+        },
+        {
+            "time": "2017-12-06T02:31:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "917a5412-640a-11e6-ae81-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "EDISONar15"
+            }
+        },
+        {
+            "time": "2017-12-06T02:32:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f0414044-e144-11e5-a6dc-068789513eb5",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "Fantabulocious"
+            }
+        },
+        {
+            "time": "2017-12-06T02:32:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bce7d9cc-69d7-11e5-b60d-068789513eb5",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "Blackcore18"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T23:00:24+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:00:36+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:00:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "48a6924e-2dda-11e5-86d0-06f4ee369f53",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "hunterxXxhunter"
+            }
+        },
+        {
+            "time": "2017-12-05T23:00:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f1182e54-bb58-11e5-a939-06f4ee369f53",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "KilljoyD"
+            }
+        },
+        {
+            "time": "2017-12-05T23:01:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2b709a9c-bcd4-11e5-87e2-06b48b82cd49",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "LEVITICUSMAXIMUS"
+            }
+        },
+        {
+            "time": "2017-12-05T23:01:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4d1d9272-b27d-11e6-b9dd-06b48b82cd49",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "stefa7"
+            }
+        },
+        {
+            "time": "2017-12-05T23:01:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b31bd5ec-c481-11e5-b5db-06b48b82cd49",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "Translater"
+            }
+        },
+        {
+            "time": "2017-12-05T23:01:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "af158610-7166-11e4-9c3c-06641bcbf424",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Airwreckage"
+            }
+        }
+    ],
+    "winner": "another"
+}

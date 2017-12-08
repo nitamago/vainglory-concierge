@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:26:44+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Ardan*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:27:02+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:27:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "29fcd76a-4178-11e6-9544-067e8bc536fd",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Aghost03"
+            }
+        },
+        {
+            "time": "2017-12-06T02:27:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1788cdf8-57be-11e6-801c-06f4ee369f53",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "XFlowers"
+            }
+        },
+        {
+            "time": "2017-12-06T02:28:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c52de11a-b47f-11e5-9d1c-06b48b82cd49",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "OneTrickLyra"
+            }
+        },
+        {
+            "time": "2017-12-06T02:28:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1ae5d204-f4bf-11e6-bf9e-06fc87f1dd11",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "sokt"
+            }
+        },
+        {
+            "time": "2017-12-06T02:28:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c15fbc74-eee7-11e4-91bf-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Willus11"
+            }
+        },
+        {
+            "time": "2017-12-06T02:29:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "84713b74-d818-11e5-abf6-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "iNeverDie"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

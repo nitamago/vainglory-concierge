@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:10:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0fffb1cc-22cb-11e7-8841-068789513eb5",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Ax22"
+            }
+        },
+        {
+            "time": "2017-12-05T23:10:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dde5ae16-7df7-11e7-8d7c-02866102f5a6",
+                "Hero": "*Grumpjaw*",
+                "Team": "2",
+                "Handle": "Travesty666"
+            }
+        },
+        {
+            "time": "2017-12-05T23:10:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "17c56530-4320-11e7-b8a3-02866102f5a6",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "Legendarytun"
+            }
+        },
+        {
+            "time": "2017-12-05T23:10:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fd4b8af2-3223-11e7-9eec-02f3b4306918",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "gtgod"
+            }
+        },
+        {
+            "time": "2017-12-05T23:11:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4aedb960-6525-11e5-850b-068789513eb5",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "SmellySocks"
+            }
+        },
+        {
+            "time": "2017-12-05T23:11:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2c6343d2-e632-11e5-b807-06ab1a16f8e5",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "chowraid"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

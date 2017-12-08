@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T22:32:13+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Vox*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T22:32:18+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T22:32:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b43bd9be-69cf-11e7-bf97-0224e22aef46",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "LordSia"
+            }
+        },
+        {
+            "time": "2017-12-05T22:32:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "14abc450-eb93-11e6-a51d-062cb73cdbb1",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "Firenado "
+            }
+        },
+        {
+            "time": "2017-12-05T22:32:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f76dc6b6-8cc0-11e7-bd0d-029cb633549e",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "CARRYING"
+            }
+        },
+        {
+            "time": "2017-12-05T22:32:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d76bd59e-acc3-11e5-943c-06f4ee369f53",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "Umar8627"
+            }
+        },
+        {
+            "time": "2017-12-05T22:33:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1b68e412-9aaf-11e4-9bf4-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Si1en3er"
+            }
+        },
+        {
+            "time": "2017-12-05T22:33:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4a856804-9acf-11e4-8ebd-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "MisterDuck"
+            }
+        }
+    ],
+    "winner": "another"
+}

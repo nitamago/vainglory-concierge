@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:39:48+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:40:11+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:40:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8d89d0f0-87f5-11e4-bf9c-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "spratos"
+            }
+        },
+        {
+            "time": "2017-12-06T02:40:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "65f12e02-0b62-11e6-b5cd-06eb725f8a76",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "AssassinEdge"
+            }
+        },
+        {
+            "time": "2017-12-06T02:40:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "068ba336-bf39-11e5-84e3-0628b69bf6d1",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "alldaywakebake"
+            }
+        },
+        {
+            "time": "2017-12-06T02:41:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c9413bf4-fd2b-11e5-ad87-06f4ee369f53",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "ImUrOwner"
+            }
+        },
+        {
+            "time": "2017-12-06T02:41:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bfaee408-03c4-11e5-9799-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Slade112"
+            }
+        },
+        {
+            "time": "2017-12-06T02:41:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e0c59dd0-7be6-11e6-ba42-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "CuckHeadVG"
+            }
+        }
+    ],
+    "winner": "another"
+}

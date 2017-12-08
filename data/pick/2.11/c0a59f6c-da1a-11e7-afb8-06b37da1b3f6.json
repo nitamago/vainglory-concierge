@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:17:17+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:17:33+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:17:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "23723b6e-1b8b-11e6-bcff-0628b69bf6d1",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "JHONY092"
+            }
+        },
+        {
+            "time": "2017-12-06T00:17:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5ceea95e-a2e1-11e5-8639-0628b69bf6d1",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "PeaceAndDrugs"
+            }
+        },
+        {
+            "time": "2017-12-06T00:18:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b93a8b72-0702-11e5-b9db-06d90c28bf1a",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "Quinceyx"
+            }
+        },
+        {
+            "time": "2017-12-06T00:18:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a2a3403e-5d79-11e5-b39a-0628b69bf6d1",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "LifeOfRell"
+            }
+        },
+        {
+            "time": "2017-12-06T00:18:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1d26ddb4-89b2-11e7-84e0-0224e22aef46",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "GotSkyllz"
+            }
+        },
+        {
+            "time": "2017-12-06T00:18:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3842b394-2112-11e5-8352-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "ToljaKitak"
+            }
+        }
+    ],
+    "winner": "another"
+}

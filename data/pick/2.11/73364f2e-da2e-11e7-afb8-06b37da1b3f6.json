@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:38:09+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:38:17+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:38:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6bb483ce-80df-11e5-b8c5-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "Zythe"
+            }
+        },
+        {
+            "time": "2017-12-06T02:38:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a7571ad0-7d53-11e4-97d3-06eb725f8a76",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "PaddingtonBear"
+            }
+        },
+        {
+            "time": "2017-12-06T02:38:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "45e25bf4-3930-11e5-add1-06f4ee369f53",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "godofallpower"
+            }
+        },
+        {
+            "time": "2017-12-06T02:38:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "90a8c652-aedc-11e4-ad86-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "Nilton"
+            }
+        },
+        {
+            "time": "2017-12-06T02:39:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3ca9a63a-75d8-11e4-a1d6-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Bootylicious"
+            }
+        },
+        {
+            "time": "2017-12-06T02:39:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "611e3f98-779b-11e4-aec7-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "pedahgriffin"
+            }
+        }
+    ],
+    "winner": "another"
+}

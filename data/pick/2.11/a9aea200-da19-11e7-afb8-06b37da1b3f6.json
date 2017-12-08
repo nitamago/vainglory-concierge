@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:09:44+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Skye*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:09:52+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:09:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "992854b6-fef6-11e6-9a96-067e8bc536fd",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "WHYAMISOBAD"
+            }
+        },
+        {
+            "time": "2017-12-06T00:10:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f3c67ed6-d1f4-11e6-9bd0-06b48b82cd49",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "MinatoUzimake"
+            }
+        },
+        {
+            "time": "2017-12-06T00:10:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0d8333d4-cb74-11e4-8c14-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Funnyman695"
+            }
+        },
+        {
+            "time": "2017-12-06T00:10:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1491bf84-701f-11e4-b7eb-06641bcbf424",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "TidaIWave"
+            }
+        },
+        {
+            "time": "2017-12-06T00:10:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d40ad4e2-8ffa-11e7-aea7-0297ea8a7ddc",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "BOOSTEDMANKEY"
+            }
+        },
+        {
+            "time": "2017-12-06T00:11:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "41e91714-47e2-11e7-95b0-06eb725f8a76",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "spaguetti"
+            }
+        }
+    ],
+    "winner": "another"
+}

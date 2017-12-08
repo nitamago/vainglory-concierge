@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:18:05+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:18:22+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Alpha*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:18:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1140618a-9e22-11e7-8b03-06fc87f1dd11",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "AragornDragon"
+            }
+        },
+        {
+            "time": "2017-12-06T01:18:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6ba40bf8-d737-11e5-845b-06eb725f8a76",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "AlextheGreat61"
+            }
+        },
+        {
+            "time": "2017-12-06T01:18:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "beb9ac40-e253-11e5-a4c8-06fc87f1dd11",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Archangel4747"
+            }
+        },
+        {
+            "time": "2017-12-06T01:19:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bbe2029a-f737-11e4-b80d-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "MarineForceRecon"
+            }
+        },
+        {
+            "time": "2017-12-06T01:19:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ffe3305a-0f00-11e5-9567-06d90c28bf1a",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "IMurDADDY"
+            }
+        },
+        {
+            "time": "2017-12-06T01:19:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "27e57a5a-154a-11e5-bce2-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "david69"
+            }
+        }
+    ],
+    "winner": "another"
+}

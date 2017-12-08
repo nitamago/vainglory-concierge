@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:09:49+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:10:14+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Catherine*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:10:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "279efb40-221d-11e5-a385-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "sillyrabbit"
+            }
+        },
+        {
+            "time": "2017-12-06T03:10:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2dc1c554-b748-11e6-aea5-062cb73cdbb1",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "Mondragon1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:10:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5d98f7de-6f65-11e4-b6cc-062d0b175276",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "BlackC4t"
+            }
+        },
+        {
+            "time": "2017-12-06T03:10:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f05641be-29fb-11e7-969c-06c5ee41a4a5",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Shaje"
+            }
+        },
+        {
+            "time": "2017-12-06T03:11:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b40961bc-9f02-11e5-b990-06d90c28bf1a",
+                "Hero": "*Samuel*",
+                "Team": "1",
+                "Handle": "TheZTeam"
+            }
+        },
+        {
+            "time": "2017-12-06T03:11:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "90b56e78-b7c8-11e7-b74d-068789513eb5",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "Caustic101"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:27:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "50d0c800-9b30-11e4-888b-06d90c28bf1a",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "czairelle"
+            }
+        },
+        {
+            "time": "2017-12-06T02:27:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "14b54dda-c551-11e6-b1db-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "DAVE1812"
+            }
+        },
+        {
+            "time": "2017-12-06T02:27:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3d75af7c-c9b4-11e7-afda-06b672bd5be2",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "Hunrune"
+            }
+        },
+        {
+            "time": "2017-12-06T02:27:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "140f453a-eb2f-11e6-9867-068789513eb5",
+                "Hero": "*Reza*",
+                "Team": "1",
+                "Handle": "EonicVial"
+            }
+        },
+        {
+            "time": "2017-12-06T02:28:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3c7751ca-5f97-11e7-aec6-06c5ee41a4a5",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "FujiOniSan"
+            }
+        },
+        {
+            "time": "2017-12-06T02:28:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ae2fd590-b4c0-11e5-83cf-068789513eb5",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "CARRILLO"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:24:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e63c5f8e-57c9-11e5-aa23-06b48b82cd49",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "ChimcharBlaze"
+            }
+        },
+        {
+            "time": "2017-12-06T04:24:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0ac7be82-b512-11e7-b99f-062cb73cdbb1",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "daiscake"
+            }
+        },
+        {
+            "time": "2017-12-06T04:24:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "df2e8016-d756-11e5-80f0-06b48b82cd49",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "NeonPizza"
+            }
+        },
+        {
+            "time": "2017-12-06T04:24:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b8c5a948-8cdd-11e7-8ae1-06c5ee41a4a5",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Balphas"
+            }
+        },
+        {
+            "time": "2017-12-06T04:24:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ac4514b8-7a83-11e7-b46f-062cb73cdbb1",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "loodogg323"
+            }
+        },
+        {
+            "time": "2017-12-06T04:24:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "edc41bf2-df29-11e4-a455-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "AxelBruken"
+            }
+        }
+    ],
+    "winner": "another"
+}

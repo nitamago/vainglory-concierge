@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:48:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ea2f89e4-90e4-11e7-bb09-029cb633549e",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "THMSv"
+            }
+        },
+        {
+            "time": "2017-12-06T00:48:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "66182350-6a75-11e6-936e-06388a2f2ea7",
+                "Hero": "*Reza*",
+                "Team": "1",
+                "Handle": "DaLAW"
+            }
+        },
+        {
+            "time": "2017-12-06T00:48:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "db97f1c6-bd57-11e5-a7dc-0628b69bf6d1",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Cano23"
+            }
+        },
+        {
+            "time": "2017-12-06T00:48:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e9cfb048-c7de-11e6-9c58-062cb73cdbb1",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "abrahamgord"
+            }
+        },
+        {
+            "time": "2017-12-06T00:48:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2455aac0-64ca-11e5-83f5-06b48b82cd49",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "Trump4Prez"
+            }
+        },
+        {
+            "time": "2017-12-06T00:49:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "50b97348-db4b-11e4-b3f0-06d90c28bf1a",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "IronChef13"
+            }
+        }
+    ],
+    "winner": "another"
+}

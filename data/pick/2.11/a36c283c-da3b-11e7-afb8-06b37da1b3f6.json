@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:12:46+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:12:53+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:12:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "aca076ea-6f83-11e4-a602-06641bcbf424",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "gemhigh"
+            }
+        },
+        {
+            "time": "2017-12-06T04:13:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b3d091da-64bd-11e6-bc4d-06eb725f8a76",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "WanderingGuy"
+            }
+        },
+        {
+            "time": "2017-12-06T04:13:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9ad29070-948e-11e5-832e-06d90c28bf1a",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "Setuiret"
+            }
+        },
+        {
+            "time": "2017-12-06T04:13:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "11db8a7a-c70a-11e5-89a1-0628b69bf6d1",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Bloodlustr"
+            }
+        },
+        {
+            "time": "2017-12-06T04:13:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e22d3b84-93cf-11e4-8ebd-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "WiggyHD"
+            }
+        },
+        {
+            "time": "2017-12-06T04:14:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "90bff3fe-abb4-11e7-90c1-02866102f5a6",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "lolguy22"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

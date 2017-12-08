@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T22:54:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "65011d44-8515-11e7-8739-06ab1a16f8e5",
+                "Hero": "*Petal*",
+                "Team": "1",
+                "Handle": "BoomTheMaker"
+            }
+        },
+        {
+            "time": "2017-12-05T22:54:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fe1f8cce-3d84-11e6-9b12-06f4ee369f53",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "CoreySMcD"
+            }
+        },
+        {
+            "time": "2017-12-05T22:54:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "88fb0442-91ad-11e5-80a2-06f4ee369f53",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "SasquatchPatch"
+            }
+        },
+        {
+            "time": "2017-12-05T22:54:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0b0f5386-7164-11e4-b6c2-062d0b175276",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "YoUHatEMe"
+            }
+        },
+        {
+            "time": "2017-12-05T22:54:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "db778d94-b1ea-11e7-962c-020ecf4900d0",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "Dunnan"
+            }
+        },
+        {
+            "time": "2017-12-05T22:54:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "df8502c4-8400-11e4-bc89-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Ace2020"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:08:24+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:08:29+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:08:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4e924470-04c5-11e5-ac48-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "NightK1NG"
+            }
+        },
+        {
+            "time": "2017-12-06T01:08:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "92e0dd9c-7a34-11e4-a756-06d90c28bf1a",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "XenoTekken"
+            }
+        },
+        {
+            "time": "2017-12-06T01:09:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fbdf34c8-899e-11e4-bc71-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "acallan1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:09:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6bb483ce-80df-11e5-b8c5-06eb725f8a76",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "Zythe"
+            }
+        },
+        {
+            "time": "2017-12-06T01:09:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5afd646e-71ff-11e4-88b0-06d90c28bf1a",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "MaximusPrime"
+            }
+        },
+        {
+            "time": "2017-12-06T01:09:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "79f1ae76-464b-11e6-8138-0628b69bf6d1",
+                "Hero": "*Reza*",
+                "Team": "2",
+                "Handle": "fRosTbyte"
+            }
+        }
+    ],
+    "winner": "another"
+}

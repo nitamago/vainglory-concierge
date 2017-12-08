@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:04:44+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:04:50+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:05:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "90fd4a3c-7805-11e4-8365-06d90c28bf1a",
+                "Hero": "*Samuel*",
+                "Team": "1",
+                "Handle": "saitan"
+            }
+        },
+        {
+            "time": "2017-12-06T04:05:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "51236386-7046-11e4-a054-06641bcbf424",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "DragoonSpirit"
+            }
+        },
+        {
+            "time": "2017-12-06T04:05:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3c659f0e-08ee-11e5-9641-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Furlo"
+            }
+        },
+        {
+            "time": "2017-12-06T04:05:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "825c088e-c6ea-11e6-8bd9-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Omnip0tent1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:06:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e9cbaafc-22dd-11e7-a707-0224e22aef46",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "SenorCole"
+            }
+        },
+        {
+            "time": "2017-12-06T04:06:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ca9da92e-9fa8-11e4-b47c-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "malganys"
+            }
+        }
+    ],
+    "winner": "another"
+}

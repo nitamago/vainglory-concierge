@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:42:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fed7b8da-3bb4-11e5-adff-0628b69bf6d1",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "2fast2furious"
+            }
+        },
+        {
+            "time": "2017-12-06T04:43:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "892d2530-1ae3-11e5-8f51-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Kidfas"
+            }
+        },
+        {
+            "time": "2017-12-06T04:43:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e56bdd7a-7a2c-11e5-9b4d-06f4ee369f53",
+                "Hero": "*Petal*",
+                "Team": "1",
+                "Handle": "boogymanmd"
+            }
+        },
+        {
+            "time": "2017-12-06T04:43:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "03d97ffa-6fc9-11e6-a22c-06388a2f2ea7",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "RamenFate"
+            }
+        },
+        {
+            "time": "2017-12-06T04:43:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3850770a-b806-11e5-a114-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "DARKHAWK"
+            }
+        },
+        {
+            "time": "2017-12-06T04:43:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "64675e00-b7b2-11e7-8802-02866102f5a6",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "KAIZEEN"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:04:49+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:05:11+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:05:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "47747fda-4656-11e7-91c6-06a9175d25fa",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "M3L0NZ"
+            }
+        },
+        {
+            "time": "2017-12-06T01:05:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3325bd8a-e1af-11e5-b38e-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "iLoveBen"
+            }
+        },
+        {
+            "time": "2017-12-06T01:05:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0a43fa64-861e-11e4-a8e1-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "JtG"
+            }
+        },
+        {
+            "time": "2017-12-06T01:06:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "71e8f0ca-ac29-11e5-b475-06eb725f8a76",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "iKnowNight"
+            }
+        },
+        {
+            "time": "2017-12-06T01:06:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0a055dce-c58f-11e6-8253-06b48b82cd49",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "Creasion"
+            }
+        },
+        {
+            "time": "2017-12-06T01:06:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "98d5bc5c-7121-11e4-9fbd-062d0b175276",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "Stussy"
+            }
+        }
+    ],
+    "winner": "another"
+}

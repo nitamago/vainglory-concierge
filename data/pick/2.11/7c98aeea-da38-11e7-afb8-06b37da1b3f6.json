@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:49:52+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:50:12+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:50:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c9b831b8-697e-11e6-ba83-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "motherfckajones"
+            }
+        },
+        {
+            "time": "2017-12-06T03:50:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c1644604-545d-11e6-b6b6-068789513eb5",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "goodusername101"
+            }
+        },
+        {
+            "time": "2017-12-06T03:50:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d6be768a-d2f8-11e7-a3e7-020c8314066a",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "TurboTavius"
+            }
+        },
+        {
+            "time": "2017-12-06T03:50:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "acdc5cba-6fe8-11e7-8033-0224e22aef46",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Kalmar2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:51:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b5cf146a-25b8-11e5-81a0-0628b69bf6d1",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Faetheon"
+            }
+        },
+        {
+            "time": "2017-12-06T03:51:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ab799af0-df46-11e6-89ef-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "96troopmaster"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

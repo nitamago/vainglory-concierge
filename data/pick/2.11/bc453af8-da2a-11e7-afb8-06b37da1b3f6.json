@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:11:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5052083e-f70f-11e6-8904-02081e0fc90e",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "LuisQuiroz"
+            }
+        },
+        {
+            "time": "2017-12-06T02:11:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "79a364b0-7ccf-11e4-959c-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "joreamuno"
+            }
+        },
+        {
+            "time": "2017-12-06T02:12:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bbf4510c-8aba-11e7-89fb-02081e0fc90e",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "AzOrtiz23"
+            }
+        },
+        {
+            "time": "2017-12-06T02:12:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e79d03b2-bc94-11e5-ad2a-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "KingOxXx"
+            }
+        },
+        {
+            "time": "2017-12-06T02:12:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ef3ac940-524c-11e5-b65f-06b48b82cd49",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "BloodyEmber"
+            }
+        },
+        {
+            "time": "2017-12-06T02:12:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "967a8b10-bd16-11e7-ad0d-06c5ee41a4a5",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "bebelin"
+            }
+        }
+    ],
+    "winner": "another"
+}

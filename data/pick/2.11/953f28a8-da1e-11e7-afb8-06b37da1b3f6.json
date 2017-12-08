@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:44:38+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:44:59+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:45:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e8ed68c0-0f40-11e6-abc2-068789513eb5",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "MetraDaw"
+            }
+        },
+        {
+            "time": "2017-12-06T00:45:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2b03f99c-4cfc-11e6-97b0-06c5ee41a4a5",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "AngelFace09"
+            }
+        },
+        {
+            "time": "2017-12-06T00:45:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c1c9dda2-dd8e-11e5-86f6-06388a2f2ea7",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Blaklightening"
+            }
+        },
+        {
+            "time": "2017-12-06T00:45:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a2260148-fdef-11e5-aad3-0628b69bf6d1",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "gonzo1503"
+            }
+        },
+        {
+            "time": "2017-12-06T00:45:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f8e0404a-fd34-11e5-893e-062cb73cdbb1",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "MrWhiskersPOV"
+            }
+        },
+        {
+            "time": "2017-12-06T00:45:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cd3f7f22-588f-11e5-83cd-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Keoki"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

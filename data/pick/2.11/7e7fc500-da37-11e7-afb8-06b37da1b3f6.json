@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:43:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8ff69d40-062a-11e7-86f6-06c5ee41a4a5",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Ephesto"
+            }
+        },
+        {
+            "time": "2017-12-06T03:43:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dd9c945e-7447-11e4-ba76-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Rudolpho"
+            }
+        },
+        {
+            "time": "2017-12-06T03:43:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2d0d35f2-e63d-11e6-aeae-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "SoloQ4life"
+            }
+        },
+        {
+            "time": "2017-12-06T03:43:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "346405f0-9aae-11e5-a519-06f4ee369f53",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "deasenutts"
+            }
+        },
+        {
+            "time": "2017-12-06T03:43:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "16c8ca6e-4601-11e5-8c6c-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Xtuxtron15X"
+            }
+        },
+        {
+            "time": "2017-12-06T03:43:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "56f42330-4d91-11e5-adff-0628b69bf6d1",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "TicTocBoom"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

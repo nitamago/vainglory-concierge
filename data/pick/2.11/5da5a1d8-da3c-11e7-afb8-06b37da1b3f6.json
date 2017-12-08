@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:17:49+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:18:12+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Ringo*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:18:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d182e834-ab09-11e7-ae29-02081e0fc90e",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "PQuanker"
+            }
+        },
+        {
+            "time": "2017-12-06T04:18:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7a561558-9869-11e6-9042-06c5ee41a4a5",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "SilverCelestian"
+            }
+        },
+        {
+            "time": "2017-12-06T04:18:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "22bb88aa-7b83-11e4-a469-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Healstar"
+            }
+        },
+        {
+            "time": "2017-12-06T04:18:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4bb0080e-70f6-11e4-b86c-062d0b175276",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "hugoo"
+            }
+        },
+        {
+            "time": "2017-12-06T04:18:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ca669ca2-ae57-11e7-b054-02a5820c0f16",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Soulcaliber"
+            }
+        },
+        {
+            "time": "2017-12-06T04:18:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "566114a8-7961-11e6-9b52-0628b69bf6d1",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "PiaPower"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

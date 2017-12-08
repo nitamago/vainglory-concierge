@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:05:29+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Baron*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:05:32+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Petal*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:05:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4673e712-94bb-11e6-9bd6-06ab1a16f8e5",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "dase64"
+            }
+        },
+        {
+            "time": "2017-12-06T04:05:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6d3f12f4-edf4-11e5-b92c-06f4ee369f53",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "Sonicjosh29"
+            }
+        },
+        {
+            "time": "2017-12-06T04:06:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1d52d1ce-fc21-11e4-8cdd-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "FluffyBearYT"
+            }
+        },
+        {
+            "time": "2017-12-06T04:06:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "77aca0a8-fc37-11e4-95a1-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "MarkXV"
+            }
+        },
+        {
+            "time": "2017-12-06T04:06:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "162a6808-3862-11e5-886e-0628b69bf6d1",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Nameunknown69"
+            }
+        },
+        {
+            "time": "2017-12-06T04:06:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "89b0e382-afa8-11e7-a888-02a5820c0f16",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "AbsoluteGumpy"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

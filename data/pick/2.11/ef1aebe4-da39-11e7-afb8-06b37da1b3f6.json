@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:00:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "15b4b93a-1512-11e7-926c-029cb633549e",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "lazycogo"
+            }
+        },
+        {
+            "time": "2017-12-06T04:00:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bd096094-714c-11e4-9b11-062d0b175276",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "baller"
+            }
+        },
+        {
+            "time": "2017-12-06T04:00:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b8c5a948-8cdd-11e7-8ae1-06c5ee41a4a5",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Balphas"
+            }
+        },
+        {
+            "time": "2017-12-06T04:00:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "558a2b0a-aa11-11e7-8601-06b48b82cd49",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "Snigaef"
+            }
+        },
+        {
+            "time": "2017-12-06T04:00:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "72e80178-e5fe-11e5-b8be-067e8bc536fd",
+                "Hero": "*Samuel*",
+                "Team": "1",
+                "Handle": "LordKami"
+            }
+        },
+        {
+            "time": "2017-12-06T04:00:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2ccf3710-c900-11e7-9b2c-069ef91bd55c",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "SavageDiablo"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

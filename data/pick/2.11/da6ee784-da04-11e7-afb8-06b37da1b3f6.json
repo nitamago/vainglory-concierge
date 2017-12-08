@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:40:13+0000",
+            "payload": {
+                "Player": "de8cb98c-81ae-11e5-bf2d-06f4ee369f53",
+                "Handle": "Ferriol",
+                "Hero": "*Varya*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:40:14+0000",
+            "payload": {
+                "Player": "0a4dfbe4-2524-11e6-ad20-06d90c28bf1a",
+                "Handle": "ItsJavi",
+                "Hero": "*Taka*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:40:26+0000",
+            "payload": {
+                "Player": "948f0356-619e-11e5-a6df-06f4ee369f53",
+                "Handle": "lllF0Xlll",
+                "Hero": "*Baron*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:40:27+0000",
+            "payload": {
+                "Player": "b634cc6c-2380-11e6-96bb-06388a2f2ea7",
+                "Handle": "MySexyBody",
+                "Hero": "*Varya*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:40:32+0000",
+            "payload": {
+                "Player": "89bf7586-5cd1-11e5-9bdc-068789513eb5",
+                "Handle": "FlameNs0rr0w",
+                "Hero": "*Catherine*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:40:46+0000",
+            "payload": {
+                "Player": "f3244426-f5eb-11e5-84f4-06c5ee41a4a5",
+                "Handle": "vPulpo",
+                "Hero": "*Lance*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:14:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "54f52e6e-2f53-11e5-99f3-06f4ee369f53",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "TheTopHat"
+            }
+        },
+        {
+            "time": "2017-12-06T01:14:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0d946c86-8284-11e5-837e-06f4ee369f53",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "WildRat83"
+            }
+        },
+        {
+            "time": "2017-12-06T01:14:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "614d30d0-e57f-11e4-8e6d-06d90c28bf1a",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "realperson"
+            }
+        },
+        {
+            "time": "2017-12-06T01:14:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1db50da4-a3df-11e7-bb08-06fc87f1dd11",
+                "Hero": "*Reza*",
+                "Team": "1",
+                "Handle": "KarmaKill5"
+            }
+        },
+        {
+            "time": "2017-12-06T01:15:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "71345d9e-75a8-11e4-a1d6-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Darth_Wasabi"
+            }
+        },
+        {
+            "time": "2017-12-06T01:15:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "39d92fbc-08e3-11e6-9b06-0628b69bf6d1",
+                "Hero": "*Reza*",
+                "Team": "2",
+                "Handle": "AntZMaN"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

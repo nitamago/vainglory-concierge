@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:30:20+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:30:24+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:30:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "280c9e86-b1cc-11e5-93bc-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Rev3nge"
+            }
+        },
+        {
+            "time": "2017-12-06T03:30:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c71a2388-72dd-11e4-a8db-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "zRichie"
+            }
+        },
+        {
+            "time": "2017-12-06T03:31:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "342bf2ae-74ea-11e4-a232-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "AlexWeapons"
+            }
+        },
+        {
+            "time": "2017-12-06T03:31:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4f9316d2-251e-11e5-b3b2-0628b69bf6d1",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "killuaxkazuki"
+            }
+        },
+        {
+            "time": "2017-12-06T03:31:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9f45fbf6-071c-11e5-a833-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "5OLO"
+            }
+        },
+        {
+            "time": "2017-12-06T03:31:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "869ac7aa-2475-11e5-b9b3-06b48b82cd49",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "ARI3S"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T20:34:09+0000",
+            "payload": {
+                "Player": "9007bab0-9694-11e4-8cbd-06d90c28bf1a",
+                "Handle": "JetSet",
+                "Hero": "*Baptiste*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:34:14+0000",
+            "payload": {
+                "Player": "79507ee6-d4a9-11e7-b20f-025e5fb8fe9e",
+                "Handle": "MiniD0ge",
+                "Hero": "*Koshka*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:34:21+0000",
+            "payload": {
+                "Player": "3d67adae-1d68-11e6-b6e0-067e8bc536fd",
+                "Handle": "nellnesio100",
+                "Hero": "*Ardan*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:34:22+0000",
+            "payload": {
+                "Player": "8c8b1050-2b05-11e7-b6bd-02f3b4306918",
+                "Handle": "GutsGalore",
+                "Hero": "*Petal*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:34:24+0000",
+            "payload": {
+                "Player": "f588691e-0035-11e6-bc40-06eb725f8a76",
+                "Handle": "Tam0ke",
+                "Hero": "*Churnwalker*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:34:34+0000",
+            "payload": {
+                "Player": "025e9002-1fb6-11e5-8147-06eb725f8a76",
+                "Handle": "majickzu",
+                "Hero": "*Kestrel*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

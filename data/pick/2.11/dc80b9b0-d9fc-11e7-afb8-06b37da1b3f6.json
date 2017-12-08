@@ -1,0 +1,74 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T20:43:40+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:43:43+0000",
+            "payload": {
+                "Player": "fae47f56-4523-11e5-a717-068789513eb5",
+                "Handle": "PetalNA",
+                "Hero": "*Varya*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:43:50+0000",
+            "payload": {
+                "Player": "c3facbe6-c519-11e5-8073-06d90c28bf1a",
+                "Handle": "DomCro",
+                "Hero": "*Rona*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:44:09+0000",
+            "payload": {
+                "Player": "55b22b62-b384-11e5-b3ba-0628b69bf6d1",
+                "Handle": "GodSphynx",
+                "Hero": "*Skaarf*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:44:26+0000",
+            "payload": {
+                "Player": "b266edfa-f9af-11e4-af8b-06d90c28bf1a",
+                "Handle": "Latrigga",
+                "Hero": "*Krul*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:44:36+0000",
+            "payload": {
+                "Player": "8a510a54-86d1-11e4-bc89-06d90c28bf1a",
+                "Handle": "Jrzplaya",
+                "Hero": "*Grace*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:44:43+0000",
+            "payload": {
+                "Player": "daa80ff8-77e9-11e4-a9c0-06d90c28bf1a",
+                "Handle": "carlosgontier",
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

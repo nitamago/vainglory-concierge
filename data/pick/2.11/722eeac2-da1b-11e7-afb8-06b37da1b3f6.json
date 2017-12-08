@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:21:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "03e5a98e-93db-11e6-b96c-06fc87f1dd11",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "FletcherSanguis"
+            }
+        },
+        {
+            "time": "2017-12-06T00:22:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a579f182-c240-11e5-a5d3-06f4ee369f53",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "silverwarwolf"
+            }
+        },
+        {
+            "time": "2017-12-06T00:22:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8496f110-82b9-11e6-b3e5-068789513eb5",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "RikkiJames"
+            }
+        },
+        {
+            "time": "2017-12-06T00:22:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2b171ee8-98e7-11e4-8c2f-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "ForzhemPhenom"
+            }
+        },
+        {
+            "time": "2017-12-06T00:22:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f2a3e1e4-c404-11e7-abc4-020ecf4900d0",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "DaVinciX"
+            }
+        },
+        {
+            "time": "2017-12-06T00:22:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9007bab0-9694-11e4-8cbd-06d90c28bf1a",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "JetSet"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

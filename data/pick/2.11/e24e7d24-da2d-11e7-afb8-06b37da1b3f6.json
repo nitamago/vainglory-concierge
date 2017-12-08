@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:34:25+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:34:30+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:34:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8c7e8046-502d-11e6-b693-06ab1a16f8e5",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Aequinoctium"
+            }
+        },
+        {
+            "time": "2017-12-06T02:34:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b0d7142e-c205-11e4-8db7-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "leafwolf"
+            }
+        },
+        {
+            "time": "2017-12-06T02:35:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "24db2b84-91e9-11e7-8fa9-029cb633549e",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "FlipperBruh"
+            }
+        },
+        {
+            "time": "2017-12-06T02:35:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a6a068a2-149e-11e5-b9a8-06eb725f8a76",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "Arrow254"
+            }
+        },
+        {
+            "time": "2017-12-06T02:35:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cb6ff888-6f16-11e4-8115-062d0b175276",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "theCrazyOne"
+            }
+        },
+        {
+            "time": "2017-12-06T02:36:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f2014e2c-3039-11e5-b487-06f4ee369f53",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "NightDevil"
+            }
+        }
+    ],
+    "winner": "another"
+}

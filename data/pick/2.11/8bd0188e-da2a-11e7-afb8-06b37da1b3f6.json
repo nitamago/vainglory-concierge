@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:10:08+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:10:26+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:10:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "75a1779e-47ae-11e5-8b7b-068789513eb5",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "xXSilentWraithXx"
+            }
+        },
+        {
+            "time": "2017-12-06T02:10:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "84062948-52cf-11e5-b268-06eb725f8a76",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "ReckFaze"
+            }
+        },
+        {
+            "time": "2017-12-06T02:11:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "43e2e0a8-93d1-11e4-bf99-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "LiluziVertXo"
+            }
+        },
+        {
+            "time": "2017-12-06T02:11:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "16d74a98-6948-11e5-9820-06b48b82cd49",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "Joan128"
+            }
+        },
+        {
+            "time": "2017-12-06T02:11:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3a41041a-0728-11e5-8b09-06d90c28bf1a",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "Luekocyte"
+            }
+        },
+        {
+            "time": "2017-12-06T02:11:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fc5313c4-fc9e-11e5-a44d-06b48b82cd49",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "DestroyerMode"
+            }
+        }
+    ],
+    "winner": "another"
+}

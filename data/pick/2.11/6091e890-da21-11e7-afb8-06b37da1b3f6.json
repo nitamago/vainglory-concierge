@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:04:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "80b37780-fdf3-11e5-9253-06ab1a16f8e5",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "Metok"
+            }
+        },
+        {
+            "time": "2017-12-06T01:04:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a26f55f8-d132-11e5-beb7-068789513eb5",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "scrapE"
+            }
+        },
+        {
+            "time": "2017-12-06T01:04:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2bc019da-40c0-11e6-a591-06fc87f1dd11",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "BrightShiro"
+            }
+        },
+        {
+            "time": "2017-12-06T01:05:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1eb3da92-e35e-11e6-a4d7-06388a2f2ea7",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Commas24"
+            }
+        },
+        {
+            "time": "2017-12-06T01:05:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8eaa4474-9d76-11e4-9ad5-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "SaMiaM"
+            }
+        },
+        {
+            "time": "2017-12-06T01:05:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "43e64824-409b-11e6-bf18-067e8bc536fd",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "ItzSnippy"
+            }
+        }
+    ],
+    "winner": "another"
+}

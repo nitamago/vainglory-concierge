@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:26:01+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:26:23+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Churnwalker*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:26:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "77d33960-0ffc-11e5-b318-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "Yizio"
+            }
+        },
+        {
+            "time": "2017-12-06T00:26:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1fb70544-3884-11e5-80ff-06b48b82cd49",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "SoloQueueFrost"
+            }
+        },
+        {
+            "time": "2017-12-06T00:27:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b5803cc6-d26d-11e4-b964-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "GreenListerine"
+            }
+        },
+        {
+            "time": "2017-12-06T00:27:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "05edb96c-8189-11e4-9982-06eb725f8a76",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "ownedbe"
+            }
+        },
+        {
+            "time": "2017-12-06T00:27:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "01a47828-34e9-11e5-8ae7-0628b69bf6d1",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "bluer123"
+            }
+        },
+        {
+            "time": "2017-12-06T00:27:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "663e64e4-bf42-11e6-a62b-062cb73cdbb1",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "akuza"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

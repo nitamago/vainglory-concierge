@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:20:51+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:21:09+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:21:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "74912eb4-a4b8-11e5-93bc-06d90c28bf1a",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "ReigningFire"
+            }
+        },
+        {
+            "time": "2017-12-06T04:21:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fc5313c4-fc9e-11e5-a44d-06b48b82cd49",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "DestroyerMode"
+            }
+        },
+        {
+            "time": "2017-12-06T04:21:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c7005c10-807e-11e4-b8d4-06eb725f8a76",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "ahhhhshlay"
+            }
+        },
+        {
+            "time": "2017-12-06T04:21:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cfedfaf8-927a-11e5-b244-068789513eb5",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "EDGrams"
+            }
+        },
+        {
+            "time": "2017-12-06T04:22:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ed2771ce-8661-11e4-8211-06eb725f8a76",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "NegIect"
+            }
+        },
+        {
+            "time": "2017-12-06T04:22:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a81775aa-2212-11e5-b5fb-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "LegitSwags"
+            }
+        }
+    ],
+    "winner": "another"
+}

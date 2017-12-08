@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:18:44+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:18:59+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:19:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6b6d1c50-57ae-11e5-a6a5-06f4ee369f53",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "marionso38"
+            }
+        },
+        {
+            "time": "2017-12-06T04:19:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c1b044b0-3264-11e7-b435-0223dbc2587a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "SideRaider"
+            }
+        },
+        {
+            "time": "2017-12-06T04:19:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "beeed43c-7590-11e4-b745-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "sirkillalott"
+            }
+        },
+        {
+            "time": "2017-12-06T04:19:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "92e914e0-b77c-11e5-8d94-0628b69bf6d1",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Immortalhero"
+            }
+        },
+        {
+            "time": "2017-12-06T04:20:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "baa21428-2b40-11e5-b7d6-06d90c28bf1a",
+                "Hero": "*Samuel*",
+                "Team": "1",
+                "Handle": "Mcpanda390"
+            }
+        },
+        {
+            "time": "2017-12-06T04:20:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bb756756-a409-11e4-9d4c-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "Grvpes"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:26:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6ef758c2-9201-11e4-b6f0-06eb725f8a76",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "Ironfoot"
+            }
+        },
+        {
+            "time": "2017-12-06T01:26:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9bea7522-daa6-11e6-a63b-06c5ee41a4a5",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "Cesasp"
+            }
+        },
+        {
+            "time": "2017-12-06T01:27:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "609f9d04-3d80-11e5-882d-06b48b82cd49",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "MasterOfSquid"
+            }
+        },
+        {
+            "time": "2017-12-06T01:27:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ec8eb6fa-8a21-11e4-93ba-06eb725f8a76",
+                "Hero": "*Grumpjaw*",
+                "Team": "1",
+                "Handle": "TheFoxySkittle"
+            }
+        },
+        {
+            "time": "2017-12-06T01:27:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7db3af62-4b07-11e6-a1a8-06f4ee369f53",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "DeWarRoy"
+            }
+        },
+        {
+            "time": "2017-12-06T01:27:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2c715eca-bf24-11e5-ac43-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "JRney23"
+            }
+        }
+    ],
+    "winner": "another"
+}

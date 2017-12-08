@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:47:51+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:47:57+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Skye*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:48:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7f9e2d56-27c6-11e7-9c12-06c5ee41a4a5",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "Ryujinkurau"
+            }
+        },
+        {
+            "time": "2017-12-05T23:48:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "eee229c2-3d9a-11e6-8be8-06f4ee369f53",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "N3wS3nce3"
+            }
+        },
+        {
+            "time": "2017-12-05T23:48:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7953abaa-a4cf-11e4-b47c-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Kirbs50"
+            }
+        },
+        {
+            "time": "2017-12-05T23:48:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1a4ec66c-b3eb-11e6-8ace-06b48b82cd49",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "LanaBckwards"
+            }
+        },
+        {
+            "time": "2017-12-05T23:48:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "eedbe9a2-6415-11e7-9e80-020355b21670",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "BoneCollector65"
+            }
+        },
+        {
+            "time": "2017-12-05T23:48:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fece5d7c-adc2-11e6-9434-06f4ee369f53",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "SentientGamer"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

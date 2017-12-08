@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:07:30+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Catherine*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:07:40+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:08:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cfbc6d2e-9ac9-11e5-ae41-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "ninjasushi305"
+            }
+        },
+        {
+            "time": "2017-12-06T01:08:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9e1f1c7e-00a2-11e5-b345-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "SniperWoIf"
+            }
+        },
+        {
+            "time": "2017-12-06T01:08:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0bd37302-1082-11e5-8fd8-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "TwistedHorizen"
+            }
+        },
+        {
+            "time": "2017-12-06T01:08:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "92fe1076-2904-11e6-86bc-06388a2f2ea7",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "PANAYE"
+            }
+        },
+        {
+            "time": "2017-12-06T01:08:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "04792d42-9fd7-11e5-a86e-06b48b82cd49",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "TorviMartinez"
+            }
+        },
+        {
+            "time": "2017-12-06T01:09:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6381f0ca-23af-11e5-9da9-0628b69bf6d1",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "VoodooCowboy"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

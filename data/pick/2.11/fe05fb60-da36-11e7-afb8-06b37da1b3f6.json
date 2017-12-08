@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:39:38+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:39:54+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:40:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "70c10bd6-8b07-11e4-9ab9-06eb725f8a76",
+                "Hero": "*Samuel*",
+                "Team": "1",
+                "Handle": "aljeron "
+            }
+        },
+        {
+            "time": "2017-12-06T03:40:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "33784678-c650-11e6-94f2-06fc87f1dd11",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "xXBonesBreakerXx"
+            }
+        },
+        {
+            "time": "2017-12-06T03:40:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0ebe5126-d945-11e6-8ca0-06fc87f1dd11",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "LaLechuga"
+            }
+        },
+        {
+            "time": "2017-12-06T03:40:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "61647cf6-92c1-11e4-9dc5-06eb725f8a76",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "AragornDude"
+            }
+        },
+        {
+            "time": "2017-12-06T03:40:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "61a773e0-8b22-11e4-94a3-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Elendil101"
+            }
+        },
+        {
+            "time": "2017-12-06T03:41:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "571f92d6-04e4-11e5-ab8d-06d90c28bf1a",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "delcegno"
+            }
+        }
+    ],
+    "winner": "another"
+}

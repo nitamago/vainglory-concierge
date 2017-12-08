@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:24:42+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Ringo*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:24:54+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:25:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a111f6d6-7b68-11e5-ad4f-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "OsamaLoveTwins"
+            }
+        },
+        {
+            "time": "2017-12-06T03:25:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7e55276a-ff73-11e4-af8b-06d90c28bf1a",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "FreakSty1e"
+            }
+        },
+        {
+            "time": "2017-12-06T03:25:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "49e6cad2-c4cf-11e7-b659-020c8314066a",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "VGN3on"
+            }
+        },
+        {
+            "time": "2017-12-06T03:25:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5415f14a-2422-11e5-a7e6-0628b69bf6d1",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "SNUFFALUF1GUS"
+            }
+        },
+        {
+            "time": "2017-12-06T03:25:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c40230f4-5a50-11e5-960c-0628b69bf6d1",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "LordFroyo"
+            }
+        },
+        {
+            "time": "2017-12-06T03:26:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4d8e81ba-a354-11e4-93d5-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "DTara"
+            }
+        }
+    ],
+    "winner": "another"
+}

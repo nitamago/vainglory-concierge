@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:17:43+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:17:45+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:17:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f6d89d4a-afc1-11e4-aae5-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "fabiange "
+            }
+        },
+        {
+            "time": "2017-12-06T02:17:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0e31760c-996b-11e7-aeff-0224e22aef46",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "ArjunaRamessesII"
+            }
+        },
+        {
+            "time": "2017-12-06T02:18:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b3a3c75e-90d3-11e5-bd55-0628b69bf6d1",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "MartzZell"
+            }
+        },
+        {
+            "time": "2017-12-06T02:18:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "44cab052-231e-11e7-aae9-062cb73cdbb1",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "mitzuha"
+            }
+        },
+        {
+            "time": "2017-12-06T02:18:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "089c2f6a-244d-11e5-8165-06b48b82cd49",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "SlashDog"
+            }
+        },
+        {
+            "time": "2017-12-06T02:18:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f9fa020a-a379-11e5-a752-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "WhiTell"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

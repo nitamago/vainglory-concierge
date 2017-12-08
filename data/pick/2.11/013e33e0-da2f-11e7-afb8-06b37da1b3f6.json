@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:42:29+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:42:34+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:42:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4b2f39ea-8ac0-11e7-9656-02b3611af5e6",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "RedKobra413"
+            }
+        },
+        {
+            "time": "2017-12-06T02:43:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "11a36f48-6cdf-11e6-86a2-06fc87f1dd11",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "ThEdArKlOrD"
+            }
+        },
+        {
+            "time": "2017-12-06T02:43:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3e73ca10-4b5e-11e6-8337-06ab1a16f8e5",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Reiznp"
+            }
+        },
+        {
+            "time": "2017-12-06T02:43:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6381f0ca-23af-11e5-9da9-0628b69bf6d1",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "VoodooCowboy"
+            }
+        },
+        {
+            "time": "2017-12-06T02:43:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0570cd70-9e3a-11e5-8510-0628b69bf6d1",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "SlickBlat"
+            }
+        },
+        {
+            "time": "2017-12-06T02:43:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "26e8b7e4-49ab-11e5-8979-06d90c28bf1a",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "WhiteWarrior89"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

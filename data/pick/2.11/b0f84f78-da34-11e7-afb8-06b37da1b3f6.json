@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:23:01+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:23:09+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:23:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b480b7dc-d4c4-11e6-8d1f-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "GenghisRhaye619"
+            }
+        },
+        {
+            "time": "2017-12-06T03:23:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "300c832a-2b4f-11e5-b4ec-06b48b82cd49",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "SkyeGlory"
+            }
+        },
+        {
+            "time": "2017-12-06T03:23:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "040bac5a-ccfa-11e4-8f1b-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "YaaasQueen"
+            }
+        },
+        {
+            "time": "2017-12-06T03:24:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "85dd64d6-aed9-11e6-a143-06388a2f2ea7",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "theflashy101"
+            }
+        },
+        {
+            "time": "2017-12-06T03:24:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a69330d0-84ae-11e5-9156-06f4ee369f53",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "ThoR420"
+            }
+        },
+        {
+            "time": "2017-12-06T03:24:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "de56967c-a534-11e6-8d36-06c5ee41a4a5",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "Yuyooo"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:08:57+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:09:15+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:09:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bf596512-a78e-11e7-a258-06a9175d25fa",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "ArmedPython"
+            }
+        },
+        {
+            "time": "2017-12-06T02:09:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d47e1340-cb2d-11e6-85de-06f4ee369f53",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "MagicDevil"
+            }
+        },
+        {
+            "time": "2017-12-06T02:09:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "530df386-ddfa-11e6-8f7f-06fc87f1dd11",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "MaNniBaLeKTOR"
+            }
+        },
+        {
+            "time": "2017-12-06T02:09:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6bd92cf6-d150-11e7-9f47-0654fca4c20c",
+                "Hero": "*Flicker*",
+                "Team": "1",
+                "Handle": "brokenchamp"
+            }
+        },
+        {
+            "time": "2017-12-06T02:10:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "41f15840-a85d-11e6-94d0-06f4ee369f53",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "SirExodus"
+            }
+        },
+        {
+            "time": "2017-12-06T02:10:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9dbec64c-6fa4-11e4-8b12-062d0b175276",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "Swerv3"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

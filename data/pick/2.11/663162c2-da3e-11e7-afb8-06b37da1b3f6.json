@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:32:18+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:32:40+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:33:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ed650a66-b27f-11e5-a0a0-06b48b82cd49",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "QuaKeR"
+            }
+        },
+        {
+            "time": "2017-12-06T04:33:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c9410b4a-6ef0-11e4-85cc-06641bcbf424",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Fatedkiss"
+            }
+        },
+        {
+            "time": "2017-12-06T04:33:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "66ab6000-e0b7-11e4-9fa1-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Stromer"
+            }
+        },
+        {
+            "time": "2017-12-06T04:33:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ca9da92e-9fa8-11e4-b47c-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "malganys"
+            }
+        },
+        {
+            "time": "2017-12-06T04:33:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e9cbaafc-22dd-11e7-a707-0224e22aef46",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "SenorCole"
+            }
+        },
+        {
+            "time": "2017-12-06T04:33:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2c2c60ca-7d17-11e6-818f-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "InvisibleTroll"
+            }
+        }
+    ],
+    "winner": "another"
+}

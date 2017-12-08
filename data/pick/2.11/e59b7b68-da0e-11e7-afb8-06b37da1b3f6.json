@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T22:52:40+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T22:52:42+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T22:52:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9080c382-2203-11e6-b12e-067e8bc536fd",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "MysticFoX"
+            }
+        },
+        {
+            "time": "2017-12-05T22:53:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a8dad1e4-a057-11e5-a66a-0628b69bf6d1",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "Kashz"
+            }
+        },
+        {
+            "time": "2017-12-05T22:53:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2b7989b2-27b6-11e5-8666-068789513eb5",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "Killamasta"
+            }
+        },
+        {
+            "time": "2017-12-05T22:53:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6b22deba-d950-11e4-a2a5-06eb725f8a76",
+                "Hero": "*Ozo*",
+                "Team": "1",
+                "Handle": "Trixster"
+            }
+        },
+        {
+            "time": "2017-12-05T22:53:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9fd8d4ba-73c4-11e6-8cab-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "KiwiAF"
+            }
+        },
+        {
+            "time": "2017-12-05T22:53:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "96f32cf4-8953-11e4-8ebd-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Ctf"
+            }
+        }
+    ],
+    "winner": "another"
+}

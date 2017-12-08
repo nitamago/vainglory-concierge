@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:39:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fdfb09a4-44ee-11e7-8f30-067e8bc536fd",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "MessiFP"
+            }
+        },
+        {
+            "time": "2017-12-06T00:39:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "00eefbf2-0f5c-11e7-8471-068789513eb5",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "relator"
+            }
+        },
+        {
+            "time": "2017-12-06T00:39:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "67a9264e-26b2-11e6-9815-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "HellzWind"
+            }
+        },
+        {
+            "time": "2017-12-06T00:40:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6b304568-b361-11e6-9fc1-068789513eb5",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "BigDaddy234"
+            }
+        },
+        {
+            "time": "2017-12-06T00:40:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c29bdeb8-df39-11e5-bd72-06fc87f1dd11",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "DeathsHand00"
+            }
+        },
+        {
+            "time": "2017-12-06T00:40:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4a54338e-db41-11e5-a7ff-06388a2f2ea7",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "AAMichael"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

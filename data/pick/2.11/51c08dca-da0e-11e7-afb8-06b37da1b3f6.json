@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T22:48:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "21802c02-848e-11e4-9ba0-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Hall32"
+            }
+        },
+        {
+            "time": "2017-12-05T22:48:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d8877a5e-2f1a-11e5-bede-06b48b82cd49",
+                "Hero": "*Flicker*",
+                "Team": "2",
+                "Handle": "LBHipshot"
+            }
+        },
+        {
+            "time": "2017-12-05T22:48:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a869486c-64a2-11e5-be9c-0628b69bf6d1",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "rabidrabbit"
+            }
+        },
+        {
+            "time": "2017-12-05T22:48:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7c276648-b3b8-11e5-8dd3-06f4ee369f53",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "Macinator"
+            }
+        },
+        {
+            "time": "2017-12-05T22:48:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d3297072-6ee4-11e4-8ef8-062d0b175276",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "Marchoho"
+            }
+        },
+        {
+            "time": "2017-12-05T22:48:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b2269234-72c1-11e4-961b-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "LaunchDetected"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

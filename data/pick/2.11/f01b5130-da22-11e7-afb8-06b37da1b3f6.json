@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:15:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e6ab07e2-a813-11e4-a9bb-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Phaerun "
+            }
+        },
+        {
+            "time": "2017-12-06T01:15:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ea210322-d040-11e4-9ae5-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "TheVanzis"
+            }
+        },
+        {
+            "time": "2017-12-06T01:15:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "53197d5a-8598-11e7-bf53-0297ea8a7ddc",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "Vegetablebird123"
+            }
+        },
+        {
+            "time": "2017-12-06T01:15:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7379462e-cc0c-11e7-a26d-0654fca4c20c",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "XxdestructionxX"
+            }
+        },
+        {
+            "time": "2017-12-06T01:15:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0b181ac2-52f1-11e7-822d-06d90c28bf1a",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "ShadowKnight9823"
+            }
+        },
+        {
+            "time": "2017-12-06T01:16:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dcfa2c64-155a-11e5-b66c-06eb725f8a76",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "KonDon"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

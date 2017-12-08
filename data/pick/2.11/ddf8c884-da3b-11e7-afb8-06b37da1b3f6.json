@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:14:19+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:14:36+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:14:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c9b831b8-697e-11e6-ba83-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "motherfckajones"
+            }
+        },
+        {
+            "time": "2017-12-06T04:14:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "58c9249c-1747-11e5-bbd9-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "PvpGOD"
+            }
+        },
+        {
+            "time": "2017-12-06T04:14:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "879cb81a-ce99-11e5-b29e-06f4ee369f53",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "Virtu4lHyFivz"
+            }
+        },
+        {
+            "time": "2017-12-06T04:15:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0dfad4a6-b959-11e5-8693-06d90c28bf1a",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "JOBella"
+            }
+        },
+        {
+            "time": "2017-12-06T04:15:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "310996e6-8fd6-11e5-9f33-06d90c28bf1a",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "lonelycAt"
+            }
+        },
+        {
+            "time": "2017-12-06T04:15:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "584d4b90-8b82-11e7-bf5e-0297ea8a7ddc",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Ex4ample"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

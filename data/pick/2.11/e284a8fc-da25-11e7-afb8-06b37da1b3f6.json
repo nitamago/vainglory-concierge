@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:37:02+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Catherine*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:37:05+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:37:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "deb58bf6-77cc-11e4-a756-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "iNo1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:37:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1411d390-21aa-11e5-a742-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "SonOfVictory"
+            }
+        },
+        {
+            "time": "2017-12-06T01:37:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bdfa6f8c-c7db-11e7-972b-06b672bd5be2",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "SaSukeUchiha"
+            }
+        },
+        {
+            "time": "2017-12-06T01:37:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "831d1618-2f07-11e5-b377-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "maximitro"
+            }
+        },
+        {
+            "time": "2017-12-06T01:37:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c5267f6c-8f52-11e5-8dad-0628b69bf6d1",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Madesmoiselle"
+            }
+        },
+        {
+            "time": "2017-12-06T01:38:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2dd22e24-4cd8-11e6-a8df-0628b69bf6d1",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "FilthyRich420"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

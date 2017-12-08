@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:30:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1510d2c4-0f1a-11e6-9dda-06f4ee369f53",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "EKHSJunior"
+            }
+        },
+        {
+            "time": "2017-12-06T01:30:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "53c20026-97b4-11e4-93d5-06eb725f8a76",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "ALEX1308"
+            }
+        },
+        {
+            "time": "2017-12-06T01:30:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3a5dcbb4-e290-11e6-bd7a-06d90c28bf1a",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "SmileyFace264"
+            }
+        },
+        {
+            "time": "2017-12-06T01:30:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "54a644fa-7ae0-11e6-8e99-06f4ee369f53",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "Maj0rJJ"
+            }
+        },
+        {
+            "time": "2017-12-06T01:30:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7faef97e-bd3b-11e6-9c5d-06388a2f2ea7",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "slowdreams"
+            }
+        },
+        {
+            "time": "2017-12-06T01:30:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "07d9f978-a672-11e7-b936-067e8bc536fd",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "thankme"
+            }
+        }
+    ],
+    "winner": "another"
+}

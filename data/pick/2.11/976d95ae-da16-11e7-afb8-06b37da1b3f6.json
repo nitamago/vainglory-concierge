@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:47:38+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:47:42+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:47:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "beb9ac40-e253-11e5-a4c8-06fc87f1dd11",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Archangel4747"
+            }
+        },
+        {
+            "time": "2017-12-05T23:48:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bdf904dc-7007-11e4-b86c-062d0b175276",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "Stalk3r"
+            }
+        },
+        {
+            "time": "2017-12-05T23:48:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bb0c4e52-ac7f-11e7-b1fb-02b3611af5e6",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "DominicanGlory"
+            }
+        },
+        {
+            "time": "2017-12-05T23:48:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "faafa3fe-4265-11e6-8f18-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Moipro"
+            }
+        },
+        {
+            "time": "2017-12-05T23:48:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dfff1a2c-7524-11e4-b3b6-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "shuy"
+            }
+        },
+        {
+            "time": "2017-12-05T23:48:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "26028a8a-dcd1-11e5-9db6-06b48b82cd49",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "lDeLEONz"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

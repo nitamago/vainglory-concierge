@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:01:18+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:01:22+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:01:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c87685f8-d9cd-11e4-bc0d-06d90c28bf1a",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "XxNightSoulxX"
+            }
+        },
+        {
+            "time": "2017-12-06T02:01:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d59e19f2-7cd1-11e4-ab9f-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Alzion"
+            }
+        },
+        {
+            "time": "2017-12-06T02:01:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ca991828-3a1c-11e5-ac9c-06d90c28bf1a",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "sniper12299"
+            }
+        },
+        {
+            "time": "2017-12-06T02:01:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fcf6f566-02f3-11e5-be24-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Asianfl"
+            }
+        },
+        {
+            "time": "2017-12-06T02:02:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6d57420e-2fed-11e5-bfca-06f4ee369f53",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "noviceblazer"
+            }
+        },
+        {
+            "time": "2017-12-06T02:02:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d6ae7b64-6c4c-11e5-8b2f-068789513eb5",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "FingerVenom"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

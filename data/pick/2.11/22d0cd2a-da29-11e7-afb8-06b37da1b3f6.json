@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:00:12+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:00:29+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:00:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6dd4fb66-4322-11e5-935a-06f4ee369f53",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "basketpaul"
+            }
+        },
+        {
+            "time": "2017-12-06T02:00:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "05b61d08-a3c5-11e6-a9b4-06f4ee369f53",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "AzureK"
+            }
+        },
+        {
+            "time": "2017-12-06T02:01:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b277df08-38c8-11e6-a5b9-06ab1a16f8e5",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "Pewdiejin"
+            }
+        },
+        {
+            "time": "2017-12-06T02:01:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a02712be-c280-11e6-8a0f-06b48b82cd49",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Jarritos999"
+            }
+        },
+        {
+            "time": "2017-12-06T02:01:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "19867c18-b099-11e4-b213-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "mAydAy"
+            }
+        },
+        {
+            "time": "2017-12-06T02:01:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d9f13518-7923-11e4-af77-06d90c28bf1a",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "seantoemas"
+            }
+        }
+    ],
+    "winner": "another"
+}

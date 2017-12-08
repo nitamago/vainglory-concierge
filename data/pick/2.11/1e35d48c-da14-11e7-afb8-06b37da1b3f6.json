@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T23:29:36+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:29:55+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:30:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3269c0c8-8fbe-11e5-87b1-06d90c28bf1a",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "steven2002614"
+            }
+        },
+        {
+            "time": "2017-12-05T23:30:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d23403ea-8fed-11e6-8a68-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "StayDrizzy"
+            }
+        },
+        {
+            "time": "2017-12-05T23:30:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fcf6f566-02f3-11e5-be24-06eb725f8a76",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "Asianfl"
+            }
+        },
+        {
+            "time": "2017-12-05T23:30:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4d762ac4-2a03-11e7-91e3-062cb73cdbb1",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "AHRIMAN"
+            }
+        },
+        {
+            "time": "2017-12-05T23:31:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7cf992ae-6c04-11e5-8ce2-06b48b82cd49",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "GetMad"
+            }
+        },
+        {
+            "time": "2017-12-05T23:31:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bf9e4248-0c05-11e6-9cde-06f4ee369f53",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "DoctorShotz"
+            }
+        }
+    ],
+    "winner": "another"
+}

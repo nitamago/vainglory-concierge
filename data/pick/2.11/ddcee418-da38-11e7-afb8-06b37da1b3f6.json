@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:52:55+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:52:57+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:53:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "68caa8ba-765a-11e7-84c4-06388a2f2ea7",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "CodeReD"
+            }
+        },
+        {
+            "time": "2017-12-06T03:53:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cceb0f06-5bee-11e6-90ca-068789513eb5",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "Pengwaffe"
+            }
+        },
+        {
+            "time": "2017-12-06T03:53:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fd1c696a-ff31-11e4-913b-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "ProDeStRoYeR"
+            }
+        },
+        {
+            "time": "2017-12-06T03:53:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7c1c3acc-7fa7-11e7-aea4-06fc87f1dd11",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "ImperialSoulX"
+            }
+        },
+        {
+            "time": "2017-12-06T03:53:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8945af62-17e8-11e6-8be5-0628b69bf6d1",
+                "Hero": "*Ozo*",
+                "Team": "1",
+                "Handle": "che3david"
+            }
+        },
+        {
+            "time": "2017-12-06T03:53:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "012e48fe-904c-11e7-88f7-06388a2f2ea7",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "breakdawn66"
+            }
+        }
+    ],
+    "winner": "another"
+}

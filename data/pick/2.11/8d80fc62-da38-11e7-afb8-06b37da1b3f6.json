@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:50:28+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:50:40+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:51:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0dd4f576-15d8-11e5-97c8-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "ElSexyCharly"
+            }
+        },
+        {
+            "time": "2017-12-06T03:51:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "985f051a-61ae-11e6-93d9-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "AlanDani221"
+            }
+        },
+        {
+            "time": "2017-12-06T03:51:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b498642c-b577-11e4-b28b-06eb725f8a76",
+                "Hero": "*Flicker*",
+                "Team": "2",
+                "Handle": "bezzle"
+            }
+        },
+        {
+            "time": "2017-12-06T03:51:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0a1fe942-c544-11e5-ab6a-068789513eb5",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "lxDragonSlayerxl"
+            }
+        },
+        {
+            "time": "2017-12-06T03:51:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "08ac3a34-ac21-11e5-8fb9-06d90c28bf1a",
+                "Hero": "*Ozo*",
+                "Team": "1",
+                "Handle": "EmX412"
+            }
+        },
+        {
+            "time": "2017-12-06T03:52:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "efabd6ae-1588-11e5-bf9d-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Iombardo"
+            }
+        }
+    ],
+    "winner": "another"
+}

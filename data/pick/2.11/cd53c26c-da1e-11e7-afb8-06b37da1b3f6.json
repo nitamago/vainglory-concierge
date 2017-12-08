@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:46:07+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:46:18+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:46:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "03fae5c8-cd60-11e7-b23f-020c8314066a",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "poisonletter"
+            }
+        },
+        {
+            "time": "2017-12-06T00:46:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6d5f5854-6376-11e7-8bd1-06eb725f8a76",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "xUmOpxaPiSdnx"
+            }
+        },
+        {
+            "time": "2017-12-06T00:46:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6796a68c-a9fc-11e5-9378-06b48b82cd49",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Argixaan"
+            }
+        },
+        {
+            "time": "2017-12-06T00:47:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fb02cbda-7b54-11e4-8210-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "mattyb7"
+            }
+        },
+        {
+            "time": "2017-12-06T00:47:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0c0633de-b0f9-11e4-bb0c-06eb725f8a76",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "NXT"
+            }
+        },
+        {
+            "time": "2017-12-06T00:48:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7b0e6e1c-f140-11e5-a6d6-068789513eb5",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "Kitsumaru"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:35:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5d274a38-7142-11e4-9a7f-06641bcbf424",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "ddubin"
+            }
+        },
+        {
+            "time": "2017-12-06T02:35:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "60a8b744-727a-11e4-a941-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "ShadowBoxer"
+            }
+        },
+        {
+            "time": "2017-12-06T02:35:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5b9cfac0-ae0f-11e7-a83c-02b3611af5e6",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "KaKashi0"
+            }
+        },
+        {
+            "time": "2017-12-06T02:35:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a1b41490-78dd-11e4-bfe8-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Khanaka"
+            }
+        },
+        {
+            "time": "2017-12-06T02:36:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7e251776-c1ce-11e7-a4a6-068789513eb5",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "SongsOfDeath"
+            }
+        },
+        {
+            "time": "2017-12-06T02:36:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "12639b84-e7e6-11e5-910b-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "ianwinner"
+            }
+        }
+    ],
+    "winner": "another"
+}

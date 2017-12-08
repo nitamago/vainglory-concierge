@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:30:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2ecc380a-3820-11e6-a5b9-068789513eb5",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "FightMilkCAAAAAW"
+            }
+        },
+        {
+            "time": "2017-12-06T02:31:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9b33d0ce-10e0-11e5-8e1d-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Tizzey "
+            }
+        },
+        {
+            "time": "2017-12-06T02:31:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "875466ec-8c36-11e4-8c2f-06d90c28bf1a",
+                "Hero": "*Samuel*",
+                "Team": "1",
+                "Handle": "cwsull"
+            }
+        },
+        {
+            "time": "2017-12-06T02:31:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "97293fe2-47ba-11e7-b351-067e8bc536fd",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "XarrowjrX"
+            }
+        },
+        {
+            "time": "2017-12-06T02:31:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "394d3d7a-20b3-11e7-bbf9-0224e22aef46",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "SUPERSIMS"
+            }
+        },
+        {
+            "time": "2017-12-06T02:31:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "def3b698-27dc-11e7-b354-06eb725f8a76",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "paisano"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

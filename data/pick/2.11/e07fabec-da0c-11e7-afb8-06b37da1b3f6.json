@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T22:37:45+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T22:37:50+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T22:38:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a87e0c50-d0db-11e7-a901-025e5fb8fe9e",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Zhiz2333"
+            }
+        },
+        {
+            "time": "2017-12-05T22:38:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4d1d9272-b27d-11e6-b9dd-06b48b82cd49",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "stefa7"
+            }
+        },
+        {
+            "time": "2017-12-05T22:38:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3006348e-bdad-11e5-a5bf-06eb725f8a76",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "Omega47"
+            }
+        },
+        {
+            "time": "2017-12-05T22:38:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f1182e54-bb58-11e5-a939-06f4ee369f53",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "KilljoyD"
+            }
+        },
+        {
+            "time": "2017-12-05T22:38:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fd9f4528-a89b-11e6-82b9-06b48b82cd49",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "MysticMoony"
+            }
+        },
+        {
+            "time": "2017-12-05T22:39:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e504345a-a996-11e6-a588-062cb73cdbb1",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "Zothan"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:34:43+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:34:54+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:35:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "440ef3a2-c7c2-11e5-b2ff-06f4ee369f53",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "HellFire4gz"
+            }
+        },
+        {
+            "time": "2017-12-06T01:35:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0de8be1e-9c5e-11e5-86e4-06eb725f8a76",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "XxHoraciOxX"
+            }
+        },
+        {
+            "time": "2017-12-06T01:35:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bf59b3bc-21af-11e5-be16-068789513eb5",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "EXXCLUSIVE"
+            }
+        },
+        {
+            "time": "2017-12-06T01:35:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "19a43fee-d177-11e7-a80d-069ef91bd55c",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "Astol"
+            }
+        },
+        {
+            "time": "2017-12-06T01:36:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "10df7f5e-a0f0-11e5-948d-06b48b82cd49",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "ryandarkblade"
+            }
+        },
+        {
+            "time": "2017-12-06T01:36:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4142ecf2-35a7-11e6-ac09-0628b69bf6d1",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Jmoney631"
+            }
+        }
+    ],
+    "winner": "another"
+}

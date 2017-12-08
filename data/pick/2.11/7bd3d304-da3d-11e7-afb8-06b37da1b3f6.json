@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:25:57+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:26:15+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Ardan*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:26:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "182635ae-1311-11e5-8e77-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "PrimeSorcerer"
+            }
+        },
+        {
+            "time": "2017-12-06T04:26:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "591e0ba4-d589-11e6-9dcc-06a9175d25fa",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "noSananoLife"
+            }
+        },
+        {
+            "time": "2017-12-06T04:26:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7499a836-7125-11e4-b1ff-06641bcbf424",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "BlueStacks"
+            }
+        },
+        {
+            "time": "2017-12-06T04:27:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "478eb7f6-76ab-11e4-b6fb-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Earl34"
+            }
+        },
+        {
+            "time": "2017-12-06T04:27:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6b4bc0e2-07a1-11e7-951e-06fc87f1dd11",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "ZenZoO"
+            }
+        },
+        {
+            "time": "2017-12-06T04:27:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "95fcdba8-a2cb-11e7-8392-0297ea8a7ddc",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "ILLINI"
+            }
+        }
+    ],
+    "winner": "another"
+}

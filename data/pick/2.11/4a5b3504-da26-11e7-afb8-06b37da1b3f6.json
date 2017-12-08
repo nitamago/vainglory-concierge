@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:39:51+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:39:56+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:40:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "450bb71c-9e28-11e6-925f-068789513eb5",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "MLGBOI"
+            }
+        },
+        {
+            "time": "2017-12-06T01:40:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dd7f2e4a-7305-11e7-b146-06b48b82cd49",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "Rainful"
+            }
+        },
+        {
+            "time": "2017-12-06T01:40:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b9015c66-5e1f-11e5-890a-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "nighabro"
+            }
+        },
+        {
+            "time": "2017-12-06T01:40:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2fa3f260-ddd7-11e6-aab6-067e8bc536fd",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "LetsFaceTimeBubu"
+            }
+        },
+        {
+            "time": "2017-12-06T01:40:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "70d86c04-22bf-11e5-978c-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "PRESENCE"
+            }
+        },
+        {
+            "time": "2017-12-06T01:41:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "656f03be-f031-11e6-89e5-06eb725f8a76",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "Withest"
+            }
+        }
+    ],
+    "winner": "another"
+}

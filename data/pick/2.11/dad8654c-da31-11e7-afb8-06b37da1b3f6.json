@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:02:45+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:02:48+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:03:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cb5eb008-c57e-11e6-aff6-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "RalphSucks"
+            }
+        },
+        {
+            "time": "2017-12-06T03:03:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b9749f22-b2d3-11e7-be48-02f3b4306918",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Charmandor"
+            }
+        },
+        {
+            "time": "2017-12-06T03:03:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "50afeaca-3e1a-11e6-9016-06c5ee41a4a5",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "HilariousAnimal"
+            }
+        },
+        {
+            "time": "2017-12-06T03:03:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7405a414-f217-11e5-b37f-06fc87f1dd11",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "chally651"
+            }
+        },
+        {
+            "time": "2017-12-06T03:03:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ffd49618-7051-11e6-8794-068789513eb5",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "ralph973"
+            }
+        },
+        {
+            "time": "2017-12-06T03:04:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e1064b52-26bd-11e5-b47b-06b48b82cd49",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "KiraKiraMira"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

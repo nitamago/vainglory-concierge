@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:28:10+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Catherine*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:28:17+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:28:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ad5bf6fe-01d6-11e6-954a-06388a2f2ea7",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "jimmy95"
+            }
+        },
+        {
+            "time": "2017-12-06T03:28:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "18ce4706-195d-11e5-8a23-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "DiabloCraft808"
+            }
+        },
+        {
+            "time": "2017-12-06T03:28:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "40d5f9b2-f1dc-11e5-9c91-06388a2f2ea7",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "BobDeAssassin"
+            }
+        },
+        {
+            "time": "2017-12-06T03:28:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3161d58e-6c0f-11e6-9e90-06f4ee369f53",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "SnowBall7w7"
+            }
+        },
+        {
+            "time": "2017-12-06T03:28:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7fd3d4f0-57e4-11e5-bf06-06b48b82cd49",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "D3vilfox"
+            }
+        },
+        {
+            "time": "2017-12-06T03:29:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "06d29000-6e60-11e4-b7eb-06641bcbf424",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Gix"
+            }
+        }
+    ],
+    "winner": "another"
+}

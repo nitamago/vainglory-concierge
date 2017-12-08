@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:31:30+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:31:38+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:31:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c8879924-eecb-11e5-9cf2-06fc87f1dd11",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "Marco14CoC"
+            }
+        },
+        {
+            "time": "2017-12-06T02:32:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6806bd44-9bc1-11e5-ad80-06b48b82cd49",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Jovannim10"
+            }
+        },
+        {
+            "time": "2017-12-06T02:32:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c6feb2c8-1e76-11e7-9fe0-02a5820c0f16",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "TheTraneVG"
+            }
+        },
+        {
+            "time": "2017-12-06T02:32:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "193377c2-7055-11e4-9da1-062d0b175276",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "Poncho"
+            }
+        },
+        {
+            "time": "2017-12-06T02:32:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f887466e-c27a-11e6-8c3e-06388a2f2ea7",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "Capsizeq"
+            }
+        },
+        {
+            "time": "2017-12-06T02:33:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5ab3e3e8-d856-11e5-853f-0628b69bf6d1",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "Reaperslash11"
+            }
+        }
+    ],
+    "winner": "another"
+}

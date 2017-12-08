@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:16:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "15ad74b8-b1bd-11e5-b02d-0628b69bf6d1",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "alexalejandro1v"
+            }
+        },
+        {
+            "time": "2017-12-05T23:16:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "885587fe-be80-11e7-ac65-062cb73cdbb1",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "tyrehnhehgd"
+            }
+        },
+        {
+            "time": "2017-12-05T23:16:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "023f460e-aab0-11e5-adf9-06d90c28bf1a",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "OmgitsMontae"
+            }
+        },
+        {
+            "time": "2017-12-05T23:16:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b3f33668-f96f-11e5-9902-067e8bc536fd",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Mysterycard"
+            }
+        },
+        {
+            "time": "2017-12-05T23:16:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "48815e5e-6b39-11e7-9b69-02866102f5a6",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "eqofdrenden"
+            }
+        },
+        {
+            "time": "2017-12-05T23:16:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d8687500-6f49-11e4-9a7f-06641bcbf424",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "Ashur"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:57:45+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Vox*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:57:48+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:57:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "09dd15b0-75e8-11e4-b7f5-06d90c28bf1a",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "bloodBeast"
+            }
+        },
+        {
+            "time": "2017-12-06T02:57:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2baf8a30-8202-11e4-a0ab-06d90c28bf1a",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "Qlunacy"
+            }
+        },
+        {
+            "time": "2017-12-06T02:57:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "066a708e-4e18-11e7-9038-02b3611af5e6",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "Futureplays"
+            }
+        },
+        {
+            "time": "2017-12-06T02:58:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e0c27e46-6ded-11e5-9a18-06b48b82cd49",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "BiteManDog"
+            }
+        },
+        {
+            "time": "2017-12-06T02:58:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "136b366e-f0f6-11e4-b4e4-06d90c28bf1a",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "Mlgnugnug"
+            }
+        },
+        {
+            "time": "2017-12-06T02:58:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f0997cb4-6d63-11e5-bc65-06f4ee369f53",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "DieNuBs"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

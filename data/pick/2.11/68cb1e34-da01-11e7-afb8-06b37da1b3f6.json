@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:15:55+0000",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:16:07+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:16:12+0000",
+            "payload": {
+                "Player": "3325bd8a-e1af-11e5-b38e-06d90c28bf1a",
+                "Handle": "iLoveBen",
+                "Hero": "*Lance*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:16:27+0000",
+            "payload": {
+                "Player": "24d83a96-91fb-11e4-bf9c-06d90c28bf1a",
+                "Handle": "Often",
+                "Hero": "*Ardan*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:16:47+0000",
+            "payload": {
+                "Player": "d006ea54-9066-11e7-9563-06a9175d25fa",
+                "Handle": "ILoveApple",
+                "Hero": "*Rona*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:16:55+0000",
+            "payload": {
+                "Player": "fae9539c-7692-11e4-9d68-06d90c28bf1a",
+                "Handle": "LightSpeed11",
+                "Hero": "*Vox*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:17:14+0000",
+            "payload": {
+                "Player": "935f5afc-4304-11e5-9662-06eb725f8a76",
+                "Handle": "Flowerboi",
+                "Hero": "*Baptiste*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:17:26+0000",
+            "payload": {
+                "Player": "52d6d28e-9b44-11e4-8566-06eb725f8a76",
+                "Handle": "DemonPooper",
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

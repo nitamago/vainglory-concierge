@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:46:18+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:46:25+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:46:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8e89d2a4-e28e-11e4-b5e7-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Scogent"
+            }
+        },
+        {
+            "time": "2017-12-06T03:46:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6113879e-27b6-11e5-b354-0628b69bf6d1",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "DINzekeERO"
+            }
+        },
+        {
+            "time": "2017-12-06T03:46:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2b7989b2-27b6-11e5-8666-068789513eb5",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "Killamasta"
+            }
+        },
+        {
+            "time": "2017-12-06T03:47:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "86c92874-30e2-11e5-8603-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Scorpio2702"
+            }
+        },
+        {
+            "time": "2017-12-06T03:47:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e0d27752-2143-11e5-826a-06eb725f8a76",
+                "Hero": "*Reza*",
+                "Team": "1",
+                "Handle": "Varrien"
+            }
+        },
+        {
+            "time": "2017-12-06T03:47:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "11a12312-b73d-11e5-bc60-06eb725f8a76",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "Nick40"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}
