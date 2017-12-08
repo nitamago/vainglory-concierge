@@ -30,6 +30,10 @@ class HeroSelectForm(forms.Form):
     hero3 = forms.ModelChoiceField(Hero.objects, label='',
                                       to_field_name="name",
                                       required=False)
+    min_sample = forms.IntegerField(initial=0)
+    max_sample = forms.IntegerField(initial=10000)
+    min_win_rate = forms.FloatField(initial=0.0)
+    max_win_rate = forms.FloatField(initial=1.0)
 
 class HeroPickStat(models.Model):
     sample_count = models.IntegerField(default=0)

@@ -15,8 +15,14 @@ def index_page(request):
              hero2 = select.cleaned_data['hero2']
              hero3 = select.cleaned_data['hero3']
              heros = [hero1, hero2, hero3]
+             min_sample = select.cleaned_data['min_sample']
+             max_sample = select.cleaned_data['max_sample']
+             min_win_rate = select.cleaned_data['min_win_rate']
+             max_win_rate = select.cleaned_data['max_win_rate']
              pick_stat = get_pick_stat(heros)
-             recommend = get_recommends(heros)
+             recommend = get_recommends(heros,
+                                        min_sample, max_sample,
+                                        min_win_rate, max_win_rate)
         else:
              message = 'データ検証に失敗しました'
              message = None
@@ -76,7 +82,7 @@ def get_pick_stat(heros):
     return obj
 
 
-def get_recommends(heros):
+def get_recommends(heros, min_sample, max_sample, min_win_rate, max_win_rate):
     tmp_matches = Match.objects.all()
 
     None_num = 0
@@ -135,6 +141,8 @@ def get_recommends(heros):
         obj = HeroPickStat.objects.filter(Q(hero1=hero1) | Q(hero2=hero1) | Q(hero3=hero1))\
                           .filter(Q(hero1=hero2) | Q(hero2=hero2) | Q(hero3=hero2))\
                           .exclude(hero3=None)\
+                          .filter(Q(sample_count__gte = min_sample) & Q(sample_count__lte = max_sample))\
+                          .filter(Q(win_rate__gte = min_win_rate) & Q(win_rate__lte = max_win_rate))\
                           .order_by('win_rate').reverse()
 
     elif len(rack_hero_list[0]) == 2:
@@ -175,6 +183,8 @@ def get_recommends(heros):
         obj = HeroPickStat.objects.filter(Q(hero1=hero1) | Q(hero2=hero1) | Q(hero3=hero1))\
                           .exclude(hero2=None)\
                           .exclude(hero3=None)\
+                          .filter(Q(sample_count__gte = min_sample) & Q(sample_count__lte = max_sample))\
+                          .filter(Q(win_rate__gte = min_win_rate) & Q(win_rate__lte = max_win_rate))\
                           .order_by('win_rate').reverse()
     else:
         obj = None
