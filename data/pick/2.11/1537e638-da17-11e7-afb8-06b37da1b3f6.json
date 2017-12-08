@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:51:11+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:51:36+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Catherine*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:51:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6e7aefa8-90ec-11e6-a1c7-067e8bc536fd",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "smiIey"
+            }
+        },
+        {
+            "time": "2017-12-05T23:51:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8b257a56-3a71-11e5-b691-068789513eb5",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "JoDidley"
+            }
+        },
+        {
+            "time": "2017-12-05T23:51:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "99adf27e-fc6e-11e4-b0d9-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "UnWeyFlamer"
+            }
+        },
+        {
+            "time": "2017-12-05T23:52:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "79c292e2-af30-11e5-ba3a-06eb725f8a76",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "SuckMyDiction"
+            }
+        },
+        {
+            "time": "2017-12-05T23:52:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9b4aaf0a-ae66-11e5-a114-06d90c28bf1a",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "naTo"
+            }
+        },
+        {
+            "time": "2017-12-05T23:52:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2c4f3252-692d-11e5-b6da-06b48b82cd49",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "YOOOONNGGJJAEEEE"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

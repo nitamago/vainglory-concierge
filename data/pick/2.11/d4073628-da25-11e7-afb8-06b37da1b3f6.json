@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:36:19+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:36:26+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:36:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e33872e8-5ab9-11e6-919d-06f4ee369f53",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "InTheAshes"
+            }
+        },
+        {
+            "time": "2017-12-06T01:36:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fa1a7850-5b0d-11e5-8c6c-068789513eb5",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "Drizztskilllvl"
+            }
+        },
+        {
+            "time": "2017-12-06T01:36:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3c7b49d2-0071-11e6-88e3-068789513eb5",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "MattyB79"
+            }
+        },
+        {
+            "time": "2017-12-06T01:37:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fcb89b68-2387-11e5-b60a-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Jay1O"
+            }
+        },
+        {
+            "time": "2017-12-06T01:37:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "92fedf5e-2799-11e6-82a2-06fc87f1dd11",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "TheFreakNextDoor"
+            }
+        },
+        {
+            "time": "2017-12-06T01:37:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b5a998ce-c69b-11e4-b314-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "LurknMurk"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

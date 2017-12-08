@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T23:03:03+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:03:09+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:03:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a9170f4a-3407-11e5-bd8e-068789513eb5",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "XPanda"
+            }
+        },
+        {
+            "time": "2017-12-05T23:03:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "978eba0a-29ea-11e6-bdfc-06f4ee369f53",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "enanohoper"
+            }
+        },
+        {
+            "time": "2017-12-05T23:03:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7635bad8-c275-11e6-aeab-06f4ee369f53",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "Sendnbr"
+            }
+        },
+        {
+            "time": "2017-12-05T23:03:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "664198dc-9574-11e6-81bb-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "shayne86"
+            }
+        },
+        {
+            "time": "2017-12-05T23:03:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "98e56f48-b013-11e6-96bf-06f4ee369f53",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "STINKMEANER"
+            }
+        },
+        {
+            "time": "2017-12-05T23:04:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e8f512a4-2e8f-11e7-9fa6-0223dbc2587a",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "boquisucio"
+            }
+        }
+    ],
+    "winner": "another"
+}

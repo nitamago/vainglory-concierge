@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:46:41+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:46:51+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:47:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "87112ed2-4048-11e6-8614-068789513eb5",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "SirTonyll"
+            }
+        },
+        {
+            "time": "2017-12-06T01:47:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f986e5c4-f006-11e6-8833-06a9175d25fa",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "Mordekai8v"
+            }
+        },
+        {
+            "time": "2017-12-06T01:47:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "392c7fa6-d5e4-11e5-8fd4-06fc87f1dd11",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "DMTLeo"
+            }
+        },
+        {
+            "time": "2017-12-06T01:48:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6796a68c-a9fc-11e5-9378-06b48b82cd49",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "Argixaan"
+            }
+        },
+        {
+            "time": "2017-12-06T01:48:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a42d3424-798c-11e7-9f0f-02b3611af5e6",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "boubon"
+            }
+        },
+        {
+            "time": "2017-12-06T01:48:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "de6b52f8-3f20-11e6-829d-06d90c28bf1a",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "Ironranch"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

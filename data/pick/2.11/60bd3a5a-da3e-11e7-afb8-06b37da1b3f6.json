@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:32:14+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:32:22+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:32:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ce8812d6-bd67-11e4-ad86-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "GrandpaSkitzo"
+            }
+        },
+        {
+            "time": "2017-12-06T04:32:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "35c7233a-4088-11e5-a1bb-0628b69bf6d1",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "th4nh"
+            }
+        },
+        {
+            "time": "2017-12-06T04:32:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "87c4e096-ccc3-11e6-a91c-06ab1a16f8e5",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "thefuc"
+            }
+        },
+        {
+            "time": "2017-12-06T04:33:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2e07a688-6b3e-11e6-897c-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "ImTheBestLaneNA"
+            }
+        },
+        {
+            "time": "2017-12-06T04:33:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c3ca91d6-6db5-11e4-8f38-062d0b175276",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "AAA0914"
+            }
+        },
+        {
+            "time": "2017-12-06T04:33:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d67a2136-80f5-11e4-b245-06eb725f8a76",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "Leekor12"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:42:48+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:42:56+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:43:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5ebb0998-7406-11e6-b3ae-0628b69bf6d1",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "bystandereffect"
+            }
+        },
+        {
+            "time": "2017-12-06T00:43:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "57055ea2-1974-11e6-a838-06fc87f1dd11",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "DefaultError"
+            }
+        },
+        {
+            "time": "2017-12-06T00:43:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "23a29476-733f-11e4-a6c2-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "AnakManis"
+            }
+        },
+        {
+            "time": "2017-12-06T00:43:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a65e78b6-c6e5-11e6-aa59-06fc87f1dd11",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "IIJediMasterII"
+            }
+        },
+        {
+            "time": "2017-12-06T00:44:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9fe89bac-3e23-11e5-b84f-068789513eb5",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "TheSack"
+            }
+        },
+        {
+            "time": "2017-12-06T00:44:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d8176612-6c9d-11e6-bb2c-0628b69bf6d1",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "McYGomas"
+            }
+        }
+    ],
+    "winner": "another"
+}

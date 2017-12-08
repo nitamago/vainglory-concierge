@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:56:35+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:56:58+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:57:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2fd7788a-37e6-11e5-bda3-068789513eb5",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "shreker"
+            }
+        },
+        {
+            "time": "2017-12-06T01:57:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e7506d48-75de-11e4-9ddc-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "AndraeKMTY"
+            }
+        },
+        {
+            "time": "2017-12-06T01:57:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8b5152de-01ea-11e6-868b-06ab1a16f8e5",
+                "Hero": "*Reza*",
+                "Team": "2",
+                "Handle": "JettiYeti"
+            }
+        },
+        {
+            "time": "2017-12-06T01:57:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6d48f9ea-bee7-11e5-a5bf-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "ProximityFox"
+            }
+        },
+        {
+            "time": "2017-12-06T01:57:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6b509f72-4b1e-11e5-bbbc-068789513eb5",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "RYSEGAMING"
+            }
+        },
+        {
+            "time": "2017-12-06T01:57:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b4434846-a3a8-11e5-9d1c-06b48b82cd49",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "JokerProdijay"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:13:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e71268aa-80f0-11e4-a199-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "squashsquash"
+            }
+        },
+        {
+            "time": "2017-12-05T23:13:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7627c856-cca6-11e7-9879-0654fca4c20c",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "BrutalSix"
+            }
+        },
+        {
+            "time": "2017-12-05T23:13:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d3be24c8-ccd6-11e5-b3cb-06f4ee369f53",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "xMissNothing"
+            }
+        },
+        {
+            "time": "2017-12-05T23:13:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e8cfc73c-bb8f-11e7-9b21-06ab1a16f8e5",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "KikeDroii"
+            }
+        },
+        {
+            "time": "2017-12-05T23:13:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b8a931b8-b1f8-11e4-8d9a-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "smirkinpanther"
+            }
+        },
+        {
+            "time": "2017-12-05T23:13:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a6b71562-8f52-11e7-82fd-02f3b4306918",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "carcinogenicOwl"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

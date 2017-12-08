@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:38:50+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:38:54+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:39:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0bed6b58-ca0f-11e5-85da-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "EoXNA"
+            }
+        },
+        {
+            "time": "2017-12-06T01:39:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8b7c3c80-906a-11e4-93d5-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "arosa"
+            }
+        },
+        {
+            "time": "2017-12-06T01:39:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dbc9cff8-92dc-11e4-8cbd-06d90c28bf1a",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "WreckingBar"
+            }
+        },
+        {
+            "time": "2017-12-06T01:39:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "188595ca-7277-11e4-b709-06d90c28bf1a",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "Johanmoren0"
+            }
+        },
+        {
+            "time": "2017-12-06T01:39:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "49043d44-b4aa-11e4-afa8-06eb725f8a76",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "GreenXerxT"
+            }
+        },
+        {
+            "time": "2017-12-06T01:40:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8916483a-2b76-11e5-8816-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "topshottas"
+            }
+        }
+    ],
+    "winner": "another"
+}

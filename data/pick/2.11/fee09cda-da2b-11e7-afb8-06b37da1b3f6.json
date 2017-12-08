@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:20:33+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:20:43+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:21:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "88ba9968-935d-11e6-9615-06f4ee369f53",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "drunkenmage"
+            }
+        },
+        {
+            "time": "2017-12-06T02:21:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c0407b10-5adf-11e7-9895-02a5820c0f16",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "zutj"
+            }
+        },
+        {
+            "time": "2017-12-06T02:21:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0e208bd6-d9e5-11e5-9e40-062cb73cdbb1",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "Thehollow"
+            }
+        },
+        {
+            "time": "2017-12-06T02:21:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cd0a5386-201a-11e5-9d0a-06d90c28bf1a",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "SirKadabra"
+            }
+        },
+        {
+            "time": "2017-12-06T02:22:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "299a3c14-b2dc-11e7-8199-0263a81144c0",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "ACgaming11"
+            }
+        },
+        {
+            "time": "2017-12-06T02:22:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1b1f226a-ab1a-11e5-b990-06d90c28bf1a",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "kraos3"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

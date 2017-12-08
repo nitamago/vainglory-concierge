@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T23:00:29+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:00:36+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:00:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "491ba078-7c4c-11e5-b0cb-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Swiftt"
+            }
+        },
+        {
+            "time": "2017-12-05T23:01:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "466bab40-7ff9-11e7-8101-06388a2f2ea7",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "BuiIldDefense"
+            }
+        },
+        {
+            "time": "2017-12-05T23:01:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "71d42322-af74-11e5-99c5-068789513eb5",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Fezzz"
+            }
+        },
+        {
+            "time": "2017-12-05T23:01:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9fd96d00-623e-11e5-9f98-06f4ee369f53",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "Simxn"
+            }
+        },
+        {
+            "time": "2017-12-05T23:02:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "37539e70-0755-11e5-98b4-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Sethery"
+            }
+        },
+        {
+            "time": "2017-12-05T23:02:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "86c92874-30e2-11e5-8603-06eb725f8a76",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "Scorpio2702"
+            }
+        }
+    ],
+    "winner": "another"
+}

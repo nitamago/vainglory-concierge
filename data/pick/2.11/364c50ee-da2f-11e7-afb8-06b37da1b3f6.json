@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:43:31+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:43:39+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:43:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2bee776c-99b9-11e4-9953-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "docquinzel"
+            }
+        },
+        {
+            "time": "2017-12-06T02:44:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f986e5c4-f006-11e6-8833-06a9175d25fa",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Mordekai8v"
+            }
+        },
+        {
+            "time": "2017-12-06T02:44:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3a258d94-ce18-11e6-81c5-06f4ee369f53",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "MsA"
+            }
+        },
+        {
+            "time": "2017-12-06T02:44:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "13bf3418-3784-11e7-a04d-06c5ee41a4a5",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "b00bsrule"
+            }
+        },
+        {
+            "time": "2017-12-06T02:44:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7b691e2a-8c51-11e4-8ebd-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "EpicenterMonster"
+            }
+        },
+        {
+            "time": "2017-12-06T02:45:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "06d29000-6e60-11e4-b7eb-06641bcbf424",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "Gix"
+            }
+        }
+    ],
+    "winner": "another"
+}

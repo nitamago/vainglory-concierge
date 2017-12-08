@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:39:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "93d949e2-e8c2-11e6-90d4-067e8bc536fd",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "Sejzen"
+            }
+        },
+        {
+            "time": "2017-12-06T02:39:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4e0ed46c-87db-11e4-8897-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "SpacedOut"
+            }
+        },
+        {
+            "time": "2017-12-06T02:39:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a793fd60-d059-11e5-a467-06c5ee41a4a5",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "CantNotPlay"
+            }
+        },
+        {
+            "time": "2017-12-06T02:39:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "20fcff6e-f5c4-11e5-a175-06f4ee369f53",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "Alecdead"
+            }
+        },
+        {
+            "time": "2017-12-06T02:39:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f450136c-2269-11e5-8165-06b48b82cd49",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "EliseoR1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:39:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "74c86366-1c6d-11e6-8200-06388a2f2ea7",
+                "Hero": "*Petal*",
+                "Team": "1",
+                "Handle": "GuardianCruz"
+            }
+        }
+    ],
+    "winner": "another"
+}

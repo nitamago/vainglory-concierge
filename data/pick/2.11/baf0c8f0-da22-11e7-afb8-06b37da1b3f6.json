@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:14:33+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:14:35+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:14:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5be325d4-6f08-11e4-bc68-06641bcbf424",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "blazeini"
+            }
+        },
+        {
+            "time": "2017-12-06T01:15:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "55edcda4-8f4c-11e5-b37a-0628b69bf6d1",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "NEWG"
+            }
+        },
+        {
+            "time": "2017-12-06T01:15:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9ad29070-948e-11e5-832e-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Setuiret"
+            }
+        },
+        {
+            "time": "2017-12-06T01:15:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "95057d6a-cc60-11e5-a88e-0628b69bf6d1",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "Erased121212"
+            }
+        },
+        {
+            "time": "2017-12-06T01:15:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c9b362d0-7bfc-11e4-a40b-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "plague_maker"
+            }
+        },
+        {
+            "time": "2017-12-06T01:15:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d2aaf56e-172a-11e5-a78f-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "MagisterX"
+            }
+        }
+    ],
+    "winner": "another"
+}

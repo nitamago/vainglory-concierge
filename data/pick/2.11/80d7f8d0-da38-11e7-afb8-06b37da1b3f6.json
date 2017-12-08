@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:49:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "37e29d4c-cd8b-11e7-a2f3-069ef91bd55c",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "DoNotFarmLane"
+            }
+        },
+        {
+            "time": "2017-12-06T03:50:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "22391466-ddb0-11e5-89f3-06f4ee369f53",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "Asenole"
+            }
+        },
+        {
+            "time": "2017-12-06T03:50:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "947b3386-c38e-11e7-9845-068789513eb5",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "GazingStars12"
+            }
+        },
+        {
+            "time": "2017-12-06T03:50:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "46889dc4-8c84-11e4-bf9c-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Branhippie"
+            }
+        },
+        {
+            "time": "2017-12-06T03:50:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "86735ff2-b5a3-11e5-83df-0628b69bf6d1",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "LiLkill"
+            }
+        },
+        {
+            "time": "2017-12-06T03:50:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "998f7ed2-83ab-11e6-8524-067e8bc536fd",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "MisaCrak"
+            }
+        }
+    ],
+    "winner": "another"
+}

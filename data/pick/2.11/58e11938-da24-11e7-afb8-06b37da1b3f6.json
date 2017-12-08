@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:25:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "789162ec-d92d-11e4-9562-06d90c28bf1a",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "Covmon245"
+            }
+        },
+        {
+            "time": "2017-12-06T01:25:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d9cf7fa6-a836-11e6-86a1-06fc87f1dd11",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "HighCottonOutlaw"
+            }
+        },
+        {
+            "time": "2017-12-06T01:26:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0d157122-7264-11e5-ab8c-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "yixux"
+            }
+        },
+        {
+            "time": "2017-12-06T01:26:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4a7f3534-44f5-11e6-871f-062cb73cdbb1",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "borbetz"
+            }
+        },
+        {
+            "time": "2017-12-06T01:26:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "566b5436-7242-11e4-8ccc-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "COVMON"
+            }
+        },
+        {
+            "time": "2017-12-06T01:26:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "48d4cbd4-cde6-11e6-9406-06a9175d25fa",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "SavageUrsa"
+            }
+        }
+    ],
+    "winner": "another"
+}

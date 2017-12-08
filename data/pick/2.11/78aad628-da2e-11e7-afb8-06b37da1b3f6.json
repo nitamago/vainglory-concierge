@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:38:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e97e1bc6-43f8-11e6-b246-062cb73cdbb1",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "ChickenDoom"
+            }
+        },
+        {
+            "time": "2017-12-06T02:38:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c4430d32-b5cf-11e6-a53a-067e8bc536fd",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "DankyDanky"
+            }
+        },
+        {
+            "time": "2017-12-06T02:38:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e58e4eaa-a533-11e5-98cc-06b48b82cd49",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "Darkbacon"
+            }
+        },
+        {
+            "time": "2017-12-06T02:38:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "821caaa0-713b-11e5-8532-06b48b82cd49",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "colicover"
+            }
+        },
+        {
+            "time": "2017-12-06T02:38:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2bbeb43a-6f76-11e5-8dc3-06eb725f8a76",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "ToomuchTHC"
+            }
+        },
+        {
+            "time": "2017-12-06T02:39:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9b8d148c-d8d5-11e5-89f2-06ab1a16f8e5",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "hallowgod4u"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:20:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0a1ef8ee-c15f-11e6-883f-06f4ee369f53",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "cagemaster"
+            }
+        },
+        {
+            "time": "2017-12-05T23:20:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f557f86a-ce7a-11e6-beb7-06ab1a16f8e5",
+                "Hero": "*Reza*",
+                "Team": "1",
+                "Handle": "Nooblettz"
+            }
+        },
+        {
+            "time": "2017-12-05T23:20:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "eda78e58-a57f-11e4-a17f-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "MartialLaw"
+            }
+        },
+        {
+            "time": "2017-12-05T23:20:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d8ddf050-0d5f-11e5-94c0-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "PrincessKori"
+            }
+        },
+        {
+            "time": "2017-12-05T23:20:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ce5d3672-c94d-11e5-bcd9-06f4ee369f53",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "Mariesia"
+            }
+        },
+        {
+            "time": "2017-12-05T23:20:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ecf30bbe-1b02-11e6-915e-06c5ee41a4a5",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Guacalaqrico"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:36:09+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:36:13+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:36:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "22873fee-3e1c-11e5-9b33-06f4ee369f53",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "MickLion1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:36:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "11e9ef26-c0d3-11e5-addf-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Klaink"
+            }
+        },
+        {
+            "time": "2017-12-06T04:36:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6aa05708-6f90-11e4-a054-06641bcbf424",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "miniep"
+            }
+        },
+        {
+            "time": "2017-12-06T04:37:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "42bf92e8-a541-11e5-b667-06f4ee369f53",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "KillerCross05"
+            }
+        },
+        {
+            "time": "2017-12-06T04:37:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "21c4606a-bcdd-11e5-a5d8-06eb725f8a76",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "Jill01"
+            }
+        },
+        {
+            "time": "2017-12-06T04:37:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b47d6772-118d-11e5-9548-06d90c28bf1a",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "AnimePusiPlz"
+            }
+        }
+    ],
+    "winner": "another"
+}

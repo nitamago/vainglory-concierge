@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:45:57+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Ardan*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:46:03+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:46:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9080c382-2203-11e6-b12e-067e8bc536fd",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "MysticFoX"
+            }
+        },
+        {
+            "time": "2017-12-06T03:46:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "94a4a666-65d1-11e5-81dc-06b48b82cd49",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "PvMonster"
+            }
+        },
+        {
+            "time": "2017-12-06T03:46:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6ac53e28-1afe-11e5-bd69-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "DelirioN"
+            }
+        },
+        {
+            "time": "2017-12-06T03:46:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2ba78a60-631b-11e5-9387-068789513eb5",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "Luxtion"
+            }
+        },
+        {
+            "time": "2017-12-06T03:47:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0f44832a-f1ae-11e4-b7be-06eb725f8a76",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "abscond"
+            }
+        },
+        {
+            "time": "2017-12-06T03:47:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bb7bbda8-bff7-11e5-aa55-06b48b82cd49",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "SaltyLaw"
+            }
+        }
+    ],
+    "winner": "another"
+}

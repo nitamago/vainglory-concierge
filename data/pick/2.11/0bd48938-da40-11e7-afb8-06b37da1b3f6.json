@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:44:07+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:44:11+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:44:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cfedfaf8-927a-11e5-b244-068789513eb5",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "EDGrams"
+            }
+        },
+        {
+            "time": "2017-12-06T04:44:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "01386126-cf9c-11e5-86ec-067e8bc536fd",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "Oyarsa"
+            }
+        },
+        {
+            "time": "2017-12-06T04:44:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b6d95072-8609-11e4-8211-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Webstir"
+            }
+        },
+        {
+            "time": "2017-12-06T04:45:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3e3751d6-329e-11e5-aff8-06d90c28bf1a",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "VGLxMasterx"
+            }
+        },
+        {
+            "time": "2017-12-06T04:45:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d943e2da-8c12-11e4-8566-06eb725f8a76",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "LeNNoX"
+            }
+        },
+        {
+            "time": "2017-12-06T04:45:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d2c5cc36-ddaa-11e4-b467-06eb725f8a76",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "Darkdemon717"
+            }
+        }
+    ],
+    "winner": "another"
+}

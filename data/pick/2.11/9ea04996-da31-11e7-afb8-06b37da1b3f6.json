@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:00:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "55236fb2-6aae-11e6-b9d4-06c5ee41a4a5",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Kharzu"
+            }
+        },
+        {
+            "time": "2017-12-06T03:00:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b30e7654-9269-11e4-b3e7-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Matt0523"
+            }
+        },
+        {
+            "time": "2017-12-06T03:00:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "45fe4912-b152-11e7-ac94-020ecf4900d0",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "WalkingLick"
+            }
+        },
+        {
+            "time": "2017-12-06T03:00:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d701faaa-0987-11e5-a0c2-06eb725f8a76",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "deznuts666"
+            }
+        },
+        {
+            "time": "2017-12-06T03:01:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "33e400aa-7122-11e4-b86c-062d0b175276",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "trashboat"
+            }
+        },
+        {
+            "time": "2017-12-06T03:01:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5d689304-acfb-11e4-a7f0-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "dburnnzz"
+            }
+        }
+    ],
+    "winner": "another"
+}

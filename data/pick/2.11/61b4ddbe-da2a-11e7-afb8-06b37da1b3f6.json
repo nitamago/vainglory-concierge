@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:09:03+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:09:26+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:09:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "192aa1a4-62a3-11e7-9895-02a5820c0f16",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Bodedly"
+            }
+        },
+        {
+            "time": "2017-12-06T02:09:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f41328c8-8d6b-11e4-81a1-06d90c28bf1a",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "Connor13"
+            }
+        },
+        {
+            "time": "2017-12-06T02:10:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "39d92fbc-08e3-11e6-9b06-0628b69bf6d1",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "AntZMaN"
+            }
+        },
+        {
+            "time": "2017-12-06T02:10:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "481a9c5c-cf93-11e5-82a7-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "MerkzisOP"
+            }
+        },
+        {
+            "time": "2017-12-06T02:10:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "333d4bac-ca2b-11e6-afdf-06f4ee369f53",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "YoungerMetro"
+            }
+        },
+        {
+            "time": "2017-12-06T02:10:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d5146124-f406-11e4-bfe7-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Chris89"
+            }
+        }
+    ],
+    "winner": "another"
+}

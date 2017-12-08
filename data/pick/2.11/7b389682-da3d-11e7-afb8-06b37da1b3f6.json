@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:25:42+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:25:46+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Grace*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:25:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0d3e77fa-a213-11e5-95af-06f4ee369f53",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "GhostfaceKillahh"
+            }
+        },
+        {
+            "time": "2017-12-06T04:26:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "21db0ed0-d4ff-11e4-9a45-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "Majinbae"
+            }
+        },
+        {
+            "time": "2017-12-06T04:26:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e5464858-f5a0-11e6-83d6-06b48b82cd49",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "VoxelRush"
+            }
+        },
+        {
+            "time": "2017-12-06T04:26:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2b607fb4-9c61-11e6-9321-067e8bc536fd",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "BloodyOwl"
+            }
+        },
+        {
+            "time": "2017-12-06T04:26:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ffbb394c-cb0f-11e7-b9b1-02ce883f709a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "ILoveMIN"
+            }
+        },
+        {
+            "time": "2017-12-06T04:27:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3e18ee0c-09d1-11e6-911a-062cb73cdbb1",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "HanaYurri"
+            }
+        }
+    ],
+    "winner": "another"
+}

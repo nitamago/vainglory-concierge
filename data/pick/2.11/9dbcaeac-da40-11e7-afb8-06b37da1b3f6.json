@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:48:13+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:48:25+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:48:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "95fcdba8-a2cb-11e7-8392-0297ea8a7ddc",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "ILLINI"
+            }
+        },
+        {
+            "time": "2017-12-06T04:49:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "01d78616-8042-11e4-b62c-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "ALMIGHTYPAIN"
+            }
+        },
+        {
+            "time": "2017-12-06T04:49:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "09496edc-7c75-11e7-be05-020ecf4900d0",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "InakiZorro"
+            }
+        },
+        {
+            "time": "2017-12-06T04:49:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "61155de4-2e6d-11e6-a2f7-06fc87f1dd11",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "GunmasterDraco"
+            }
+        },
+        {
+            "time": "2017-12-06T04:49:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "beeed43c-7590-11e4-b745-06d90c28bf1a",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "sirkillalott"
+            }
+        },
+        {
+            "time": "2017-12-06T04:49:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bb756756-a409-11e4-9d4c-06d90c28bf1a",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "Grvpes"
+            }
+        }
+    ],
+    "winner": "another"
+}

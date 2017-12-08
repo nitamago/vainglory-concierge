@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:11:11+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:11:17+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lance*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:11:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8baad57e-b8df-11e5-98b6-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Put2Rest"
+            }
+        },
+        {
+            "time": "2017-12-06T03:11:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b3f0053a-f0ad-11e5-94e2-06b48b82cd49",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "destrollerdark"
+            }
+        },
+        {
+            "time": "2017-12-06T03:11:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5b3d4930-b67d-11e5-9309-068789513eb5",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Victor1017"
+            }
+        },
+        {
+            "time": "2017-12-06T03:12:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d3931782-e4f6-11e5-bbe0-067e8bc536fd",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "indianajoan"
+            }
+        },
+        {
+            "time": "2017-12-06T03:12:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5d1aab8a-90cb-11e5-a0ee-068789513eb5",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "ChimiX"
+            }
+        },
+        {
+            "time": "2017-12-06T03:12:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7d7be904-a24e-11e5-aecb-06eb725f8a76",
+                "Hero": "*Ozo*",
+                "Team": "2",
+                "Handle": "Jiar284"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

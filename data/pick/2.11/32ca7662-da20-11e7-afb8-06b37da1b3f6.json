@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:56:11+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:56:20+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:56:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "41e91714-47e2-11e7-95b0-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "spaguetti"
+            }
+        },
+        {
+            "time": "2017-12-06T00:56:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f1fdd750-2472-11e6-9be5-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "XaoS"
+            }
+        },
+        {
+            "time": "2017-12-06T00:57:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "150d3aee-58cf-11e5-92bb-068789513eb5",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "DarkHydra2002"
+            }
+        },
+        {
+            "time": "2017-12-06T00:57:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "394f6eee-75f0-11e4-9d68-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "RAiN"
+            }
+        },
+        {
+            "time": "2017-12-06T00:57:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6c128cb2-458c-11e7-8647-020ecf4900d0",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "HIERBA"
+            }
+        },
+        {
+            "time": "2017-12-06T00:57:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "50c362a6-1c93-11e6-93b7-068789513eb5",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "xXxTheReaperxXx"
+            }
+        }
+    ],
+    "winner": "another"
+}

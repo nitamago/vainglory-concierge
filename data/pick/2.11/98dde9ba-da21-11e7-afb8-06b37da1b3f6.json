@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:06:12+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Skye*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:06:16+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:06:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0d8333d4-cb74-11e4-8c14-06d90c28bf1a",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "Funnyman695"
+            }
+        },
+        {
+            "time": "2017-12-06T01:06:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ea9f5fb6-31ba-11e5-a5d5-06d90c28bf1a",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "CrisDan"
+            }
+        },
+        {
+            "time": "2017-12-06T01:06:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "aa2b1818-ecad-11e5-8583-062cb73cdbb1",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "andrew123456"
+            }
+        },
+        {
+            "time": "2017-12-06T01:07:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5ff7efaa-d14a-11e6-85f5-06f4ee369f53",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "cptsweaty"
+            }
+        },
+        {
+            "time": "2017-12-06T01:07:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "631acfde-f195-11e6-868b-0224e22aef46",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "Xtrixx"
+            }
+        },
+        {
+            "time": "2017-12-06T01:07:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c05a237e-67b2-11e6-9fff-0628b69bf6d1",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "Roy1612"
+            }
+        }
+    ],
+    "winner": "another"
+}

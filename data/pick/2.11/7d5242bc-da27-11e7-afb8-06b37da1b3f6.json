@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:48:40+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:48:56+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:49:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ceb36804-bfd2-11e6-b0be-068789513eb5",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "burritochampion"
+            }
+        },
+        {
+            "time": "2017-12-06T01:49:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a4afd0b6-f052-11e4-adc6-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "BossLikeMode"
+            }
+        },
+        {
+            "time": "2017-12-06T01:49:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4b301d12-ac20-11e6-9dd1-06f4ee369f53",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "AcademyOfVillian"
+            }
+        },
+        {
+            "time": "2017-12-06T01:50:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b9d1e0e8-08a2-11e5-af89-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "Josedbz1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:50:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8d287738-2e8e-11e6-a9b2-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "ILiveOnVG"
+            }
+        },
+        {
+            "time": "2017-12-06T01:50:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a5bc674e-9f7a-11e5-b36e-06f4ee369f53",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "darthdavid"
+            }
+        }
+    ],
+    "winner": "another"
+}

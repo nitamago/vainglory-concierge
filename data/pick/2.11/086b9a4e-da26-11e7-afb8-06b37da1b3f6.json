@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:37:49+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:37:54+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:37:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f1b76048-d527-11e6-8ab4-06f4ee369f53",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "demonprinceX"
+            }
+        },
+        {
+            "time": "2017-12-06T01:38:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "40d5f9b2-f1dc-11e5-9c91-06388a2f2ea7",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "BobDeAssassin"
+            }
+        },
+        {
+            "time": "2017-12-06T01:38:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bc58a70c-b8eb-11e6-917f-062cb73cdbb1",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "CelestialZorro"
+            }
+        },
+        {
+            "time": "2017-12-06T01:38:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "db4813f6-6cd2-11e6-a622-0628b69bf6d1",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "MOFAN"
+            }
+        },
+        {
+            "time": "2017-12-06T01:38:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "53b242aa-b1d9-11e4-8e2b-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "ScarletZero"
+            }
+        },
+        {
+            "time": "2017-12-06T01:38:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b642a5fa-03b6-11e7-84da-02081e0fc90e",
+                "Hero": "*Ozo*",
+                "Team": "2",
+                "Handle": "SCORPA"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:32:59+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Skaarf*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:33:07+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:33:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7332187c-764b-11e4-8aaa-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "Hockeywood"
+            }
+        },
+        {
+            "time": "2017-12-06T04:33:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fe3aa7bc-bf25-11e5-9940-06d90c28bf1a",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "Edumask"
+            }
+        },
+        {
+            "time": "2017-12-06T04:33:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "76295274-cf87-11e6-a89c-06f4ee369f53",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Ghostlms"
+            }
+        },
+        {
+            "time": "2017-12-06T04:33:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3a0517ec-e33d-11e5-8262-06fc87f1dd11",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "JMOB"
+            }
+        },
+        {
+            "time": "2017-12-06T04:33:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ac409558-7713-11e4-a5ea-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Kanij"
+            }
+        },
+        {
+            "time": "2017-12-06T04:33:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d2e4500a-9b76-11e4-97dc-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "valkiriakirito"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

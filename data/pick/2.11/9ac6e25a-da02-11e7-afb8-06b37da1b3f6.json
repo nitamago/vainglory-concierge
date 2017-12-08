@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:24:41+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:24:51+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:25:04+0000",
+            "payload": {
+                "Player": "5eba6460-c2c3-11e5-a8be-06b48b82cd49",
+                "Handle": "sakumo",
+                "Hero": "*Lyra*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:25:06+0000",
+            "payload": {
+                "Player": "c176ee66-26a1-11e5-a561-068789513eb5",
+                "Handle": "Shadow250z",
+                "Hero": "*Rona*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:25:07+0000",
+            "payload": {
+                "Player": "69213282-323e-11e5-8bb4-06b48b82cd49",
+                "Handle": "ellag",
+                "Hero": "*Churnwalker*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:25:26+0000",
+            "payload": {
+                "Player": "f8e27ff0-2519-11e7-9351-02f3b4306918",
+                "Handle": "deadroses",
+                "Hero": "*Skye*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:25:45+0000",
+            "payload": {
+                "Player": "5f53f492-29d8-11e5-9603-06b48b82cd49",
+                "Handle": "PicLastInGymClas",
+                "Hero": "*Vox*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:26:01+0000",
+            "payload": {
+                "Player": "d29b1a8e-42a1-11e5-b170-06d90c28bf1a",
+                "Handle": "Heavenssaints",
+                "Hero": "*Adagio*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:49:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4ce98b36-ad44-11e7-9df7-02081e0fc90e",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "MosaicCosmos"
+            }
+        },
+        {
+            "time": "2017-12-06T00:49:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "070d2e12-7343-11e4-aebc-06d90c28bf1a",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "illi"
+            }
+        },
+        {
+            "time": "2017-12-06T00:49:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3c355a44-c912-11e5-91f5-068789513eb5",
+                "Hero": "*Flicker*",
+                "Team": "1",
+                "Handle": "bitchPleAse"
+            }
+        },
+        {
+            "time": "2017-12-06T00:50:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e0b424b4-08a6-11e6-afe8-0628b69bf6d1",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "M3lissa"
+            }
+        },
+        {
+            "time": "2017-12-06T00:50:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cef99f88-3a7a-11e5-9027-06b48b82cd49",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "Zacharia"
+            }
+        },
+        {
+            "time": "2017-12-06T00:50:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1f4b2aea-594d-11e7-b6a9-020ecf4900d0",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "DaGa015"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

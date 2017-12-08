@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:01:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7f8aed90-71f7-11e4-a941-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "JoseyReyes100"
+            }
+        },
+        {
+            "time": "2017-12-06T02:01:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "56a65618-912c-11e4-aadc-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "tieler"
+            }
+        },
+        {
+            "time": "2017-12-06T02:01:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bee8ed4e-97be-11e7-a98a-02f3b4306918",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "DRIVERKING"
+            }
+        },
+        {
+            "time": "2017-12-06T02:01:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "caa04878-9406-11e7-98bf-0297ea8a7ddc",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "Kaiker2004"
+            }
+        },
+        {
+            "time": "2017-12-06T02:01:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8dc351d2-26af-11e5-b334-06b48b82cd49",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "TFdemonio"
+            }
+        },
+        {
+            "time": "2017-12-06T02:02:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4705f7a2-cdbe-11e5-9dbc-06d90c28bf1a",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "IITheorizingII"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

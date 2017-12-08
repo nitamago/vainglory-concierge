@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T22:57:57+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T22:58:01+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T22:58:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4a856804-9acf-11e4-8ebd-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "MisterDuck"
+            }
+        },
+        {
+            "time": "2017-12-05T22:58:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "14abc450-eb93-11e6-a51d-062cb73cdbb1",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "Firenado "
+            }
+        },
+        {
+            "time": "2017-12-05T22:58:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1b68e412-9aaf-11e4-9bf4-06eb725f8a76",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "Si1en3er"
+            }
+        },
+        {
+            "time": "2017-12-05T22:58:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "faafa3fe-4265-11e6-8f18-06d90c28bf1a",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "Moipro"
+            }
+        },
+        {
+            "time": "2017-12-05T22:59:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dfff1a2c-7524-11e4-b3b6-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "shuy"
+            }
+        },
+        {
+            "time": "2017-12-05T22:59:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f9a71a16-7028-11e4-a602-06641bcbf424",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "BryceHarper"
+            }
+        }
+    ],
+    "winner": "another"
+}

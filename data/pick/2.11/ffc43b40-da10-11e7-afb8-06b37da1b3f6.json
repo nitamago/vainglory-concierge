@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:07:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c7a8f2f6-76f6-11e6-a654-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "BoostedRiven"
+            }
+        },
+        {
+            "time": "2017-12-05T23:07:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "95c7dc30-3e51-11e6-a4b0-06eb725f8a76",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "chvrche"
+            }
+        },
+        {
+            "time": "2017-12-05T23:07:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e7b62478-f53d-11e5-aa80-068789513eb5",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "bb888"
+            }
+        },
+        {
+            "time": "2017-12-05T23:08:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d8ac351e-5557-11e7-ad03-02a5820c0f16",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "ASCLTR3"
+            }
+        },
+        {
+            "time": "2017-12-05T23:08:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6aeeccce-cc97-11e6-bf76-067e8bc536fd",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "RCisaZombie765"
+            }
+        },
+        {
+            "time": "2017-12-05T23:08:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ae608cf0-b5bc-11e6-ba20-062cb73cdbb1",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "UnknownZombi"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

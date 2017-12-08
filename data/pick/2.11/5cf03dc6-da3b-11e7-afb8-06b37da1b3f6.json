@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:10:26+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Catherine*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:10:38+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:10:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5a43a17e-2684-11e6-9d71-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "MyLIttlePony54"
+            }
+        },
+        {
+            "time": "2017-12-06T04:10:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b764d66c-e596-11e6-a984-067e8bc536fd",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Purplegod"
+            }
+        },
+        {
+            "time": "2017-12-06T04:11:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "027f79f4-7122-11e4-97bd-062d0b175276",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "BracingFlames"
+            }
+        },
+        {
+            "time": "2017-12-06T04:11:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e82b9842-b047-11e5-b8b7-06f4ee369f53",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "AngosMegas"
+            }
+        },
+        {
+            "time": "2017-12-06T04:11:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3d7153b2-2c7d-11e6-8383-067e8bc536fd",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "lykuz"
+            }
+        },
+        {
+            "time": "2017-12-06T04:11:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bcf0e608-b7d8-11e5-88d7-06b48b82cd49",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "Sanntek"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

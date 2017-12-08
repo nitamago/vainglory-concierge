@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:35:49+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Ozo*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:35:59+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:36:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "98d98938-e5ee-11e6-ad99-06388a2f2ea7",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "BanhTrang"
+            }
+        },
+        {
+            "time": "2017-12-06T01:36:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7e819b4e-fc51-11e4-a535-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Beast29"
+            }
+        },
+        {
+            "time": "2017-12-06T01:36:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e815502c-d5ea-11e6-a79a-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "diskidsavage"
+            }
+        },
+        {
+            "time": "2017-12-06T01:36:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cb110e5e-90ae-11e4-9223-06eb725f8a76",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "GrandDaddyPurp"
+            }
+        },
+        {
+            "time": "2017-12-06T01:37:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d485fee6-70e6-11e4-bc68-06641bcbf424",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "SpicyNoodle"
+            }
+        },
+        {
+            "time": "2017-12-06T01:37:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4c7a6f76-e5eb-11e4-aee7-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "ExoDuS"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:13:38+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:13:47+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:14:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "229462ae-3f38-11e7-b4cd-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "GTogz"
+            }
+        },
+        {
+            "time": "2017-12-06T04:14:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e2ab373a-cb7a-11e5-b17a-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "OrangeGuy52"
+            }
+        },
+        {
+            "time": "2017-12-06T04:14:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dd7f2e4a-7305-11e7-b146-06b48b82cd49",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "Rainful"
+            }
+        },
+        {
+            "time": "2017-12-06T04:14:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "30b7c3bc-edea-11e5-9833-06c5ee41a4a5",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "Phoenixfire21"
+            }
+        },
+        {
+            "time": "2017-12-06T04:15:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2248d56a-626f-11e6-b26c-068789513eb5",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "xXTruthXx"
+            }
+        },
+        {
+            "time": "2017-12-06T04:15:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a5b6b7e6-60d6-11e5-9d5f-06f4ee369f53",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "MUERTEBLANCA"
+            }
+        }
+    ],
+    "winner": "another"
+}

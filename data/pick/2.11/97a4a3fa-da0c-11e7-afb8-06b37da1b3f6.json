@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T22:35:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4f346604-6f3a-11e4-81c7-062d0b175276",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "Pegista"
+            }
+        },
+        {
+            "time": "2017-12-05T22:35:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c56baa2a-7643-11e4-b3b6-06d90c28bf1a",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "BalamQuantum"
+            }
+        },
+        {
+            "time": "2017-12-05T22:36:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dde8f92c-a1f1-11e7-ab75-067e8bc536fd",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "Mentat228"
+            }
+        },
+        {
+            "time": "2017-12-05T22:36:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cfaa2348-f677-11e6-9c68-0223dbc2587a",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "ALEJANDROLT"
+            }
+        },
+        {
+            "time": "2017-12-05T22:36:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e7115262-d5ac-11e7-8f7d-0654fca4c20c",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Trikoi"
+            }
+        },
+        {
+            "time": "2017-12-05T22:36:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "898acc84-0d50-11e6-ba8a-06b48b82cd49",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "InsaneDeath"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

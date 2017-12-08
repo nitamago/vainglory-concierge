@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:33:11+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:33:15+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:33:17+0000",
+            "payload": {
+                "Player": "e4aab850-24b9-11e7-b36d-0263a81144c0",
+                "Handle": "ohsosweet",
+                "Hero": "*Ardan*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:33:27+0000",
+            "payload": {
+                "Player": "9080c382-2203-11e6-b12e-067e8bc536fd",
+                "Handle": "MysticFoX",
+                "Hero": "*Baron*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:33:48+0000",
+            "payload": {
+                "Player": "9fd8d4ba-73c4-11e6-8cab-06d90c28bf1a",
+                "Handle": "KiwiAF",
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:34:09+0000",
+            "payload": {
+                "Player": "d361b982-8e76-11e7-a75a-02866102f5a6",
+                "Handle": "KEMOENDER",
+                "Hero": "*Ringo*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:34:28+0000",
+            "payload": {
+                "Player": "11a12312-b73d-11e5-bc60-06eb725f8a76",
+                "Handle": "Nick40",
+                "Hero": "*Skye*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:34:29+0000",
+            "payload": {
+                "Player": "2d48491e-2d8c-11e5-87d4-06f4ee369f53",
+                "Handle": "NightOwlHD",
+                "Hero": "*Taka*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:51:12+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Baron*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:51:28+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:51:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "46156e4a-8323-11e4-93d5-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Mckullen"
+            }
+        },
+        {
+            "time": "2017-12-06T03:51:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "10c0a274-8592-11e5-951c-068789513eb5",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Hashiramu"
+            }
+        },
+        {
+            "time": "2017-12-06T03:51:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1e46a49a-dc16-11e5-a19e-06388a2f2ea7",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "KaGeGod123"
+            }
+        },
+        {
+            "time": "2017-12-06T03:52:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "53b91f76-48b3-11e7-a244-06d90c28bf1a",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "LaVergaLoca"
+            }
+        },
+        {
+            "time": "2017-12-06T03:52:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "11a36f48-6cdf-11e6-86a2-06fc87f1dd11",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "ThEdArKlOrD"
+            }
+        },
+        {
+            "time": "2017-12-06T03:52:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ae389d16-ed23-11e4-9e70-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "VgColoradoSkum"
+            }
+        }
+    ],
+    "winner": "another"
+}

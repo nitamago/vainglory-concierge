@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:39:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0da9eaf4-673c-11e7-afe3-020ecf4900d0",
+                "Hero": "*Flicker*",
+                "Team": "1",
+                "Handle": "ChikenNuggets"
+            }
+        },
+        {
+            "time": "2017-12-06T01:39:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "12acb628-490f-11e5-92ad-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "sageofthe7th"
+            }
+        },
+        {
+            "time": "2017-12-06T01:39:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d8f8127e-a709-11e6-9752-062cb73cdbb1",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "emurmurmur"
+            }
+        },
+        {
+            "time": "2017-12-06T01:39:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "496241fc-26e8-11e7-8e61-06388a2f2ea7",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "frerosamoli"
+            }
+        },
+        {
+            "time": "2017-12-06T01:39:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "60a73654-9585-11e7-8668-062cb73cdbb1",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "MrMeseeeks"
+            }
+        },
+        {
+            "time": "2017-12-06T01:39:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "21756be4-a0b8-11e6-9bea-067e8bc536fd",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "LoopTheSheep"
+            }
+        }
+    ],
+    "winner": "another"
+}

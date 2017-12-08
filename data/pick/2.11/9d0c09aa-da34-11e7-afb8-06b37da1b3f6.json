@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:22:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a2de8794-bb4a-11e7-89f1-0297ea8a7ddc",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "Osire"
+            }
+        },
+        {
+            "time": "2017-12-06T03:22:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "30d26288-ed33-11e5-8e99-06f4ee369f53",
+                "Hero": "*Grumpjaw*",
+                "Team": "1",
+                "Handle": "croldrin"
+            }
+        },
+        {
+            "time": "2017-12-06T03:22:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7b4dd326-1027-11e6-93b6-0628b69bf6d1",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "Aryisus"
+            }
+        },
+        {
+            "time": "2017-12-06T03:22:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "16c8ca6e-4601-11e5-8c6c-06eb725f8a76",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "Xtuxtron15X"
+            }
+        },
+        {
+            "time": "2017-12-06T03:22:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "27b7d66c-8f6a-11e7-b871-067e8bc536fd",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "TheNewTalent"
+            }
+        },
+        {
+            "time": "2017-12-06T03:22:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "69aff7d6-75fc-11e5-b645-06f4ee369f53",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "doug5756"
+            }
+        }
+    ],
+    "winner": "another"
+}

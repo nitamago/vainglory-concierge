@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T20:36:02+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:36:05+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:36:24+0000",
+            "payload": {
+                "Player": "c0994572-7736-11e4-9faa-06d90c28bf1a",
+                "Handle": "ModuleOne",
+                "Hero": "*Vox*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:36:31+0000",
+            "payload": {
+                "Player": "3d1e62f0-bd52-11e5-aefc-06b48b82cd49",
+                "Handle": "Jackjared",
+                "Hero": "*Ringo*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:36:52+0000",
+            "payload": {
+                "Player": "de0d05b6-e18b-11e4-b877-06d90c28bf1a",
+                "Handle": "maegz",
+                "Hero": "*Ardan*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:37:16+0000",
+            "payload": {
+                "Player": "30442300-b71f-11e5-ba90-0628b69bf6d1",
+                "Handle": "IntoTheNightMare",
+                "Hero": "*Samuel*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:37:35+0000",
+            "payload": {
+                "Player": "4b301d12-ac20-11e6-9dd1-06f4ee369f53",
+                "Handle": "AcademyOfVillian",
+                "Hero": "*Lorelai*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:37:52+0000",
+            "payload": {
+                "Player": "dc6c7fca-af20-11e6-b056-06c5ee41a4a5",
+                "Handle": "AndreAce99",
+                "Hero": "*Koshka*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

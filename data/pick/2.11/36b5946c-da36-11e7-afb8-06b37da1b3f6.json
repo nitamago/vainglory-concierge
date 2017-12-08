@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:33:55+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:34:03+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:34:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5a0aa0b0-f96e-11e5-aa10-06fc87f1dd11",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "DMTestela"
+            }
+        },
+        {
+            "time": "2017-12-06T03:34:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "16612fa8-be65-11e5-a68d-0628b69bf6d1",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "POINTBLANK"
+            }
+        },
+        {
+            "time": "2017-12-06T03:34:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "19c8bbe0-03ae-11e7-aafc-068789513eb5",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "mos3s"
+            }
+        },
+        {
+            "time": "2017-12-06T03:34:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3c39fd3c-7dcd-11e5-9c5d-068789513eb5",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "WubTank3346"
+            }
+        },
+        {
+            "time": "2017-12-06T03:35:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "de1809ee-dbcc-11e4-8ab5-06d90c28bf1a",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "MrWhogotEm"
+            }
+        },
+        {
+            "time": "2017-12-06T03:35:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "81d19d5c-2213-11e5-80d7-06b48b82cd49",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "xetto"
+            }
+        }
+    ],
+    "winner": "another"
+}

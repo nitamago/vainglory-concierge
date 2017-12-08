@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:42:06+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:42:13+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:42:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "befa55e4-f0a6-11e6-935a-06b48b82cd49",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "FadingBlu"
+            }
+        },
+        {
+            "time": "2017-12-06T01:42:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c7071aa0-7458-11e4-aec7-06d90c28bf1a",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "Alpha_Dawg"
+            }
+        },
+        {
+            "time": "2017-12-06T01:42:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "484c8f02-be0d-11e4-8b84-06eb725f8a76",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "Daannyyy"
+            }
+        },
+        {
+            "time": "2017-12-06T01:43:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "89a8b780-fb6d-11e4-8dac-06d90c28bf1a",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "UniqueAveron"
+            }
+        },
+        {
+            "time": "2017-12-06T01:43:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b0d7142e-c205-11e4-8db7-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "leafwolf"
+            }
+        },
+        {
+            "time": "2017-12-06T01:43:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c744c398-8266-11e4-887e-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Azarana"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

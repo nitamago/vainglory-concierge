@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:55:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "20baeff0-8b77-11e5-a731-0628b69bf6d1",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "McGregorAlucard"
+            }
+        },
+        {
+            "time": "2017-12-06T03:56:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0f6f9cf2-222a-11e5-9aa5-06b48b82cd49",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "DubStepZz"
+            }
+        },
+        {
+            "time": "2017-12-06T03:56:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cfbe6380-22d2-11e7-ae27-02a5820c0f16",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Alectho"
+            }
+        },
+        {
+            "time": "2017-12-06T03:56:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5406dba6-78c4-11e4-8b02-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Vashthestampede1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:56:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bca1a8ce-70a6-11e4-85b9-062d0b175276",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "tycovie"
+            }
+        },
+        {
+            "time": "2017-12-06T03:56:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bf5043fc-118e-11e6-ae19-06fc87f1dd11",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "ArkSoulSpeed"
+            }
+        }
+    ],
+    "winner": "another"
+}

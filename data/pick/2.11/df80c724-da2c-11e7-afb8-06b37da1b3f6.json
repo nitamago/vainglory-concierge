@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:27:11+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:27:16+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:27:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "329b9750-97d8-11e7-90d9-020ecf4900d0",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "estuargmz"
+            }
+        },
+        {
+            "time": "2017-12-06T02:27:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0851d978-7e11-11e6-ab4c-06f4ee369f53",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "AwakenDevils"
+            }
+        },
+        {
+            "time": "2017-12-06T02:28:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2fd7788a-37e6-11e5-bda3-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "shreker"
+            }
+        },
+        {
+            "time": "2017-12-06T02:28:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "484c8f02-be0d-11e4-8b84-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Daannyyy"
+            }
+        },
+        {
+            "time": "2017-12-06T02:28:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1ef43594-88af-11e4-b0fa-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Deathwords"
+            }
+        },
+        {
+            "time": "2017-12-06T02:28:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e7506d48-75de-11e4-9ddc-06d90c28bf1a",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "AndraeKMTY"
+            }
+        }
+    ],
+    "winner": "another"
+}

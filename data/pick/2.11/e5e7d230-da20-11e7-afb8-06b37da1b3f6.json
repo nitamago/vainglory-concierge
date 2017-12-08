@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:01:14+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:01:17+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:01:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9664f07e-7359-11e5-ab8c-06eb725f8a76",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "Justthetip"
+            }
+        },
+        {
+            "time": "2017-12-06T01:01:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "305ed2be-ae37-11e4-8d9a-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "BacktoBlack"
+            }
+        },
+        {
+            "time": "2017-12-06T01:01:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9bcff5fa-7688-11e4-9ae1-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "SlipperyWater"
+            }
+        },
+        {
+            "time": "2017-12-06T01:01:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "44ccacfe-7500-11e5-9b49-06f4ee369f53",
+                "Hero": "*Petal*",
+                "Team": "1",
+                "Handle": "Wzposeidon"
+            }
+        },
+        {
+            "time": "2017-12-06T01:01:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "481ba7f8-597e-11e6-a157-067e8bc536fd",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "Oracale"
+            }
+        },
+        {
+            "time": "2017-12-06T01:02:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0e5ce110-8baa-11e4-867a-06eb725f8a76",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "PhatPenguin"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

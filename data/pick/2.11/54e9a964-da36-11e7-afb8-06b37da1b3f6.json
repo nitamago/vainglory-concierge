@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:34:37+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:34:41+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:34:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d943e2da-8c12-11e4-8566-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "LeNNoX"
+            }
+        },
+        {
+            "time": "2017-12-06T03:35:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c1b044b0-3264-11e7-b435-0223dbc2587a",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "SideRaider"
+            }
+        },
+        {
+            "time": "2017-12-06T03:35:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e7aad79c-51b1-11e5-b8df-0628b69bf6d1",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "iAmMETA"
+            }
+        },
+        {
+            "time": "2017-12-06T03:35:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a27d4d20-fd15-11e5-a7ca-06b48b82cd49",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "EyeLeSsTigER"
+            }
+        },
+        {
+            "time": "2017-12-06T03:35:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c5572a64-bb1b-11e5-8152-06d90c28bf1a",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "dave2323"
+            }
+        },
+        {
+            "time": "2017-12-06T03:36:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c55b5e70-db9c-11e6-8110-06fc87f1dd11",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "FERRET"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

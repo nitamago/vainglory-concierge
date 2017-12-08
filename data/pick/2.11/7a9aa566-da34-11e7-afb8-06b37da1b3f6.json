@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:21:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9ee081a2-79e3-11e4-a1d6-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "Pastos"
+            }
+        },
+        {
+            "time": "2017-12-06T03:21:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e7a1bcb6-d6b2-11e6-b3ac-062cb73cdbb1",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Pheonoxis"
+            }
+        },
+        {
+            "time": "2017-12-06T03:21:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7ff53558-72f8-11e5-8f46-06b48b82cd49",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "ryantres"
+            }
+        },
+        {
+            "time": "2017-12-06T03:21:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "02885908-c54d-11e6-8d92-06fc87f1dd11",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "kadael"
+            }
+        },
+        {
+            "time": "2017-12-06T03:21:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "375acbba-12e4-11e5-90bc-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "SlinkyAvalanche"
+            }
+        },
+        {
+            "time": "2017-12-06T03:21:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6e88f5a2-d2dd-11e6-b1a3-06b48b82cd49",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "Devlyn"
+            }
+        }
+    ],
+    "winner": "another"
+}

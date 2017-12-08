@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:14:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "02dc45be-12d3-11e5-80b3-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "RightOne"
+            }
+        },
+        {
+            "time": "2017-12-06T04:15:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c043e97c-04ad-11e7-a1c7-06fc87f1dd11",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Arattzg"
+            }
+        },
+        {
+            "time": "2017-12-06T04:15:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d85e10e8-2602-11e7-bc74-02081e0fc90e",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "IsmaRG"
+            }
+        },
+        {
+            "time": "2017-12-06T04:15:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "63469cf8-8bcc-11e4-81c2-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "Nyphix"
+            }
+        },
+        {
+            "time": "2017-12-06T04:15:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "94e07716-01c3-11e6-93ea-068789513eb5",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "VainNuggets"
+            }
+        },
+        {
+            "time": "2017-12-06T04:15:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6adc0dc8-53df-11e5-90b3-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "InBaconWeTrust2"
+            }
+        }
+    ],
+    "winner": "another"
+}

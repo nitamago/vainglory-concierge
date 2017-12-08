@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T23:16:14+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:16:21+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:16:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9fd2eeb2-6eba-11e4-bc95-06641bcbf424",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Truechoas"
+            }
+        },
+        {
+            "time": "2017-12-05T23:16:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4e555232-31d3-11e5-a200-0628b69bf6d1",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "TheB4ne"
+            }
+        },
+        {
+            "time": "2017-12-05T23:16:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6113879e-27b6-11e5-b354-0628b69bf6d1",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "DINzekeERO"
+            }
+        },
+        {
+            "time": "2017-12-05T23:16:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4675724c-f0c1-11e5-bc5a-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "Nasry07"
+            }
+        },
+        {
+            "time": "2017-12-05T23:17:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dae09748-3c2c-11e6-a0b5-06b48b82cd49",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "XxBingBingxX"
+            }
+        },
+        {
+            "time": "2017-12-05T23:17:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3a41041a-0728-11e5-8b09-06d90c28bf1a",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "Luekocyte"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:56:03+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:56:13+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:56:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c55b5e70-db9c-11e6-8110-06fc87f1dd11",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "FERRET"
+            }
+        },
+        {
+            "time": "2017-12-06T03:56:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bb756756-a409-11e4-9d4c-06d90c28bf1a",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "Grvpes"
+            }
+        },
+        {
+            "time": "2017-12-06T03:56:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c5572a64-bb1b-11e5-8152-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "dave2323"
+            }
+        },
+        {
+            "time": "2017-12-06T03:56:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e1e55520-04db-11e6-b84e-067e8bc536fd",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "ChaoticYeti"
+            }
+        },
+        {
+            "time": "2017-12-06T03:57:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e7aad79c-51b1-11e5-b8df-0628b69bf6d1",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "iAmMETA"
+            }
+        },
+        {
+            "time": "2017-12-06T03:57:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d943e2da-8c12-11e4-8566-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "LeNNoX"
+            }
+        }
+    ],
+    "winner": "another"
+}

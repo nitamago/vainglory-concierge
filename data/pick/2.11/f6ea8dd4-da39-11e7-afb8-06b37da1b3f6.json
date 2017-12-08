@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:00:39+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:00:49+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:00:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cd7846a6-7837-11e4-8aaa-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "trifecta"
+            }
+        },
+        {
+            "time": "2017-12-06T04:01:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2c2c60ca-7d17-11e6-818f-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "InvisibleTroll"
+            }
+        },
+        {
+            "time": "2017-12-06T04:01:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c9410b4a-6ef0-11e4-85cc-06641bcbf424",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "Fatedkiss"
+            }
+        },
+        {
+            "time": "2017-12-06T04:01:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "040249dc-93f2-11e7-a238-020ecf4900d0",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Marky98"
+            }
+        },
+        {
+            "time": "2017-12-06T04:01:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c2ce5424-caee-11e5-bca4-06fc87f1dd11",
+                "Hero": "*Flicker*",
+                "Team": "1",
+                "Handle": "GENERAL7133"
+            }
+        },
+        {
+            "time": "2017-12-06T04:02:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a3aaa2f4-7a5a-11e4-a41a-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "purehemp"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

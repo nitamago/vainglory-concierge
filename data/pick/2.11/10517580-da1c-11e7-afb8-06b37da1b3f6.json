@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:26:33+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:26:35+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:26:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "372e00b0-6ff3-11e4-a054-06641bcbf424",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Lobboy"
+            }
+        },
+        {
+            "time": "2017-12-06T00:27:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "593662f8-8b08-11e4-888b-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "ViirusT"
+            }
+        },
+        {
+            "time": "2017-12-06T00:27:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ee3a5964-222e-11e5-8731-06f4ee369f53",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Lostjustice"
+            }
+        },
+        {
+            "time": "2017-12-06T00:27:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "91cd5f48-7200-11e4-a20b-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "HerHigHness"
+            }
+        },
+        {
+            "time": "2017-12-06T00:27:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f03e6764-c15c-11e5-8463-06eb725f8a76",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "Henrry27"
+            }
+        },
+        {
+            "time": "2017-12-06T00:28:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6b6d1c50-57ae-11e5-a6a5-06f4ee369f53",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "marionso38"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

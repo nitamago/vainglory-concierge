@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:25:19+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:25:40+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:25:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3c9f14b4-7879-11e5-915c-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "OWEN90"
+            }
+        },
+        {
+            "time": "2017-12-06T02:25:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "459f8518-7437-11e4-a232-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "iLoveFlawLesS"
+            }
+        },
+        {
+            "time": "2017-12-06T02:26:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b696a54a-83e5-11e4-a9bb-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "perfext"
+            }
+        },
+        {
+            "time": "2017-12-06T02:26:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f9fb4676-6c7c-11e5-956d-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Sazsa"
+            }
+        },
+        {
+            "time": "2017-12-06T02:26:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3316de2a-dde3-11e5-8605-06fc87f1dd11",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "ELPATOASESINO"
+            }
+        },
+        {
+            "time": "2017-12-06T02:27:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cdbd952e-6d75-11e5-9e8f-06f4ee369f53",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "bichobi"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

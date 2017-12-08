@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:14:09+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:14:28+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:14:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "89b0e382-afa8-11e7-a888-02a5820c0f16",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "AbsoluteGumpy"
+            }
+        },
+        {
+            "time": "2017-12-06T00:14:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4e655f94-1458-11e5-89ad-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "xxlRukialxx"
+            }
+        },
+        {
+            "time": "2017-12-06T00:15:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a0ae7e68-6834-11e5-8239-0628b69bf6d1",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Tsuko"
+            }
+        },
+        {
+            "time": "2017-12-06T00:15:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e8d2899a-d57d-11e4-9d06-06d90c28bf1a",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "Hideandseek"
+            }
+        },
+        {
+            "time": "2017-12-06T00:15:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bf21432a-cc80-11e5-8108-06b48b82cd49",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "TopWo1F"
+            }
+        },
+        {
+            "time": "2017-12-06T00:15:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e96c7cea-22a2-11e5-96d8-0628b69bf6d1",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "MrKrab"
+            }
+        }
+    ],
+    "winner": "another"
+}

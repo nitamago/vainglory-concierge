@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:22:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6abb31a6-b9e2-11e6-9e1f-06fc87f1dd11",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "davone15"
+            }
+        },
+        {
+            "time": "2017-12-06T00:22:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "191bdd94-47d4-11e6-88ea-068789513eb5",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Zantom"
+            }
+        },
+        {
+            "time": "2017-12-06T00:22:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "05fc6b78-7787-11e7-8b63-06ab1a16f8e5",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "amanbappu"
+            }
+        },
+        {
+            "time": "2017-12-06T00:22:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6a85fcc2-b104-11e4-8b7f-06eb725f8a76",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "theconnorparty"
+            }
+        },
+        {
+            "time": "2017-12-06T00:22:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b877f676-9cb1-11e5-a519-06f4ee369f53",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "DmsWarrior"
+            }
+        },
+        {
+            "time": "2017-12-06T00:23:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cd485676-541e-11e5-954c-0628b69bf6d1",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "InTheGates"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

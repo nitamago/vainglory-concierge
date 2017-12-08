@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:01:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0e58e042-c5fb-11e5-a7dc-0628b69bf6d1",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "IvanTheGreatt"
+            }
+        },
+        {
+            "time": "2017-12-06T04:01:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b01975ae-4086-11e5-98f0-06b48b82cd49",
+                "Hero": "*Samuel*",
+                "Team": "1",
+                "Handle": "99percentLuck"
+            }
+        },
+        {
+            "time": "2017-12-06T04:01:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fc8491ba-c25f-11e6-98a0-06c5ee41a4a5",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "SIK27"
+            }
+        },
+        {
+            "time": "2017-12-06T04:01:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a61de59a-c2e0-11e4-9e44-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "RamKaos"
+            }
+        },
+        {
+            "time": "2017-12-06T04:01:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f0080008-bd7e-11e4-8d9a-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "SuMaDik"
+            }
+        },
+        {
+            "time": "2017-12-06T04:01:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f290d762-5998-11e5-b803-0628b69bf6d1",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "tibu"
+            }
+        }
+    ],
+    "winner": "another"
+}

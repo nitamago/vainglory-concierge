@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:11:59+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:12:05+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:12:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4c99660e-c24b-11e6-800e-06f4ee369f53",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "ShaperOfWorlds"
+            }
+        },
+        {
+            "time": "2017-12-05T23:12:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2d6e500a-d87f-11e7-a6cd-069ef91bd55c",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "HideOnBushTransi"
+            }
+        },
+        {
+            "time": "2017-12-05T23:12:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "baeebe7e-ed8f-11e5-aefd-06ab1a16f8e5",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Doom13117"
+            }
+        },
+        {
+            "time": "2017-12-05T23:12:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fc0f4746-cc31-11e4-9157-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Chaos15"
+            }
+        },
+        {
+            "time": "2017-12-05T23:13:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a081a578-8b11-11e5-bfe5-068789513eb5",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "PKNY"
+            }
+        },
+        {
+            "time": "2017-12-05T23:13:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "81cbbbbc-161a-11e5-a694-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "terryence"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

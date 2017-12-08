@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:33:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2508a82c-7f6a-11e5-a058-06f4ee369f53",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "Daydarknes"
+            }
+        },
+        {
+            "time": "2017-12-06T02:33:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f88798fc-6a6e-11e7-ae86-0297ea8a7ddc",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Revioux"
+            }
+        },
+        {
+            "time": "2017-12-06T02:33:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "aad0fb42-ac13-11e4-bf33-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "Gallin"
+            }
+        },
+        {
+            "time": "2017-12-06T02:33:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "05559958-2115-11e5-826a-06eb725f8a76",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "Visery"
+            }
+        },
+        {
+            "time": "2017-12-06T02:33:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6ac8a52a-79fe-11e7-b805-0297ea8a7ddc",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "InfamousKnight"
+            }
+        },
+        {
+            "time": "2017-12-06T02:33:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "84b3e1d0-8310-11e4-888b-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "swagcat"
+            }
+        }
+    ],
+    "winner": "another"
+}

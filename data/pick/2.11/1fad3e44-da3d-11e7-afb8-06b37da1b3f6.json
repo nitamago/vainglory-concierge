@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:23:19+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:23:29+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:23:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5eba6460-c2c3-11e5-a8be-06b48b82cd49",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "sakumo"
+            }
+        },
+        {
+            "time": "2017-12-06T04:23:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c083b582-21ee-11e5-a2f8-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Raaseraphic"
+            }
+        },
+        {
+            "time": "2017-12-06T04:23:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d3237aa8-21ec-11e5-a663-06eb725f8a76",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "SmoothlyGuzman"
+            }
+        },
+        {
+            "time": "2017-12-06T04:24:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6b7fe46e-a9fe-11e5-89f4-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Phyxxius"
+            }
+        },
+        {
+            "time": "2017-12-06T04:24:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fc4519aa-bbd9-11e5-976c-06f4ee369f53",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "iLoveTDSakumoJ"
+            }
+        },
+        {
+            "time": "2017-12-06T04:24:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "54cf56d0-21c5-11e5-92bc-068789513eb5",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "HootTheHootle"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

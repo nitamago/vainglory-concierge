@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T20:47:51+0000",
+            "payload": {
+                "Player": "e7573e04-0565-11e5-be41-06d90c28bf1a",
+                "Handle": "blackshirt",
+                "Hero": "*Varya*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:47:55+0000",
+            "payload": {
+                "Player": "13da3f1a-38e4-11e5-aa71-06f4ee369f53",
+                "Handle": "KidEdamame",
+                "Hero": "*Ringo*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:48:11+0000",
+            "payload": {
+                "Player": "0ffabb3c-d703-11e5-8d76-06b48b82cd49",
+                "Handle": "Gingervitus77",
+                "Hero": "*Alpha*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:48:15+0000",
+            "payload": {
+                "Player": "889317f2-5a61-11e5-8c4d-06eb725f8a76",
+                "Handle": "GodsDescend",
+                "Hero": "*Lance*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:48:34+0000",
+            "payload": {
+                "Player": "53109e3a-e28b-11e5-b081-06d90c28bf1a",
+                "Handle": "Lash2000",
+                "Hero": "*Phinn*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:48:39+0000",
+            "payload": {
+                "Player": "ed49eb7e-927b-11e5-8d1b-06b48b82cd49",
+                "Handle": "krorychop",
+                "Hero": "*Joule*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

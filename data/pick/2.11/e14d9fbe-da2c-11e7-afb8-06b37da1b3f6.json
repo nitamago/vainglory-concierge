@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:26:52+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:27:06+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:27:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7d526f24-4d12-11e6-b456-068789513eb5",
+                "Hero": "*Flicker*",
+                "Team": "1",
+                "Handle": "TheMyteGamer"
+            }
+        },
+        {
+            "time": "2017-12-06T02:27:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "11d8890e-34ef-11e5-bb6c-068789513eb5",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "LucarioFTW"
+            }
+        },
+        {
+            "time": "2017-12-06T02:27:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c7b4011e-25a3-11e5-b320-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "DABLAZE1217"
+            }
+        },
+        {
+            "time": "2017-12-06T02:28:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "888a83a6-b999-11e6-a863-068789513eb5",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "Jesus1563"
+            }
+        },
+        {
+            "time": "2017-12-06T02:28:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f1645ede-cd84-11e6-962b-06a9175d25fa",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "K3V1NSSJBLUE"
+            }
+        },
+        {
+            "time": "2017-12-06T02:28:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "727751c8-268a-11e5-b334-06b48b82cd49",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "CelebiFTW"
+            }
+        }
+    ],
+    "winner": "another"
+}

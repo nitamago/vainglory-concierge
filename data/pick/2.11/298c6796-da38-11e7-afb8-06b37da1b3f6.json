@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:47:53+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:48:05+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:48:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "71085f04-c6c0-11e5-b7f4-0628b69bf6d1",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Rebornjoe47"
+            }
+        },
+        {
+            "time": "2017-12-06T03:48:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "987ea4ae-2236-11e6-929d-06fc87f1dd11",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "ArceusTheGod"
+            }
+        },
+        {
+            "time": "2017-12-06T03:48:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "21cb1422-cfe2-11e7-af98-069ef91bd55c",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "MoiraDelaTorre"
+            }
+        },
+        {
+            "time": "2017-12-06T03:48:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "84a29976-b0e3-11e7-ba9a-06a9175d25fa",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "MisterNinja"
+            }
+        },
+        {
+            "time": "2017-12-06T03:49:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "68939eae-6ed0-11e4-af50-062d0b175276",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "angelwolf"
+            }
+        },
+        {
+            "time": "2017-12-06T03:49:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fad0dc68-ca0b-11e5-a7b7-0628b69bf6d1",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "trishp9"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

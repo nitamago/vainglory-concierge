@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:46:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a08dd600-6f75-11e7-a9b8-06388a2f2ea7",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "osedd"
+            }
+        },
+        {
+            "time": "2017-12-06T01:46:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ef961086-d08d-11e7-866e-02ce883f709a",
+                "Hero": "*Ozo*",
+                "Team": "1",
+                "Handle": "SnpM"
+            }
+        },
+        {
+            "time": "2017-12-06T01:46:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9c830114-2613-11e5-8b4f-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "FantasticPony"
+            }
+        },
+        {
+            "time": "2017-12-06T01:46:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b18391a2-6674-11e7-b86f-06f4ee369f53",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "TauntingGiants"
+            }
+        },
+        {
+            "time": "2017-12-06T01:46:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8384fa2c-71f6-11e4-a8db-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "Royal7"
+            }
+        },
+        {
+            "time": "2017-12-06T01:46:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5257d8f6-cc9b-11e5-b309-06d90c28bf1a",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "SoulslashX"
+            }
+        }
+    ],
+    "winner": "another"
+}

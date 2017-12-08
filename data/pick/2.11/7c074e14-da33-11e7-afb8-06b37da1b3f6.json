@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:14:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "da554442-ebd5-11e5-8375-06b48b82cd49",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "AdaCurtis"
+            }
+        },
+        {
+            "time": "2017-12-06T03:14:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a6b8be7a-1fc4-11e6-9b4d-067e8bc536fd",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Gabo536"
+            }
+        },
+        {
+            "time": "2017-12-06T03:14:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b2038bdc-5b59-11e5-b39d-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "robscott"
+            }
+        },
+        {
+            "time": "2017-12-06T03:14:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "646633d8-0c12-11e6-80d2-067e8bc536fd",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Sora2000"
+            }
+        },
+        {
+            "time": "2017-12-06T03:15:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6b0ca8dc-0a43-11e6-a1cf-06fc87f1dd11",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Submaius"
+            }
+        },
+        {
+            "time": "2017-12-06T03:15:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "72e80178-e5fe-11e5-b8be-067e8bc536fd",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "LordKami"
+            }
+        }
+    ],
+    "winner": "another"
+}

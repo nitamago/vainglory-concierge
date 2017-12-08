@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:12:18+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:12:47+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:12:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "726540ec-4770-11e7-920e-06b48b82cd49",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "DRL3CHUG4"
+            }
+        },
+        {
+            "time": "2017-12-06T02:13:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cb998e10-7151-11e7-b4f5-06d90c28bf1a",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "astroninja0007"
+            }
+        },
+        {
+            "time": "2017-12-06T02:13:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "89467ebc-2177-11e7-a538-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "doncarlosjr"
+            }
+        },
+        {
+            "time": "2017-12-06T02:13:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b154c5e8-2b69-11e7-a528-06a9175d25fa",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "FrancoGuest55"
+            }
+        },
+        {
+            "time": "2017-12-06T02:13:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4099928c-24cc-11e7-84e9-06eb725f8a76",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "kratoszeus"
+            }
+        },
+        {
+            "time": "2017-12-06T02:13:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dc15a644-2c81-11e7-843a-06388a2f2ea7",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "YungOpac91uWs"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

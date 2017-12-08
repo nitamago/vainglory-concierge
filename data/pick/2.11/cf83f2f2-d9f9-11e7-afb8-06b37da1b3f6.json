@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T20:21:14+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:21:23+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:21:42+0000",
+            "payload": {
+                "Player": "6e473e66-b49b-11e5-a752-06d90c28bf1a",
+                "Handle": "WhoopsMyBad",
+                "Hero": "*Ardan*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:22:01+0000",
+            "payload": {
+                "Player": "1dd14e72-f707-11e6-8f59-0263a81144c0",
+                "Handle": "HalcyonGlorious",
+                "Hero": "*Grace*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:22:24+0000",
+            "payload": {
+                "Player": "6a1429ca-3641-11e7-8787-020ecf4900d0",
+                "Handle": "TURALE",
+                "Hero": "*Vox*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:22:35+0000",
+            "payload": {
+                "Player": "b632b45a-9a2c-11e5-b2a2-068789513eb5",
+                "Handle": "takawood",
+                "Hero": "*Skye*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:22:52+0000",
+            "payload": {
+                "Player": "9e8aa356-94a2-11e5-9816-0628b69bf6d1",
+                "Handle": "BREEZEblock98",
+                "Hero": "*Ringo*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:22:54+0000",
+            "payload": {
+                "Player": "fad0dc68-ca0b-11e5-a7b7-0628b69bf6d1",
+                "Handle": "trishp9",
+                "Hero": "*Taka*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

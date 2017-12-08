@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:53:31+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:53:35+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:53:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "47340f7e-bafb-11e4-b4e8-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "LunarCat"
+            }
+        },
+        {
+            "time": "2017-12-06T02:54:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "60e5643e-3325-11e5-bf7c-06eb725f8a76",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "DaniBanani"
+            }
+        },
+        {
+            "time": "2017-12-06T02:54:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f9fb4676-6c7c-11e5-956d-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Sazsa"
+            }
+        },
+        {
+            "time": "2017-12-06T02:54:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "80fbc886-b01a-11e5-8d4b-06d90c28bf1a",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "BasicSnooze"
+            }
+        },
+        {
+            "time": "2017-12-06T02:55:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a22059ba-0803-11e5-94c1-06eb725f8a76",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "spinXO"
+            }
+        },
+        {
+            "time": "2017-12-06T02:55:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e21700d8-18fb-11e5-95b2-06d90c28bf1a",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "ThatONEGuy"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

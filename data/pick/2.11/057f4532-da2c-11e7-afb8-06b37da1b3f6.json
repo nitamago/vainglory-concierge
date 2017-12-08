@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:20:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "39d4f692-f1d0-11e5-bbde-06b48b82cd49",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "EnkiEaAnunnaki"
+            }
+        },
+        {
+            "time": "2017-12-06T02:20:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4a4a4676-b6e3-11e5-a057-0628b69bf6d1",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Antmode"
+            }
+        },
+        {
+            "time": "2017-12-06T02:20:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f8c25ae8-9df3-11e6-ab10-06b48b82cd49",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Genigma"
+            }
+        },
+        {
+            "time": "2017-12-06T02:20:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "37d26e10-c3c6-11e6-a2fe-062cb73cdbb1",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "BlitzChillin"
+            }
+        },
+        {
+            "time": "2017-12-06T02:20:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cc07e5f8-732d-11e7-bf52-06eb725f8a76",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "Lynchpyn"
+            }
+        },
+        {
+            "time": "2017-12-06T02:21:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d2f7c5d2-d1af-11e7-8900-025e5fb8fe9e",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "DaRealWeen"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

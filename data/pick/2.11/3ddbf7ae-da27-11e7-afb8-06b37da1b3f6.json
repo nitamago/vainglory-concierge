@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:46:25+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:46:36+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:46:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4de2061e-5cae-11e5-8f98-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "shortmtman"
+            }
+        },
+        {
+            "time": "2017-12-06T01:47:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5f4c828e-7817-11e4-9d68-06d90c28bf1a",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "TheArcher"
+            }
+        },
+        {
+            "time": "2017-12-06T01:47:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "be0822c0-03cb-11e5-a800-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "Zer0DeAth"
+            }
+        },
+        {
+            "time": "2017-12-06T01:47:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "78f633dc-5d5f-11e5-bc85-06eb725f8a76",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "Manda1or"
+            }
+        },
+        {
+            "time": "2017-12-06T01:47:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d8f2fb1c-9400-11e5-ac76-068789513eb5",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "Rayray19"
+            }
+        },
+        {
+            "time": "2017-12-06T01:47:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fd7e03a8-2454-11e5-8ede-0628b69bf6d1",
+                "Hero": "*Reza*",
+                "Team": "2",
+                "Handle": "XehvizYT"
+            }
+        }
+    ],
+    "winner": "another"
+}

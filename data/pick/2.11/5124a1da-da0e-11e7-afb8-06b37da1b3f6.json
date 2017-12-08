@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T22:48:26+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Ardan*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T22:48:34+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T22:48:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6a06670e-be0c-11e4-8dd4-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "Calamity"
+            }
+        },
+        {
+            "time": "2017-12-05T22:49:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1ae5d204-f4bf-11e6-bf9e-06fc87f1dd11",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "sokt"
+            }
+        },
+        {
+            "time": "2017-12-05T22:49:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "616801b0-ba55-11e6-9b56-068789513eb5",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "TheREALdirtyDan"
+            }
+        },
+        {
+            "time": "2017-12-05T22:49:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "84f73dc4-bb07-11e5-bbc3-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Euan32"
+            }
+        },
+        {
+            "time": "2017-12-05T22:49:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ced34082-0bf8-11e5-8449-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "VileBeast"
+            }
+        },
+        {
+            "time": "2017-12-05T22:50:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1491bf84-701f-11e4-b7eb-06641bcbf424",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "TidaIWave"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

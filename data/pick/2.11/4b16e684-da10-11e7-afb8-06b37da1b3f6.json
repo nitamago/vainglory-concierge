@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T23:02:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a75dfaa0-d7a3-11e7-9017-06b672bd5be2",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "InfinityForce"
+            }
+        },
+        {
+            "time": "2017-12-05T23:02:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8f13af9a-6ea5-11e4-a9c4-06641bcbf424",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "whosoever"
+            }
+        },
+        {
+            "time": "2017-12-05T23:02:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3393e9d2-7d96-11e4-93ab-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "punys"
+            }
+        },
+        {
+            "time": "2017-12-05T23:02:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1098cd36-702f-11e4-b7eb-06641bcbf424",
+                "Hero": "*Samuel*",
+                "Team": "1",
+                "Handle": "Stax"
+            }
+        },
+        {
+            "time": "2017-12-05T23:02:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "547bd89a-4bb6-11e6-941b-06f4ee369f53",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "xXDarkKestrelXx"
+            }
+        },
+        {
+            "time": "2017-12-05T23:02:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "adb6bc12-9f74-11e4-9a9d-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Figget "
+            }
+        }
+    ],
+    "winner": "another"
+}

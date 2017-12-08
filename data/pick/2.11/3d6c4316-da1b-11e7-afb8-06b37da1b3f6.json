@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:20:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a75dfaa0-d7a3-11e7-9017-06b672bd5be2",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "InfinityForce"
+            }
+        },
+        {
+            "time": "2017-12-06T00:20:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c300790c-cd78-11e7-8e77-02ce883f709a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Kur0Sensei"
+            }
+        },
+        {
+            "time": "2017-12-06T00:20:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "93c8edba-72ac-11e4-9533-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "h0m3gr0wn"
+            }
+        },
+        {
+            "time": "2017-12-06T00:20:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "10dc4e10-25c5-11e6-bf08-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "EvoCerberus"
+            }
+        },
+        {
+            "time": "2017-12-06T00:21:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6045f570-cd08-11e5-9df1-06388a2f2ea7",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "KAYZDER"
+            }
+        },
+        {
+            "time": "2017-12-06T00:21:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c1903b6e-0566-11e7-a2de-02a5820c0f16",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "GiovanniCs"
+            }
+        }
+    ],
+    "winner": "another"
+}

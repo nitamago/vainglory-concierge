@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:40:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "40bdb714-79e0-11e4-8b95-06d90c28bf1a",
+                "Hero": "*Flicker*",
+                "Team": "2",
+                "Handle": "Phigment"
+            }
+        },
+        {
+            "time": "2017-12-06T04:40:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "eb6b09b4-e843-11e5-940f-06c5ee41a4a5",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "ScarletRaven"
+            }
+        },
+        {
+            "time": "2017-12-06T04:40:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3fa38276-2878-11e6-8e4b-068789513eb5",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "7john9"
+            }
+        },
+        {
+            "time": "2017-12-06T04:40:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "eaec2ec2-ab3b-11e5-8fb9-06d90c28bf1a",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "elharry"
+            }
+        },
+        {
+            "time": "2017-12-06T04:40:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a1a733e6-5907-11e5-b9b4-06b48b82cd49",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "venomstrikez"
+            }
+        },
+        {
+            "time": "2017-12-06T04:40:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f11697ce-a900-11e6-86bb-06c5ee41a4a5",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "RobinSaikou"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:41:57+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:41:59+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:42:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "846995e2-e776-11e4-8d72-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "DryRyeBread"
+            }
+        },
+        {
+            "time": "2017-12-06T03:42:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "417ccffc-f37d-11e4-b675-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "briran44"
+            }
+        },
+        {
+            "time": "2017-12-06T03:42:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c0994572-7736-11e4-9faa-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "ModuleOne"
+            }
+        },
+        {
+            "time": "2017-12-06T03:43:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "eaf30c18-e77f-11e4-bae8-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Jigglybro"
+            }
+        },
+        {
+            "time": "2017-12-06T03:43:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "28f46b58-4b05-11e6-ae0c-06ab1a16f8e5",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "LyKen0226"
+            }
+        },
+        {
+            "time": "2017-12-06T03:43:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9bcff5fa-7688-11e4-9ae1-06d90c28bf1a",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "SlipperyWater"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

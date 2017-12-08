@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:43:59+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Ardan*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:44:02+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:44:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5e90188e-dd81-11e6-8d5c-06ab1a16f8e5",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "onkive"
+            }
+        },
+        {
+            "time": "2017-12-06T03:44:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e0c59dd0-7be6-11e6-ba42-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "CuckHeadVG"
+            }
+        },
+        {
+            "time": "2017-12-06T03:44:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9936f84e-ae63-11e4-8e2b-06eb725f8a76",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "ParkourDaikiri"
+            }
+        },
+        {
+            "time": "2017-12-06T03:44:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "884a4bca-3596-11e5-a077-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "oliver90"
+            }
+        },
+        {
+            "time": "2017-12-06T03:44:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c9709156-8932-11e4-9c3a-06eb725f8a76",
+                "Hero": "*Reza*",
+                "Team": "1",
+                "Handle": "prophasis"
+            }
+        },
+        {
+            "time": "2017-12-06T03:45:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "39697076-c745-11e5-b05f-0628b69bf6d1",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "Xator"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:09:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "80b80eac-6aba-11e5-8ff9-068789513eb5",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "OogyBoogyMan"
+            }
+        },
+        {
+            "time": "2017-12-06T01:09:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "096dfbb2-3929-11e5-81f2-0628b69bf6d1",
+                "Hero": "*Grumpjaw*",
+                "Team": "1",
+                "Handle": "fayth22"
+            }
+        },
+        {
+            "time": "2017-12-06T01:09:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fe9cb6d2-4cd2-11e7-8fd8-062cb73cdbb1",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "goldgymast"
+            }
+        },
+        {
+            "time": "2017-12-06T01:09:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "508c3c84-b8ee-11e6-845e-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "Tykian"
+            }
+        },
+        {
+            "time": "2017-12-06T01:09:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9a19abfc-d9a1-11e5-962f-06388a2f2ea7",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "NightRaid24"
+            }
+        },
+        {
+            "time": "2017-12-06T01:09:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e4f0cc38-176d-11e5-bf9d-06eb725f8a76",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "Nostradamus007"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:42:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "827c24c2-3bbe-11e7-9465-0297ea8a7ddc",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "JOSUEIII"
+            }
+        },
+        {
+            "time": "2017-12-06T02:42:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9cd8b7d6-8216-11e4-af7c-06eb725f8a76",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "jona1990"
+            }
+        },
+        {
+            "time": "2017-12-06T02:43:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "21db0ed0-d4ff-11e4-9a45-06eb725f8a76",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "Majinbae"
+            }
+        },
+        {
+            "time": "2017-12-06T02:43:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a611503e-a9d8-11e5-9306-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "pzhou"
+            }
+        },
+        {
+            "time": "2017-12-06T02:43:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9e5e477e-6efb-11e5-980c-068789513eb5",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "Bellnic"
+            }
+        },
+        {
+            "time": "2017-12-06T02:43:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "88867f8c-827c-11e4-9c29-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "Thr3e"
+            }
+        }
+    ],
+    "winner": "another"
+}

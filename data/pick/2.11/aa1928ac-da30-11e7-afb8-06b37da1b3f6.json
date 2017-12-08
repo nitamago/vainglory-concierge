@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:54:16+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:54:27+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:54:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ac859258-7387-11e6-a467-06ab1a16f8e5",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "GabrielVZ"
+            }
+        },
+        {
+            "time": "2017-12-06T02:55:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "25a80b76-72d5-11e4-bd86-06d90c28bf1a",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "TXGR3DL1NK"
+            }
+        },
+        {
+            "time": "2017-12-06T02:55:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b3f9192a-3e7a-11e6-baca-06b48b82cd49",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "PyroLegacy"
+            }
+        },
+        {
+            "time": "2017-12-06T02:55:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "adf97b1a-203e-11e5-9d73-0628b69bf6d1",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "MrBadabuchi"
+            }
+        },
+        {
+            "time": "2017-12-06T02:55:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d92cf052-7a38-11e4-9fcd-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "nightstar451"
+            }
+        },
+        {
+            "time": "2017-12-06T02:56:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0eb564dc-4f42-11e5-a74a-0628b69bf6d1",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "TXGCrimson"
+            }
+        }
+    ],
+    "winner": "another"
+}

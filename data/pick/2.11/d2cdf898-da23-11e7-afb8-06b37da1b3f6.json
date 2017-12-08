@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:22:21+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:22:34+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:22:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c14f11fc-fc9c-11e6-ba7c-02f3b4306918",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "doom2099"
+            }
+        },
+        {
+            "time": "2017-12-06T01:22:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c7b4011e-25a3-11e5-b320-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "DABLAZE1217"
+            }
+        },
+        {
+            "time": "2017-12-06T01:22:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "727751c8-268a-11e5-b334-06b48b82cd49",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "CelebiFTW"
+            }
+        },
+        {
+            "time": "2017-12-06T01:23:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bae20558-f6c8-11e4-92fe-06d90c28bf1a",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "Kengie"
+            }
+        },
+        {
+            "time": "2017-12-06T01:23:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5d00051c-5a98-11e7-ba38-0224e22aef46",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "XxRaichuxX"
+            }
+        },
+        {
+            "time": "2017-12-06T01:23:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "11d8890e-34ef-11e5-bb6c-068789513eb5",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "LucarioFTW"
+            }
+        }
+    ],
+    "winner": "another"
+}

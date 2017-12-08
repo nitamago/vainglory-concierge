@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:34:20+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:34:26+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:34:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "49546900-84dd-11e5-b338-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Mrswag101"
+            }
+        },
+        {
+            "time": "2017-12-06T03:34:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "eeb47d3e-473b-11e5-9190-0628b69bf6d1",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "KAMALEON115"
+            }
+        },
+        {
+            "time": "2017-12-06T03:35:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "daa80ff8-77e9-11e4-a9c0-06d90c28bf1a",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "carlosgontier"
+            }
+        },
+        {
+            "time": "2017-12-06T03:35:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dfaeb61e-dfcc-11e4-b081-06eb725f8a76",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "ChickenTheGod"
+            }
+        },
+        {
+            "time": "2017-12-06T03:35:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7a23953a-7379-11e5-9d17-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "YukishiroTomoe"
+            }
+        },
+        {
+            "time": "2017-12-06T03:35:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5121f8f8-2382-11e5-96e1-0628b69bf6d1",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "Blooby"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

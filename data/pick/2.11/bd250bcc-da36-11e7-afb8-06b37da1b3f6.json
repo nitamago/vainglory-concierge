@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:37:38+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:38:07+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:38:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d66ac6b0-abb7-11e7-ac95-067e8bc536fd",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "TxBryan"
+            }
+        },
+        {
+            "time": "2017-12-06T03:38:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "937670de-6fdd-11e4-a36d-06641bcbf424",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "RandallFlagg"
+            }
+        },
+        {
+            "time": "2017-12-06T03:39:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c6dd4a76-c228-11e5-a156-0628b69bf6d1",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "RainbowSteaks"
+            }
+        },
+        {
+            "time": "2017-12-06T03:39:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "87c13b8c-1aba-11e6-9258-06f4ee369f53",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "Mervilluex"
+            }
+        },
+        {
+            "time": "2017-12-06T03:39:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "92ed1fce-26c9-11e6-9b3d-0628b69bf6d1",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Brabribroto16"
+            }
+        },
+        {
+            "time": "2017-12-06T03:39:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "39f69048-d3a0-11e5-9ea6-067e8bc536fd",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "HDSynders"
+            }
+        }
+    ],
+    "winner": "another"
+}

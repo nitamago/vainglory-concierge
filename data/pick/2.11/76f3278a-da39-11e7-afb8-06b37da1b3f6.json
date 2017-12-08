@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:56:57+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:57:02+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:57:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ae65b016-4b46-11e7-9295-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "Poosea"
+            }
+        },
+        {
+            "time": "2017-12-06T03:57:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "49546900-84dd-11e5-b338-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Mrswag101"
+            }
+        },
+        {
+            "time": "2017-12-06T03:57:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7a23953a-7379-11e5-9d17-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "YukishiroTomoe"
+            }
+        },
+        {
+            "time": "2017-12-06T03:57:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "92e4c35c-7364-11e4-95eb-06d90c28bf1a",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "Veelox"
+            }
+        },
+        {
+            "time": "2017-12-06T03:58:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fd7e03a8-2454-11e5-8ede-0628b69bf6d1",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "XehvizYT"
+            }
+        },
+        {
+            "time": "2017-12-06T03:58:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "410949e2-d18d-11e7-8c8a-0654fca4c20c",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "SenpaiMarc"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

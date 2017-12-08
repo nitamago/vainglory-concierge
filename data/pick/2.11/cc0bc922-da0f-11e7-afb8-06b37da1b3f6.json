@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T22:58:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ceb36804-bfd2-11e6-b0be-068789513eb5",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "burritochampion"
+            }
+        },
+        {
+            "time": "2017-12-05T22:58:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4711ad06-126c-11e7-8427-062cb73cdbb1",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Spitfire148"
+            }
+        },
+        {
+            "time": "2017-12-05T22:58:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "96a6d6b2-07b7-11e7-ba92-02a5820c0f16",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "SLICKonPC"
+            }
+        },
+        {
+            "time": "2017-12-05T22:58:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3ccb81fa-213c-11e5-b1e4-068789513eb5",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "CrypticSenses"
+            }
+        },
+        {
+            "time": "2017-12-05T22:58:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f31f929c-3cf7-11e7-8d11-020355b21670",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Quintero1996"
+            }
+        },
+        {
+            "time": "2017-12-05T22:58:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d587f046-82a3-11e4-93e7-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "AntArmy"
+            }
+        }
+    ],
+    "winner": "another"
+}

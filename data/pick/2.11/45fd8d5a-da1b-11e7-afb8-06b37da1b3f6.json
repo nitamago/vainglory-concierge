@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:20:54+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:21:04+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:21:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "83668370-104e-11e5-8cda-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "WT123"
+            }
+        },
+        {
+            "time": "2017-12-06T00:21:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "acca7560-6ab6-11e5-b2fa-068789513eb5",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "LoveReimi"
+            }
+        },
+        {
+            "time": "2017-12-06T00:21:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3c87acc0-8bfa-11e7-8b5a-067e8bc536fd",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "ILoveNabi"
+            }
+        },
+        {
+            "time": "2017-12-06T00:22:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d4ec3cc0-43cb-11e5-8f89-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "TreeCko"
+            }
+        },
+        {
+            "time": "2017-12-06T00:22:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0510408e-3f86-11e6-976d-062cb73cdbb1",
+                "Hero": "*Ozo*",
+                "Team": "1",
+                "Handle": "GhostHusky"
+            }
+        },
+        {
+            "time": "2017-12-06T00:23:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bf9f91d4-2817-11e5-9611-06b48b82cd49",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "Iumii"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:56:14+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:56:33+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Ardan*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:56:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c670b064-a540-11e5-8bce-068789513eb5",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Seiyoku"
+            }
+        },
+        {
+            "time": "2017-12-06T03:56:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "466bab40-7ff9-11e7-8101-06388a2f2ea7",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "BuiIldDefense"
+            }
+        },
+        {
+            "time": "2017-12-06T03:56:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "01a47828-34e9-11e5-8ae7-0628b69bf6d1",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "bluer123"
+            }
+        },
+        {
+            "time": "2017-12-06T03:57:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "21fb0b14-064a-11e5-af33-06eb725f8a76",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "Mattbanq"
+            }
+        },
+        {
+            "time": "2017-12-06T03:57:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8055e232-d0b8-11e4-a0e2-06d90c28bf1a",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "MemeGodGio"
+            }
+        },
+        {
+            "time": "2017-12-06T03:57:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "71d42322-af74-11e5-99c5-068789513eb5",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "Fezzz"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

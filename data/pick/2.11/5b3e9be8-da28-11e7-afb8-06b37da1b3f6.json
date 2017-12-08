@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:54:51+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:55:01+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:55:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1c9f4e82-842c-11e4-8cbd-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "BigP0ppa"
+            }
+        },
+        {
+            "time": "2017-12-06T01:55:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "84a29976-b0e3-11e7-ba9a-06a9175d25fa",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "MisterNinja"
+            }
+        },
+        {
+            "time": "2017-12-06T01:56:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "68939eae-6ed0-11e4-af50-062d0b175276",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "angelwolf"
+            }
+        },
+        {
+            "time": "2017-12-06T01:56:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "23b31eb0-6342-11e5-b6e1-06f4ee369f53",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "darkbebba"
+            }
+        },
+        {
+            "time": "2017-12-06T01:56:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f1495ec4-dec1-11e6-819f-06388a2f2ea7",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "TrainableRelic"
+            }
+        },
+        {
+            "time": "2017-12-06T01:56:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9936f84e-ae63-11e4-8e2b-06eb725f8a76",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "ParkourDaikiri"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:06:21+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:06:46+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:07:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "87a50f92-03fb-11e5-be24-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "KitSun0"
+            }
+        },
+        {
+            "time": "2017-12-06T01:07:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "73d81d18-e7f1-11e4-8e6d-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "w0on"
+            }
+        },
+        {
+            "time": "2017-12-06T01:07:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "50cab9da-e1f9-11e6-a01e-06b48b82cd49",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "pillshatner"
+            }
+        },
+        {
+            "time": "2017-12-06T01:07:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "05b67e1e-7dc4-11e6-858a-06eb725f8a76",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "Galger"
+            }
+        },
+        {
+            "time": "2017-12-06T01:07:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fe4e000e-c7d2-11e5-a8db-06b48b82cd49",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "JackJo13"
+            }
+        },
+        {
+            "time": "2017-12-06T01:07:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "282ff1ec-106e-11e5-8671-06eb725f8a76",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "ofs"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:26:50+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:26:55+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:26:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3df6f974-2af0-11e6-8d75-06f4ee369f53",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "XxCyBerDeMonxX"
+            }
+        },
+        {
+            "time": "2017-12-06T03:27:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "36cd0162-7042-11e4-8e49-062d0b175276",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Dragonmasta"
+            }
+        },
+        {
+            "time": "2017-12-06T03:27:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "07dcc028-c8a9-11e7-b4bd-06b672bd5be2",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "Ahorasoypior"
+            }
+        },
+        {
+            "time": "2017-12-06T03:27:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b9015c66-5e1f-11e5-890a-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "nighabro"
+            }
+        },
+        {
+            "time": "2017-12-06T03:27:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b2b861c6-725a-11e4-aca5-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "DevilsHoleSaint"
+            }
+        },
+        {
+            "time": "2017-12-06T03:27:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "58398c62-35f7-11e7-acf5-02a5820c0f16",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "zorg24"
+            }
+        }
+    ],
+    "winner": "another"
+}

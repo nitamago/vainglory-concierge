@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T22:34:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a4e5667c-d806-11e4-981f-06d90c28bf1a",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "STLMatAmi"
+            }
+        },
+        {
+            "time": "2017-12-05T22:34:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3ade7d36-7301-11e5-86df-06f4ee369f53",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "psichodelix"
+            }
+        },
+        {
+            "time": "2017-12-05T22:34:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ab8aefaa-a526-11e4-84bf-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Killface90"
+            }
+        },
+        {
+            "time": "2017-12-05T22:34:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5663d49a-0333-11e5-a535-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "ButtBandit"
+            }
+        },
+        {
+            "time": "2017-12-05T22:34:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e844a334-0662-11e6-b3b1-06b48b82cd49",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "PrinkaPro"
+            }
+        },
+        {
+            "time": "2017-12-05T22:35:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "488c677c-87b4-11e6-81b2-062cb73cdbb1",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "Cyrusborg"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

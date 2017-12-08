@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:47:36+0000",
+            "payload": {
+                "Player": "d3f2a2de-c7d6-11e5-a11e-068789513eb5",
+                "Handle": "ThantosKilla",
+                "Hero": "*Alpha*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:47:50+0000",
+            "payload": {
+                "Player": "19a6c446-8ded-11e5-95c3-06b48b82cd49",
+                "Handle": "Lobo002",
+                "Hero": "*Taka*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:47:53+0000",
+            "payload": {
+                "Player": "1ae0b9aa-99e6-11e7-b38e-06388a2f2ea7",
+                "Handle": "Gaburias445",
+                "Hero": "*Baron*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:47:55+0000",
+            "payload": {
+                "Player": "8f2a7762-c2f9-11e5-908e-06b48b82cd49",
+                "Handle": "Lawrence123",
+                "Hero": "*Baron*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:47:56+0000",
+            "payload": {
+                "Player": "e018fa08-e86b-11e5-8cdb-06b48b82cd49",
+                "Handle": "scykoh15",
+                "Hero": "*Churnwalker*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:48:21+0000",
+            "payload": {
+                "Player": "47d37be4-60fe-11e7-b35f-06a9175d25fa",
+                "Handle": "Uzibear",
+                "Hero": "*Ardan*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

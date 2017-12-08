@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:32:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "80cb21b4-a2fe-11e5-b02a-068789513eb5",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "RagazaWolf"
+            }
+        },
+        {
+            "time": "2017-12-06T03:32:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "727a0d56-952a-11e4-9439-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "FrankDion"
+            }
+        },
+        {
+            "time": "2017-12-06T03:32:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "89bd485a-485f-11e5-8aab-06f4ee369f53",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "Minatothefirst"
+            }
+        },
+        {
+            "time": "2017-12-06T03:32:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "11d520be-2312-11e5-9220-06b48b82cd49",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "CATGIRL"
+            }
+        },
+        {
+            "time": "2017-12-06T03:33:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "23848c20-04ca-11e5-b9b2-06eb725f8a76",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "Ganoboy"
+            }
+        },
+        {
+            "time": "2017-12-06T03:33:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7adb216c-225e-11e5-bc10-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "Odkoo"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

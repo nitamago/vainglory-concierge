@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:02:09+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:02:12+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:02:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dce255e8-2e1a-11e5-ab0f-06eb725f8a76",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "DocDrum"
+            }
+        },
+        {
+            "time": "2017-12-06T00:02:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5a59d814-2cd3-11e5-afc4-068789513eb5",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "AIakazam"
+            }
+        },
+        {
+            "time": "2017-12-06T00:02:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "84a0cfc0-641c-11e6-b7d6-0628b69bf6d1",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "GankaSaurusRex"
+            }
+        },
+        {
+            "time": "2017-12-06T00:02:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "45e25bf4-3930-11e5-add1-06f4ee369f53",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "godofallpower"
+            }
+        },
+        {
+            "time": "2017-12-06T00:02:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b3efa63c-d3af-11e5-9b75-06c5ee41a4a5",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "ItsKamina"
+            }
+        },
+        {
+            "time": "2017-12-06T00:03:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "aa27a52c-a6c3-11e6-8534-06c5ee41a4a5",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "ModeIo"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

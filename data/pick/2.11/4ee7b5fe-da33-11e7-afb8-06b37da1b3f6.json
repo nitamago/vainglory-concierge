@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:13:13+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:13:26+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Catherine*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:13:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "608b5a42-084b-11e6-871c-068789513eb5",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "SunGodRa15"
+            }
+        },
+        {
+            "time": "2017-12-06T03:14:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "139999f2-6cfb-11e4-b09f-06641bcbf424",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "iDianeri"
+            }
+        },
+        {
+            "time": "2017-12-06T03:14:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d1e4c182-6cfd-11e4-b98f-062d0b175276",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "DIANITA13"
+            }
+        },
+        {
+            "time": "2017-12-06T03:14:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7a23953a-7379-11e5-9d17-06d90c28bf1a",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "YukishiroTomoe"
+            }
+        },
+        {
+            "time": "2017-12-06T03:14:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "49546900-84dd-11e5-b338-06d90c28bf1a",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "Mrswag101"
+            }
+        },
+        {
+            "time": "2017-12-06T03:15:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "257492fc-9100-11e4-9223-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "fordonius"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:26:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a48a0b2a-fe0b-11e5-93da-06ab1a16f8e5",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "BluThund3r"
+            }
+        },
+        {
+            "time": "2017-12-06T02:26:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1340eb76-d8d0-11e5-aee4-06b48b82cd49",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "grumbly"
+            }
+        },
+        {
+            "time": "2017-12-06T02:26:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b730684e-399b-11e5-9633-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "ElpirataX"
+            }
+        },
+        {
+            "time": "2017-12-06T02:27:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "46ac1a9c-a21b-11e7-89e8-020355b21670",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "mclov1n"
+            }
+        },
+        {
+            "time": "2017-12-06T02:27:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f2f9b0c8-8ed8-11e5-b414-068789513eb5",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "ExLand"
+            }
+        },
+        {
+            "time": "2017-12-06T02:27:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a7e89ddc-7d90-11e5-b583-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "herbs"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

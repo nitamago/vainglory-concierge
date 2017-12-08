@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:37:04+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:37:09+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:37:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "85464f5e-8589-11e4-ac6d-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "Mitch1014"
+            }
+        },
+        {
+            "time": "2017-12-06T03:37:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "97c59100-7f1f-11e4-98ee-06eb725f8a76",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "josias"
+            }
+        },
+        {
+            "time": "2017-12-06T03:37:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d6d5f672-e488-11e4-a667-06d90c28bf1a",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "Oblivionz"
+            }
+        },
+        {
+            "time": "2017-12-06T03:37:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1140618a-9e22-11e7-8b03-06fc87f1dd11",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "AragornDragon"
+            }
+        },
+        {
+            "time": "2017-12-06T03:37:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dce6c81e-242c-11e5-87e4-06eb725f8a76",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "Pepsi1937"
+            }
+        },
+        {
+            "time": "2017-12-06T03:38:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a18662da-7148-11e4-a933-062d0b175276",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "G1GGL3S"
+            }
+        }
+    ],
+    "winner": "another"
+}

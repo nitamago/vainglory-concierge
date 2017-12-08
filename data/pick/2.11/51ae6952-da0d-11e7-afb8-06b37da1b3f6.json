@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T22:41:08+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Baptiste*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T22:41:19+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T22:41:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e1672606-0b24-11e6-9846-062cb73cdbb1",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "magicstick5"
+            }
+        },
+        {
+            "time": "2017-12-05T22:42:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4f342964-b660-11e5-a038-0628b69bf6d1",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "SacrificiaL"
+            }
+        },
+        {
+            "time": "2017-12-05T22:42:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8d278eee-943f-11e4-9ad5-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "TehTony444"
+            }
+        },
+        {
+            "time": "2017-12-05T22:42:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e82b9842-b047-11e5-b8b7-06f4ee369f53",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "AngosMegas"
+            }
+        },
+        {
+            "time": "2017-12-05T22:42:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5a43a17e-2684-11e6-9d71-06d90c28bf1a",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "MyLIttlePony54"
+            }
+        },
+        {
+            "time": "2017-12-05T22:42:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2990b672-50f3-11e6-b9c3-06388a2f2ea7",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "dparkdamin"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

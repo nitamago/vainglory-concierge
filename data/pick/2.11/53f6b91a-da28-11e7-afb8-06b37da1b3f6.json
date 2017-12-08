@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:54:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5b948c6c-8975-11e4-887e-06eb725f8a76",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "AChosenOne"
+            }
+        },
+        {
+            "time": "2017-12-06T01:54:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "089065b0-f55a-11e6-97dd-06fc87f1dd11",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Roodabega"
+            }
+        },
+        {
+            "time": "2017-12-06T01:54:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9cd28c98-7ddd-11e6-9b2b-06fc87f1dd11",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Carry4free"
+            }
+        },
+        {
+            "time": "2017-12-06T01:54:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c5ea30ac-ceae-11e4-8a5a-06d90c28bf1a",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "Charun"
+            }
+        },
+        {
+            "time": "2017-12-06T01:54:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "900623da-fde9-11e6-8790-02a5820c0f16",
+                "Hero": "*Reza*",
+                "Team": "1",
+                "Handle": "gang2x"
+            }
+        },
+        {
+            "time": "2017-12-06T01:54:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "97b8fab6-abeb-11e7-828f-0224e22aef46",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "LNrecy"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

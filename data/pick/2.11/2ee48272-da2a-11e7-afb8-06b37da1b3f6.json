@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:07:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "89ca8b88-75ff-11e4-a232-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Hiya360"
+            }
+        },
+        {
+            "time": "2017-12-06T02:07:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f2c73ac4-e97f-11e5-b1c5-06b48b82cd49",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "friendlyfarmer"
+            }
+        },
+        {
+            "time": "2017-12-06T02:07:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dffe751e-529a-11e5-b910-0628b69bf6d1",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "SaykiO"
+            }
+        },
+        {
+            "time": "2017-12-06T02:07:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a415c2b6-7ed3-11e7-9d62-062cb73cdbb1",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "SummerOf88"
+            }
+        },
+        {
+            "time": "2017-12-06T02:07:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "58877f2a-959b-11e4-a422-06eb725f8a76",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "baseleonis"
+            }
+        },
+        {
+            "time": "2017-12-06T02:08:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "190d38f2-75df-11e4-a2d6-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "thebundi"
+            }
+        }
+    ],
+    "winner": "another"
+}

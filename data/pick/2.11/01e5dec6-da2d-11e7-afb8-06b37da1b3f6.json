@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:27:41+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:27:47+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:27:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "587ee90a-752f-11e4-aec7-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "pandacatbear"
+            }
+        },
+        {
+            "time": "2017-12-06T02:27:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b480b7dc-d4c4-11e6-8d1f-06eb725f8a76",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "GenghisRhaye619"
+            }
+        },
+        {
+            "time": "2017-12-06T02:28:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ca20c3fc-c219-11e5-888e-06b48b82cd49",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Ahlam2001"
+            }
+        },
+        {
+            "time": "2017-12-06T02:28:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "69d16b46-3686-11e6-9476-0628b69bf6d1",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Starco"
+            }
+        },
+        {
+            "time": "2017-12-06T02:28:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "38eda87c-944e-11e4-b47c-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Permuh"
+            }
+        },
+        {
+            "time": "2017-12-06T02:28:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "87348be0-de94-11e5-ba2c-06ab1a16f8e5",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "JstInTme"
+            }
+        }
+    ],
+    "winner": "another"
+}

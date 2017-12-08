@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:39:47+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:40:12+0000",
+            "payload": {
+                "Hero": "*Petal*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:40:33+0000",
+            "payload": {
+                "Player": "3a0fc21a-c7ad-11e5-877e-068789513eb5",
+                "Handle": "Ratajkowskii",
+                "Hero": "*Samuel*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:40:51+0000",
+            "payload": {
+                "Player": "6709b33c-29f8-11e5-bc14-06eb725f8a76",
+                "Handle": "HowlingWalker",
+                "Hero": "*Catherine*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:40:55+0000",
+            "payload": {
+                "Player": "280d003a-3b91-11e5-8b54-0628b69bf6d1",
+                "Handle": "RoyBrandt",
+                "Hero": "*Ringo*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:41:19+0000",
+            "payload": {
+                "Player": "60a3d446-06da-11e5-be3e-06eb725f8a76",
+                "Handle": "Shanku4yourtime",
+                "Hero": "*Lyra*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:41:35+0000",
+            "payload": {
+                "Player": "0e5ce110-8baa-11e4-867a-06eb725f8a76",
+                "Handle": "PhatPenguin",
+                "Hero": "*Lorelai*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:41:45+0000",
+            "payload": {
+                "Player": "dd7f2e4a-7305-11e7-b146-06b48b82cd49",
+                "Handle": "Rainful",
+                "Hero": "*Taka*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

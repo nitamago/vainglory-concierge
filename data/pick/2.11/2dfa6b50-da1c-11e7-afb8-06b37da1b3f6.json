@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:27:15+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:27:16+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:27:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ca01dc28-31cf-11e6-a319-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "iLovejesus"
+            }
+        },
+        {
+            "time": "2017-12-06T00:27:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5d98eebe-3800-11e6-9fa1-06ab1a16f8e5",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Mystery73"
+            }
+        },
+        {
+            "time": "2017-12-06T00:27:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "71d42322-af74-11e5-99c5-068789513eb5",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Fezzz"
+            }
+        },
+        {
+            "time": "2017-12-06T00:27:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "783d4dd6-f6e3-11e5-ab80-068789513eb5",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "FeelsOnWheels"
+            }
+        },
+        {
+            "time": "2017-12-06T00:28:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cc2bd642-8efc-11e4-a8d3-06d90c28bf1a",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "XyberJosh"
+            }
+        },
+        {
+            "time": "2017-12-06T00:28:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0d9253ba-5b10-11e5-94d6-06f4ee369f53",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Kumino"
+            }
+        }
+    ],
+    "winner": "another"
+}

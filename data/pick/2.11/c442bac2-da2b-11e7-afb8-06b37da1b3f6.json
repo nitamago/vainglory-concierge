@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:19:22+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:19:31+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Catherine*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:19:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "68b35d7e-bd09-11e5-b311-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Libra89"
+            }
+        },
+        {
+            "time": "2017-12-06T02:20:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7b691e2a-8c51-11e4-8ebd-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "EpicenterMonster"
+            }
+        },
+        {
+            "time": "2017-12-06T02:20:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "49043d44-b4aa-11e4-afa8-06eb725f8a76",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "GreenXerxT"
+            }
+        },
+        {
+            "time": "2017-12-06T02:20:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b96aefa2-bb11-11e4-a9af-06eb725f8a76",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "jpog22"
+            }
+        },
+        {
+            "time": "2017-12-06T02:20:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2a1cbd92-1f22-11e5-b42f-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "TuPaPa"
+            }
+        },
+        {
+            "time": "2017-12-06T02:21:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0ee3e522-1eeb-11e6-9bc9-06f4ee369f53",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Remy1706"
+            }
+        }
+    ],
+    "winner": "another"
+}

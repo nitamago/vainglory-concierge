@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:48:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e6ab07e2-a813-11e4-a9bb-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Phaerun "
+            }
+        },
+        {
+            "time": "2017-12-06T01:48:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "27f7f652-4e1c-11e5-beb2-0628b69bf6d1",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "RinneganOotusuki"
+            }
+        },
+        {
+            "time": "2017-12-06T01:48:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2cb5ce8c-5322-11e7-b021-020ecf4900d0",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "ACM96"
+            }
+        },
+        {
+            "time": "2017-12-06T01:48:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "637213b4-a9f9-11e5-9a4f-06f4ee369f53",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "Zelkron"
+            }
+        },
+        {
+            "time": "2017-12-06T01:48:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4fdaf944-12bc-11e5-b415-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Rid0ncuIus"
+            }
+        },
+        {
+            "time": "2017-12-06T01:48:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f2b2bf8c-6344-11e7-9fb8-06b48b82cd49",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "InsaneVelocity"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

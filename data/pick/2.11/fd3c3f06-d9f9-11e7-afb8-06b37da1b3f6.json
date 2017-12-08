@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T20:22:36+0000",
+            "payload": {
+                "Hero": "*Skye*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:22:46+0000",
+            "payload": {
+                "Hero": "*Alpha*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:23:06+0000",
+            "payload": {
+                "Player": "afe2e4ac-20e3-11e5-948f-06eb725f8a76",
+                "Handle": "BeanStalker",
+                "Hero": "*Ardan*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:23:21+0000",
+            "payload": {
+                "Player": "c5f6ad5e-6660-11e7-8c67-06fc87f1dd11",
+                "Handle": "iLOveAudrey",
+                "Hero": "*Vox*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:23:43+0000",
+            "payload": {
+                "Player": "c97bf68a-9d50-11e5-a6f9-06f4ee369f53",
+                "Handle": "chaoszombie521",
+                "Hero": "*Glaive*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:24:02+0000",
+            "payload": {
+                "Player": "54cf56d0-21c5-11e5-92bc-068789513eb5",
+                "Handle": "HootTheHootle",
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:24:07+0000",
+            "payload": {
+                "Player": "f6bac696-9222-11e5-a799-06f4ee369f53",
+                "Handle": "DivineStorm",
+                "Hero": "*Ringo*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:24:31+0000",
+            "payload": {
+                "Player": "82b7cde8-0c70-11e6-bb15-06eb725f8a76",
+                "Handle": "TBGDre",
+                "Hero": "*Baptiste*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

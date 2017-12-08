@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:57:21+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:57:49+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Ringo*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:58:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b3f0053a-f0ad-11e5-94e2-06b48b82cd49",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "destrollerdark"
+            }
+        },
+        {
+            "time": "2017-12-06T03:58:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5add5a48-2563-11e6-8f55-067e8bc536fd",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "bigbaby21"
+            }
+        },
+        {
+            "time": "2017-12-06T03:58:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bffe9078-7361-11e4-a29d-06d90c28bf1a",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "jalex2050"
+            }
+        },
+        {
+            "time": "2017-12-06T03:58:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7d7be904-a24e-11e5-aecb-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Jiar284"
+            }
+        },
+        {
+            "time": "2017-12-06T03:58:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "91658fa2-d5c4-11e5-ab98-06ab1a16f8e5",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "senpaikaneki"
+            }
+        },
+        {
+            "time": "2017-12-06T03:59:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c71a2388-72dd-11e4-a8db-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "zRichie"
+            }
+        }
+    ],
+    "winner": "another"
+}

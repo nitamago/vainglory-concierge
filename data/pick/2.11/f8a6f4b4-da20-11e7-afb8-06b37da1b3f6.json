@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:02:03+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:02:15+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Churnwalker*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:02:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d942d45e-8734-11e4-b997-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "JaecheonDaesong"
+            }
+        },
+        {
+            "time": "2017-12-06T01:02:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "45f4d208-2b33-11e5-850b-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "HelIoKItty"
+            }
+        },
+        {
+            "time": "2017-12-06T01:03:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0ee1163c-3482-11e7-8516-02866102f5a6",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "LoveScars"
+            }
+        },
+        {
+            "time": "2017-12-06T01:03:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "66bfaf34-8d5a-11e4-947f-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "GOODLUCKHAVEFUN"
+            }
+        },
+        {
+            "time": "2017-12-06T01:03:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "088f7c2a-6a5f-11e7-b2cb-020ecf4900d0",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "KQNGSTA"
+            }
+        },
+        {
+            "time": "2017-12-06T01:04:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c57f9476-5a59-11e6-8fb7-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "DoYouKnowYLOL"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

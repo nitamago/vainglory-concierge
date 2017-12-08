@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:12:48+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:12:56+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:13:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "54ca2928-69d5-11e5-b267-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Electroys"
+            }
+        },
+        {
+            "time": "2017-12-06T03:13:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "52d6d28e-9b44-11e4-8566-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "DemonPooper"
+            }
+        },
+        {
+            "time": "2017-12-06T03:14:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "372320a4-d465-11e6-9e38-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "ChocoYT"
+            }
+        },
+        {
+            "time": "2017-12-06T03:14:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "619e16f4-b283-11e5-8465-0628b69bf6d1",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "AcceI"
+            }
+        },
+        {
+            "time": "2017-12-06T03:14:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a8a5f110-f394-11e4-9f6f-06eb725f8a76",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "ShiroiYakashi"
+            }
+        },
+        {
+            "time": "2017-12-06T03:14:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "086fe64e-9bc9-11e7-a2e2-029cb633549e",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Ajr"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

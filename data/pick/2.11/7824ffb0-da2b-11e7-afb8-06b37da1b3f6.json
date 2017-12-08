@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:16:37+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Koshka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:16:40+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Alpha*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:16:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f926649a-dd2b-11e5-8e87-06fc87f1dd11",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "Tach1bana"
+            }
+        },
+        {
+            "time": "2017-12-06T02:16:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3ece8898-956d-11e6-af64-06ab1a16f8e5",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "d1ego12"
+            }
+        },
+        {
+            "time": "2017-12-06T02:17:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "de1809ee-dbcc-11e4-8ab5-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "MrWhogotEm"
+            }
+        },
+        {
+            "time": "2017-12-06T02:17:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "69213282-323e-11e5-8bb4-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "ellag"
+            }
+        },
+        {
+            "time": "2017-12-06T02:17:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b9742ec0-05ea-11e7-92a6-020ecf4900d0",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "JanJinyoung"
+            }
+        },
+        {
+            "time": "2017-12-06T02:17:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2483c200-d865-11e7-9fd0-069ef91bd55c",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "Vaporfly"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

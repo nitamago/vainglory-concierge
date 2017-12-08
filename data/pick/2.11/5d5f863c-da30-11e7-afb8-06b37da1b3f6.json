@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:52:11+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:52:27+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:52:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3f72db0e-713a-11e4-a7c9-06641bcbf424",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "iGabe"
+            }
+        },
+        {
+            "time": "2017-12-06T02:52:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1932e8bc-39bb-11e6-a60a-068789513eb5",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "Suzsano"
+            }
+        },
+        {
+            "time": "2017-12-06T02:53:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e7f35860-367f-11e6-9451-06f4ee369f53",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "Legendork"
+            }
+        },
+        {
+            "time": "2017-12-06T02:53:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bcdea612-8809-11e6-ae95-067e8bc536fd",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "StarFire49"
+            }
+        },
+        {
+            "time": "2017-12-06T02:53:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0dbf128c-60e6-11e7-90ab-020355b21670",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Jayhawk157"
+            }
+        },
+        {
+            "time": "2017-12-06T02:53:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "48c871e8-3667-11e6-a3ca-06388a2f2ea7",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Crimzoncrusade"
+            }
+        }
+    ],
+    "winner": "another"
+}

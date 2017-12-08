@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:11:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f3e86e70-7250-11e4-b201-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Krummer"
+            }
+        },
+        {
+            "time": "2017-12-06T01:11:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "af5a6c64-74c2-11e7-875a-02f3b4306918",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "RoyalMegaPickle"
+            }
+        },
+        {
+            "time": "2017-12-06T01:11:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "805975ce-91db-11e6-b83d-067e8bc536fd",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "hanshotfirst1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:11:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "78e1ab00-735a-11e4-af34-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "slayer650"
+            }
+        },
+        {
+            "time": "2017-12-06T01:11:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d9f425a4-5f17-11e5-becf-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "SmokedOut247"
+            }
+        },
+        {
+            "time": "2017-12-06T01:11:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4eb94a3c-05df-11e5-b6e7-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Pious"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:29:52+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Churnwalker*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:30:11+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:30:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5cf60c84-7b26-11e7-aa66-062cb73cdbb1",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "morgIay"
+            }
+        },
+        {
+            "time": "2017-12-06T02:30:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bb7bbda8-bff7-11e5-aa55-06b48b82cd49",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "SaltyLaw"
+            }
+        },
+        {
+            "time": "2017-12-06T02:31:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "94a4a666-65d1-11e5-81dc-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "PvMonster"
+            }
+        },
+        {
+            "time": "2017-12-06T02:31:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c4c611f6-5fee-11e5-b36b-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "kangmj1031"
+            }
+        },
+        {
+            "time": "2017-12-06T02:31:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cb5e507a-92f9-11e6-9ab3-06388a2f2ea7",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "andrew223"
+            }
+        },
+        {
+            "time": "2017-12-06T02:32:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cec4cfdc-01c3-11e5-b8cd-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "AryaHuntress"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

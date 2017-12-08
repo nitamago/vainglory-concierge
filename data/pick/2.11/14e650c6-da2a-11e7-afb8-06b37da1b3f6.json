@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:07:01+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Joule*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:07:11+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Vox*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:07:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9ad29070-948e-11e5-832e-06d90c28bf1a",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "Setuiret"
+            }
+        },
+        {
+            "time": "2017-12-06T02:07:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "52f14d80-8280-11e4-9f55-06eb725f8a76",
+                "Hero": "*Grumpjaw*",
+                "Team": "2",
+                "Handle": "TgateYaBish"
+            }
+        },
+        {
+            "time": "2017-12-06T02:07:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3ba25e24-6e1d-11e5-bd71-0628b69bf6d1",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "Sisar1234"
+            }
+        },
+        {
+            "time": "2017-12-06T02:08:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fc0f4746-cc31-11e4-9157-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Chaos15"
+            }
+        },
+        {
+            "time": "2017-12-06T02:08:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2fa3f260-ddd7-11e6-aab6-067e8bc536fd",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "LetsFaceTimeBubu"
+            }
+        },
+        {
+            "time": "2017-12-06T02:08:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0a231e26-97b1-11e4-9f18-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Hirozx"
+            }
+        }
+    ],
+    "winner": "another"
+}

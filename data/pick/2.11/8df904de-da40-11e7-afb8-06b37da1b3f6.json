@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:47:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "37e29d4c-cd8b-11e7-a2f3-069ef91bd55c",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "DoNotFarmLane"
+            }
+        },
+        {
+            "time": "2017-12-06T04:47:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2404076a-560e-11e7-8b4c-02081e0fc90e",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "MrPineapple27"
+            }
+        },
+        {
+            "time": "2017-12-06T04:48:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2f470204-cf5a-11e4-917c-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "EMPIER"
+            }
+        },
+        {
+            "time": "2017-12-06T04:48:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "90b41fa0-a090-11e6-a7c8-06f4ee369f53",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "potatoeswins"
+            }
+        },
+        {
+            "time": "2017-12-06T04:48:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4fa6738c-364f-11e7-a0f8-02b3611af5e6",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "Blacksnow031"
+            }
+        },
+        {
+            "time": "2017-12-06T04:48:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0fd4615e-50a6-11e6-9152-06388a2f2ea7",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Stealthfox"
+            }
+        }
+    ],
+    "winner": "another"
+}

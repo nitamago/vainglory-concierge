@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:26:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d3f2a2de-c7d6-11e5-a11e-068789513eb5",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "ThantosKilla"
+            }
+        },
+        {
+            "time": "2017-12-06T01:26:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "27d29754-5817-11e5-9b0f-06b48b82cd49",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Th3BuTch3R"
+            }
+        },
+        {
+            "time": "2017-12-06T01:26:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4195ffde-d482-11e7-b646-06b672bd5be2",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "imbadatvg"
+            }
+        },
+        {
+            "time": "2017-12-06T01:26:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "54dfe3fe-59b6-11e6-bb5c-068789513eb5",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "DickSword"
+            }
+        },
+        {
+            "time": "2017-12-06T01:26:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "33aa20be-a0da-11e4-947f-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "lady"
+            }
+        },
+        {
+            "time": "2017-12-06T01:26:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cb40f61a-7513-11e5-8e98-0628b69bf6d1",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "AxelKVC"
+            }
+        }
+    ],
+    "winner": "another"
+}

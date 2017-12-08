@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:15:45+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Vox*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:15:52+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Petal*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:15:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fa1a7850-5b0d-11e5-8c6c-068789513eb5",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "Drizztskilllvl"
+            }
+        },
+        {
+            "time": "2017-12-06T02:16:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4f4e4524-1273-11e5-b43d-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "CarlosH"
+            }
+        },
+        {
+            "time": "2017-12-06T02:16:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "46afd10c-1521-11e5-9def-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "TehTalent"
+            }
+        },
+        {
+            "time": "2017-12-06T02:16:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0dd8a0ce-adb6-11e5-9d1c-06b48b82cd49",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "YumKimil"
+            }
+        },
+        {
+            "time": "2017-12-06T02:16:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b5a998ce-c69b-11e4-b314-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "LurknMurk"
+            }
+        },
+        {
+            "time": "2017-12-06T02:16:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bb72499c-23af-11e5-bcb3-06b48b82cd49",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "burnieshay"
+            }
+        }
+    ],
+    "winner": "another"
+}

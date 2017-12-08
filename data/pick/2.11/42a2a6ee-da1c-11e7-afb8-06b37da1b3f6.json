@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:27:59+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Catherine*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:28:01+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:28:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4730de1a-88d9-11e5-ade3-0628b69bf6d1",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "brokennotes"
+            }
+        },
+        {
+            "time": "2017-12-06T00:28:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2a52740a-618f-11e5-8e5b-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "jzedx"
+            }
+        },
+        {
+            "time": "2017-12-06T00:28:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "de02f2f6-b972-11e4-b123-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Twilightsword"
+            }
+        },
+        {
+            "time": "2017-12-06T00:28:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7196bc5c-79ca-11e4-ba76-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "bthom5"
+            }
+        },
+        {
+            "time": "2017-12-06T00:28:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0254da16-d086-11e7-8443-02ce883f709a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "NolyFabulous"
+            }
+        },
+        {
+            "time": "2017-12-06T00:29:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "92067ed8-252c-11e5-8818-06eb725f8a76",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "b3astmod3"
+            }
+        }
+    ],
+    "winner": "another"
+}

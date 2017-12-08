@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:29:05+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:29:20+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:29:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e5993e68-c6ea-11e5-a9cf-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "jailer1126"
+            }
+        },
+        {
+            "time": "2017-12-06T03:29:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a52040d6-2026-11e5-a39a-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "NightSworn"
+            }
+        },
+        {
+            "time": "2017-12-06T03:29:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5bf96c12-8fb5-11e5-a03a-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Player66490455"
+            }
+        },
+        {
+            "time": "2017-12-06T03:30:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "186fe1e6-9475-11e5-8611-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "HighStrike "
+            }
+        },
+        {
+            "time": "2017-12-06T03:30:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "96a03950-dd2b-11e4-b877-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "BimboBombasse"
+            }
+        },
+        {
+            "time": "2017-12-06T03:30:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c7ab29c4-8290-11e4-b0a5-06d90c28bf1a",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "TacoLove"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

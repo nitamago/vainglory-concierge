@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T23:53:34+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:53:50+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:53:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bf9e4248-0c05-11e6-9cde-06f4ee369f53",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "DoctorShotz"
+            }
+        },
+        {
+            "time": "2017-12-05T23:54:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b67527f0-ed65-11e4-b7be-06eb725f8a76",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "FesTheImpaler"
+            }
+        },
+        {
+            "time": "2017-12-05T23:54:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "53267b08-7d20-11e6-9c5a-068789513eb5",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "worstmountain01"
+            }
+        },
+        {
+            "time": "2017-12-05T23:54:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fcf6f566-02f3-11e5-be24-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "Asianfl"
+            }
+        },
+        {
+            "time": "2017-12-05T23:54:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7615e802-d058-11e6-a517-06eb725f8a76",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "MoldyPeaches"
+            }
+        },
+        {
+            "time": "2017-12-05T23:55:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8711e5e8-24f1-11e5-ab0f-06b48b82cd49",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "mj420owndu"
+            }
+        }
+    ],
+    "winner": "another"
+}

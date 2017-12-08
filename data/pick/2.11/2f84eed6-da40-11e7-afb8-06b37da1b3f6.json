@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:45:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "49353c6c-668b-11e5-bf42-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "justchilldrei"
+            }
+        },
+        {
+            "time": "2017-12-06T04:45:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a15f6856-606c-11e5-9664-068789513eb5",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "TwistedInfinity"
+            }
+        },
+        {
+            "time": "2017-12-06T04:45:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "51481e5c-2814-11e5-a963-0628b69bf6d1",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "BlkChuckNorris"
+            }
+        },
+        {
+            "time": "2017-12-06T04:45:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "82341e20-1faa-11e5-a3e7-06eb725f8a76",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "Faolin"
+            }
+        },
+        {
+            "time": "2017-12-06T04:45:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "76a8869e-cf56-11e4-83f8-06eb725f8a76",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "kookookajoo"
+            }
+        },
+        {
+            "time": "2017-12-06T04:45:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e36d8c32-17e0-11e7-8e1a-06ab1a16f8e5",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "DurableLegendX"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

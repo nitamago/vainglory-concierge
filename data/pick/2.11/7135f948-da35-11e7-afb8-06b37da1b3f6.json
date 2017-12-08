@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:28:23+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:28:29+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:28:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "69b09dd6-0d90-11e6-ba35-06eb725f8a76",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "CrushEm"
+            }
+        },
+        {
+            "time": "2017-12-06T03:28:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a75d9828-8fee-11e7-9289-0224e22aef46",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "LiuyiyinUSA"
+            }
+        },
+        {
+            "time": "2017-12-06T03:29:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0e7c1c6a-2461-11e5-b7b4-06eb725f8a76",
+                "Hero": "*Grumpjaw*",
+                "Team": "2",
+                "Handle": "ace187"
+            }
+        },
+        {
+            "time": "2017-12-06T03:29:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d3107a6c-6f01-11e6-ae96-06f4ee369f53",
+                "Hero": "*Petal*",
+                "Team": "1",
+                "Handle": "KiDJoker"
+            }
+        },
+        {
+            "time": "2017-12-06T03:29:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "02c92654-1aee-11e6-9de3-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "Snolick"
+            }
+        },
+        {
+            "time": "2017-12-06T03:29:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ad221af6-6a28-11e5-a874-0628b69bf6d1",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "TeamPlayer1"
+            }
+        }
+    ],
+    "winner": "another"
+}

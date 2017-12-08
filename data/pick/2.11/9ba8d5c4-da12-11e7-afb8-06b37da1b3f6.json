@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:18:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0ec1eece-a2dd-11e6-bf8c-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "DemonNeverDie"
+            }
+        },
+        {
+            "time": "2017-12-05T23:18:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "eed16d1c-d781-11e7-ab27-069ef91bd55c",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "NoGagReflexes"
+            }
+        },
+        {
+            "time": "2017-12-05T23:18:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "66fc0750-b67e-11e6-8800-06c5ee41a4a5",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "OhNoz"
+            }
+        },
+        {
+            "time": "2017-12-05T23:18:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "27f7f652-4e1c-11e5-beb2-0628b69bf6d1",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "RinneganOotusuki"
+            }
+        },
+        {
+            "time": "2017-12-05T23:18:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e0d0e796-7821-11e4-96e8-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "snowmanback"
+            }
+        },
+        {
+            "time": "2017-12-05T23:18:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6fe7d072-bbef-11e5-a9e8-06d90c28bf1a",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "Aetherize"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

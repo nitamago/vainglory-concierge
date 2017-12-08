@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:49:04+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:49:12+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:49:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "56d6d88e-ff66-11e5-82b3-0628b69bf6d1",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "garza37"
+            }
+        },
+        {
+            "time": "2017-12-06T03:49:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f9fa5514-a385-11e5-a66a-0628b69bf6d1",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "Tourniquet99"
+            }
+        },
+        {
+            "time": "2017-12-06T03:49:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e78f3402-3751-11e6-b072-06d90c28bf1a",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "Ionic3127"
+            }
+        },
+        {
+            "time": "2017-12-06T03:49:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d3237aa8-21ec-11e5-a663-06eb725f8a76",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "SmoothlyGuzman"
+            }
+        },
+        {
+            "time": "2017-12-06T03:50:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c384116a-de67-11e5-9f56-06eb725f8a76",
+                "Hero": "*Reza*",
+                "Team": "1",
+                "Handle": "LuthienDior"
+            }
+        },
+        {
+            "time": "2017-12-06T03:50:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c05a237e-67b2-11e6-9fff-0628b69bf6d1",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "Roy1612"
+            }
+        }
+    ],
+    "winner": "another"
+}

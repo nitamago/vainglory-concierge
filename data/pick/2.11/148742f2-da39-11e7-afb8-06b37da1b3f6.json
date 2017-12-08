@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:54:21+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:54:30+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:54:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "81f95f8a-7e31-11e4-a5d5-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Toro991"
+            }
+        },
+        {
+            "time": "2017-12-06T03:55:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c03c788e-6018-11e6-b76e-06ab1a16f8e5",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "John2102"
+            }
+        },
+        {
+            "time": "2017-12-06T03:55:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "628d7b50-00cf-11e6-b16b-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "TheAngryPanda"
+            }
+        },
+        {
+            "time": "2017-12-06T03:55:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b905ca54-512b-11e5-b329-06b48b82cd49",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "NVDE"
+            }
+        },
+        {
+            "time": "2017-12-06T03:55:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c37b35a2-5c05-11e5-bf04-06f4ee369f53",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "loki64"
+            }
+        },
+        {
+            "time": "2017-12-06T03:56:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8c7e8046-502d-11e6-b693-06ab1a16f8e5",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "Aequinoctium"
+            }
+        }
+    ],
+    "winner": "another"
+}

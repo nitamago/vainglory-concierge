@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:01:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "808f6186-d0a3-11e7-860a-025e5fb8fe9e",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "armani420"
+            }
+        },
+        {
+            "time": "2017-12-06T00:01:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "66182350-6a75-11e6-936e-06388a2f2ea7",
+                "Hero": "*Reza*",
+                "Team": "2",
+                "Handle": "DaLAW"
+            }
+        },
+        {
+            "time": "2017-12-06T00:02:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1e5d98ec-a879-11e5-aef4-068789513eb5",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "mironobu"
+            }
+        },
+        {
+            "time": "2017-12-06T00:02:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "17f52456-0582-11e5-b6e7-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "PaleheaRt"
+            }
+        },
+        {
+            "time": "2017-12-06T00:02:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6d36094c-7137-11e4-b4af-06641bcbf424",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "Orbitingteapot"
+            }
+        },
+        {
+            "time": "2017-12-06T00:02:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a99f6046-db2a-11e5-aee4-06b48b82cd49",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "Zayach"
+            }
+        }
+    ],
+    "winner": "another"
+}

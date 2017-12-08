@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:20:23+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Vox*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:20:29+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:20:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c7ab29c4-8290-11e4-b0a5-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "TacoLove"
+            }
+        },
+        {
+            "time": "2017-12-06T00:20:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "458db71e-c7b2-11e5-a365-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Ryleepro88"
+            }
+        },
+        {
+            "time": "2017-12-06T00:21:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4c99660e-c24b-11e6-800e-06f4ee369f53",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "ShaperOfWorlds"
+            }
+        },
+        {
+            "time": "2017-12-06T00:21:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d2aaf56e-172a-11e5-a78f-06d90c28bf1a",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "MagisterX"
+            }
+        },
+        {
+            "time": "2017-12-06T00:21:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "67062404-a5bf-11e5-b9c1-06b48b82cd49",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "CLPS"
+            }
+        },
+        {
+            "time": "2017-12-06T00:21:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fc613fa4-17ba-11e5-b365-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "MafiaOlier6"
+            }
+        }
+    ],
+    "winner": "another"
+}

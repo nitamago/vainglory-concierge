@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:18:04+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:18:13+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:18:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a7e89008-8de5-11e4-b5d5-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "2Cent"
+            }
+        },
+        {
+            "time": "2017-12-06T01:18:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a0c22702-3df9-11e5-ab07-06b48b82cd49",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "DarkKnight2016"
+            }
+        },
+        {
+            "time": "2017-12-06T01:18:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1a7544d2-356e-11e6-a8cb-062cb73cdbb1",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Xybex"
+            }
+        },
+        {
+            "time": "2017-12-06T01:18:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bb1fe288-8f93-11e5-b8aa-06b48b82cd49",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "Sslade"
+            }
+        },
+        {
+            "time": "2017-12-06T01:18:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9f8e1f96-2097-11e5-8ead-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Arcturus0"
+            }
+        },
+        {
+            "time": "2017-12-06T01:18:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b4706988-2285-11e5-b0c0-06f4ee369f53",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "Blackram"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

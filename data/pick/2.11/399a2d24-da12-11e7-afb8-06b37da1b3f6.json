@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:16:06+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:16:23+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:16:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a0b619c6-3e7f-11e6-ba93-06eb725f8a76",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "oSKITTLESo"
+            }
+        },
+        {
+            "time": "2017-12-05T23:16:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "24ab80be-bf3b-11e5-bc65-06eb725f8a76",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "LuisaoFG"
+            }
+        },
+        {
+            "time": "2017-12-05T23:16:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "db4b86c0-52f3-11e5-b81d-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "L1miT"
+            }
+        },
+        {
+            "time": "2017-12-05T23:17:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5828e692-7078-11e4-ba2d-06641bcbf424",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "Lupus90"
+            }
+        },
+        {
+            "time": "2017-12-05T23:17:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8b257a56-3a71-11e5-b691-068789513eb5",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "JoDidley"
+            }
+        },
+        {
+            "time": "2017-12-05T23:17:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "430a5cea-6014-11e6-8cee-067e8bc536fd",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "Skieblu"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

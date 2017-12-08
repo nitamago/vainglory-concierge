@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:35:41+0000",
+            "payload": {
+                "Player": "ef626270-c446-11e7-b1b4-06f4ee369f53",
+                "Handle": "Nisrock",
+                "Hero": "*Varya*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:35:45+0000",
+            "payload": {
+                "Player": "e7115262-d5ac-11e7-8f7d-0654fca4c20c",
+                "Handle": "Trikoi",
+                "Hero": "*Idris*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:35:48+0000",
+            "payload": {
+                "Player": "5f552faa-aac5-11e6-b2ea-06a9175d25fa",
+                "Handle": "HatredSin",
+                "Hero": "*Alpha*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:35:59+0000",
+            "payload": {
+                "Player": "fe94f992-65c3-11e7-84c7-02f3b4306918",
+                "Handle": "Shadow564",
+                "Hero": "*Idris*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:36:03+0000",
+            "payload": {
+                "Player": "af12ac56-7bf4-11e7-9c21-0263a81144c0",
+                "Handle": "FMS14",
+                "Hero": "*Krul*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:36:05+0000",
+            "payload": {
+                "Player": "9ad55ae4-1225-11e5-a579-06eb725f8a76",
+                "Handle": "Jaaswoman",
+                "Hero": "*Lyra*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

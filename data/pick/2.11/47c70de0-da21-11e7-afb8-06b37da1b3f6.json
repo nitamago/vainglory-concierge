@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:04:09+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:04:16+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:04:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "08d00c6c-8ced-11e7-a04b-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "N4GiSA"
+            }
+        },
+        {
+            "time": "2017-12-06T01:04:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5af4db74-e74b-11e5-bec5-06c5ee41a4a5",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "M0N4RCH"
+            }
+        },
+        {
+            "time": "2017-12-06T01:04:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "07c4a1b4-97b0-11e4-a597-06eb725f8a76",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "CEOofHell"
+            }
+        },
+        {
+            "time": "2017-12-06T01:04:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6a0d8bcc-6b83-11e5-834a-06d90c28bf1a",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "Nooner"
+            }
+        },
+        {
+            "time": "2017-12-06T01:04:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d778d10e-5980-11e5-b803-0628b69bf6d1",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "EyesLow"
+            }
+        },
+        {
+            "time": "2017-12-06T01:05:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1790c460-92fe-11e6-9b2a-06ab1a16f8e5",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "Kylelin"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

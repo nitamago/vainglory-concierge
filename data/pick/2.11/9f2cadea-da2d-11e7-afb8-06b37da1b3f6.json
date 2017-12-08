@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:32:17+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:32:38+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:33:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "32d57a90-dbbc-11e4-9efd-06d90c28bf1a",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "SeguinJiAn"
+            }
+        },
+        {
+            "time": "2017-12-06T02:33:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "06d56fca-970d-11e4-a597-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Gusos123"
+            }
+        },
+        {
+            "time": "2017-12-06T02:33:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2d51c656-21ca-11e5-be16-068789513eb5",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "Adriel567"
+            }
+        },
+        {
+            "time": "2017-12-06T02:33:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f4f193ea-bbcf-11e5-96db-06f4ee369f53",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "Zirkops"
+            }
+        },
+        {
+            "time": "2017-12-06T02:34:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a5857fe2-98b1-11e5-a59c-068789513eb5",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Tutankamonn"
+            }
+        },
+        {
+            "time": "2017-12-06T02:34:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8dbc83da-76a9-11e5-a866-06b48b82cd49",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "Isvani"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

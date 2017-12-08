@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:15:40+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:15:43+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:15:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9fe89bac-3e23-11e5-b84f-068789513eb5",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "TheSack"
+            }
+        },
+        {
+            "time": "2017-12-06T00:16:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d8176612-6c9d-11e6-bb2c-0628b69bf6d1",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "McYGomas"
+            }
+        },
+        {
+            "time": "2017-12-06T00:16:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e1672606-0b24-11e6-9846-062cb73cdbb1",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "magicstick5"
+            }
+        },
+        {
+            "time": "2017-12-06T00:16:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9a1982e2-a983-11e5-963a-0628b69bf6d1",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "dirtymanwhkre"
+            }
+        },
+        {
+            "time": "2017-12-06T00:17:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a65e78b6-c6e5-11e6-aa59-06fc87f1dd11",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "IIJediMasterII"
+            }
+        },
+        {
+            "time": "2017-12-06T00:17:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d592566a-9042-11e4-9ab9-06eb725f8a76",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "Polluhx"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

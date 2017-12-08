@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T22:52:52+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T22:53:15+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T22:53:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f2014e2c-3039-11e5-b487-06f4ee369f53",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "NightDevil"
+            }
+        },
+        {
+            "time": "2017-12-05T22:53:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "161cedec-6f4d-11e4-9a7f-06641bcbf424",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Havoc1"
+            }
+        },
+        {
+            "time": "2017-12-05T22:53:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2ff1bc60-e6c2-11e4-b76e-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "toophan"
+            }
+        },
+        {
+            "time": "2017-12-05T22:54:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "db86e4f4-cb53-11e4-b646-06eb725f8a76",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "ZASCORT"
+            }
+        },
+        {
+            "time": "2017-12-05T22:54:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "499473bc-8f5b-11e7-9354-029cb633549e",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "Anthuria"
+            }
+        },
+        {
+            "time": "2017-12-05T22:54:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b5146712-cdb0-11e7-9a3a-0654fca4c20c",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "neurofibroma"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

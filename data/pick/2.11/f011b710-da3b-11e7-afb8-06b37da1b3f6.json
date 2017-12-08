@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:14:54+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:15:01+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Kestrel*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:15:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3a06310e-880d-11e4-b0fa-06d90c28bf1a",
+                "Hero": "*Petal*",
+                "Team": "1",
+                "Handle": "Colgate"
+            }
+        },
+        {
+            "time": "2017-12-06T04:15:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "766ee27a-1c82-11e6-9f93-06fc87f1dd11",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "Noffy"
+            }
+        },
+        {
+            "time": "2017-12-06T04:15:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6428b1a6-5d4f-11e5-b851-0628b69bf6d1",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "FuNsiZe"
+            }
+        },
+        {
+            "time": "2017-12-06T04:15:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "26bc2670-e62d-11e4-b746-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Breticus"
+            }
+        },
+        {
+            "time": "2017-12-06T04:16:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "296547cc-767e-11e4-a51b-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "MrRed0"
+            }
+        },
+        {
+            "time": "2017-12-06T04:16:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "24087790-2929-11e6-b225-06fc87f1dd11",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "al5"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

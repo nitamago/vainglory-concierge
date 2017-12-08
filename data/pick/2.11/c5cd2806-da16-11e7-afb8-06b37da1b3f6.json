@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T23:48:40+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:48:51+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Ozo*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:48:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d0d26f46-fbe7-11e4-9e84-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "nicademus11"
+            }
+        },
+        {
+            "time": "2017-12-05T23:49:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c3ab120c-34e2-11e6-8821-06ab1a16f8e5",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "lapulapzz"
+            }
+        },
+        {
+            "time": "2017-12-05T23:49:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e321f546-4595-11e7-9402-0297ea8a7ddc",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "Guest_657531635"
+            }
+        },
+        {
+            "time": "2017-12-05T23:49:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "897bef76-7caa-11e4-8753-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "NegaNeo"
+            }
+        },
+        {
+            "time": "2017-12-05T23:49:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ca571b56-27f9-11e5-b92d-068789513eb5",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "gowtam"
+            }
+        },
+        {
+            "time": "2017-12-05T23:49:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f3f52ae8-137b-11e6-a52e-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "VainGloryDroid"
+            }
+        }
+    ],
+    "winner": "another"
+}

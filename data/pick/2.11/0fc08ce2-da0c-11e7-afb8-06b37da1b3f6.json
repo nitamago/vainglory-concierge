@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T22:31:59+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T22:32:08+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T22:32:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5701ec44-ade7-11e4-8d9a-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "SfRicky415"
+            }
+        },
+        {
+            "time": "2017-12-05T22:32:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b5146712-cdb0-11e7-9a3a-0654fca4c20c",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "neurofibroma"
+            }
+        },
+        {
+            "time": "2017-12-05T22:32:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cb6ff888-6f16-11e4-8115-062d0b175276",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "theCrazyOne"
+            }
+        },
+        {
+            "time": "2017-12-05T22:32:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d5ec01b6-5138-11e6-87ad-062cb73cdbb1",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "SrCameron"
+            }
+        },
+        {
+            "time": "2017-12-05T22:32:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bdb5551a-8681-11e6-9f25-06f4ee369f53",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "tuyenvu123"
+            }
+        },
+        {
+            "time": "2017-12-05T22:32:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1c2b6de0-95d0-11e4-9439-06eb725f8a76",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "SIap"
+            }
+        }
+    ],
+    "winner": "another"
+}

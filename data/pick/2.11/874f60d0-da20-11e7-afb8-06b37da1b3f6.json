@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:58:23+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:58:35+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:58:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "53267b08-7d20-11e6-9c5a-068789513eb5",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "worstmountain01"
+            }
+        },
+        {
+            "time": "2017-12-06T00:58:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d67931d4-fa08-11e6-8350-0223dbc2587a",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Quinolyn"
+            }
+        },
+        {
+            "time": "2017-12-06T00:59:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d757a972-cb7f-11e5-961b-06c5ee41a4a5",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "NessTek"
+            }
+        },
+        {
+            "time": "2017-12-06T00:59:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c3facbe6-c519-11e5-8073-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "DomCro"
+            }
+        },
+        {
+            "time": "2017-12-06T00:59:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ef765fe8-b83c-11e7-ba13-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "FiredFrenzy"
+            }
+        },
+        {
+            "time": "2017-12-06T00:59:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "89c97f0c-5968-11e5-b9c8-06f4ee369f53",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "yui2000"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

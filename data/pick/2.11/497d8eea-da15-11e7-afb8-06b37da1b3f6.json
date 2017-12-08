@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T23:38:14+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:38:33+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:38:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "41994872-c8ab-11e5-bf90-0628b69bf6d1",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Kingfishy"
+            }
+        },
+        {
+            "time": "2017-12-05T23:38:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e9df79b8-ca6f-11e6-bb65-067e8bc536fd",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "AkilezMx"
+            }
+        },
+        {
+            "time": "2017-12-05T23:38:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "569a377c-49ad-11e5-8df2-06f4ee369f53",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Zeckray "
+            }
+        },
+        {
+            "time": "2017-12-05T23:39:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a0d0c57a-c726-11e6-b9c8-068789513eb5",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "RescueToast"
+            }
+        },
+        {
+            "time": "2017-12-05T23:39:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7ad69420-8ff0-11e6-9ce5-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "CondeWolf"
+            }
+        },
+        {
+            "time": "2017-12-05T23:39:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b4434846-a3a8-11e5-9d1c-06b48b82cd49",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "JokerProdijay"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:25:18+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Koshka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:25:30+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Idris*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:25:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "869ac7aa-2475-11e5-b9b3-06b48b82cd49",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "ARI3S"
+            }
+        },
+        {
+            "time": "2017-12-06T00:25:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "14ede3bc-947e-11e4-9d4c-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "xReptile"
+            }
+        },
+        {
+            "time": "2017-12-06T00:26:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "04575a52-3804-11e7-be7d-0297ea8a7ddc",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Crucialplayer"
+            }
+        },
+        {
+            "time": "2017-12-06T00:26:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "35efc3ec-6e56-11e6-9a01-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Antosue"
+            }
+        },
+        {
+            "time": "2017-12-06T00:26:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "34897990-340d-11e6-aadb-06f4ee369f53",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "nengping"
+            }
+        },
+        {
+            "time": "2017-12-06T00:26:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bfb8fc74-3580-11e6-93c0-06388a2f2ea7",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "Shmeng"
+            }
+        }
+    ],
+    "winner": "another"
+}

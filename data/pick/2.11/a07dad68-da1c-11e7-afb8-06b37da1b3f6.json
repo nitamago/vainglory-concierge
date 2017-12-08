@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:30:41+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:30:50+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:30:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "65dd7652-966f-11e7-86d5-06fc87f1dd11",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Dany1001"
+            }
+        },
+        {
+            "time": "2017-12-06T00:31:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c05a237e-67b2-11e6-9fff-0628b69bf6d1",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "Roy1612"
+            }
+        },
+        {
+            "time": "2017-12-06T00:31:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4ed7fa40-7e5d-11e4-94bf-06eb725f8a76",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "OpTicStriets"
+            }
+        },
+        {
+            "time": "2017-12-06T00:31:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e9df79b8-ca6f-11e6-bb65-067e8bc536fd",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "AkilezMx"
+            }
+        },
+        {
+            "time": "2017-12-06T00:31:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dce6c81e-242c-11e5-87e4-06eb725f8a76",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "Pepsi1937"
+            }
+        },
+        {
+            "time": "2017-12-06T00:31:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "840a1562-c4ef-11e4-9c48-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Torito"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

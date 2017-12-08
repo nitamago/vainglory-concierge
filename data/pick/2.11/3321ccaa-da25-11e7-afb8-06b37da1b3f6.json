@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:32:01+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Baron*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:32:12+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:32:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a2a3403e-5d79-11e5-b39a-0628b69bf6d1",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "LifeOfRell"
+            }
+        },
+        {
+            "time": "2017-12-06T01:32:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0a8f13aa-6924-11e7-a6da-0263a81144c0",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "Mendez30"
+            }
+        },
+        {
+            "time": "2017-12-06T01:32:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "03cc19dc-7fa7-11e4-9001-06eb725f8a76",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "GrumpyBunny"
+            }
+        },
+        {
+            "time": "2017-12-06T01:32:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "58d660b8-98fe-11e7-bc11-06ab1a16f8e5",
+                "Hero": "*Ozo*",
+                "Team": "1",
+                "Handle": "JohnnyCab"
+            }
+        },
+        {
+            "time": "2017-12-06T01:33:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1d26ddb4-89b2-11e7-84e0-0224e22aef46",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "GotSkyllz"
+            }
+        },
+        {
+            "time": "2017-12-06T01:33:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bca1a8ce-70a6-11e4-85b9-062d0b175276",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "tycovie"
+            }
+        }
+    ],
+    "winner": "another"
+}

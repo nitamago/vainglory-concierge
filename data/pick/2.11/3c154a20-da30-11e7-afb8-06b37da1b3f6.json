@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:51:01+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:51:21+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:51:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "29892754-38b2-11e5-beea-068789513eb5",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "OGDuckMaster"
+            }
+        },
+        {
+            "time": "2017-12-06T02:51:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ca9a3548-1251-11e5-9548-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "SaddleApple"
+            }
+        },
+        {
+            "time": "2017-12-06T02:52:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f887466e-c27a-11e6-8c3e-06388a2f2ea7",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "Capsizeq"
+            }
+        },
+        {
+            "time": "2017-12-06T02:52:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f7489374-3893-11e5-8a1b-0628b69bf6d1",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "TheEpicLuigi9"
+            }
+        },
+        {
+            "time": "2017-12-06T02:52:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5ab3e3e8-d856-11e5-853f-0628b69bf6d1",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "Reaperslash11"
+            }
+        },
+        {
+            "time": "2017-12-06T02:52:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "18c0f5ce-8439-11e4-a63b-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Lys"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:10:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e929fff2-bf6f-11e7-bf4b-029cb633549e",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "RiderLoserGuy"
+            }
+        },
+        {
+            "time": "2017-12-06T02:10:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "70a33b82-2388-11e5-b968-06b48b82cd49",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "MasterOmni"
+            }
+        },
+        {
+            "time": "2017-12-06T02:10:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "18ba94bc-cc1c-11e7-867b-02ce883f709a",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "m4gical"
+            }
+        },
+        {
+            "time": "2017-12-06T02:10:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c70bc210-d2cb-11e7-a10f-0654fca4c20c",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "DankDreams42"
+            }
+        },
+        {
+            "time": "2017-12-06T02:11:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "281c1512-cd9c-11e7-9c07-025e5fb8fe9e",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "CT860"
+            }
+        },
+        {
+            "time": "2017-12-06T02:11:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "66914dd4-5338-11e5-95fd-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "CopsRus"
+            }
+        }
+    ],
+    "winner": "another"
+}

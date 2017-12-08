@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:11:29+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:11:51+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Skaarf*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:11:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0585e182-84ad-11e7-8b6a-029cb633549e",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Crufire"
+            }
+        },
+        {
+            "time": "2017-12-06T02:12:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cebf75e8-940e-11e7-8eaa-06fc87f1dd11",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "CANelbero10"
+            }
+        },
+        {
+            "time": "2017-12-06T02:12:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "306f8374-a3c7-11e7-9a4d-02866102f5a6",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "marvinstunt"
+            }
+        },
+        {
+            "time": "2017-12-06T02:12:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8b74bc42-c4b2-11e7-bc8a-02ce883f709a",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "Squiderz"
+            }
+        },
+        {
+            "time": "2017-12-06T02:12:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "119f93fa-aa7b-11e4-a9af-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "TheBrownMartian"
+            }
+        },
+        {
+            "time": "2017-12-06T02:12:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9d56a02a-329e-11e7-b3cc-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "MrBeatBox"
+            }
+        }
+    ],
+    "winner": "another"
+}

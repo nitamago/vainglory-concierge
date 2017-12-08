@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:26:54+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:26:55+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:27:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "82710a60-c162-11e5-ac43-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "ABadPlayer"
+            }
+        },
+        {
+            "time": "2017-12-06T01:27:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6b22deba-d950-11e4-a2a5-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Trixster"
+            }
+        },
+        {
+            "time": "2017-12-06T01:27:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "45283a9a-79da-11e5-b9da-068789513eb5",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Eddie12314"
+            }
+        },
+        {
+            "time": "2017-12-06T01:27:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "182635ae-1311-11e5-8e77-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "PrimeSorcerer"
+            }
+        },
+        {
+            "time": "2017-12-06T01:28:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2fe71bac-d9b5-11e5-bdad-062cb73cdbb1",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "TBladeV2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:28:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "53df86f4-44f2-11e6-b469-06b48b82cd49",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "Murasakinohime"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:02:52+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:02:55+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:03:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "83b587a4-bd5a-11e5-8117-068789513eb5",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "SpiritusInvictus"
+            }
+        },
+        {
+            "time": "2017-12-06T02:03:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d2aaf56e-172a-11e5-a78f-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "MagisterX"
+            }
+        },
+        {
+            "time": "2017-12-06T02:03:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "626c638c-6211-11e5-908e-0628b69bf6d1",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "wutzituya"
+            }
+        },
+        {
+            "time": "2017-12-06T02:03:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ced99bca-4ab5-11e5-b061-0628b69bf6d1",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "MrRox1337"
+            }
+        },
+        {
+            "time": "2017-12-06T02:03:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "92067ed8-252c-11e5-8818-06eb725f8a76",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "b3astmod3"
+            }
+        },
+        {
+            "time": "2017-12-06T02:03:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "21c4606a-bcdd-11e5-a5d8-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "Jill01"
+            }
+        }
+    ],
+    "winner": "another"
+}

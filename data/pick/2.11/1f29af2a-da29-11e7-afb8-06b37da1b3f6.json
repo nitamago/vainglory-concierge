@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:00:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ee37078c-6edd-11e4-bc95-06641bcbf424",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "ciscog"
+            }
+        },
+        {
+            "time": "2017-12-06T02:00:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ae46f0ee-6f08-11e4-9a7f-06641bcbf424",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Hyorin"
+            }
+        },
+        {
+            "time": "2017-12-06T02:00:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "67d90660-bfa7-11e5-8355-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "DanielMartinezxD"
+            }
+        },
+        {
+            "time": "2017-12-06T02:00:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "02dc45be-12d3-11e5-80b3-06d90c28bf1a",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "RightOne"
+            }
+        },
+        {
+            "time": "2017-12-06T02:00:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "875c1440-bd9e-11e7-ba10-06388a2f2ea7",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "Vainill4"
+            }
+        },
+        {
+            "time": "2017-12-06T02:00:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4eb94a3c-05df-11e5-b6e7-06d90c28bf1a",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "Pious"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

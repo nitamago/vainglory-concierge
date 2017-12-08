@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:52:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "88c33470-1ca6-11e6-91f0-06fc87f1dd11",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "Kanlan"
+            }
+        },
+        {
+            "time": "2017-12-06T03:52:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9be8ba42-bedb-11e7-b57c-0297ea8a7ddc",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "SkyNDR"
+            }
+        },
+        {
+            "time": "2017-12-06T03:53:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f2ca8fe8-3c7d-11e6-b3be-06f4ee369f53",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "TooMuchTuna"
+            }
+        },
+        {
+            "time": "2017-12-06T03:53:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3c608d56-36fc-11e6-b88f-06c5ee41a4a5",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "saips58"
+            }
+        },
+        {
+            "time": "2017-12-06T03:53:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4ce04196-da37-11e7-b774-021dffc80928",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "arox18"
+            }
+        },
+        {
+            "time": "2017-12-06T03:53:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5dfe4c7c-597c-11e5-ac03-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "PerishableDanish"
+            }
+        }
+    ],
+    "winner": "another"
+}

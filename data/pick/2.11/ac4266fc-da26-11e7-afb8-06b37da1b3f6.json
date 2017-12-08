@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:42:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bf596512-a78e-11e7-a258-06a9175d25fa",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "ArmedPython"
+            }
+        },
+        {
+            "time": "2017-12-06T01:43:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "41f15840-a85d-11e6-94d0-06f4ee369f53",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "SirExodus"
+            }
+        },
+        {
+            "time": "2017-12-06T01:43:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4252dc06-871b-11e4-947f-06eb725f8a76",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "lolinyourface"
+            }
+        },
+        {
+            "time": "2017-12-06T01:43:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d41e37fe-01e3-11e6-b05e-06fc87f1dd11",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "Shadow420"
+            }
+        },
+        {
+            "time": "2017-12-06T01:43:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6bd92cf6-d150-11e7-9f47-0654fca4c20c",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "brokenchamp"
+            }
+        },
+        {
+            "time": "2017-12-06T01:43:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bb24c20e-75a5-11e7-b478-06fc87f1dd11",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "ChingizInc"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

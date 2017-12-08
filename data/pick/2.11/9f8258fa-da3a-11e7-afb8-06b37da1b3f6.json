@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:05:35+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:05:52+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:06:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b9c227c0-9600-11e5-9d89-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "soulfallen"
+            }
+        },
+        {
+            "time": "2017-12-06T04:06:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0c51e2ac-727e-11e4-a29d-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "ControlFrEQ"
+            }
+        },
+        {
+            "time": "2017-12-06T04:06:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "568d6df4-f88e-11e5-b57e-06c5ee41a4a5",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "Cj300soldiers"
+            }
+        },
+        {
+            "time": "2017-12-06T04:07:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "11e9ef26-c0d3-11e5-addf-068789513eb5",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Klaink"
+            }
+        },
+        {
+            "time": "2017-12-06T04:07:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e45a83b4-7198-11e6-bc05-06fc87f1dd11",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "JoeFixIt"
+            }
+        },
+        {
+            "time": "2017-12-06T04:07:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f5f9a79c-8f78-11e5-b8aa-06b48b82cd49",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "AvilTezc"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

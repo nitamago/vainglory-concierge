@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:58:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "02dc45be-12d3-11e5-80b3-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "RightOne"
+            }
+        },
+        {
+            "time": "2017-12-06T02:58:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "10bef39c-f7da-11e5-b5b7-06f4ee369f53",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "ErikDrew"
+            }
+        },
+        {
+            "time": "2017-12-06T02:58:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b77f04fe-a832-11e4-9bb5-06eb725f8a76",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "TheSquall"
+            }
+        },
+        {
+            "time": "2017-12-06T02:58:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "239fbf2e-f0f3-11e6-9c4e-0224e22aef46",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "yuyupinga"
+            }
+        },
+        {
+            "time": "2017-12-06T02:58:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "01c1d1d6-520a-11e6-a795-067e8bc536fd",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "kugauluv"
+            }
+        },
+        {
+            "time": "2017-12-06T02:58:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d2726d66-cf12-11e5-9fde-062cb73cdbb1",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "KingMurloc"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

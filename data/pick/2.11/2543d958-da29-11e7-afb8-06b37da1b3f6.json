@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:00:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d78f0a22-8dff-11e7-ae8b-06a9175d25fa",
+                "Hero": "*Petal*",
+                "Team": "1",
+                "Handle": "ShinedDiamond"
+            }
+        },
+        {
+            "time": "2017-12-06T02:00:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "277c7852-2d40-11e6-82a2-06fc87f1dd11",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Cabral50"
+            }
+        },
+        {
+            "time": "2017-12-06T02:00:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bc46388c-2792-11e6-bfed-06fc87f1dd11",
+                "Hero": "*Ozo*",
+                "Team": "2",
+                "Handle": "XxscrimmexX"
+            }
+        },
+        {
+            "time": "2017-12-06T02:00:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ecd121cc-06b6-11e5-af33-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "MilkJugs"
+            }
+        },
+        {
+            "time": "2017-12-06T02:00:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d9f425a4-5f17-11e5-becf-06eb725f8a76",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "SmokedOut247"
+            }
+        },
+        {
+            "time": "2017-12-06T02:00:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3d91d21a-85af-11e5-ab62-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "LefoTheWizard"
+            }
+        }
+    ],
+    "winner": "another"
+}

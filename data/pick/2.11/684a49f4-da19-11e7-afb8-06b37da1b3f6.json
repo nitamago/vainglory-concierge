@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:07:32+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:07:48+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:07:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "65dd7652-966f-11e7-86d5-06fc87f1dd11",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Dany1001"
+            }
+        },
+        {
+            "time": "2017-12-06T00:08:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "32040982-f5e4-11e4-96a0-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "NightFight"
+            }
+        },
+        {
+            "time": "2017-12-06T00:08:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4ab9ef6a-3fd9-11e6-8dd9-06b48b82cd49",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "TheGaminRobo"
+            }
+        },
+        {
+            "time": "2017-12-06T00:08:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e9df79b8-ca6f-11e6-bb65-067e8bc536fd",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "AkilezMx"
+            }
+        },
+        {
+            "time": "2017-12-06T00:08:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "08f2279e-d09f-11e6-921c-06c5ee41a4a5",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "BlaZeZ"
+            }
+        },
+        {
+            "time": "2017-12-06T00:09:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8d6d5c8a-a119-11e4-9c3a-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Ictobi"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:25:34+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:25:58+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Grumpjaw*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:26:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6f19a0d8-9552-11e7-840a-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "44444l"
+            }
+        },
+        {
+            "time": "2017-12-05T23:26:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b8dce4f0-ab75-11e5-a114-06d90c28bf1a",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "nightmar"
+            }
+        },
+        {
+            "time": "2017-12-05T23:26:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f60cf05c-573f-11e5-8bbe-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "kingpaindathe2nd"
+            }
+        },
+        {
+            "time": "2017-12-05T23:26:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3c7d0594-a906-11e7-8f1e-02b3611af5e6",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "Erishandsome"
+            }
+        },
+        {
+            "time": "2017-12-05T23:26:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9714d15a-bf16-11e7-89c9-02b3611af5e6",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "MANINSHADOW"
+            }
+        },
+        {
+            "time": "2017-12-05T23:26:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a12f9f68-1bec-11e6-83cf-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "JJcomp77"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

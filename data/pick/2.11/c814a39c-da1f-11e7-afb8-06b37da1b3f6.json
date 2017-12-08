@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:53:18+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:53:39+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:54:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "652ea67e-0f37-11e6-ba35-06ab1a16f8e5",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "LetsBeNice"
+            }
+        },
+        {
+            "time": "2017-12-06T00:54:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6646c830-20df-11e5-a502-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "KingAzura"
+            }
+        },
+        {
+            "time": "2017-12-06T00:54:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "94a4a666-65d1-11e5-81dc-06b48b82cd49",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "PvMonster"
+            }
+        },
+        {
+            "time": "2017-12-06T00:55:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c1b044b0-3264-11e7-b435-0223dbc2587a",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "SideRaider"
+            }
+        },
+        {
+            "time": "2017-12-06T00:55:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6af2acbc-701f-11e4-b86a-06641bcbf424",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "EdiTz"
+            }
+        },
+        {
+            "time": "2017-12-06T00:55:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "893fbecc-5957-11e5-b210-0628b69bf6d1",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "tankyy"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

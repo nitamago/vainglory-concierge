@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:51:18+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:51:29+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Koshka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:51:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a1770356-1465-11e5-bc72-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "snakevernom"
+            }
+        },
+        {
+            "time": "2017-12-05T23:52:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f2a454e0-04c0-11e5-b1f6-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "theMist"
+            }
+        },
+        {
+            "time": "2017-12-05T23:52:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "869ac7aa-2475-11e5-b9b3-06b48b82cd49",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "ARI3S"
+            }
+        },
+        {
+            "time": "2017-12-05T23:52:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f03e6764-c15c-11e5-8463-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "Henrry27"
+            }
+        },
+        {
+            "time": "2017-12-05T23:52:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "04575a52-3804-11e7-be7d-0297ea8a7ddc",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "Crucialplayer"
+            }
+        },
+        {
+            "time": "2017-12-05T23:53:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7072b636-36ac-11e7-8afc-020ecf4900d0",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "KiryuinSatsuki"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

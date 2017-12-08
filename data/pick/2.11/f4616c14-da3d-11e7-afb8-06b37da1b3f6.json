@@ -1,0 +1,74 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:29:52+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Skaarf*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:30:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e9e97a0a-93af-11e5-97df-068789513eb5",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "Apard"
+            }
+        },
+        {
+            "time": "2017-12-06T04:30:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2831e2b4-2498-11e7-912d-0223dbc2587a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "FreshOnion"
+            }
+        },
+        {
+            "time": "2017-12-06T04:30:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "39682bd2-4c0a-11e5-aeb5-06d90c28bf1a",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "miyagi22"
+            }
+        },
+        {
+            "time": "2017-12-06T04:30:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ce8836ee-983b-11e5-9cb5-06b48b82cd49",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "bcoope321"
+            }
+        },
+        {
+            "time": "2017-12-06T04:30:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d25fc990-9e94-11e4-9909-06eb725f8a76",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "johnson15"
+            }
+        },
+        {
+            "time": "2017-12-06T04:30:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e29a04c2-9c13-11e7-8d1a-0224e22aef46",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "ElkTcojio"
+            }
+        }
+    ],
+    "winner": "another"
+}

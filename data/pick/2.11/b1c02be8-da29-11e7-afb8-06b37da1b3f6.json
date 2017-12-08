@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:04:14+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:04:17+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:04:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5eba6460-c2c3-11e5-a8be-06b48b82cd49",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "sakumo"
+            }
+        },
+        {
+            "time": "2017-12-06T02:04:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "45e3fd10-aa65-11e4-888f-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "TexasGandalf"
+            }
+        },
+        {
+            "time": "2017-12-06T02:04:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3c9f14b4-7879-11e5-915c-06b48b82cd49",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "OWEN90"
+            }
+        },
+        {
+            "time": "2017-12-06T02:05:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "26ecfe74-463b-11e7-ba49-0297ea8a7ddc",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "SnowbaIL"
+            }
+        },
+        {
+            "time": "2017-12-06T02:05:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "22ec846a-83f2-11e4-9223-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "itsAkiGG"
+            }
+        },
+        {
+            "time": "2017-12-06T02:05:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "247779b0-20ba-11e5-9c6a-06f4ee369f53",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "Byakushiki"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

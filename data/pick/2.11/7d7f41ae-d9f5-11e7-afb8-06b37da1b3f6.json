@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T19:50:38+0000",
+            "payload": {
+                "Player": "8acc5e78-8195-11e6-933b-06f4ee369f53",
+                "Handle": "FerAXAG",
+                "Hero": "*Koshka*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T19:50:43+0000",
+            "payload": {
+                "Player": "38d47120-92e0-11e7-aa90-0224e22aef46",
+                "Handle": "Guest_678166243",
+                "Hero": "*Baron*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T19:50:48+0000",
+            "payload": {
+                "Player": "b6cbea94-3cba-11e7-89e3-067e8bc536fd",
+                "Handle": "Trenholm",
+                "Hero": "*Ardan*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T19:50:51+0000",
+            "payload": {
+                "Player": "9ad92992-bb32-11e5-9940-06d90c28bf1a",
+                "Handle": "SeveredBean",
+                "Hero": "*Idris*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T19:50:56+0000",
+            "payload": {
+                "Player": "c9a00cbe-098f-11e5-95ca-06eb725f8a76",
+                "Handle": "kirito97SAO",
+                "Hero": "*Joule*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T19:51:13+0000",
+            "payload": {
+                "Player": "b8c761e2-eda7-11e5-8236-06c5ee41a4a5",
+                "Handle": "SirSprucy",
+                "Hero": "*Lorelai*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

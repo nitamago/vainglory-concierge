@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:35:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7d0df354-9d60-11e7-8eaa-06fc87f1dd11",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "BobbyUchiha"
+            }
+        },
+        {
+            "time": "2017-12-06T01:35:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "119549aa-d16f-11e6-a1af-06a9175d25fa",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "Dueldemon"
+            }
+        },
+        {
+            "time": "2017-12-06T01:35:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f57b3a94-d165-11e6-b8b8-068789513eb5",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "MetalJaguar"
+            }
+        },
+        {
+            "time": "2017-12-06T01:35:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "57012b7e-ad35-11e7-a170-02b3611af5e6",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "dmcleod"
+            }
+        },
+        {
+            "time": "2017-12-06T01:36:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b16374fc-78f7-11e4-9ddc-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "KingCrab69"
+            }
+        },
+        {
+            "time": "2017-12-06T01:36:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e7115262-d5ac-11e7-8f7d-0654fca4c20c",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "Trikoi"
+            }
+        }
+    ],
+    "winner": "another"
+}

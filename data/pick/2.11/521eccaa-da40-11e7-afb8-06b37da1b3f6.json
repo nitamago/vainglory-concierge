@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:46:16+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:46:21+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:46:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "df3bcc24-652f-11e5-8c30-06f4ee369f53",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "GODDLLY"
+            }
+        },
+        {
+            "time": "2017-12-06T04:46:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ace3405e-5a10-11e7-9880-06b48b82cd49",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "DonquixoteMingo"
+            }
+        },
+        {
+            "time": "2017-12-06T04:46:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a42d3424-798c-11e7-9f0f-02b3611af5e6",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "boubon"
+            }
+        },
+        {
+            "time": "2017-12-06T04:47:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "84a6297c-b22d-11e4-9f26-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "Ethankiller"
+            }
+        },
+        {
+            "time": "2017-12-06T04:47:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9bac1758-0ef8-11e5-9567-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "iBeatDrop"
+            }
+        },
+        {
+            "time": "2017-12-06T04:47:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dc7146bc-e6d2-11e4-a206-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "0ki7o"
+            }
+        }
+    ],
+    "winner": "another"
+}

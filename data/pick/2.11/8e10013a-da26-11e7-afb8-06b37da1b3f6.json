@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:41:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e628a570-72b4-11e4-a29d-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Mavs19"
+            }
+        },
+        {
+            "time": "2017-12-06T01:41:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4e0f9206-2b70-11e5-b518-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Spade141"
+            }
+        },
+        {
+            "time": "2017-12-06T01:41:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "535086f6-1171-11e7-99d4-02081e0fc90e",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "LaxusAM"
+            }
+        },
+        {
+            "time": "2017-12-06T01:41:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8a5db270-04d2-11e5-8bcc-06eb725f8a76",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "XxAdrianxX"
+            }
+        },
+        {
+            "time": "2017-12-06T01:41:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "875eeb18-25dc-11e5-91aa-06eb725f8a76",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "AlexRinho"
+            }
+        },
+        {
+            "time": "2017-12-06T01:42:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4651a178-b9a3-11e5-98b6-068789513eb5",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "Vollahara"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

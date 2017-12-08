@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:25:47+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:25:52+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:25:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b9742ec0-05ea-11e7-92a6-020ecf4900d0",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "JanJinyoung"
+            }
+        },
+        {
+            "time": "2017-12-06T01:26:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e68f2e20-74b3-11e4-b6fb-06d90c28bf1a",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "MistOne"
+            }
+        },
+        {
+            "time": "2017-12-06T01:26:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dd10deee-ac1a-11e5-8194-068789513eb5",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "XxDemonioxXD"
+            }
+        },
+        {
+            "time": "2017-12-06T01:26:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dd64615e-02ec-11e5-94ed-06d90c28bf1a",
+                "Hero": "*Grumpjaw*",
+                "Team": "1",
+                "Handle": "TheBoss33"
+            }
+        },
+        {
+            "time": "2017-12-06T01:26:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5a5e8d4c-3475-11e5-8eac-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "BKriter"
+            }
+        },
+        {
+            "time": "2017-12-06T01:26:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4c01a470-904f-11e4-9144-06eb725f8a76",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "Psyrenous"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

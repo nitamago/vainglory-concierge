@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T23:48:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3a8b8e84-c4ba-11e7-8899-0654fca4c20c",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "iLoveQuibble"
+            }
+        },
+        {
+            "time": "2017-12-05T23:48:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e200d12e-9519-11e5-8163-068789513eb5",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "godskid"
+            }
+        },
+        {
+            "time": "2017-12-05T23:48:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a9ffd03c-4d51-11e5-a34a-06b48b82cd49",
+                "Hero": "*Flicker*",
+                "Team": "1",
+                "Handle": "DrPerry"
+            }
+        },
+        {
+            "time": "2017-12-05T23:48:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "59d9b024-107e-11e5-ac45-06d90c28bf1a",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "celpa"
+            }
+        },
+        {
+            "time": "2017-12-05T23:48:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "622d27c0-6680-11e6-9a4e-06f4ee369f53",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "soothsayer006"
+            }
+        },
+        {
+            "time": "2017-12-05T23:49:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "23b0159c-d954-11e6-abef-067e8bc536fd",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "HeadiesHank"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:24:29+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:24:53+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:25:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cde2359c-96bf-11e4-a17f-06eb725f8a76",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "Damon1981"
+            }
+        },
+        {
+            "time": "2017-12-06T04:25:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b89765e8-c4a6-11e5-8785-06d90c28bf1a",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "RedSatans"
+            }
+        },
+        {
+            "time": "2017-12-06T04:25:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3a4a7c34-8e5b-11e4-9954-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "AndrewLL94"
+            }
+        },
+        {
+            "time": "2017-12-06T04:25:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "01060e58-b9be-11e6-b98f-068789513eb5",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "Guest_180868985"
+            }
+        },
+        {
+            "time": "2017-12-06T04:26:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9c3a6e5c-5900-11e5-a901-06b48b82cd49",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "TheIllusiveMan"
+            }
+        },
+        {
+            "time": "2017-12-06T04:26:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "00553d3e-c942-11e5-b710-068789513eb5",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "RafaelMusule"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

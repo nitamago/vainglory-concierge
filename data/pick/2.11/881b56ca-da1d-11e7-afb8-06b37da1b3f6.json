@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:37:33+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:37:45+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:37:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "559fb81e-9914-11e4-a8d3-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "YitronVSHevel"
+            }
+        },
+        {
+            "time": "2017-12-06T00:38:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b39fb140-1172-11e5-9ebe-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "Punchwolf"
+            }
+        },
+        {
+            "time": "2017-12-06T00:38:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d943e2da-8c12-11e4-8566-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "LeNNoX"
+            }
+        },
+        {
+            "time": "2017-12-06T00:38:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6344c00a-9349-11e6-8ab7-062cb73cdbb1",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Glacier07"
+            }
+        },
+        {
+            "time": "2017-12-06T00:38:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b27ec75c-d585-11e4-97a3-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "ClapThemCheeks"
+            }
+        },
+        {
+            "time": "2017-12-06T00:38:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ab4379a4-ef1b-11e6-9df9-067e8bc536fd",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "bestcuckNA"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

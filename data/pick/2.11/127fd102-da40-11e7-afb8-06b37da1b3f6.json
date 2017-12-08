@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:44:19+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:44:43+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Ardan*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:45:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ddaa6562-8dc3-11e4-bc89-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "theFamilyJoule"
+            }
+        },
+        {
+            "time": "2017-12-06T04:45:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bcf0e608-b7d8-11e5-88d7-06b48b82cd49",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Sanntek"
+            }
+        },
+        {
+            "time": "2017-12-06T04:45:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "30ca7b94-b41d-11e5-adb5-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "UnwisestQuill"
+            }
+        },
+        {
+            "time": "2017-12-06T04:45:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0c51e2ac-727e-11e4-a29d-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "ControlFrEQ"
+            }
+        },
+        {
+            "time": "2017-12-06T04:46:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d531f494-7037-11e4-afbd-06641bcbf424",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "sudoVG"
+            }
+        },
+        {
+            "time": "2017-12-06T04:46:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "53bdb28a-78e4-11e4-aec7-06d90c28bf1a",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "Gomez"
+            }
+        }
+    ],
+    "winner": "another"
+}

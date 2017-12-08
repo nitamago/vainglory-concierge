@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T20:32:45+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:32:51+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:33:03+0000",
+            "payload": {
+                "Player": "72ecf744-5c0c-11e6-b16a-06d90c28bf1a",
+                "Handle": "IOwnTheLane",
+                "Hero": "*Catherine*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:33:04+0000",
+            "payload": {
+                "Player": "00f94070-c0cb-11e5-8e7e-0628b69bf6d1",
+                "Handle": "coldplague",
+                "Hero": "*Reim*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:33:12+0000",
+            "payload": {
+                "Player": "21c3cbb4-816f-11e4-a59c-06eb725f8a76",
+                "Handle": "spudly",
+                "Hero": "*Ringo*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:33:15+0000",
+            "payload": {
+                "Player": "3e509c06-26ca-11e6-90f7-062cb73cdbb1",
+                "Handle": "spahboii",
+                "Hero": "*Reza*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:33:40+0000",
+            "payload": {
+                "Player": "e0b4806e-fa20-11e6-9926-0297ea8a7ddc",
+                "Handle": "Appricot",
+                "Hero": "*Idris*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:33:44+0000",
+            "payload": {
+                "Player": "5350f214-9b0f-11e5-821f-068789513eb5",
+                "Handle": "TinanT",
+                "Hero": "*Ardan*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:36:05+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:36:08+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:36:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "911eec46-e3b1-11e5-b1fb-0628b69bf6d1",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "SiniSteel"
+            }
+        },
+        {
+            "time": "2017-12-06T01:36:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4856cd58-a686-11e4-8283-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "pilotkarr"
+            }
+        },
+        {
+            "time": "2017-12-06T01:36:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "feece9c4-7659-11e4-aec7-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "Stumpelstiltskin"
+            }
+        },
+        {
+            "time": "2017-12-06T01:36:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f1825040-9d1d-11e4-a597-06eb725f8a76",
+                "Hero": "*Ozo*",
+                "Team": "1",
+                "Handle": "prouddominican"
+            }
+        },
+        {
+            "time": "2017-12-06T01:36:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bd3726b0-1d92-11e7-971e-06eb725f8a76",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "GabeTrapz"
+            }
+        },
+        {
+            "time": "2017-12-06T01:36:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "73ba30ce-6ed8-11e4-bab8-062d0b175276",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "RunsWithScissors"
+            }
+        }
+    ],
+    "winner": "another"
+}

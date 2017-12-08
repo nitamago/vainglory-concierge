@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T20:36:40+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:37:00+0000",
+            "payload": {
+                "Hero": "*Baron*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:37:23+0000",
+            "payload": {
+                "Player": "3a9c2cc4-4d3b-11e5-a708-068789513eb5",
+                "Handle": "SurfingFish",
+                "Hero": "*Lorelai*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:37:48+0000",
+            "payload": {
+                "Player": "2d9a85c2-6edc-11e4-9fbd-062d0b175276",
+                "Handle": "xenonnel",
+                "Hero": "*SAW*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:38:04+0000",
+            "payload": {
+                "Player": "631384be-c216-11e4-8a5a-06d90c28bf1a",
+                "Handle": "Kevdingo",
+                "Hero": "*Taka*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:38:07+0000",
+            "payload": {
+                "Player": "3006348e-bdad-11e5-a5bf-06eb725f8a76",
+                "Handle": "Omega47",
+                "Hero": "*Alpha*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:38:10+0000",
+            "payload": {
+                "Player": "0f7befb6-94d3-11e7-a9b8-06d90c28bf1a",
+                "Handle": "ZeusRD",
+                "Hero": "*Skaarf*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:38:12+0000",
+            "payload": {
+                "Player": "0dfad4a6-b959-11e5-8693-06d90c28bf1a",
+                "Handle": "JOBella",
+                "Hero": "*Adagio*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

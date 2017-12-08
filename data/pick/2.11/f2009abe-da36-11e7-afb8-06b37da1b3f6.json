@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:39:00+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:39:23+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:39:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "230ced42-9870-11e6-8eb5-067e8bc536fd",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "NovaXV"
+            }
+        },
+        {
+            "time": "2017-12-06T03:40:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "484c8f02-be0d-11e4-8b84-06eb725f8a76",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "Daannyyy"
+            }
+        },
+        {
+            "time": "2017-12-06T03:40:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c26cadb0-9e24-11e5-99a1-06b48b82cd49",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "KeithKarnage"
+            }
+        },
+        {
+            "time": "2017-12-06T03:40:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4bfe6742-00d8-11e6-ba03-062cb73cdbb1",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "ChaosIXV"
+            }
+        },
+        {
+            "time": "2017-12-06T03:40:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dc7146bc-e6d2-11e4-a206-06eb725f8a76",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "0ki7o"
+            }
+        },
+        {
+            "time": "2017-12-06T03:40:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "66adb292-1806-11e6-af7c-06c5ee41a4a5",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "bossreppingWSU"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

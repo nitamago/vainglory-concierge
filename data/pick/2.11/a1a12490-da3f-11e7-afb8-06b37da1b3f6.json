@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:41:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b5d73d50-96f9-11e4-8283-06eb725f8a76",
+                "Hero": "*Flicker*",
+                "Team": "1",
+                "Handle": "stealthboy"
+            }
+        },
+        {
+            "time": "2017-12-06T04:41:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "50e2b3f6-8025-11e4-8b23-06eb725f8a76",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "BishopSamurai"
+            }
+        },
+        {
+            "time": "2017-12-06T04:41:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5bf99982-7571-11e7-9177-06b48b82cd49",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "xD1109"
+            }
+        },
+        {
+            "time": "2017-12-06T04:41:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a21be362-d772-11e7-88ba-020c8314066a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "StoneCroft"
+            }
+        },
+        {
+            "time": "2017-12-06T04:41:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9b3b3bc6-95a3-11e7-82d5-020355b21670",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "Acid303"
+            }
+        },
+        {
+            "time": "2017-12-06T04:41:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "475890e2-d2e6-11e6-a8f6-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "thrall03"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

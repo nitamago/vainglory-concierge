@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:04:16+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:04:27+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:04:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c5572a64-bb1b-11e5-8152-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "dave2323"
+            }
+        },
+        {
+            "time": "2017-12-06T03:04:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "60aec89a-a591-11e6-9d13-06b48b82cd49",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "SRuff"
+            }
+        },
+        {
+            "time": "2017-12-06T03:04:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b01cea3a-6c4c-11e5-9de5-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "DrXL7"
+            }
+        },
+        {
+            "time": "2017-12-06T03:05:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "65d5d8f6-495f-11e6-a5dd-06eb725f8a76",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "iVgChampion"
+            }
+        },
+        {
+            "time": "2017-12-06T03:05:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d943e2da-8c12-11e4-8566-06eb725f8a76",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "LeNNoX"
+            }
+        },
+        {
+            "time": "2017-12-06T03:05:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7b8258bc-a818-11e4-88cc-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "ThanhDaica"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:08:51+0000",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:09:05+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:09:17+0000",
+            "payload": {
+                "Player": "231f2fa8-e69e-11e6-9226-067e8bc536fd",
+                "Handle": "Rexluther",
+                "Hero": "*Ozo*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:09:28+0000",
+            "payload": {
+                "Player": "46fa124c-adc1-11e5-a0a0-06b48b82cd49",
+                "Handle": "IDrox",
+                "Hero": "*Catherine*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:09:45+0000",
+            "payload": {
+                "Player": "6d512694-c3c6-11e6-b213-067e8bc536fd",
+                "Handle": "GhostiIy",
+                "Hero": "*Celeste*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:10:04+0000",
+            "payload": {
+                "Player": "dd7f2e4a-7305-11e7-b146-06b48b82cd49",
+                "Handle": "Rainful",
+                "Hero": "*Skye*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:10:12+0000",
+            "payload": {
+                "Player": "c0994572-7736-11e4-9faa-06d90c28bf1a",
+                "Handle": "ModuleOne",
+                "Hero": "*Baron*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:10:21+0000",
+            "payload": {
+                "Player": "1e9f0f30-9f9f-11e5-95af-06f4ee369f53",
+                "Handle": "cesarmaster",
+                "Hero": "*Taka*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

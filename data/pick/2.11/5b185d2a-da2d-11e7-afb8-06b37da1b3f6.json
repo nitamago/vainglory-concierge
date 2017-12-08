@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:30:10+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Joule*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:30:13+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:30:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9ad29070-948e-11e5-832e-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Setuiret"
+            }
+        },
+        {
+            "time": "2017-12-06T02:30:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "04630eb2-59c9-11e5-b209-06b48b82cd49",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "Lemonicus"
+            }
+        },
+        {
+            "time": "2017-12-06T02:30:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "819dd9ba-f3ad-11e5-b05c-06fc87f1dd11",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "StealEmperor"
+            }
+        },
+        {
+            "time": "2017-12-06T02:30:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0a231e26-97b1-11e4-9f18-06d90c28bf1a",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "Hirozx"
+            }
+        },
+        {
+            "time": "2017-12-06T02:31:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "44defe62-364e-11e6-80c2-06c5ee41a4a5",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "RebornTenko"
+            }
+        },
+        {
+            "time": "2017-12-06T02:31:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "71085f04-c6c0-11e5-b7f4-0628b69bf6d1",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Rebornjoe47"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

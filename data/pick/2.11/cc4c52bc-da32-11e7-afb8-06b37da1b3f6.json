@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:09:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "212dbce2-3965-11e5-af82-068789513eb5",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "NeonBox"
+            }
+        },
+        {
+            "time": "2017-12-06T03:09:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ca81ea9c-95ec-11e4-b997-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "WILLO"
+            }
+        },
+        {
+            "time": "2017-12-06T03:09:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ec418588-ed7a-11e6-b2f4-06d90c28bf1a",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "REXryan42win"
+            }
+        },
+        {
+            "time": "2017-12-06T03:09:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a6364fc4-a37f-11e5-963a-0628b69bf6d1",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "psugotrekt"
+            }
+        },
+        {
+            "time": "2017-12-06T03:09:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cd41a228-2e19-11e7-9be9-0263a81144c0",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "Widowfactory"
+            }
+        },
+        {
+            "time": "2017-12-06T03:09:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fae500d2-0060-11e5-be9d-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "genzthegiant"
+            }
+        }
+    ],
+    "winner": "another"
+}

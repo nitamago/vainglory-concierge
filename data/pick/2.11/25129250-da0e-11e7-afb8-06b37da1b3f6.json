@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T22:46:50+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T22:47:03+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T22:47:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "70367908-2f7a-11e6-8604-06ab1a16f8e5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Pvman"
+            }
+        },
+        {
+            "time": "2017-12-05T22:47:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "68939eae-6ed0-11e4-af50-062d0b175276",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "angelwolf"
+            }
+        },
+        {
+            "time": "2017-12-05T22:47:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "eefc12e2-b3da-11e4-a16e-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "Shadoews"
+            }
+        },
+        {
+            "time": "2017-12-05T22:48:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0254da16-d086-11e7-8443-02ce883f709a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "NolyFabulous"
+            }
+        },
+        {
+            "time": "2017-12-05T22:48:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7ad69420-8ff0-11e6-9ce5-06eb725f8a76",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "CondeWolf"
+            }
+        },
+        {
+            "time": "2017-12-05T22:48:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "84a29976-b0e3-11e7-ba9a-06a9175d25fa",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "MisterNinja"
+            }
+        }
+    ],
+    "winner": "another"
+}

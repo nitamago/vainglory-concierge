@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:07:37+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:07:43+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:07:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5371994a-698c-11e7-835a-06ab1a16f8e5",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Shazik"
+            }
+        },
+        {
+            "time": "2017-12-06T00:08:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4afadc10-7f22-11e4-a996-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Zundel"
+            }
+        },
+        {
+            "time": "2017-12-06T00:08:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4eda1c02-de2f-11e5-a15e-06fc87f1dd11",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "DogEatDogWorld"
+            }
+        },
+        {
+            "time": "2017-12-06T00:08:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c7c7a09e-d808-11e5-be01-06fc87f1dd11",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "Decetical"
+            }
+        },
+        {
+            "time": "2017-12-06T00:08:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d7d97fcc-8bee-11e5-b734-068789513eb5",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "TenzinT"
+            }
+        },
+        {
+            "time": "2017-12-06T00:09:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3df352fc-3004-11e5-b00f-06d90c28bf1a",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "FrostBeast23"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

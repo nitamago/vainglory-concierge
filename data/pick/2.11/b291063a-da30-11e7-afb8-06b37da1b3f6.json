@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:54:28+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:54:43+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:54:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "78e31bda-e80b-11e5-b391-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "XenoWert"
+            }
+        },
+        {
+            "time": "2017-12-06T02:54:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3face6a8-4958-11e6-8c4e-06ab1a16f8e5",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "arrowjules"
+            }
+        },
+        {
+            "time": "2017-12-06T02:54:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "92e0dd9c-7a34-11e4-a756-06d90c28bf1a",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "XenoTekken"
+            }
+        },
+        {
+            "time": "2017-12-06T02:55:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1fdeee54-b13d-11e7-aade-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "NanachiChan"
+            }
+        },
+        {
+            "time": "2017-12-06T02:55:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b6461e16-0f88-11e5-8e1d-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Elaments4"
+            }
+        },
+        {
+            "time": "2017-12-06T02:55:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ffe3305a-0f00-11e5-9567-06d90c28bf1a",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "IMurDADDY"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

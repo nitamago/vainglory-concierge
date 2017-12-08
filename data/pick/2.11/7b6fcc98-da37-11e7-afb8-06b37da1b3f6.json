@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:43:06+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:43:24+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:43:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8a33dcb0-10f8-11e6-ade8-06388a2f2ea7",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "ScobaStove"
+            }
+        },
+        {
+            "time": "2017-12-06T03:43:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8a847ed2-dce6-11e4-bd61-06eb725f8a76",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "SlickbackJr"
+            }
+        },
+        {
+            "time": "2017-12-06T03:43:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4cc41904-09b9-11e5-ae21-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "CocoButter"
+            }
+        },
+        {
+            "time": "2017-12-06T03:44:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7f260894-931b-11e5-ac76-068789513eb5",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "MTZ11"
+            }
+        },
+        {
+            "time": "2017-12-06T03:44:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c215a3ba-7109-11e4-8776-06641bcbf424",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "Zangetso"
+            }
+        },
+        {
+            "time": "2017-12-06T03:44:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "136cb160-6e54-11e6-ba72-0628b69bf6d1",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "FlawLesS"
+            }
+        }
+    ],
+    "winner": "another"
+}

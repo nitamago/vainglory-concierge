@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:27:54+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Baptiste*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:28:03+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:28:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8d6d5c8a-a119-11e4-9c3a-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Ictobi"
+            }
+        },
+        {
+            "time": "2017-12-06T00:28:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b3efa63c-d3af-11e5-9b75-06c5ee41a4a5",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "ItsKamina"
+            }
+        },
+        {
+            "time": "2017-12-06T00:28:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b4bddf48-b4ca-11e4-851a-06eb725f8a76",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "ItsMariscal24"
+            }
+        },
+        {
+            "time": "2017-12-06T00:28:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c704889a-7ad1-11e6-9768-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "SadlySilly"
+            }
+        },
+        {
+            "time": "2017-12-06T00:29:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4ab9ef6a-3fd9-11e6-8dd9-06b48b82cd49",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "TheGaminRobo"
+            }
+        },
+        {
+            "time": "2017-12-06T00:29:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "45e25bf4-3930-11e5-add1-06f4ee369f53",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "godofallpower"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

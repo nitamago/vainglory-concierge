@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:20:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7627c856-cca6-11e7-9879-0654fca4c20c",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "BrutalSix"
+            }
+        },
+        {
+            "time": "2017-12-06T01:20:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "aad3ce58-9529-11e5-a25b-06f4ee369f53",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "SosaJoey"
+            }
+        },
+        {
+            "time": "2017-12-06T01:20:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a232ac48-58f9-11e7-9c6f-06ab1a16f8e5",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "IzharTheKaiser"
+            }
+        },
+        {
+            "time": "2017-12-06T01:20:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e997a0ec-a5d3-11e4-9ab9-06eb725f8a76",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "AdudeFromiowa"
+            }
+        },
+        {
+            "time": "2017-12-06T01:21:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fc5ade1a-28f0-11e5-a874-068789513eb5",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "TapOnMyNutz"
+            }
+        },
+        {
+            "time": "2017-12-06T01:21:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ae2b6cd6-a6c8-11e5-a2d7-0628b69bf6d1",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "OldManPorter"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

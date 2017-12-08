@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:08:17+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:08:33+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:08:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cf6e6dac-8f21-11e6-b26a-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "NyusFox"
+            }
+        },
+        {
+            "time": "2017-12-06T02:09:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "686ad100-77b1-11e5-aaaf-068789513eb5",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "Skadoosh1212"
+            }
+        },
+        {
+            "time": "2017-12-06T02:09:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7987b0a8-77b0-11e5-9b2d-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "Charmander21"
+            }
+        },
+        {
+            "time": "2017-12-06T02:09:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "879cb81a-ce99-11e5-b29e-06f4ee369f53",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Virtu4lHyFivz"
+            }
+        },
+        {
+            "time": "2017-12-06T02:09:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4ab905e0-a1f7-11e4-9d4c-06d90c28bf1a",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "Sahil"
+            }
+        },
+        {
+            "time": "2017-12-06T02:09:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7a5c9ae6-0f41-11e7-82f0-06ab1a16f8e5",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "MinhGlory10"
+            }
+        }
+    ],
+    "winner": "another"
+}

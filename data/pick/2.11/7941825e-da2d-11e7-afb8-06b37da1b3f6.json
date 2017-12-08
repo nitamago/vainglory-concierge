@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:31:06+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:31:14+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:31:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4167fca8-738f-11e4-a192-06d90c28bf1a",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "Victimn"
+            }
+        },
+        {
+            "time": "2017-12-06T02:31:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "961b8a64-c21a-11e5-b3c3-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "XCailKiller"
+            }
+        },
+        {
+            "time": "2017-12-06T02:32:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d2aaf56e-172a-11e5-a78f-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "MagisterX"
+            }
+        },
+        {
+            "time": "2017-12-06T02:32:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "efc4611a-7b96-11e4-9e08-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Nickkdawwgg"
+            }
+        },
+        {
+            "time": "2017-12-06T02:32:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "656f03be-f031-11e6-89e5-06eb725f8a76",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "Withest"
+            }
+        },
+        {
+            "time": "2017-12-06T02:32:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "21c4606a-bcdd-11e5-a5d8-06eb725f8a76",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "Jill01"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

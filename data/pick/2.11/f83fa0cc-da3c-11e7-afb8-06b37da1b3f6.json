@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:22:14+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:22:28+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Churnwalker*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:22:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "061cb82c-c0d7-11e6-a52f-06ab1a16f8e5",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Gojira87"
+            }
+        },
+        {
+            "time": "2017-12-06T04:22:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7e18361a-8de4-11e6-be2a-06b48b82cd49",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "skippinPENGUIN"
+            }
+        },
+        {
+            "time": "2017-12-06T04:22:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9f066c32-2215-11e7-85e7-067e8bc536fd",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "DXLVision64"
+            }
+        },
+        {
+            "time": "2017-12-06T04:22:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "13eee33e-74cc-11e4-af77-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "GankSter"
+            }
+        },
+        {
+            "time": "2017-12-06T04:23:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ddc89ebe-c841-11e6-af76-06388a2f2ea7",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "JaysusHunterv2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:23:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2ba790cc-71ff-11e4-a6c2-06d90c28bf1a",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "CubanEd"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

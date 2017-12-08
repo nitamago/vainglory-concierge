@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:24:22+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:24:32+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:24:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "91658fa2-d5c4-11e5-ab98-06ab1a16f8e5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "senpaikaneki"
+            }
+        },
+        {
+            "time": "2017-12-06T04:25:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "72626898-bee8-11e5-908e-06b48b82cd49",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "LilSleep"
+            }
+        },
+        {
+            "time": "2017-12-06T04:25:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c71a2388-72dd-11e4-a8db-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "zRichie"
+            }
+        },
+        {
+            "time": "2017-12-06T04:25:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ea0d8a40-a7be-11e4-93ba-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "LocalPuertoRican"
+            }
+        },
+        {
+            "time": "2017-12-06T04:25:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5add5a48-2563-11e6-8f55-067e8bc536fd",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "bigbaby21"
+            }
+        },
+        {
+            "time": "2017-12-06T04:25:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "869ac7aa-2475-11e5-b9b3-06b48b82cd49",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "ARI3S"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

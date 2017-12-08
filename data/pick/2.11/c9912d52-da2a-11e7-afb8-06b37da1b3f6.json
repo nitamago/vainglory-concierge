@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:11:57+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:12:12+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Petal*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:12:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "70d218b8-6fc8-11e4-b2d8-06641bcbf424",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "daynger2timez"
+            }
+        },
+        {
+            "time": "2017-12-06T02:12:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c0994572-7736-11e4-9faa-06d90c28bf1a",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "ModuleOne"
+            }
+        },
+        {
+            "time": "2017-12-06T02:12:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5415f14a-2422-11e5-a7e6-0628b69bf6d1",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "SNUFFALUF1GUS"
+            }
+        },
+        {
+            "time": "2017-12-06T02:12:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4bfe6742-00d8-11e6-ba03-062cb73cdbb1",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "ChaosIXV"
+            }
+        },
+        {
+            "time": "2017-12-06T02:12:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "230ced42-9870-11e6-8eb5-067e8bc536fd",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "NovaXV"
+            }
+        },
+        {
+            "time": "2017-12-06T02:13:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d8d36a54-fbe9-11e4-94e9-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "manny14"
+            }
+        }
+    ],
+    "winner": "another"
+}

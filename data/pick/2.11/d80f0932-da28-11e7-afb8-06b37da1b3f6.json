@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:58:00+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Alpha*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:58:19+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:58:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9ad6609e-0d54-11e6-916a-067e8bc536fd",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "BopCity"
+            }
+        },
+        {
+            "time": "2017-12-06T01:58:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e6558f90-9279-11e6-9e9f-062cb73cdbb1",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "ExxenDemons"
+            }
+        },
+        {
+            "time": "2017-12-06T01:59:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a0729210-e17d-11e4-9b56-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Submariino"
+            }
+        },
+        {
+            "time": "2017-12-06T01:59:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6e75854c-dde4-11e5-8f01-067e8bc536fd",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Arielsaenz"
+            }
+        },
+        {
+            "time": "2017-12-06T01:59:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f1182e54-bb58-11e5-a939-06f4ee369f53",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "KilljoyD"
+            }
+        },
+        {
+            "time": "2017-12-06T01:59:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2ff1bc60-e6c2-11e4-b76e-06eb725f8a76",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "toophan"
+            }
+        }
+    ],
+    "winner": "another"
+}

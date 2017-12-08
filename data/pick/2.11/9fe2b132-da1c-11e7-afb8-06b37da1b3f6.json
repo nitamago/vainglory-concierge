@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:30:34+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:30:42+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Skye*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:30:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f1fe57e2-b033-11e5-b45d-06f4ee369f53",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "Looki3boy"
+            }
+        },
+        {
+            "time": "2017-12-06T00:30:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3da3b02a-6ffb-11e6-a557-06f4ee369f53",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "FluffyUnicornz"
+            }
+        },
+        {
+            "time": "2017-12-06T00:31:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a5159e5c-12d7-11e6-a402-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "TssODINssT"
+            }
+        },
+        {
+            "time": "2017-12-06T00:31:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "be7b0db0-ae95-11e5-9fd1-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Sylvara"
+            }
+        },
+        {
+            "time": "2017-12-06T00:31:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "215c2492-93fa-11e6-87c4-06c5ee41a4a5",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "GeneRalH"
+            }
+        },
+        {
+            "time": "2017-12-06T00:31:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "282e2b36-02c6-11e7-a307-062cb73cdbb1",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "ManuelMoAl"
+            }
+        }
+    ],
+    "winner": "another"
+}

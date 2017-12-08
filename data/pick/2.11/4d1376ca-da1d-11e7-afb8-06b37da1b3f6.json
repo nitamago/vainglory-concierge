@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:35:20+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:35:36+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:35:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f4be1c74-7c48-11e6-b246-06388a2f2ea7",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "Three6ix"
+            }
+        },
+        {
+            "time": "2017-12-06T00:36:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9de48e9e-3c5f-11e5-b3e5-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "Blakenator2016"
+            }
+        },
+        {
+            "time": "2017-12-06T00:36:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "76169d1e-05ac-11e6-8955-062cb73cdbb1",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "ECLlPSE"
+            }
+        },
+        {
+            "time": "2017-12-06T00:36:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d7d97fcc-8bee-11e5-b734-068789513eb5",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "TenzinT"
+            }
+        },
+        {
+            "time": "2017-12-06T00:37:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5371994a-698c-11e7-835a-06ab1a16f8e5",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "Shazik"
+            }
+        },
+        {
+            "time": "2017-12-06T00:37:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4b0fe0fe-64fb-11e6-a91d-06fc87f1dd11",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "Morphling15"
+            }
+        }
+    ],
+    "winner": "another"
+}

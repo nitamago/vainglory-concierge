@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:29:45+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:30:10+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:30:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9bcacbea-e958-11e5-ae8d-0628b69bf6d1",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "SuperPride"
+            }
+        },
+        {
+            "time": "2017-12-06T00:30:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "52d18c5c-2576-11e7-aef4-068789513eb5",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "NewgateX"
+            }
+        },
+        {
+            "time": "2017-12-06T00:30:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3364c3aa-6ec8-11e4-9ad1-062d0b175276",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "Zeal"
+            }
+        },
+        {
+            "time": "2017-12-06T00:31:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "623dc58c-ab01-11e7-9fe4-062cb73cdbb1",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "Z9F"
+            }
+        },
+        {
+            "time": "2017-12-06T00:31:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6e2c2e40-3030-11e5-9d4c-06f4ee369f53",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "sneakyyyyy"
+            }
+        },
+        {
+            "time": "2017-12-06T00:31:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f98b303e-9f95-11e4-aadc-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "eImo"
+            }
+        }
+    ],
+    "winner": "another"
+}

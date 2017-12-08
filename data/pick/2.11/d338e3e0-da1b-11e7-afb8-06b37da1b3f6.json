@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:24:56+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:25:03+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:25:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "53b242aa-b1d9-11e4-8e2b-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "ScarletZero"
+            }
+        },
+        {
+            "time": "2017-12-06T00:25:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0ec927f4-0a06-11e6-b4de-0628b69bf6d1",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "Falcon361"
+            }
+        },
+        {
+            "time": "2017-12-06T00:25:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d2e0136a-4623-11e6-a4d4-068789513eb5",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "elgoss"
+            }
+        },
+        {
+            "time": "2017-12-06T00:25:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "07304c3c-a27f-11e5-b9fe-0628b69bf6d1",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "7u7okabe7u7"
+            }
+        },
+        {
+            "time": "2017-12-06T00:26:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f1b76048-d527-11e6-8ab4-06f4ee369f53",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "demonprinceX"
+            }
+        },
+        {
+            "time": "2017-12-06T00:26:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9bcff5fa-7688-11e4-9ae1-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "SlipperyWater"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

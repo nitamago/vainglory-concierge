@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T20:43:19+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:43:42+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:44:06+0000",
+            "payload": {
+                "Player": "a8941370-3bf9-11e5-881e-06eb725f8a76",
+                "Handle": "KuyaRice",
+                "Hero": "*Ardan*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:44:25+0000",
+            "payload": {
+                "Player": "6803e178-c557-11e4-8b16-06eb725f8a76",
+                "Handle": "HitBurn",
+                "Hero": "*Catherine*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:44:38+0000",
+            "payload": {
+                "Player": "f05089b4-8e5c-11e4-b7af-06eb725f8a76",
+                "Handle": "erickcgo ",
+                "Hero": "*Ringo*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:44:49+0000",
+            "payload": {
+                "Player": "6113879e-27b6-11e5-b354-0628b69bf6d1",
+                "Handle": "DINzekeERO",
+                "Hero": "*Baron*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:45:12+0000",
+            "payload": {
+                "Player": "c3e23d48-55d3-11e5-b74b-068789513eb5",
+                "Handle": "kirito1243",
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:45:26+0000",
+            "payload": {
+                "Player": "7be48f9a-9215-11e5-ac2d-06eb725f8a76",
+                "Handle": "zNGA",
+                "Hero": "*Reim*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

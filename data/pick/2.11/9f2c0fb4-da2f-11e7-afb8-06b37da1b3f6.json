@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:46:38+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Skye*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:46:52+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:47:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e4470cd0-7122-11e4-97bd-062d0b175276",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Aquio"
+            }
+        },
+        {
+            "time": "2017-12-06T02:47:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "50b3572e-e969-11e5-868d-06ab1a16f8e5",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "FeRNaDeR"
+            }
+        },
+        {
+            "time": "2017-12-06T02:47:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f9cc971a-f4ba-11e5-9276-06f4ee369f53",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Alamilla90"
+            }
+        },
+        {
+            "time": "2017-12-06T02:47:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6796a68c-a9fc-11e5-9378-06b48b82cd49",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Argixaan"
+            }
+        },
+        {
+            "time": "2017-12-06T02:47:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "21465314-6deb-11e5-990d-06f4ee369f53",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "Supwes12"
+            }
+        },
+        {
+            "time": "2017-12-06T02:47:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8988218e-f557-11e5-acfd-06388a2f2ea7",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "DrChakaL"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

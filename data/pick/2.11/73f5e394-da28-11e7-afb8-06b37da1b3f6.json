@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:55:20+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:55:23+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:55:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bb756756-a409-11e4-9d4c-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "Grvpes"
+            }
+        },
+        {
+            "time": "2017-12-06T01:55:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f16100b4-667c-11e6-b0c9-06f4ee369f53",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "mrRUSSELL"
+            }
+        },
+        {
+            "time": "2017-12-06T01:56:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9dbc3a52-8bc8-11e6-959c-06388a2f2ea7",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "2rrNeverGiveUp"
+            }
+        },
+        {
+            "time": "2017-12-06T01:56:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "893d1fc8-6ede-11e4-a7c9-06641bcbf424",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "SirJandoom"
+            }
+        },
+        {
+            "time": "2017-12-06T01:56:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f9fb4676-6c7c-11e5-956d-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Sazsa"
+            }
+        },
+        {
+            "time": "2017-12-06T01:56:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "aef9efc6-e0e2-11e5-8d2c-062cb73cdbb1",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "MightyCamel"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

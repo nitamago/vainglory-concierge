@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:27:35+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Petal*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:27:42+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:28:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0c5e8cf4-9524-11e5-9dc5-06b48b82cd49",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "doublekid"
+            }
+        },
+        {
+            "time": "2017-12-06T04:28:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a2c2a9fa-8d9b-11e4-8211-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "JAYP00N"
+            }
+        },
+        {
+            "time": "2017-12-06T04:28:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "83f0db42-760c-11e4-b3b6-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "donkeykong9"
+            }
+        },
+        {
+            "time": "2017-12-06T04:28:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "acd7c1b2-8e14-11e5-83dc-0628b69bf6d1",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "darkCL"
+            }
+        },
+        {
+            "time": "2017-12-06T04:28:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a9efff20-8808-11e6-9d39-067e8bc536fd",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "DiceNSlice"
+            }
+        },
+        {
+            "time": "2017-12-06T04:28:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "856941ac-7e85-11e6-903f-06c5ee41a4a5",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "iSushii"
+            }
+        }
+    ],
+    "winner": "another"
+}

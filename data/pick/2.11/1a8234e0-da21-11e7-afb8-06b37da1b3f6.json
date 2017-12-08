@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:02:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5bf28a0c-8f87-11e4-887e-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "HeavyHands"
+            }
+        },
+        {
+            "time": "2017-12-06T01:02:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5a52a558-f3df-11e4-bfe7-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Kemar712"
+            }
+        },
+        {
+            "time": "2017-12-06T01:02:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8e30eba4-8110-11e6-8f44-06ab1a16f8e5",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "XxIncubusxX"
+            }
+        },
+        {
+            "time": "2017-12-06T01:02:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8654ee98-1e84-11e5-bc93-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Seclusive"
+            }
+        },
+        {
+            "time": "2017-12-06T01:02:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e6b3c7b2-9d6f-11e6-bdc9-06fc87f1dd11",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "SpadesOfTailz"
+            }
+        },
+        {
+            "time": "2017-12-06T01:02:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dce62bd6-80f9-11e6-b6dc-06fc87f1dd11",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "TheSonikkuBv"
+            }
+        }
+    ],
+    "winner": "another"
+}

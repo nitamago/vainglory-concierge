@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:02:49+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:02:53+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:03:05+0000",
+            "payload": {
+                "Player": "49f582b6-9c7d-11e4-821c-06eb725f8a76",
+                "Handle": "LEEEROYJENKINS",
+                "Hero": "*Churnwalker*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:03:29+0000",
+            "payload": {
+                "Player": "0bae6eee-e7e2-11e5-81e3-068789513eb5",
+                "Handle": "Kidedgar34",
+                "Hero": "*Lance*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:03:44+0000",
+            "payload": {
+                "Player": "71d42322-af74-11e5-99c5-068789513eb5",
+                "Handle": "Fezzz",
+                "Hero": "*Vox*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:03:51+0000",
+            "payload": {
+                "Player": "088f7c2a-6a5f-11e7-b2cb-020ecf4900d0",
+                "Handle": "KQNGSTA",
+                "Hero": "*Idris*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:04:03+0000",
+            "payload": {
+                "Player": "7499a836-7125-11e4-b1ff-06641bcbf424",
+                "Handle": "BlueStacks",
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:04:25+0000",
+            "payload": {
+                "Player": "5d98eebe-3800-11e6-9fa1-06ab1a16f8e5",
+                "Handle": "Mystery73",
+                "Hero": "*Baptiste*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

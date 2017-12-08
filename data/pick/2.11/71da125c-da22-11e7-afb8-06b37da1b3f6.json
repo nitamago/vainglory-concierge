@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:12:26+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:12:36+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:12:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d5061c2c-8563-11e7-8efa-029cb633549e",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Lawrencer"
+            }
+        },
+        {
+            "time": "2017-12-06T01:13:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4142ecf2-35a7-11e6-ac09-0628b69bf6d1",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Jmoney631"
+            }
+        },
+        {
+            "time": "2017-12-06T01:13:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bf59b3bc-21af-11e5-be16-068789513eb5",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "EXXCLUSIVE"
+            }
+        },
+        {
+            "time": "2017-12-06T01:13:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f0df2654-85ff-11e7-a6a6-029cb633549e",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "WAMrWhy"
+            }
+        },
+        {
+            "time": "2017-12-06T01:13:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "245a95a6-7edd-11e7-bb40-02866102f5a6",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "FLHecate"
+            }
+        },
+        {
+            "time": "2017-12-06T01:13:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0de8be1e-9c5e-11e5-86e4-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "XxHoraciOxX"
+            }
+        }
+    ],
+    "winner": "another"
+}

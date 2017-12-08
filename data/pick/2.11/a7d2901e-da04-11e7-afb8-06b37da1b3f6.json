@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:38:55+0000",
+            "payload": {
+                "Player": "57927f36-87f7-11e4-af9e-06eb725f8a76",
+                "Handle": "LayCool",
+                "Hero": "*Phinn*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:39:00+0000",
+            "payload": {
+                "Player": "513a73b0-6f64-11e4-a054-06641bcbf424",
+                "Handle": "Viggo",
+                "Hero": "*Grumpjaw*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:39:10+0000",
+            "payload": {
+                "Player": "84c8f2c8-2e8f-11e7-8459-06f4ee369f53",
+                "Handle": "fORbidDen",
+                "Hero": "*Varya*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:39:16+0000",
+            "payload": {
+                "Player": "8a18a53c-342c-11e7-a1a0-0224e22aef46",
+                "Handle": "Nethrein",
+                "Hero": "*Ardan*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:39:32+0000",
+            "payload": {
+                "Player": "7c44a3b2-872e-11e6-8608-06d90c28bf1a",
+                "Handle": "BetoO",
+                "Hero": "*Joule*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:39:34+0000",
+            "payload": {
+                "Player": "891ba9f6-a33a-11e5-8d4b-06d90c28bf1a",
+                "Handle": "RoyalCthulhu",
+                "Hero": "*Skaarf*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

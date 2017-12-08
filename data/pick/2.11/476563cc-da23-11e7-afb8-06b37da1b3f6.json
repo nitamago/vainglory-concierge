@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:18:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "203fd686-bb2b-11e7-adbc-02081e0fc90e",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "SixtyFiveDOS"
+            }
+        },
+        {
+            "time": "2017-12-06T01:18:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "52079a12-f6f3-11e5-9079-06388a2f2ea7",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "shore22"
+            }
+        },
+        {
+            "time": "2017-12-06T01:18:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2bb9fc96-46dc-11e5-ada6-06eb725f8a76",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "iam4real"
+            }
+        },
+        {
+            "time": "2017-12-06T01:18:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "35c7212e-b66a-11e6-ba97-068789513eb5",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "Firbit"
+            }
+        },
+        {
+            "time": "2017-12-06T01:18:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fec71f4c-d835-11e6-aef5-06388a2f2ea7",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "StompJesus"
+            }
+        },
+        {
+            "time": "2017-12-06T01:18:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d3a2b1f8-c7b3-11e4-bf87-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Guest_000270165"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

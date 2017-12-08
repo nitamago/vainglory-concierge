@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:11:09+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:11:13+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:11:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9801237c-6155-11e6-bea0-067e8bc536fd",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "JorgeFD12"
+            }
+        },
+        {
+            "time": "2017-12-06T03:11:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3ece8898-956d-11e6-af64-06ab1a16f8e5",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "d1ego12"
+            }
+        },
+        {
+            "time": "2017-12-06T03:11:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "484c8f02-be0d-11e4-8b84-06eb725f8a76",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "Daannyyy"
+            }
+        },
+        {
+            "time": "2017-12-06T03:12:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dc7146bc-e6d2-11e4-a206-06eb725f8a76",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "0ki7o"
+            }
+        },
+        {
+            "time": "2017-12-06T03:12:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "865693fa-21f9-11e6-8df9-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "rulerguy"
+            }
+        },
+        {
+            "time": "2017-12-06T03:12:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c26cadb0-9e24-11e5-99a1-06b48b82cd49",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "KeithKarnage"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

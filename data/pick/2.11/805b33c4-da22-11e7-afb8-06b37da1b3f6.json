@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:12:29+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:12:49+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:12:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "811110b6-7825-11e4-b7f5-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "BowTieTilliDie"
+            }
+        },
+        {
+            "time": "2017-12-06T01:13:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ed9e4334-c4be-11e5-97ea-068789513eb5",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "Graren"
+            }
+        },
+        {
+            "time": "2017-12-06T01:13:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a5159e5c-12d7-11e6-a402-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "TssODINssT"
+            }
+        },
+        {
+            "time": "2017-12-06T01:13:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "684a43fa-4ea2-11e5-a913-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "DarknessShadows"
+            }
+        },
+        {
+            "time": "2017-12-06T01:13:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "20d94334-3333-11e5-9780-0628b69bf6d1",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "Cayldin"
+            }
+        },
+        {
+            "time": "2017-12-06T01:14:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "282e2b36-02c6-11e7-a307-062cb73cdbb1",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "ManuelMoAl"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

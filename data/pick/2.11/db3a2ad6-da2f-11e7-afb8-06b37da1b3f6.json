@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:48:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4f346604-6f3a-11e4-81c7-062d0b175276",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "Pegista"
+            }
+        },
+        {
+            "time": "2017-12-06T02:48:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e51aae78-4fa0-11e7-89da-0297ea8a7ddc",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Starks315"
+            }
+        },
+        {
+            "time": "2017-12-06T02:48:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c28ca1fa-cde0-11e6-85ee-06fc87f1dd11",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "Gladiator000"
+            }
+        },
+        {
+            "time": "2017-12-06T02:48:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1dc8e982-c13c-11e5-a6aa-06f4ee369f53",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "rprado"
+            }
+        },
+        {
+            "time": "2017-12-06T02:48:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e7c8dc06-bcef-11e6-b2fb-06f4ee369f53",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "FireHelm"
+            }
+        },
+        {
+            "time": "2017-12-06T02:48:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fe580a6e-bf25-11e5-bc70-068789513eb5",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "DeadSp00ce2pro"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:08:20+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Fortress*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:08:24+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:08:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6796a68c-a9fc-11e5-9378-06b48b82cd49",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "Argixaan"
+            }
+        },
+        {
+            "time": "2017-12-06T04:09:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "417ccffc-f37d-11e4-b675-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "briran44"
+            }
+        },
+        {
+            "time": "2017-12-06T04:09:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6754debc-adbf-11e4-bf33-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Alec3"
+            }
+        },
+        {
+            "time": "2017-12-06T04:09:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9bcff5fa-7688-11e4-9ae1-06d90c28bf1a",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "SlipperyWater"
+            }
+        },
+        {
+            "time": "2017-12-06T04:09:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b96aefa2-bb11-11e4-a9af-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "jpog22"
+            }
+        },
+        {
+            "time": "2017-12-06T04:09:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4ad08596-820e-11e6-b394-068789513eb5",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Tiersquote"
+            }
+        }
+    ],
+    "winner": "another"
+}

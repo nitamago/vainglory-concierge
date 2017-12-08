@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:41:44+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:42:05+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Ardan*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:42:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f2884030-866d-11e7-b383-020ecf4900d0",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "SaCrifiCe"
+            }
+        },
+        {
+            "time": "2017-12-06T02:42:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bb63cee0-ccf5-11e5-bdac-06f4ee369f53",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "NarutoUZUMAKI"
+            }
+        },
+        {
+            "time": "2017-12-06T02:43:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "25ee68ac-3b5e-11e6-b3f8-06388a2f2ea7",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "Steyr9"
+            }
+        },
+        {
+            "time": "2017-12-06T02:43:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f4f14886-d624-11e4-a3d6-06d90c28bf1a",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "DivineTempest"
+            }
+        },
+        {
+            "time": "2017-12-06T02:43:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "07382494-9c82-11e7-bee9-02866102f5a6",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "Archerpy"
+            }
+        },
+        {
+            "time": "2017-12-06T02:44:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "accc1142-2045-11e5-bbf5-06eb725f8a76",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "MechanicalMike"
+            }
+        }
+    ],
+    "winner": "another"
+}

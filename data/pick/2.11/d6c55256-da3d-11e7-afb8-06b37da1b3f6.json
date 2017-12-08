@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:28:11+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:28:28+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Baron*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:28:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0bed6b58-ca0f-11e5-85da-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "EoXNA"
+            }
+        },
+        {
+            "time": "2017-12-06T04:28:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "07efe206-14ac-11e5-8fbe-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "JackPike"
+            }
+        },
+        {
+            "time": "2017-12-06T04:28:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "169d8cb6-08fb-11e5-b3a2-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "bean69you"
+            }
+        },
+        {
+            "time": "2017-12-06T04:28:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3a0fc21a-c7ad-11e5-877e-068789513eb5",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "Ratajkowskii"
+            }
+        },
+        {
+            "time": "2017-12-06T04:29:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9939d3f4-a889-11e5-a3a6-068789513eb5",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "Thewhitedead"
+            }
+        },
+        {
+            "time": "2017-12-06T04:29:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "76d19946-2774-11e5-afc4-068789513eb5",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "SaulPG"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

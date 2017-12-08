@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:48:46+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:48:50+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:48:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b3452b6a-92c1-11e4-93ba-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "HeadshotHero"
+            }
+        },
+        {
+            "time": "2017-12-06T00:49:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d5f3dcd2-775a-11e5-8a8f-06eb725f8a76",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "AZrealgaming"
+            }
+        },
+        {
+            "time": "2017-12-06T00:49:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9db004ae-365a-11e5-89f6-068789513eb5",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "skyhighcrafter"
+            }
+        },
+        {
+            "time": "2017-12-06T00:49:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cc31fa50-50af-11e7-9671-06d90c28bf1a",
+                "Hero": "*Ozo*",
+                "Team": "1",
+                "Handle": "Nguyen2402"
+            }
+        },
+        {
+            "time": "2017-12-06T00:50:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "77b3f206-76dc-11e6-aeac-067e8bc536fd",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Dangerblitz"
+            }
+        },
+        {
+            "time": "2017-12-06T00:50:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bc1e8580-fc09-11e5-be04-06f4ee369f53",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "killorkill"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

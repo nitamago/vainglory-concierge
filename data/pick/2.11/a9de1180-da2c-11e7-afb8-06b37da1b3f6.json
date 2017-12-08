@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:25:19+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lance*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:25:27+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Baptiste*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:25:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7a2971b4-5c69-11e7-adfb-02081e0fc90e",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "BlaccDynamite"
+            }
+        },
+        {
+            "time": "2017-12-06T02:25:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3c76f986-6016-11e6-bcb0-0628b69bf6d1",
+                "Hero": "*Flicker*",
+                "Team": "2",
+                "Handle": "DarkChocolate72"
+            }
+        },
+        {
+            "time": "2017-12-06T02:25:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9af260e6-d285-11e5-b38f-06fc87f1dd11",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "DOCTORKil1JOY"
+            }
+        },
+        {
+            "time": "2017-12-06T02:26:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e7c8509e-5252-11e7-9cf6-0263a81144c0",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "xedexD"
+            }
+        },
+        {
+            "time": "2017-12-06T02:26:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c96d1b66-5f90-11e7-b4fc-02a5820c0f16",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "Gubus214"
+            }
+        },
+        {
+            "time": "2017-12-06T02:26:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5c166bfa-7c83-11e4-99c4-06eb725f8a76",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "rudedudejk"
+            }
+        }
+    ],
+    "winner": "another"
+}

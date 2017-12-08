@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:27:35+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:27:45+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:28:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dfba8f70-eba7-11e4-b76e-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "Vaingloriass"
+            }
+        },
+        {
+            "time": "2017-12-06T02:28:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "219bb670-5444-11e6-a096-06b48b82cd49",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "R3DHORS3"
+            }
+        },
+        {
+            "time": "2017-12-06T02:28:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "342bf2ae-74ea-11e4-a232-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "AlexWeapons"
+            }
+        },
+        {
+            "time": "2017-12-06T02:28:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1a0a4700-a378-11e5-94ac-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "LocknussMonster"
+            }
+        },
+        {
+            "time": "2017-12-06T02:29:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7f9cf9d8-b007-11e4-b380-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "ILoveLucy"
+            }
+        },
+        {
+            "time": "2017-12-06T02:29:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "559fb81e-9914-11e4-a8d3-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "YitronVSHevel"
+            }
+        }
+    ],
+    "winner": "another"
+}

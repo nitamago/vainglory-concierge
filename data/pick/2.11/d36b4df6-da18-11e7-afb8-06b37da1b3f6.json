@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:03:20+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:03:39+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:03:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cf7026a4-72ab-11e4-88f1-06d90c28bf1a",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "Nate4"
+            }
+        },
+        {
+            "time": "2017-12-06T00:03:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "66bfaf34-8d5a-11e4-947f-06eb725f8a76",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "GOODLUCKHAVEFUN"
+            }
+        },
+        {
+            "time": "2017-12-06T00:04:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a8a50a98-bb8d-11e7-90c6-02081e0fc90e",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "pIacebo"
+            }
+        },
+        {
+            "time": "2017-12-06T00:04:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "088f7c2a-6a5f-11e7-b2cb-020ecf4900d0",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "KQNGSTA"
+            }
+        },
+        {
+            "time": "2017-12-06T00:04:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d942d45e-8734-11e4-b997-06d90c28bf1a",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "JaecheonDaesong"
+            }
+        },
+        {
+            "time": "2017-12-06T00:04:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "32c14984-b3c4-11e7-95c5-067e8bc536fd",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "BIanks"
+            }
+        }
+    ],
+    "winner": "another"
+}

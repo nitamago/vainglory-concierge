@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T23:45:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "514f3786-dd36-11e6-900c-062cb73cdbb1",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "superSage"
+            }
+        },
+        {
+            "time": "2017-12-05T23:45:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "028ef58e-798b-11e4-a232-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "DanBoy"
+            }
+        },
+        {
+            "time": "2017-12-05T23:46:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6cd0711e-9745-11e6-879b-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "LovelyQuartz"
+            }
+        },
+        {
+            "time": "2017-12-05T23:46:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a4cb698e-3ab6-11e6-82e4-06ab1a16f8e5",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Shamzu"
+            }
+        },
+        {
+            "time": "2017-12-05T23:46:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0b2e619a-7056-11e4-ba2d-06641bcbf424",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "CptClutch"
+            }
+        },
+        {
+            "time": "2017-12-05T23:46:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "119f93fa-aa7b-11e4-a9af-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "TheBrownMartian"
+            }
+        }
+    ],
+    "winner": "another"
+}

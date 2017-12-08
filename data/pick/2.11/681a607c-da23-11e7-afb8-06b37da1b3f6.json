@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:19:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "28397cea-762e-11e6-9d0e-06b48b82cd49",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "Daniel3246"
+            }
+        },
+        {
+            "time": "2017-12-06T01:19:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "81ffdbd0-0bd4-11e6-9d59-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Pinoy3619"
+            }
+        },
+        {
+            "time": "2017-12-06T01:19:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1271f0ca-8c7b-11e4-821c-06eb725f8a76",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "SWAMMIENUB"
+            }
+        },
+        {
+            "time": "2017-12-06T01:19:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "187280f6-01c4-11e6-9dc2-067e8bc536fd",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "CaptainBlackD"
+            }
+        },
+        {
+            "time": "2017-12-06T01:19:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a1951a34-feb7-11e5-a5f6-067e8bc536fd",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "StormRusher"
+            }
+        },
+        {
+            "time": "2017-12-06T01:19:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8c9ed9ee-f20f-11e5-8aea-06388a2f2ea7",
+                "Hero": "*Ozo*",
+                "Team": "1",
+                "Handle": "oSiriS"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

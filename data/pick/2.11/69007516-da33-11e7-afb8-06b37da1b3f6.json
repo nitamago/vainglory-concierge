@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:13:45+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:14:02+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:14:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dd92b9dc-5d96-11e5-a8d2-06f4ee369f53",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "SleepyStar"
+            }
+        },
+        {
+            "time": "2017-12-06T03:14:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a05f3a9a-f2c9-11e5-9920-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "l3ongo"
+            }
+        },
+        {
+            "time": "2017-12-06T03:14:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d24f2602-9c4e-11e7-8f11-068789513eb5",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Vanishingkid"
+            }
+        },
+        {
+            "time": "2017-12-06T03:14:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7c8f2608-07dc-11e5-a51c-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "XxShadowsxX"
+            }
+        },
+        {
+            "time": "2017-12-06T03:15:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e8d1bba0-71b9-11e4-bf97-062d0b175276",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "KPtwist"
+            }
+        },
+        {
+            "time": "2017-12-06T03:15:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "85464f5e-8589-11e4-ac6d-06d90c28bf1a",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "Mitch1014"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

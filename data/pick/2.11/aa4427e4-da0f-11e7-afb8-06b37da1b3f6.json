@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T22:57:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bd798014-76a0-11e4-bfe8-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Digitalimpact"
+            }
+        },
+        {
+            "time": "2017-12-05T22:57:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a7907ede-c823-11e6-be32-06a9175d25fa",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "DielahnDabs"
+            }
+        },
+        {
+            "time": "2017-12-05T22:58:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "eda78e58-a57f-11e4-a17f-06eb725f8a76",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "MartialLaw"
+            }
+        },
+        {
+            "time": "2017-12-05T22:58:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "871bfff6-7c6a-11e7-882c-0224e22aef46",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "QiumuBai"
+            }
+        },
+        {
+            "time": "2017-12-05T22:58:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7979c140-c985-11e7-b23f-020c8314066a",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "VarShen"
+            }
+        },
+        {
+            "time": "2017-12-05T22:58:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "86d988ec-f26d-11e6-93ca-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Noplits"
+            }
+        }
+    ],
+    "winner": "another"
+}

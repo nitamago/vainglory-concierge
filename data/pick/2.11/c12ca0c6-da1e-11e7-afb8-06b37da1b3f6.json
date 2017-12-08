@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:45:54+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:46:08+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:46:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0f2411da-301a-11e5-bb51-06f4ee369f53",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Abadon666"
+            }
+        },
+        {
+            "time": "2017-12-06T00:46:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5990aeec-21e9-11e6-9c06-06388a2f2ea7",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "BlackSoldier97"
+            }
+        },
+        {
+            "time": "2017-12-06T00:46:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5f74b57e-c460-11e5-9b07-06b48b82cd49",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "ShadowBrk"
+            }
+        },
+        {
+            "time": "2017-12-06T00:46:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6e75854c-dde4-11e5-8f01-067e8bc536fd",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "Arielsaenz"
+            }
+        },
+        {
+            "time": "2017-12-06T00:47:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0c8551a0-b2a9-11e7-bf44-06a9175d25fa",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "Guest_035142612"
+            }
+        },
+        {
+            "time": "2017-12-06T00:47:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0bd37302-1082-11e5-8fd8-06eb725f8a76",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "TwistedHorizen"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

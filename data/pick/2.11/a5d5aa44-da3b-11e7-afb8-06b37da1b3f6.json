@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:12:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b951986e-81b8-11e4-b27a-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "daresnigh"
+            }
+        },
+        {
+            "time": "2017-12-06T04:12:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "514872ee-74f5-11e4-b12c-06d90c28bf1a",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "Grandpooba1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:12:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "60370ff0-c0d8-11e6-807d-06b48b82cd49",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "NicSQ"
+            }
+        },
+        {
+            "time": "2017-12-06T04:13:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a2ff9986-a3d9-11e6-ac8c-06eb725f8a76",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "Satisfactiions"
+            }
+        },
+        {
+            "time": "2017-12-06T04:13:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ab28400a-7215-11e5-b5f5-068789513eb5",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "PhishBiscuit"
+            }
+        },
+        {
+            "time": "2017-12-06T04:13:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d78e511a-751e-11e4-bac5-06d90c28bf1a",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "TheEpicGamer"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:23:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "69724acc-9782-11e7-9304-06c5ee41a4a5",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "RelicSTI"
+            }
+        },
+        {
+            "time": "2017-12-06T01:23:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "140f453a-eb2f-11e6-9867-068789513eb5",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "EonicVial"
+            }
+        },
+        {
+            "time": "2017-12-06T01:23:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4235058c-0353-11e5-af69-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Zero7"
+            }
+        },
+        {
+            "time": "2017-12-06T01:24:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "98153cba-71f4-11e4-bd86-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "ReapTheGames"
+            }
+        },
+        {
+            "time": "2017-12-06T01:24:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "577b2a78-b528-11e7-9f92-06c5ee41a4a5",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "LobsterWub"
+            }
+        },
+        {
+            "time": "2017-12-06T01:24:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "233eb8c0-6f39-11e4-bfea-06641bcbf424",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "Dreamcrafter21"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

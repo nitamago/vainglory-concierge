@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:14:01+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:14:07+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:14:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e1064b52-26bd-11e5-b47b-06b48b82cd49",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "KiraKiraMira"
+            }
+        },
+        {
+            "time": "2017-12-06T04:14:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fae47f56-4523-11e5-a717-068789513eb5",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "PetalNA"
+            }
+        },
+        {
+            "time": "2017-12-06T04:14:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "315891d4-834f-11e6-8da1-067e8bc536fd",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "metime78"
+            }
+        },
+        {
+            "time": "2017-12-06T04:15:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e0c62818-b048-11e6-94bd-06a9175d25fa",
+                "Hero": "*Samuel*",
+                "Team": "1",
+                "Handle": "BrownNugget"
+            }
+        },
+        {
+            "time": "2017-12-06T04:15:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b9749f22-b2d3-11e7-be48-02f3b4306918",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Charmandor"
+            }
+        },
+        {
+            "time": "2017-12-06T04:15:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "527080a0-7384-11e6-85d5-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "15Blade"
+            }
+        }
+    ],
+    "winner": "another"
+}

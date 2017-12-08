@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T22:37:18+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T22:37:37+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T22:37:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "038415c4-7cf0-11e4-8a9a-06eb725f8a76",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "miguelboss"
+            }
+        },
+        {
+            "time": "2017-12-05T22:37:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f3001578-a2cc-11e5-b88f-06eb725f8a76",
+                "Hero": "*Flicker*",
+                "Team": "2",
+                "Handle": "Superlapin"
+            }
+        },
+        {
+            "time": "2017-12-05T22:38:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d8344c08-7011-11e4-af86-06641bcbf424",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "sumasuma"
+            }
+        },
+        {
+            "time": "2017-12-05T22:38:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c6408f18-ca7a-11e7-a2ae-06b672bd5be2",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "UrANub"
+            }
+        },
+        {
+            "time": "2017-12-05T22:38:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "091404d0-7ed0-11e5-8f1c-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "LuiiGiB"
+            }
+        },
+        {
+            "time": "2017-12-05T22:38:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "80eb66dc-939f-11e4-a107-06d90c28bf1a",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "StrikeCormoran"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

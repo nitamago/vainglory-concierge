@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:52:54+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:53:00+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:53:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "95057d6a-cc60-11e5-a88e-0628b69bf6d1",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "Erased121212"
+            }
+        },
+        {
+            "time": "2017-12-06T00:53:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "88ce61ec-814a-11e7-82c1-02a5820c0f16",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "WolfWiz"
+            }
+        },
+        {
+            "time": "2017-12-06T00:53:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "21cb1422-cfe2-11e7-af98-069ef91bd55c",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "MoiraDelaTorre"
+            }
+        },
+        {
+            "time": "2017-12-06T00:53:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4730de1a-88d9-11e5-ade3-0628b69bf6d1",
+                "Hero": "*Petal*",
+                "Team": "1",
+                "Handle": "brokennotes"
+            }
+        },
+        {
+            "time": "2017-12-06T00:54:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3f51d0f2-bbf4-11e5-9a3a-068789513eb5",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "MARKZ"
+            }
+        },
+        {
+            "time": "2017-12-06T00:54:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5f2cdbc6-7d1b-11e7-8fb6-0297ea8a7ddc",
+                "Hero": "*Ozo*",
+                "Team": "2",
+                "Handle": "ThaniTheMage"
+            }
+        }
+    ],
+    "winner": "another"
+}

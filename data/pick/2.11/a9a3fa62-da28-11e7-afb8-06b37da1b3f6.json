@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:57:06+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:57:21+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Alpha*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:57:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1bab1fba-92ef-11e5-8ca6-06b48b82cd49",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "DANLEE"
+            }
+        },
+        {
+            "time": "2017-12-06T01:57:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "adb6bc12-9f74-11e4-9a9d-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "Figget "
+            }
+        },
+        {
+            "time": "2017-12-06T01:58:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "87348be0-de94-11e5-ba2c-06ab1a16f8e5",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "JstInTme"
+            }
+        },
+        {
+            "time": "2017-12-06T01:58:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fc4623de-40d7-11e7-9b97-067e8bc536fd",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Emita"
+            }
+        },
+        {
+            "time": "2017-12-06T01:58:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "282f319a-a9b9-11e6-9bd9-062cb73cdbb1",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "TaiDang"
+            }
+        },
+        {
+            "time": "2017-12-06T01:58:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "42292f00-fee3-11e5-83c2-06fc87f1dd11",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "SaltyReaper"
+            }
+        }
+    ],
+    "winner": "another"
+}

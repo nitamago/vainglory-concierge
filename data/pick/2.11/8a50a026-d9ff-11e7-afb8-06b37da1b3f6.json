@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:02:34+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:02:43+0000",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:03:00+0000",
+            "payload": {
+                "Player": "d43c8724-bfaf-11e6-b8d9-06c5ee41a4a5",
+                "Handle": "HaganDias",
+                "Hero": "*Catherine*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:03:21+0000",
+            "payload": {
+                "Player": "cfd257e6-81fa-11e7-90ec-020ecf4900d0",
+                "Handle": "thaGankest",
+                "Hero": "*Samuel*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:03:28+0000",
+            "payload": {
+                "Player": "f38b24fa-7d91-11e7-9099-029cb633549e",
+                "Handle": "JippYludE",
+                "Hero": "*Alpha*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:03:47+0000",
+            "payload": {
+                "Player": "427626a8-a265-11e7-b009-020ecf4900d0",
+                "Handle": "Ohinin",
+                "Hero": "*Idris*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:04:10+0000",
+            "payload": {
+                "Player": "a83efd00-5078-11e7-a354-06fc87f1dd11",
+                "Handle": "Paradoxicality",
+                "Hero": "*Skaarf*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:04:35+0000",
+            "payload": {
+                "Player": "bddfd820-779a-11e7-825e-06b48b82cd49",
+                "Handle": "ASHmouth",
+                "Hero": "*Rona*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

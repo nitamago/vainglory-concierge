@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T22:36:25+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T22:36:39+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T22:36:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b6d183f6-cc52-11e6-8b66-06c5ee41a4a5",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "MySixthSense"
+            }
+        },
+        {
+            "time": "2017-12-05T22:37:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fae516a2-8a59-11e5-ada5-068789513eb5",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "Sasuke640321"
+            }
+        },
+        {
+            "time": "2017-12-05T22:37:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b4434846-a3a8-11e5-9d1c-06b48b82cd49",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "JokerProdijay"
+            }
+        },
+        {
+            "time": "2017-12-05T22:37:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "961b8a64-c21a-11e5-b3c3-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "XCailKiller"
+            }
+        },
+        {
+            "time": "2017-12-05T22:37:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "307b7536-a477-11e5-a9bf-06b48b82cd49",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "WrenchingNote23"
+            }
+        },
+        {
+            "time": "2017-12-05T22:37:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "280d003a-3b91-11e5-8b54-0628b69bf6d1",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "RoyBrandt"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

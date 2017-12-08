@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:00:20+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:00:40+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:00:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5af4db74-e74b-11e5-bec5-06c5ee41a4a5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "M0N4RCH"
+            }
+        },
+        {
+            "time": "2017-12-06T04:01:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4bd829de-7406-11e4-b12c-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Souljagoku"
+            }
+        },
+        {
+            "time": "2017-12-06T04:01:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3e3751d6-329e-11e5-aff8-06d90c28bf1a",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "VGLxMasterx"
+            }
+        },
+        {
+            "time": "2017-12-06T04:01:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ea0d8a40-a7be-11e4-93ba-06eb725f8a76",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "LocalPuertoRican"
+            }
+        },
+        {
+            "time": "2017-12-06T04:02:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "13cda222-22c4-11e5-b60a-06d90c28bf1a",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "cZaRdy"
+            }
+        },
+        {
+            "time": "2017-12-06T04:02:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d778d10e-5980-11e5-b803-0628b69bf6d1",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "EyesLow"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

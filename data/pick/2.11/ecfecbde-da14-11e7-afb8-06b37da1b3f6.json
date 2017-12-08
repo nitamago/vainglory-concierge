@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T23:35:53+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Baron*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:36:01+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:36:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "93959476-0be6-11e7-9383-020ecf4900d0",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Eee333"
+            }
+        },
+        {
+            "time": "2017-12-05T23:36:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "04216e2a-95f0-11e7-a226-0224e22aef46",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "HuckaCrushers"
+            }
+        },
+        {
+            "time": "2017-12-05T23:36:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cefcc7d8-04c6-11e5-a4a5-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Munieboy"
+            }
+        },
+        {
+            "time": "2017-12-05T23:37:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6929a566-2bc5-11e7-a7cf-0297ea8a7ddc",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "Bethshiva"
+            }
+        },
+        {
+            "time": "2017-12-05T23:37:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d85b7fee-2f86-11e7-ad49-06c5ee41a4a5",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "IndigOrange"
+            }
+        },
+        {
+            "time": "2017-12-05T23:37:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fe408bfc-0cbd-11e5-963e-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Muniebro"
+            }
+        }
+    ],
+    "winner": "another"
+}

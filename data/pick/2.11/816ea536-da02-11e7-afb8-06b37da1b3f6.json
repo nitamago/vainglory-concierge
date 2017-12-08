@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:23:32+0000",
+            "payload": {
+                "Player": "b2f82926-5e56-11e5-a104-06eb725f8a76",
+                "Handle": "dindonqc",
+                "Hero": "*Koshka*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:23:32+0000",
+            "payload": {
+                "Player": "58dde1f4-4aec-11e7-817d-0224e22aef46",
+                "Handle": "Heartyo",
+                "Hero": "*Lyra*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:23:43+0000",
+            "payload": {
+                "Player": "cc2502a0-c78a-11e5-a1f2-06eb725f8a76",
+                "Handle": "TeamHealer",
+                "Hero": "*Baron*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:23:59+0000",
+            "payload": {
+                "Player": "628325b6-8253-11e4-b525-06d90c28bf1a",
+                "Handle": "KILLdeadKILL",
+                "Hero": "*Reim*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:24:26+0000",
+            "payload": {
+                "Player": "89fc24d8-e71b-11e6-ad4c-06b48b82cd49",
+                "Handle": "MasterDave",
+                "Hero": "*Ardan*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:24:30+0000",
+            "payload": {
+                "Player": "140d3250-c181-11e5-87d6-06f4ee369f53",
+                "Handle": "restomize",
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

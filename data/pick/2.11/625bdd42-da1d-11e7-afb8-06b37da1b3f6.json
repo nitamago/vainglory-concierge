@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:36:07+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:36:22+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:36:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9e848386-6ee7-11e4-b7eb-06641bcbf424",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Wolfstanix"
+            }
+        },
+        {
+            "time": "2017-12-06T00:36:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e504345a-a996-11e6-a588-062cb73cdbb1",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "Zothan"
+            }
+        },
+        {
+            "time": "2017-12-06T00:36:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d23403ea-8fed-11e6-8a68-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "StayDrizzy"
+            }
+        },
+        {
+            "time": "2017-12-06T00:37:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c9b831b8-697e-11e6-ba83-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "motherfckajones"
+            }
+        },
+        {
+            "time": "2017-12-06T00:37:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "032997e2-bb03-11e4-9c77-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "BloodLuck"
+            }
+        },
+        {
+            "time": "2017-12-06T00:37:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c8a04e5e-b317-11e6-ae55-06c5ee41a4a5",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "Predator47"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

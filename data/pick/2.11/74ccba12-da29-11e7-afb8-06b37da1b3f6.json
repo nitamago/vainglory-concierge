@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:02:15+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:02:21+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Ardan*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:02:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e96c7cea-22a2-11e5-96d8-0628b69bf6d1",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "MrKrab"
+            }
+        },
+        {
+            "time": "2017-12-06T02:02:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8a449992-210c-11e5-95d3-06b48b82cd49",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "Spanx"
+            }
+        },
+        {
+            "time": "2017-12-06T02:03:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "315891d4-834f-11e6-8da1-067e8bc536fd",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "metime78"
+            }
+        },
+        {
+            "time": "2017-12-06T02:03:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d5deee86-f130-11e4-8e7e-06eb725f8a76",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "vngelo"
+            }
+        },
+        {
+            "time": "2017-12-06T02:03:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ba8c6f2c-6f45-11e4-9e0f-06641bcbf424",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "Angel757512"
+            }
+        },
+        {
+            "time": "2017-12-06T02:03:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "befa2622-3f46-11e5-9760-068789513eb5",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "CuuuumGETSUM"
+            }
+        }
+    ],
+    "winner": "another"
+}

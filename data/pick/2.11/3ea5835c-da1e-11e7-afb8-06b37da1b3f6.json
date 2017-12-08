@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:42:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e0a6a8ae-bda9-11e5-87fe-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "ironstool"
+            }
+        },
+        {
+            "time": "2017-12-06T00:42:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "50ca2094-cb8c-11e5-a67a-06f4ee369f53",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "TouKA"
+            }
+        },
+        {
+            "time": "2017-12-06T00:42:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1d45204c-139b-11e5-8e77-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Sturmblade"
+            }
+        },
+        {
+            "time": "2017-12-06T00:42:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ba6982d8-5a2b-11e5-a6c0-0628b69bf6d1",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "xJxOxEx"
+            }
+        },
+        {
+            "time": "2017-12-06T00:42:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8924a924-9a77-11e4-95d8-06d90c28bf1a",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "354sk"
+            }
+        },
+        {
+            "time": "2017-12-06T00:42:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2f80fa64-834f-11e5-8e1d-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "SlaYER"
+            }
+        }
+    ],
+    "winner": "another"
+}

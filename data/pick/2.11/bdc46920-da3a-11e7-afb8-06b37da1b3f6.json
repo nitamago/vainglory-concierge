@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:06:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a2de8794-bb4a-11e7-89f1-0297ea8a7ddc",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "Osire"
+            }
+        },
+        {
+            "time": "2017-12-06T04:06:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7b4dd326-1027-11e6-93b6-0628b69bf6d1",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "Aryisus"
+            }
+        },
+        {
+            "time": "2017-12-06T04:06:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "511d513c-6089-11e6-a0c8-062cb73cdbb1",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "inkgoblin"
+            }
+        },
+        {
+            "time": "2017-12-06T04:06:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "394d3d7a-20b3-11e7-bbf9-0224e22aef46",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "SUPERSIMS"
+            }
+        },
+        {
+            "time": "2017-12-06T04:06:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e1ca29da-d234-11e7-8744-02ce883f709a",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "cappy200014"
+            }
+        },
+        {
+            "time": "2017-12-06T04:06:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cfeed986-2bc9-11e5-a2ee-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Viper123"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

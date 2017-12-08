@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:03:25+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:03:38+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:04:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b666317a-72ca-11e4-88f0-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "StayLowkey"
+            }
+        },
+        {
+            "time": "2017-12-06T00:04:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "76ac350a-c573-11e5-85ff-0628b69bf6d1",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Sunnnight"
+            }
+        },
+        {
+            "time": "2017-12-06T00:04:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e4aab850-24b9-11e7-b36d-0263a81144c0",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "ohsosweet"
+            }
+        },
+        {
+            "time": "2017-12-06T00:04:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6ae1cd64-4987-11e6-a024-06eb725f8a76",
+                "Hero": "*Samuel*",
+                "Team": "1",
+                "Handle": "SilverParagon"
+            }
+        },
+        {
+            "time": "2017-12-06T00:04:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "641e2bbc-7274-11e4-af34-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "sawyounowdie"
+            }
+        },
+        {
+            "time": "2017-12-06T00:04:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d79ac4a4-77de-11e5-b1ef-068789513eb5",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "APieceOfRiceCake"
+            }
+        }
+    ],
+    "winner": "another"
+}

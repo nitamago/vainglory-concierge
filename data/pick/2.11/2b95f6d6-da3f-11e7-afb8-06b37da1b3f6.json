@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:37:59+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:38:07+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:38:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "875d7efc-68e4-11e7-878d-06fc87f1dd11",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "DgDiego"
+            }
+        },
+        {
+            "time": "2017-12-06T04:38:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6ee32daa-04a8-11e6-9902-067e8bc536fd",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "xXOwlKingXx"
+            }
+        },
+        {
+            "time": "2017-12-06T04:38:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "846caa5c-8d44-11e4-9f18-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "LordBryant"
+            }
+        },
+        {
+            "time": "2017-12-06T04:38:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "70980540-9beb-11e7-8a94-02081e0fc90e",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "thepoeticshot"
+            }
+        },
+        {
+            "time": "2017-12-06T04:38:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3e44f606-6b63-11e7-94e7-02b3611af5e6",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "MancillaKing1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:39:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0a645274-2842-11e6-9328-067e8bc536fd",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Phamtonface"
+            }
+        }
+    ],
+    "winner": "another"
+}

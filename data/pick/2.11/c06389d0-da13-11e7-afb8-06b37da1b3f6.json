@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:26:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6bd6cd64-6af3-11e5-915f-0628b69bf6d1",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Stookst"
+            }
+        },
+        {
+            "time": "2017-12-05T23:26:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7f471e8c-a9c7-11e4-908a-06d90c28bf1a",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "BonnieDeBlan"
+            }
+        },
+        {
+            "time": "2017-12-05T23:27:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9e5e477e-6efb-11e5-980c-068789513eb5",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "Bellnic"
+            }
+        },
+        {
+            "time": "2017-12-05T23:27:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "020d4cc8-75d0-11e4-8b95-06d90c28bf1a",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "llBRUTUSll"
+            }
+        },
+        {
+            "time": "2017-12-05T23:27:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "392a71c8-cf84-11e4-8db7-06d90c28bf1a",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "TropicalFish"
+            }
+        },
+        {
+            "time": "2017-12-05T23:27:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4da2e526-cf3c-11e7-bd37-0654fca4c20c",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "St4lthEagle"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

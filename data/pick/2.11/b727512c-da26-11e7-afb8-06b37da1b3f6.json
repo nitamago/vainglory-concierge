@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:42:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "24979360-0ad7-11e5-ac48-06eb725f8a76",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "lechuu"
+            }
+        },
+        {
+            "time": "2017-12-06T01:42:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3acc3862-5ab1-11e7-8300-067e8bc536fd",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "OGsolo"
+            }
+        },
+        {
+            "time": "2017-12-06T01:43:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "43022ebe-7808-11e7-9a7f-020355b21670",
+                "Hero": "*Flicker*",
+                "Team": "1",
+                "Handle": "CatInTheBush"
+            }
+        },
+        {
+            "time": "2017-12-06T01:43:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5d8aba92-6c4d-11e7-9200-02b3611af5e6",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "NotAbstract"
+            }
+        },
+        {
+            "time": "2017-12-06T01:43:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "67040a58-d320-11e7-a8e0-0654fca4c20c",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Guest_332763692"
+            }
+        },
+        {
+            "time": "2017-12-06T01:43:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9252e3ec-cb6b-11e4-9985-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "Lordofswords"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

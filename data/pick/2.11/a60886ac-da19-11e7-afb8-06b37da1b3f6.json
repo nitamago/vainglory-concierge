@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:09:15+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:09:35+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:09:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dbc9cff8-92dc-11e4-8cbd-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "WreckingBar"
+            }
+        },
+        {
+            "time": "2017-12-06T00:09:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d66ac6b0-abb7-11e7-ac95-067e8bc536fd",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "TxBryan"
+            }
+        },
+        {
+            "time": "2017-12-06T00:10:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0cb85f12-6e28-11e6-89b5-06388a2f2ea7",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "tallwhiteguy"
+            }
+        },
+        {
+            "time": "2017-12-06T00:10:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "20d94334-3333-11e5-9780-0628b69bf6d1",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "Cayldin"
+            }
+        },
+        {
+            "time": "2017-12-06T00:10:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "811110b6-7825-11e4-b7f5-06d90c28bf1a",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "BowTieTilliDie"
+            }
+        },
+        {
+            "time": "2017-12-06T00:11:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "de6b52f8-3f20-11e6-829d-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Ironranch"
+            }
+        }
+    ],
+    "winner": "another"
+}

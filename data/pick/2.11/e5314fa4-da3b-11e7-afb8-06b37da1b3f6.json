@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:14:36+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:14:40+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:14:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "06d29000-6e60-11e4-b7eb-06641bcbf424",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Gix"
+            }
+        },
+        {
+            "time": "2017-12-06T04:15:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "875f0486-981c-11e7-8135-0263a81144c0",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "jodagoflo"
+            }
+        },
+        {
+            "time": "2017-12-06T04:15:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "316bbe42-7799-11e6-927d-06c5ee41a4a5",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Caliber50"
+            }
+        },
+        {
+            "time": "2017-12-06T04:15:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ba685122-b0be-11e4-88e9-06eb725f8a76",
+                "Hero": "*Ozo*",
+                "Team": "1",
+                "Handle": "MrSleepyT"
+            }
+        },
+        {
+            "time": "2017-12-06T04:15:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "44ee1f78-d13b-11e5-be08-06c5ee41a4a5",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "mastercuddler"
+            }
+        },
+        {
+            "time": "2017-12-06T04:15:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "81339b5a-f18b-11e5-b7eb-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "Luisdem"
+            }
+        }
+    ],
+    "winner": "another"
+}

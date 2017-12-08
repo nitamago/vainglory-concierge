@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:52:17+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:52:22+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:52:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8d75bdce-8271-11e4-88cc-06d90c28bf1a",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "stevenbom"
+            }
+        },
+        {
+            "time": "2017-12-06T02:52:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e6096382-6a1a-11e5-83e9-068789513eb5",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "DodoTheDeputy"
+            }
+        },
+        {
+            "time": "2017-12-06T02:53:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "de676562-6875-11e5-9650-068789513eb5",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "Belikebraden"
+            }
+        },
+        {
+            "time": "2017-12-06T02:53:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f3942d76-1923-11e6-9dcd-06f4ee369f53",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "KontrolFreaks"
+            }
+        },
+        {
+            "time": "2017-12-06T02:53:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b04d03e0-bd2e-11e5-bf82-0628b69bf6d1",
+                "Hero": "*Reza*",
+                "Team": "1",
+                "Handle": "TribalZ3ro"
+            }
+        },
+        {
+            "time": "2017-12-06T02:54:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "98c3053c-6b10-11e5-a874-0628b69bf6d1",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "Svirida"
+            }
+        }
+    ],
+    "winner": "another"
+}

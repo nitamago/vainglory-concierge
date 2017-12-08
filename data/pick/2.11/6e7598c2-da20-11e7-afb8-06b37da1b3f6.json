@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:57:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d81733d0-7e45-11e7-9e00-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "yoshaya"
+            }
+        },
+        {
+            "time": "2017-12-06T00:57:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "15969f10-b43a-11e6-9aaa-06c5ee41a4a5",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "chosen1pr"
+            }
+        },
+        {
+            "time": "2017-12-06T00:58:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f7070ede-2ead-11e6-a094-067e8bc536fd",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "Kushiel119"
+            }
+        },
+        {
+            "time": "2017-12-06T00:58:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "69c2e6ae-7367-11e4-a26e-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "HereToHelp"
+            }
+        },
+        {
+            "time": "2017-12-06T00:58:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7d3d41e6-fbc2-11e4-bb67-06d90c28bf1a",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "Totoro101"
+            }
+        },
+        {
+            "time": "2017-12-06T00:58:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f340b660-d091-11e7-a558-06b672bd5be2",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "DimitriDark"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

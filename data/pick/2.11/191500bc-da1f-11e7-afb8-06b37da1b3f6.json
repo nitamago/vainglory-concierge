@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:48:13+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Glaive*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:48:31+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:48:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c8ac7cf8-7519-11e4-a1d6-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "TeamVertigo"
+            }
+        },
+        {
+            "time": "2017-12-06T00:48:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bfb8fc74-3580-11e6-93c0-06388a2f2ea7",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Shmeng"
+            }
+        },
+        {
+            "time": "2017-12-06T00:49:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2c4f3252-692d-11e5-b6da-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "YOOOONNGGJJAEEEE"
+            }
+        },
+        {
+            "time": "2017-12-06T00:49:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a2bc1182-3708-11e5-905f-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "P3rty"
+            }
+        },
+        {
+            "time": "2017-12-06T00:49:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b9831cf6-1b25-11e6-92cb-06c5ee41a4a5",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "DreamingDogma"
+            }
+        },
+        {
+            "time": "2017-12-06T00:49:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "04575a52-3804-11e7-be7d-0297ea8a7ddc",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Crucialplayer"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

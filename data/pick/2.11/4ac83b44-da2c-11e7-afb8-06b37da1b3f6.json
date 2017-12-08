@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:22:58+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Ardan*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:22:59+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:23:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5fa16726-5c79-11e5-9f90-06eb725f8a76",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "XxXFrozenXxX"
+            }
+        },
+        {
+            "time": "2017-12-06T02:23:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "440ef3a2-c7c2-11e5-b2ff-06f4ee369f53",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "HellFire4gz"
+            }
+        },
+        {
+            "time": "2017-12-06T02:23:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "10df7f5e-a0f0-11e5-948d-06b48b82cd49",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "ryandarkblade"
+            }
+        },
+        {
+            "time": "2017-12-06T02:23:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "aa138f2a-64c4-11e5-aedb-06b48b82cd49",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Idr4gonDJ"
+            }
+        },
+        {
+            "time": "2017-12-06T02:24:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6940f71c-658c-11e5-bf42-06eb725f8a76",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "iGiftxD"
+            }
+        },
+        {
+            "time": "2017-12-06T02:24:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "19a43fee-d177-11e7-a80d-069ef91bd55c",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "Astol"
+            }
+        }
+    ],
+    "winner": "another"
+}

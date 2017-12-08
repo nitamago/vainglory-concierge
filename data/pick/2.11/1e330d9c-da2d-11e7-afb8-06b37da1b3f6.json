@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:28:43+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:29:00+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:29:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4d1d9272-b27d-11e6-b9dd-06b48b82cd49",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "stefa7"
+            }
+        },
+        {
+            "time": "2017-12-06T02:29:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4b072168-bef6-11e5-97ea-068789513eb5",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "AlexMATZ"
+            }
+        },
+        {
+            "time": "2017-12-06T02:29:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "454a2026-9e31-11e5-8510-0628b69bf6d1",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "LawdJay"
+            }
+        },
+        {
+            "time": "2017-12-06T02:29:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2d96bb6c-4ec9-11e6-a47a-06388a2f2ea7",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "koleon44"
+            }
+        },
+        {
+            "time": "2017-12-06T02:30:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "88096f56-0be7-11e6-a6f1-062cb73cdbb1",
+                "Hero": "*Grumpjaw*",
+                "Team": "1",
+                "Handle": "cesar0010"
+            }
+        },
+        {
+            "time": "2017-12-06T02:30:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6e75854c-dde4-11e5-8f01-067e8bc536fd",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Arielsaenz"
+            }
+        }
+    ],
+    "winner": "another"
+}

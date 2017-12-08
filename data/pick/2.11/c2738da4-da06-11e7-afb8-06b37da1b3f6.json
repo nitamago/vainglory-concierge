@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:54:07+0000",
+            "payload": {
+                "Hero": "*Alpha*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:54:23+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:54:35+0000",
+            "payload": {
+                "Player": "baeebe7e-ed8f-11e5-aefd-06ab1a16f8e5",
+                "Handle": "Doom13117",
+                "Hero": "*Catherine*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:54:51+0000",
+            "payload": {
+                "Player": "a6f21d82-8a6f-11e4-ae0c-06d90c28bf1a",
+                "Handle": "tehPookems",
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:55:11+0000",
+            "payload": {
+                "Player": "dabf64d2-0438-11e6-ab7a-068789513eb5",
+                "Handle": "FlavorFul",
+                "Hero": "*Ringo*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:55:27+0000",
+            "payload": {
+                "Player": "07304c3c-a27f-11e5-b9fe-0628b69bf6d1",
+                "Handle": "7u7okabe7u7",
+                "Hero": "*Skye*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:55:37+0000",
+            "payload": {
+                "Player": "fc808e80-7dab-11e4-90e8-06eb725f8a76",
+                "Handle": "alekeyMS",
+                "Hero": "*Glaive*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:55:45+0000",
+            "payload": {
+                "Player": "a937f8dc-f927-11e5-b04a-06fc87f1dd11",
+                "Handle": "getinked",
+                "Hero": "*Ardan*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

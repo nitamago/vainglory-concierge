@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T22:37:37+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T22:38:03+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T22:38:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a6068ab6-96f4-11e4-9954-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Pajama"
+            }
+        },
+        {
+            "time": "2017-12-05T22:38:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7499a836-7125-11e4-b1ff-06641bcbf424",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "BlueStacks"
+            }
+        },
+        {
+            "time": "2017-12-05T22:38:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "280475c8-fcf7-11e5-9e7b-06fc87f1dd11",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "iLoveAshIay"
+            }
+        },
+        {
+            "time": "2017-12-05T22:38:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c8fe2032-528e-11e5-8a6c-06d90c28bf1a",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "PooopLooops"
+            }
+        },
+        {
+            "time": "2017-12-05T22:38:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8887ee96-04d9-11e5-bc8e-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "louisvuittondon"
+            }
+        },
+        {
+            "time": "2017-12-05T22:39:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "088f7c2a-6a5f-11e7-b2cb-020ecf4900d0",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "KQNGSTA"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:44:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e64442dc-cac1-11e6-9bcc-068789513eb5",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "MacDreFromDaBay"
+            }
+        },
+        {
+            "time": "2017-12-05T23:44:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "49a46d70-7874-11e6-8777-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "AlGhouti"
+            }
+        },
+        {
+            "time": "2017-12-05T23:44:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "42f133fc-8aa2-11e5-a3b2-06b48b82cd49",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "amoehlau"
+            }
+        },
+        {
+            "time": "2017-12-05T23:44:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5b226080-78e8-11e4-a146-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "mungermax"
+            }
+        },
+        {
+            "time": "2017-12-05T23:44:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dedcc422-8be0-11e5-b134-0628b69bf6d1",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Cathage"
+            }
+        },
+        {
+            "time": "2017-12-05T23:44:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0edb60bc-771b-11e7-859c-020ecf4900d0",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "NeverPeeWhistle"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

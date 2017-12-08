@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:37:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "97e9a0ee-e627-11e4-bae8-06eb725f8a76",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "WaltDawgss"
+            }
+        },
+        {
+            "time": "2017-12-06T03:37:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "be49eef0-9f08-11e7-90e4-020ecf4900d0",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "gozalo"
+            }
+        },
+        {
+            "time": "2017-12-06T03:37:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bce7d9cc-69d7-11e5-b60d-068789513eb5",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "Blackcore18"
+            }
+        },
+        {
+            "time": "2017-12-06T03:37:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "be0d5088-2662-11e5-8f0e-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "Asapkenn"
+            }
+        },
+        {
+            "time": "2017-12-06T03:37:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "693e9ce0-33f7-11e5-b1ec-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Dusse"
+            }
+        },
+        {
+            "time": "2017-12-06T03:37:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "da4d9d6e-13c2-11e5-bc72-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "drackleonn"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

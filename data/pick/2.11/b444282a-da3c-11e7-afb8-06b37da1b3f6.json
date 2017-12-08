@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:20:14+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:20:29+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:20:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "60d1e29c-6f6c-11e4-ac9d-062d0b175276",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "Jchampion"
+            }
+        },
+        {
+            "time": "2017-12-06T04:20:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "808dd6de-281e-11e5-a030-06f4ee369f53",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "toanton"
+            }
+        },
+        {
+            "time": "2017-12-06T04:20:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "38798e60-2ce2-11e5-a56e-06b48b82cd49",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "DraGunZ"
+            }
+        },
+        {
+            "time": "2017-12-06T04:21:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6cae39ea-fd9a-11e5-80d5-06fc87f1dd11",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "TwstedLogic"
+            }
+        },
+        {
+            "time": "2017-12-06T04:21:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d2c90bfa-27b2-11e6-8a69-0628b69bf6d1",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "sanket11"
+            }
+        },
+        {
+            "time": "2017-12-06T04:21:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2f7da29e-987c-11e7-8dfd-029cb633549e",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Gelidness"
+            }
+        }
+    ],
+    "winner": "another"
+}

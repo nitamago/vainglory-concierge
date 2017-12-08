@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:02:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8760eb98-911e-11e7-8486-06a9175d25fa",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Mrstealyogirlyo"
+            }
+        },
+        {
+            "time": "2017-12-06T01:02:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "00eefbf2-0f5c-11e7-8471-068789513eb5",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "relator"
+            }
+        },
+        {
+            "time": "2017-12-06T01:02:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b7aad916-6eef-11e4-b2d8-06641bcbf424",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "MegaMan"
+            }
+        },
+        {
+            "time": "2017-12-06T01:02:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5dc7fdc2-bcad-11e5-ab82-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "ZilberCondor"
+            }
+        },
+        {
+            "time": "2017-12-06T01:02:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "67a9264e-26b2-11e6-9815-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "HellzWind"
+            }
+        },
+        {
+            "time": "2017-12-06T01:03:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c29bdeb8-df39-11e5-bd72-06fc87f1dd11",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "DeathsHand00"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

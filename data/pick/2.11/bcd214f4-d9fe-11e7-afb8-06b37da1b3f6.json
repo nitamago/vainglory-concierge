@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T20:56:48+0000",
+            "payload": {
+                "Hero": "*Baron*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:57:05+0000",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:57:07+0000",
+            "payload": {
+                "Player": "210486b2-7113-11e4-bfea-06641bcbf424",
+                "Handle": "xTYPHONx",
+                "Hero": "*Varya*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:57:17+0000",
+            "payload": {
+                "Player": "4ad08596-820e-11e6-b394-068789513eb5",
+                "Handle": "Tiersquote",
+                "Hero": "*Vox*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:57:22+0000",
+            "payload": {
+                "Player": "35f9ee12-1065-11e5-a6cc-06d90c28bf1a",
+                "Handle": "Izeke",
+                "Hero": "*Skaarf*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:57:42+0000",
+            "payload": {
+                "Player": "ce93a2c6-ec01-11e5-910b-06eb725f8a76",
+                "Handle": "Demonstrations",
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:57:44+0000",
+            "payload": {
+                "Player": "a74d8e04-7022-11e4-ba2d-06641bcbf424",
+                "Handle": "IsraelFlores",
+                "Hero": "*Ardan*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:57:54+0000",
+            "payload": {
+                "Player": "3a0fc21a-c7ad-11e5-877e-068789513eb5",
+                "Handle": "Ratajkowskii",
+                "Hero": "*Phinn*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

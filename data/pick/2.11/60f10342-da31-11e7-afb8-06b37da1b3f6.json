@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:59:25+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:59:30+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:59:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7e55276a-ff73-11e4-af8b-06d90c28bf1a",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "FreakSty1e"
+            }
+        },
+        {
+            "time": "2017-12-06T02:59:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f896f586-a0ca-11e6-8253-068789513eb5",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "MittensTheBrave"
+            }
+        },
+        {
+            "time": "2017-12-06T02:59:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "672c57fe-074e-11e7-a251-02f3b4306918",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "Xajaxe"
+            }
+        },
+        {
+            "time": "2017-12-06T02:59:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "94a2bf40-6cac-11e5-8ac4-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Dannnnnnn"
+            }
+        },
+        {
+            "time": "2017-12-06T03:00:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5415f14a-2422-11e5-a7e6-0628b69bf6d1",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "SNUFFALUF1GUS"
+            }
+        },
+        {
+            "time": "2017-12-06T03:00:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4d8e81ba-a354-11e4-93d5-06eb725f8a76",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "DTara"
+            }
+        }
+    ],
+    "winner": "another"
+}

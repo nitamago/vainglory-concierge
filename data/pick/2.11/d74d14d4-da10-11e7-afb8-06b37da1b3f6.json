@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T23:06:03+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:06:08+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:06:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e6fea69e-94ff-11e4-8283-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Dajat"
+            }
+        },
+        {
+            "time": "2017-12-05T23:06:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4daebe52-d33d-11e5-8633-067e8bc536fd",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "KingCharlesVG"
+            }
+        },
+        {
+            "time": "2017-12-05T23:06:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6c10b102-bc9a-11e5-bb84-06b48b82cd49",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "Astemio"
+            }
+        },
+        {
+            "time": "2017-12-05T23:06:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "24ea75cc-8db2-11e5-8758-0628b69bf6d1",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "haytr"
+            }
+        },
+        {
+            "time": "2017-12-05T23:07:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "57f5e772-6f7f-11e5-a6d9-06b48b82cd49",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Zon008"
+            }
+        },
+        {
+            "time": "2017-12-05T23:07:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3e40daee-7575-11e4-9ddc-06d90c28bf1a",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "Synthex"
+            }
+        }
+    ],
+    "winner": "another"
+}

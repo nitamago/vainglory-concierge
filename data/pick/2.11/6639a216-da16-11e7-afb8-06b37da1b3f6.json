@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:46:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d3be24c8-ccd6-11e5-b3cb-06f4ee369f53",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "xMissNothing"
+            }
+        },
+        {
+            "time": "2017-12-05T23:46:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "db10f524-8be1-11e5-a0d2-0628b69bf6d1",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "biglou452"
+            }
+        },
+        {
+            "time": "2017-12-05T23:46:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d337d470-93d0-11e5-af4b-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "bomber333"
+            }
+        },
+        {
+            "time": "2017-12-05T23:46:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a7104a90-b50d-11e5-9244-06f4ee369f53",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "Ieaien"
+            }
+        },
+        {
+            "time": "2017-12-05T23:46:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "47bb82a6-9b7a-11e4-a8e1-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "TheProphet22"
+            }
+        },
+        {
+            "time": "2017-12-05T23:46:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b40e84d8-588c-11e5-b588-06f4ee369f53",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "LOWERCASEpilot"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

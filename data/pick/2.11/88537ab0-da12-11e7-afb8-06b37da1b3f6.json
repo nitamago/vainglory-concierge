@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:18:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "53267b08-7d20-11e6-9c5a-068789513eb5",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "worstmountain01"
+            }
+        },
+        {
+            "time": "2017-12-05T23:18:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4185f76e-54b0-11e5-9b61-068789513eb5",
+                "Hero": "*Ozo*",
+                "Team": "2",
+                "Handle": "o0Joma0o"
+            }
+        },
+        {
+            "time": "2017-12-05T23:18:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ad221af6-6a28-11e5-a874-0628b69bf6d1",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "TeamPlayer1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:18:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "87deaef4-15ca-11e7-b346-068789513eb5",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "7u7kisshot7u7"
+            }
+        },
+        {
+            "time": "2017-12-05T23:18:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "18d8fc4e-7c55-11e6-a50a-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Praethor"
+            }
+        },
+        {
+            "time": "2017-12-05T23:18:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "af6a1704-2b53-11e6-af68-06b48b82cd49",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "Ares22"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

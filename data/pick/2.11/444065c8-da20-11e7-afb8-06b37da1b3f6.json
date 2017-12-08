@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:56:47+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:56:49+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:57:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2b7989b2-27b6-11e5-8666-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Killamasta"
+            }
+        },
+        {
+            "time": "2017-12-06T00:57:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b5803cc6-d26d-11e4-b964-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "GreenListerine"
+            }
+        },
+        {
+            "time": "2017-12-06T00:57:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "136cb160-6e54-11e6-ba72-0628b69bf6d1",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "FlawLesS"
+            }
+        },
+        {
+            "time": "2017-12-06T00:57:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6113879e-27b6-11e5-b354-0628b69bf6d1",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "DINzekeERO"
+            }
+        },
+        {
+            "time": "2017-12-06T00:58:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6214fbda-f784-11e4-87c3-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "Cenoo"
+            }
+        },
+        {
+            "time": "2017-12-06T00:58:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b0564f7c-5d2f-11e5-a47f-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "eykS"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:21:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fed7b8da-3bb4-11e5-adff-0628b69bf6d1",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "2fast2furious"
+            }
+        },
+        {
+            "time": "2017-12-06T03:21:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8673bfca-bbfb-11e5-a568-068789513eb5",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "VanhallaGuardian"
+            }
+        },
+        {
+            "time": "2017-12-06T03:21:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "be75c2d6-7002-11e6-8978-06388a2f2ea7",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "elberso"
+            }
+        },
+        {
+            "time": "2017-12-06T03:21:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d52ca6a4-d08a-11e7-9801-069ef91bd55c",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "Chris626"
+            }
+        },
+        {
+            "time": "2017-12-06T03:22:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bd77603c-69e7-11e5-9a73-06b48b82cd49",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "KingBatac"
+            }
+        },
+        {
+            "time": "2017-12-06T03:22:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "77b01d3a-c59c-11e5-983f-06eb725f8a76",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "PuffenFiend"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

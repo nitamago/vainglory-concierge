@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:58:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "daf23d2a-2d25-11e5-b7d3-0628b69bf6d1",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "808Titan"
+            }
+        },
+        {
+            "time": "2017-12-06T01:58:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6e1b7518-a0f2-11e5-8520-0628b69bf6d1",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Salvare0000"
+            }
+        },
+        {
+            "time": "2017-12-06T01:58:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4d2b06fa-6fa4-11e4-bf97-062d0b175276",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "Mattie"
+            }
+        },
+        {
+            "time": "2017-12-06T01:58:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f88798fc-6a6e-11e7-ae86-0297ea8a7ddc",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "Revioux"
+            }
+        },
+        {
+            "time": "2017-12-06T01:58:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "38711fd4-6c9b-11e5-8807-06b48b82cd49",
+                "Hero": "*Reza*",
+                "Team": "1",
+                "Handle": "Immortvl"
+            }
+        },
+        {
+            "time": "2017-12-06T01:58:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8bdd6cae-e82f-11e4-a5a0-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "thetatrooper"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

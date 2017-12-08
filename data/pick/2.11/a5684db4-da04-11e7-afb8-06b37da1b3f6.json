@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:39:02+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:39:09+0000",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:39:24+0000",
+            "payload": {
+                "Player": "f5cc2152-1d5c-11e5-9a30-06d90c28bf1a",
+                "Handle": "Sugabear",
+                "Hero": "*Catherine*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:39:37+0000",
+            "payload": {
+                "Player": "f5055c96-778c-11e4-a2d6-06d90c28bf1a",
+                "Handle": "Darktamon",
+                "Hero": "*Lyra*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:39:44+0000",
+            "payload": {
+                "Player": "8baad57e-b8df-11e5-98b6-068789513eb5",
+                "Handle": "Put2Rest",
+                "Hero": "*Vox*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:40:07+0000",
+            "payload": {
+                "Player": "84d8a370-140a-11e7-a7df-06f4ee369f53",
+                "Handle": "RoIex",
+                "Hero": "*Taka*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:40:22+0000",
+            "payload": {
+                "Player": "e246d2a8-2658-11e5-bee7-06f4ee369f53",
+                "Handle": "ViiVii",
+                "Hero": "*Ringo*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:40:38+0000",
+            "payload": {
+                "Player": "32cabcd8-b67a-11e5-8c36-0628b69bf6d1",
+                "Handle": "FinEsse",
+                "Hero": "*Fortress*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:27:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "13ff4814-e0a1-11e4-b877-06d90c28bf1a",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "stealop"
+            }
+        },
+        {
+            "time": "2017-12-06T01:27:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c5e9c210-c0df-11e5-bb84-06b48b82cd49",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Luminous5"
+            }
+        },
+        {
+            "time": "2017-12-06T01:27:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "39193fe4-3e2b-11e7-bc07-0223dbc2587a",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "Blackking16"
+            }
+        },
+        {
+            "time": "2017-12-06T01:27:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4099928c-24cc-11e7-84e9-06eb725f8a76",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "kratoszeus"
+            }
+        },
+        {
+            "time": "2017-12-06T01:27:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b7b37b52-0869-11e5-bc8e-06eb725f8a76",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "RexDoom"
+            }
+        },
+        {
+            "time": "2017-12-06T01:28:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "079efee4-c36f-11e7-a6c6-067e8bc536fd",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "TheHound86"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

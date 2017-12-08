@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:22:11+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:22:28+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:22:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "34b21156-d482-11e5-bc88-06f4ee369f53",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "Shel"
+            }
+        },
+        {
+            "time": "2017-12-06T04:23:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "31e5603e-6696-11e7-ada6-06fc87f1dd11",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Axith"
+            }
+        },
+        {
+            "time": "2017-12-06T04:23:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "305f375c-79d7-11e4-b111-06d90c28bf1a",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "TonyP_321"
+            }
+        },
+        {
+            "time": "2017-12-06T04:23:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "280c9e86-b1cc-11e5-93bc-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "Rev3nge"
+            }
+        },
+        {
+            "time": "2017-12-06T04:23:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "342bf2ae-74ea-11e4-a232-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "AlexWeapons"
+            }
+        },
+        {
+            "time": "2017-12-06T04:23:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cd98a6f6-723f-11e4-88b0-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Karatemaster"
+            }
+        }
+    ],
+    "winner": "another"
+}

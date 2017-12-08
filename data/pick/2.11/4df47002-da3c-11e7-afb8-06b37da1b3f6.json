@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:17:24+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:17:30+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:17:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dfc9b28e-7f95-11e5-a8b9-06f4ee369f53",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "irishman09"
+            }
+        },
+        {
+            "time": "2017-12-06T04:17:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "14abc450-eb93-11e6-a51d-062cb73cdbb1",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Firenado "
+            }
+        },
+        {
+            "time": "2017-12-06T04:18:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e3cc88aa-8b07-11e7-949c-0224e22aef46",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "iamSweaty"
+            }
+        },
+        {
+            "time": "2017-12-06T04:18:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a23d4702-7cd8-11e4-8336-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "mossybagel"
+            }
+        },
+        {
+            "time": "2017-12-06T04:18:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7c8f2608-07dc-11e5-a51c-06d90c28bf1a",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "XxShadowsxX"
+            }
+        },
+        {
+            "time": "2017-12-06T04:18:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "89e75d90-08e8-11e5-a158-06eb725f8a76",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "Toxicnoise"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

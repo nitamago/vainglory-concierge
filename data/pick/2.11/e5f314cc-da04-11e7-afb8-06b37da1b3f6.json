@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:40:55+0000",
+            "payload": {
+                "Player": "97c5b4ca-db42-11e5-baff-0628b69bf6d1",
+                "Handle": "Shadowflux",
+                "Hero": "*Ringo*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:41:00+0000",
+            "payload": {
+                "Player": "8a549dfc-2a29-11e6-b1a2-06d90c28bf1a",
+                "Handle": "supsloth",
+                "Hero": "*Lance*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:41:10+0000",
+            "payload": {
+                "Player": "ff180f4a-046b-11e6-bf8e-068789513eb5",
+                "Handle": "BalloonDropYayo",
+                "Hero": "*Flicker*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:41:12+0000",
+            "payload": {
+                "Player": "1317bff0-c332-11e7-9b5d-020355b21670",
+                "Handle": "GuessWhoseBack",
+                "Hero": "*Koshka*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:41:13+0000",
+            "payload": {
+                "Player": "46605870-09b3-11e6-b916-0628b69bf6d1",
+                "Handle": "Cryptqueen",
+                "Hero": "*Gwen*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:41:14+0000",
+            "payload": {
+                "Player": "a3796526-98a6-11e4-8aab-06d90c28bf1a",
+                "Handle": "iTWiSTED",
+                "Hero": "*Koshka*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

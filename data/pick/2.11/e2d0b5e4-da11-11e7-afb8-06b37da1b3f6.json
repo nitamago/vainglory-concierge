@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T23:13:54+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:14:09+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:14:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "932a7f3a-3359-11e6-b261-06fc87f1dd11",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "PlatQ"
+            }
+        },
+        {
+            "time": "2017-12-05T23:14:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8b44e522-a358-11e4-867a-06eb725f8a76",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "SmartMunion"
+            }
+        },
+        {
+            "time": "2017-12-05T23:14:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "161cedec-6f4d-11e4-9a7f-06641bcbf424",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Havoc1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:14:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0cfbf68a-b349-11e6-b312-067e8bc536fd",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "ManiIsALegend"
+            }
+        },
+        {
+            "time": "2017-12-05T23:14:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b5146712-cdb0-11e7-9a3a-0654fca4c20c",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "neurofibroma"
+            }
+        },
+        {
+            "time": "2017-12-05T23:15:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c0994572-7736-11e4-9faa-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "ModuleOne"
+            }
+        }
+    ],
+    "winner": "another"
+}

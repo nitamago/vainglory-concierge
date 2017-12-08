@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:33:23+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:33:45+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:33:55+0000",
+            "payload": {
+                "Player": "4afadc10-7f22-11e4-a996-06eb725f8a76",
+                "Handle": "Zundel",
+                "Hero": "*Catherine*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:34:03+0000",
+            "payload": {
+                "Player": "db00cdfe-96d8-11e6-b604-067e8bc536fd",
+                "Handle": "CRUNCHBERRIES",
+                "Hero": "*Ardan*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:34:19+0000",
+            "payload": {
+                "Player": "e07736e4-f367-11e4-9580-06d90c28bf1a",
+                "Handle": "S3crett0",
+                "Hero": "*Vox*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:34:31+0000",
+            "payload": {
+                "Player": "a0e3a3a6-f4fb-11e4-9395-06d90c28bf1a",
+                "Handle": "bakilla",
+                "Hero": "*Skye*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:34:42+0000",
+            "payload": {
+                "Player": "b6d95072-8609-11e4-8211-06eb725f8a76",
+                "Handle": "Webstir",
+                "Hero": "*Ringo*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:34:51+0000",
+            "payload": {
+                "Player": "09496edc-7c75-11e7-be05-020ecf4900d0",
+                "Handle": "InakiZorro",
+                "Hero": "*Joule*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

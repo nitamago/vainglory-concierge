@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:58:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "becdc496-9413-11e7-b6be-06ab1a16f8e5",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "lolbrii"
+            }
+        },
+        {
+            "time": "2017-12-05T23:58:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "65c25a90-a118-11e6-8fac-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Trey7970"
+            }
+        },
+        {
+            "time": "2017-12-05T23:58:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c54ae5ba-724f-11e6-9da6-06388a2f2ea7",
+                "Hero": "*Flicker*",
+                "Team": "1",
+                "Handle": "Powerofgreed"
+            }
+        },
+        {
+            "time": "2017-12-05T23:58:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7fbd843c-0456-11e7-a292-062cb73cdbb1",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "ExDeuz"
+            }
+        },
+        {
+            "time": "2017-12-05T23:58:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "297e558e-03c9-11e7-9214-02081e0fc90e",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "ReverseFlash00"
+            }
+        },
+        {
+            "time": "2017-12-05T23:58:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3f0694b6-5119-11e5-aa0f-06d90c28bf1a",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "dragonhunter49"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

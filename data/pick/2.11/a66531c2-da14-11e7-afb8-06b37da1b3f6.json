@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:33:21+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:33:40+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:33:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c26cadb0-9e24-11e5-99a1-06b48b82cd49",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "KeithKarnage"
+            }
+        },
+        {
+            "time": "2017-12-05T23:34:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d66ac6b0-abb7-11e7-ac95-067e8bc536fd",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "TxBryan"
+            }
+        },
+        {
+            "time": "2017-12-05T23:34:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "47fc9158-a6a8-11e5-919e-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Eric284"
+            }
+        },
+        {
+            "time": "2017-12-05T23:34:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0cb85f12-6e28-11e6-89b5-06388a2f2ea7",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "tallwhiteguy"
+            }
+        },
+        {
+            "time": "2017-12-05T23:35:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8c7e8046-502d-11e6-b693-06ab1a16f8e5",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "Aequinoctium"
+            }
+        },
+        {
+            "time": "2017-12-05T23:35:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "97766228-6eea-11e4-bfea-06641bcbf424",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "luffy0325"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

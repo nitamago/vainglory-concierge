@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:04:47+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Alpha*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:04:48+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:05:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "92aa0754-ed79-11e5-be6b-06fc87f1dd11",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "Kupothy"
+            }
+        },
+        {
+            "time": "2017-12-06T01:05:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c883d2b2-3dad-11e7-88d1-029cb633549e",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Lionelklose"
+            }
+        },
+        {
+            "time": "2017-12-06T01:05:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "274f95e2-9a83-11e7-bd45-06f4ee369f53",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "TAKYN"
+            }
+        },
+        {
+            "time": "2017-12-06T01:05:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "62e8feba-64d1-11e6-b5d6-06ab1a16f8e5",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "BESTGAMER868"
+            }
+        },
+        {
+            "time": "2017-12-06T01:05:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "deb6be98-5e87-11e5-a802-06b48b82cd49",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "RaulChaser"
+            }
+        },
+        {
+            "time": "2017-12-06T01:05:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "677f0da0-3f53-11e6-b48b-06ab1a16f8e5",
+                "Hero": "*Reza*",
+                "Team": "2",
+                "Handle": "SyncChaos"
+            }
+        }
+    ],
+    "winner": "another"
+}

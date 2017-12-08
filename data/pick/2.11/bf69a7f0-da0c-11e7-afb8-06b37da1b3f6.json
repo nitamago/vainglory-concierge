@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T22:37:02+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T22:37:06+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T22:37:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "88ce61ec-814a-11e7-82c1-02a5820c0f16",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "WolfWiz"
+            }
+        },
+        {
+            "time": "2017-12-05T22:37:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e45a83b4-7198-11e6-bc05-06fc87f1dd11",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "JoeFixIt"
+            }
+        },
+        {
+            "time": "2017-12-05T22:37:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "aecc5c8e-b272-11e6-882f-06b48b82cd49",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "Stoic212"
+            }
+        },
+        {
+            "time": "2017-12-05T22:37:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d1a8bb7c-6a56-11e5-b94d-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Russcrowe"
+            }
+        },
+        {
+            "time": "2017-12-05T22:38:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3ba25e24-6e1d-11e5-bd71-0628b69bf6d1",
+                "Hero": "*Reza*",
+                "Team": "1",
+                "Handle": "Sisar1234"
+            }
+        },
+        {
+            "time": "2017-12-05T22:38:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1d22cae8-b2c7-11e6-8d8b-06a9175d25fa",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "Derek1321"
+            }
+        }
+    ],
+    "winner": "another"
+}

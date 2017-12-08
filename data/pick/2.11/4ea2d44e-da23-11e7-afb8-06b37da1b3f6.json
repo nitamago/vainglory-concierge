@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:18:23+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:18:28+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:18:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "324d5044-e458-11e4-b081-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "Pofuego"
+            }
+        },
+        {
+            "time": "2017-12-06T01:18:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "177792a8-c7c8-11e5-bb7b-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Fatal"
+            }
+        },
+        {
+            "time": "2017-12-06T01:19:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d9c89aee-7532-11e4-8854-06d90c28bf1a",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "Spiriteater"
+            }
+        },
+        {
+            "time": "2017-12-06T01:19:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c7d203d0-298b-11e5-9526-068789513eb5",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "Jazville"
+            }
+        },
+        {
+            "time": "2017-12-06T01:19:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8b84bae8-c86a-11e5-8b24-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "AllyPeterson"
+            }
+        },
+        {
+            "time": "2017-12-06T01:20:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cbe9f116-7686-11e4-b04e-06d90c28bf1a",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "notcesar"
+            }
+        }
+    ],
+    "winner": "another"
+}

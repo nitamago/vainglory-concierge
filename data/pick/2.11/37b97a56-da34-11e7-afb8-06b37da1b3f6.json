@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:19:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e7244100-55cb-11e5-978f-06f4ee369f53",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "theSnakeDoctor"
+            }
+        },
+        {
+            "time": "2017-12-06T03:19:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ae722bfe-7b89-11e5-a45b-06b48b82cd49",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "Ukaera"
+            }
+        },
+        {
+            "time": "2017-12-06T03:19:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6ba058dc-2157-11e5-9179-06f4ee369f53",
+                "Hero": "*Samuel*",
+                "Team": "1",
+                "Handle": "shhmurda"
+            }
+        },
+        {
+            "time": "2017-12-06T03:19:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9cd28c98-7ddd-11e6-9b2b-06fc87f1dd11",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "Carry4free"
+            }
+        },
+        {
+            "time": "2017-12-06T03:20:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "803c4c14-c2bb-11e5-ad10-06d90c28bf1a",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "Yippyskip45"
+            }
+        },
+        {
+            "time": "2017-12-06T03:20:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d74c4ca0-10d4-11e5-ac45-06d90c28bf1a",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "Flako19"
+            }
+        }
+    ],
+    "winner": "another"
+}

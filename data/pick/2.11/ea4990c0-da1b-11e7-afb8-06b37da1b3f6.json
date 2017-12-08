@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:25:23+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:25:32+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:25:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0356b766-31cf-11e5-afa4-0628b69bf6d1",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "lRenl"
+            }
+        },
+        {
+            "time": "2017-12-06T00:25:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "69628714-6ef0-11e7-9c61-020ecf4900d0",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "martingamer23"
+            }
+        },
+        {
+            "time": "2017-12-06T00:26:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ace3405e-5a10-11e7-9880-06b48b82cd49",
+                "Hero": "*Ozo*",
+                "Team": "2",
+                "Handle": "DonquixoteMingo"
+            }
+        },
+        {
+            "time": "2017-12-06T00:26:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e1fb9a42-359b-11e6-92d9-067e8bc536fd",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "choijoyy"
+            }
+        },
+        {
+            "time": "2017-12-06T00:26:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4a55c88a-3351-11e6-9202-062cb73cdbb1",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "Googolplexx"
+            }
+        },
+        {
+            "time": "2017-12-06T00:27:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2248d56a-626f-11e6-b26c-068789513eb5",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "xXTruthXx"
+            }
+        }
+    ],
+    "winner": "another"
+}

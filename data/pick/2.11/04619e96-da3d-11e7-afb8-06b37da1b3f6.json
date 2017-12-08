@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:22:27+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:22:36+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:22:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e5b249a8-9418-11e5-9315-068789513eb5",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "Jarrren"
+            }
+        },
+        {
+            "time": "2017-12-06T04:22:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9108a64a-9e35-11e6-82cd-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "Pineappleskillz"
+            }
+        },
+        {
+            "time": "2017-12-06T04:23:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ec8d303e-9171-11e5-8734-068789513eb5",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Lizardking20"
+            }
+        },
+        {
+            "time": "2017-12-06T04:23:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "410949e2-d18d-11e7-8c8a-0654fca4c20c",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "SenpaiMarc"
+            }
+        },
+        {
+            "time": "2017-12-06T04:23:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2233ac24-a7b9-11e5-9409-06d90c28bf1a",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "DaDdY27"
+            }
+        },
+        {
+            "time": "2017-12-06T04:23:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "95779338-ae74-11e4-93a1-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Shadowkill77"
+            }
+        }
+    ],
+    "winner": "another"
+}

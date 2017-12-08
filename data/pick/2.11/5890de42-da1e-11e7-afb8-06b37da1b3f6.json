@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:42:57+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:43:08+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:43:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "79f1ae76-464b-11e6-8138-0628b69bf6d1",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "fRosTbyte"
+            }
+        },
+        {
+            "time": "2017-12-06T00:43:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c650a97a-9543-11e5-8d24-06eb725f8a76",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "CesarSosa1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:43:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5afd646e-71ff-11e4-88b0-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "MaximusPrime"
+            }
+        },
+        {
+            "time": "2017-12-06T00:44:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fbdf34c8-899e-11e4-bc71-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "acallan1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:44:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "92e0dd9c-7a34-11e4-a756-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "XenoTekken"
+            }
+        },
+        {
+            "time": "2017-12-06T00:44:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d40ad4e2-8ffa-11e7-aea7-0297ea8a7ddc",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "BOOSTEDMANKEY"
+            }
+        }
+    ],
+    "winner": "another"
+}

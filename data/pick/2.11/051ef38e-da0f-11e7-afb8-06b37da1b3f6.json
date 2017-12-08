@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T22:53:17+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T22:53:25+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T22:53:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a5ddc4e4-6f86-11e5-8cb5-0628b69bf6d1",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "KuroScythe"
+            }
+        },
+        {
+            "time": "2017-12-05T22:53:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fbc84e00-8c75-11e4-bc71-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "CGREG15"
+            }
+        },
+        {
+            "time": "2017-12-05T22:54:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "84792c90-3f97-11e5-afa3-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "yanari"
+            }
+        },
+        {
+            "time": "2017-12-05T22:54:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "11e4eaa6-5f46-11e5-8f8e-0628b69bf6d1",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "michaliszyn"
+            }
+        },
+        {
+            "time": "2017-12-05T22:54:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "31e5603e-6696-11e7-ada6-06fc87f1dd11",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Axith"
+            }
+        },
+        {
+            "time": "2017-12-05T22:54:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a154b6fa-77f2-11e7-9ff7-02081e0fc90e",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "CaPtAiNToN1"
+            }
+        }
+    ],
+    "winner": "another"
+}

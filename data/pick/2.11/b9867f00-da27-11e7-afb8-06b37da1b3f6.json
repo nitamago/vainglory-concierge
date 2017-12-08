@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:50:01+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:50:07+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:50:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "71458eb2-4eb8-11e6-a8c3-067e8bc536fd",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "lopval"
+            }
+        },
+        {
+            "time": "2017-12-06T01:50:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "21db0ed0-d4ff-11e4-9a45-06eb725f8a76",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "Majinbae"
+            }
+        },
+        {
+            "time": "2017-12-06T01:50:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d8ddf050-0d5f-11e5-94c0-06eb725f8a76",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "PrincessKori"
+            }
+        },
+        {
+            "time": "2017-12-06T01:50:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2ccf3710-c900-11e7-9b2c-069ef91bd55c",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "SavageDiablo"
+            }
+        },
+        {
+            "time": "2017-12-06T01:50:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5f3b3c5c-c288-11e4-b3c4-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "ndnskcksnckek "
+            }
+        },
+        {
+            "time": "2017-12-06T01:50:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ecb643ca-7061-11e4-a9c4-06641bcbf424",
+                "Hero": "*Grumpjaw*",
+                "Team": "2",
+                "Handle": "coldfront"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

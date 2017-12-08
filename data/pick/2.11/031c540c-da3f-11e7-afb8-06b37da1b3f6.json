@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:36:40+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:36:45+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:36:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "452ab08c-cd26-11e5-a988-06ab1a16f8e5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "CEBOX"
+            }
+        },
+        {
+            "time": "2017-12-06T04:37:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "675cd698-206b-11e5-b863-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "MidnightDeath"
+            }
+        },
+        {
+            "time": "2017-12-06T04:37:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "659b05be-6ed2-11e4-bc68-06641bcbf424",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "The_Robin"
+            }
+        },
+        {
+            "time": "2017-12-06T04:37:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6d4923e4-bb3f-11e5-8413-06f4ee369f53",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "BlackYisus"
+            }
+        },
+        {
+            "time": "2017-12-06T04:37:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c8709d04-bd4e-11e5-9149-06eb725f8a76",
+                "Hero": "*Ozo*",
+                "Team": "1",
+                "Handle": "Cesarslz91"
+            }
+        },
+        {
+            "time": "2017-12-06T04:37:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4e13433a-6f12-11e4-9da1-062d0b175276",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "SnowBound"
+            }
+        }
+    ],
+    "winner": "another"
+}

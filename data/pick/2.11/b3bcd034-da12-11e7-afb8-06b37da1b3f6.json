@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T23:19:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "deb58bf6-77cc-11e4-a756-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "iNo1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:19:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "59409d56-dcb3-11e5-b2ef-06ab1a16f8e5",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "aMotorBoatinS0B"
+            }
+        },
+        {
+            "time": "2017-12-05T23:19:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d6b441ea-c857-11e5-802c-068789513eb5",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "ValonOrsor"
+            }
+        },
+        {
+            "time": "2017-12-05T23:19:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e5dcba02-83c1-11e4-8662-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "Pears"
+            }
+        },
+        {
+            "time": "2017-12-05T23:19:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2c2c60ca-7d17-11e6-818f-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "InvisibleTroll"
+            }
+        },
+        {
+            "time": "2017-12-05T23:19:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c9410b4a-6ef0-11e4-85cc-06641bcbf424",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "Fatedkiss"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T22:32:42+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T22:32:52+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T22:32:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "af4a59d8-7089-11e7-8c41-068789513eb5",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "ISuperior"
+            }
+        },
+        {
+            "time": "2017-12-05T22:33:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b0f0f3a6-be5e-11e6-9508-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Cal1b3r"
+            }
+        },
+        {
+            "time": "2017-12-05T22:33:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "211e803e-745a-11e6-96ed-062cb73cdbb1",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "R0ckstargr"
+            }
+        },
+        {
+            "time": "2017-12-05T22:33:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "79dc2726-7440-11e7-aad6-0263a81144c0",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "AcroKnight"
+            }
+        },
+        {
+            "time": "2017-12-05T22:33:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "edb42ebe-c167-11e6-9526-06f4ee369f53",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "DemitriVampire"
+            }
+        },
+        {
+            "time": "2017-12-05T22:34:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "70fe70e2-6d4d-11e5-956d-06eb725f8a76",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "reggiekill"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

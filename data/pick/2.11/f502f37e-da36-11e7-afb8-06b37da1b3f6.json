@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:39:14+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:39:26+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:39:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2168ab8a-d2fc-11e7-a634-069ef91bd55c",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "PizzaMaster1315"
+            }
+        },
+        {
+            "time": "2017-12-06T03:39:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "17e01a7c-418e-11e6-a22b-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "masaruuu"
+            }
+        },
+        {
+            "time": "2017-12-06T03:39:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "79372c74-bb29-11e6-8253-06c5ee41a4a5",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Guilty17"
+            }
+        },
+        {
+            "time": "2017-12-06T03:40:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fdbf0500-2144-11e5-97f8-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Jsdhavel"
+            }
+        },
+        {
+            "time": "2017-12-06T03:40:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "195e0fc6-756e-11e6-ae18-067e8bc536fd",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "SlinginBagels"
+            }
+        },
+        {
+            "time": "2017-12-06T03:40:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fc78ddaa-f8fa-11e4-9ae6-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "purplepirahna"
+            }
+        }
+    ],
+    "winner": "another"
+}

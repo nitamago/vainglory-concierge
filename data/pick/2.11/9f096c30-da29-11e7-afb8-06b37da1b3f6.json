@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:03:37+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:03:45+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:04:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7d288cf2-7c00-11e4-99c4-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "Laozy204"
+            }
+        },
+        {
+            "time": "2017-12-06T02:04:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7d970232-454c-11e7-b7cc-06b48b82cd49",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "D4rkW4ter"
+            }
+        },
+        {
+            "time": "2017-12-06T02:04:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c7b2711c-7ddf-11e4-83eb-06eb725f8a76",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "TheCrimson"
+            }
+        },
+        {
+            "time": "2017-12-06T02:04:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1f3edcba-0ce4-11e6-82ac-067e8bc536fd",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "Fu2zyPickle"
+            }
+        },
+        {
+            "time": "2017-12-06T02:04:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "24c1f824-7bff-11e4-9c8c-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "EDD"
+            }
+        },
+        {
+            "time": "2017-12-06T02:04:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "974b11ec-9765-11e4-9223-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "D3ATHD3ASTR0YER"
+            }
+        }
+    ],
+    "winner": "another"
+}

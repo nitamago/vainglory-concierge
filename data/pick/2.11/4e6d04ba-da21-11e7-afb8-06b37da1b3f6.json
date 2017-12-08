@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:04:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c1b2f028-ae3f-11e7-9fcc-029cb633549e",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "PyroMoth8"
+            }
+        },
+        {
+            "time": "2017-12-06T01:04:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "998481a8-6af7-11e5-b416-0628b69bf6d1",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "ParadoxLost"
+            }
+        },
+        {
+            "time": "2017-12-06T01:04:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a51de206-9201-11e7-a703-06f4ee369f53",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Purecurse"
+            }
+        },
+        {
+            "time": "2017-12-06T01:04:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c3a2a158-0878-11e6-9e30-06b48b82cd49",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "oUFO"
+            }
+        },
+        {
+            "time": "2017-12-06T01:04:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "97b8fab6-abeb-11e7-828f-0224e22aef46",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "LNrecy"
+            }
+        },
+        {
+            "time": "2017-12-06T01:04:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "65df36d6-2e43-11e5-a402-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Phyzics"
+            }
+        }
+    ],
+    "winner": "another"
+}

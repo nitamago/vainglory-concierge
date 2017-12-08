@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T23:34:53+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Skye*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:34:55+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:34:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fd897db8-bf59-11e6-ba3c-06c5ee41a4a5",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "iAleexs"
+            }
+        },
+        {
+            "time": "2017-12-05T23:35:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cad8ec40-ae8a-11e5-a74d-068789513eb5",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "DM0L1SH"
+            }
+        },
+        {
+            "time": "2017-12-05T23:35:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5121f8f8-2382-11e5-96e1-0628b69bf6d1",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Blooby"
+            }
+        },
+        {
+            "time": "2017-12-05T23:35:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6827cfc4-701c-11e4-aa48-062d0b175276",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "ittybittymoo"
+            }
+        },
+        {
+            "time": "2017-12-05T23:35:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "498abfe0-6896-11e5-9c81-06f4ee369f53",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "Macfizlroni"
+            }
+        },
+        {
+            "time": "2017-12-05T23:35:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "00f94070-c0cb-11e5-8e7e-0628b69bf6d1",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "coldplague"
+            }
+        }
+    ],
+    "winner": "another"
+}

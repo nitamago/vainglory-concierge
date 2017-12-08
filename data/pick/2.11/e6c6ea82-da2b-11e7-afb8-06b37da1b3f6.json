@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:20:04+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:20:07+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:20:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bfdde15a-0205-11e6-9d79-06b48b82cd49",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "princehill82"
+            }
+        },
+        {
+            "time": "2017-12-06T02:20:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "08f2279e-d09f-11e6-921c-06c5ee41a4a5",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "BlaZeZ"
+            }
+        },
+        {
+            "time": "2017-12-06T02:20:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3d7153b2-2c7d-11e6-8383-067e8bc536fd",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "lykuz"
+            }
+        },
+        {
+            "time": "2017-12-06T02:20:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b3efa63c-d3af-11e5-9b75-06c5ee41a4a5",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "ItsKamina"
+            }
+        },
+        {
+            "time": "2017-12-06T02:20:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c5572a64-bb1b-11e5-8152-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "dave2323"
+            }
+        },
+        {
+            "time": "2017-12-06T02:20:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bfaee408-03c4-11e5-9799-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "Slade112"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

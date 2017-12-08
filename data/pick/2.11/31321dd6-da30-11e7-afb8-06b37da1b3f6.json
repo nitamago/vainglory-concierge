@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:50:53+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:51:00+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Vox*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:51:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f727aad4-48eb-11e5-a0ab-06b48b82cd49",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Toasts"
+            }
+        },
+        {
+            "time": "2017-12-06T02:51:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dc7146bc-e6d2-11e4-a206-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "0ki7o"
+            }
+        },
+        {
+            "time": "2017-12-06T02:51:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8bd4372a-95bf-11e7-b6c1-06388a2f2ea7",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "kyrito"
+            }
+        },
+        {
+            "time": "2017-12-06T02:51:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0851d978-7e11-11e6-ab4c-06f4ee369f53",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "AwakenDevils"
+            }
+        },
+        {
+            "time": "2017-12-06T02:51:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fad0dc68-ca0b-11e5-a7b7-0628b69bf6d1",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "trishp9"
+            }
+        },
+        {
+            "time": "2017-12-06T02:52:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "484c8f02-be0d-11e4-8b84-06eb725f8a76",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "Daannyyy"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:53:22+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:53:26+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:53:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "34b21156-d482-11e5-bc88-06f4ee369f53",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Shel"
+            }
+        },
+        {
+            "time": "2017-12-06T03:54:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dd1bd38e-7ce7-11e4-8ab2-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "AlexisSe"
+            }
+        },
+        {
+            "time": "2017-12-06T03:54:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ce3283f4-82cd-11e4-9223-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "HydekX"
+            }
+        },
+        {
+            "time": "2017-12-06T03:54:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cbb6c7d2-80d5-11e5-81e1-0628b69bf6d1",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "BKedPotato"
+            }
+        },
+        {
+            "time": "2017-12-06T03:55:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5483bc30-8fe7-11e5-9910-06eb725f8a76",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "nvghostkiller49"
+            }
+        },
+        {
+            "time": "2017-12-06T03:55:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "af56f584-727c-11e4-a296-06d90c28bf1a",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "Solipsism"
+            }
+        }
+    ],
+    "winner": "another"
+}

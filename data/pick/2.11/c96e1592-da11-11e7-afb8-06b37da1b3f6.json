@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:12:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5c24462a-d0ce-11e6-ae4d-06eb725f8a76",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "JinLeonhart"
+            }
+        },
+        {
+            "time": "2017-12-05T23:12:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1d26ddb4-89b2-11e7-84e0-0224e22aef46",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "GotSkyllz"
+            }
+        },
+        {
+            "time": "2017-12-05T23:12:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a192cc18-ffd1-11e6-9c17-062cb73cdbb1",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "PGJohnson13"
+            }
+        },
+        {
+            "time": "2017-12-05T23:12:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "025ccf9e-3858-11e7-a14c-02f3b4306918",
+                "Hero": "*Flicker*",
+                "Team": "1",
+                "Handle": "BoilingWater"
+            }
+        },
+        {
+            "time": "2017-12-05T23:13:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d2d1ee36-0112-11e5-903c-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Dragonslayer123"
+            }
+        },
+        {
+            "time": "2017-12-05T23:13:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "df9e2258-aa35-11e4-9555-06eb725f8a76",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "kappuchino"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

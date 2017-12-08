@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:42:07+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:42:09+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:42:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2d34bd98-3bfc-11e6-850b-068789513eb5",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "TheMaxiShadow"
+            }
+        },
+        {
+            "time": "2017-12-06T03:42:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6f85ae48-22bf-11e5-bff3-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Oriflamme"
+            }
+        },
+        {
+            "time": "2017-12-06T03:42:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "eb020250-46a1-11e5-882d-06b48b82cd49",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "SoldMySoul4Ice"
+            }
+        },
+        {
+            "time": "2017-12-06T03:42:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2ac48096-81ce-11e4-a7fa-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "Walach"
+            }
+        },
+        {
+            "time": "2017-12-06T03:43:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "03a3dcac-f517-11e4-b74d-06eb725f8a76",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "oHM"
+            }
+        },
+        {
+            "time": "2017-12-06T03:43:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d303215e-78f0-11e4-9d68-06d90c28bf1a",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "l3eer"
+            }
+        }
+    ],
+    "winner": "another"
+}

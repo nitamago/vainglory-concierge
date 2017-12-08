@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:53:06+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:53:21+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:53:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dad7de9a-cc84-11e5-bb92-067e8bc536fd",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Israwr"
+            }
+        },
+        {
+            "time": "2017-12-06T03:53:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b1d35cde-7a61-11e4-a756-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "DeadlyNightshade"
+            }
+        },
+        {
+            "time": "2017-12-06T03:53:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a151ddee-2237-11e5-9042-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "MagicSquid"
+            }
+        },
+        {
+            "time": "2017-12-06T03:53:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7e55276a-ff73-11e4-af8b-06d90c28bf1a",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "FreakSty1e"
+            }
+        },
+        {
+            "time": "2017-12-06T03:54:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ecce22fc-16be-11e5-9069-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "LaggingDragon"
+            }
+        },
+        {
+            "time": "2017-12-06T03:54:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2233ac24-a7b9-11e5-9409-06d90c28bf1a",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "DaDdY27"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:29:22+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:29:29+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:29:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f4a2e692-9de2-11e5-b076-0628b69bf6d1",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Caesar"
+            }
+        },
+        {
+            "time": "2017-12-06T03:29:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "16d74a98-6948-11e5-9820-06b48b82cd49",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Joan128"
+            }
+        },
+        {
+            "time": "2017-12-06T03:29:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "394f6eee-75f0-11e4-9d68-06d90c28bf1a",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "RAiN"
+            }
+        },
+        {
+            "time": "2017-12-06T03:29:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c2c7a7c8-03f7-11e5-b0d9-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Codered"
+            }
+        },
+        {
+            "time": "2017-12-06T03:30:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "90b8e3ec-06e9-11e5-b7ca-06eb725f8a76",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "AutumnFeast"
+            }
+        },
+        {
+            "time": "2017-12-06T03:30:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3c87acc0-8bfa-11e7-8b5a-067e8bc536fd",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "ILoveNabi"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:12:00+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:12:03+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:12:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dad7de9a-cc84-11e5-bb92-067e8bc536fd",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "Israwr"
+            }
+        },
+        {
+            "time": "2017-12-06T01:12:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c7b2711c-7ddf-11e4-83eb-06eb725f8a76",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "TheCrimson"
+            }
+        },
+        {
+            "time": "2017-12-06T01:12:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2ff1bc60-e6c2-11e4-b76e-06eb725f8a76",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "toophan"
+            }
+        },
+        {
+            "time": "2017-12-06T01:13:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "befa2622-3f46-11e5-9760-068789513eb5",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "CuuuumGETSUM"
+            }
+        },
+        {
+            "time": "2017-12-06T01:13:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6bffe7d2-7367-11e4-86a0-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Snowball123"
+            }
+        },
+        {
+            "time": "2017-12-06T01:13:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8a510a54-86d1-11e4-bc89-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Jrzplaya"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

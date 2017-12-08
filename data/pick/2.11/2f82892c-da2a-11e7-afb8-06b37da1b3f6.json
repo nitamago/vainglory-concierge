@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:08:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ef7c6f36-c073-11e5-824c-068789513eb5",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "CelestialDemon26"
+            }
+        },
+        {
+            "time": "2017-12-06T02:08:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5d3439d0-b33c-11e6-971c-06f4ee369f53",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "DanIsGreat"
+            }
+        },
+        {
+            "time": "2017-12-06T02:08:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c8b779d4-5955-11e5-8bbe-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "RocRobot"
+            }
+        },
+        {
+            "time": "2017-12-06T02:08:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "571f92d6-04e4-11e5-ab8d-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "delcegno"
+            }
+        },
+        {
+            "time": "2017-12-06T02:08:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f3cfbb6e-2501-11e5-9df6-0628b69bf6d1",
+                "Hero": "*Reza*",
+                "Team": "2",
+                "Handle": "missB"
+            }
+        },
+        {
+            "time": "2017-12-06T02:08:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "389bd78e-2505-11e5-bc10-06d90c28bf1a",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "TiTpuncher"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

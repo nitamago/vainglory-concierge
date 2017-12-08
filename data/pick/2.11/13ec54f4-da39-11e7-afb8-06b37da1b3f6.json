@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:54:20+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:54:23+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:54:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e5993e68-c6ea-11e5-a9cf-06eb725f8a76",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "jailer1126"
+            }
+        },
+        {
+            "time": "2017-12-06T03:54:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c7ab29c4-8290-11e4-b0a5-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "TacoLove"
+            }
+        },
+        {
+            "time": "2017-12-06T03:54:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a52040d6-2026-11e5-a39a-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "NightSworn"
+            }
+        },
+        {
+            "time": "2017-12-06T03:55:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "388587b6-722d-11e5-9b3f-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "rokafella"
+            }
+        },
+        {
+            "time": "2017-12-06T03:55:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "52f14d80-8280-11e4-9f55-06eb725f8a76",
+                "Hero": "*Grumpjaw*",
+                "Team": "1",
+                "Handle": "TgateYaBish"
+            }
+        },
+        {
+            "time": "2017-12-06T03:55:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0a231e26-97b1-11e4-9f18-06d90c28bf1a",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "Hirozx"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

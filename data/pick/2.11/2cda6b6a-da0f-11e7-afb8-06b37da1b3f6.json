@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T22:54:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "eed16d1c-d781-11e7-ab27-069ef91bd55c",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "NoGagReflexes"
+            }
+        },
+        {
+            "time": "2017-12-05T22:54:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c4561c30-327a-11e5-a38e-06b48b82cd49",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "nearlynormal"
+            }
+        },
+        {
+            "time": "2017-12-05T22:54:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e1222108-7d04-11e6-8e92-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "6ixxGod"
+            }
+        },
+        {
+            "time": "2017-12-05T22:55:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6f3961ce-776f-11e4-b7f5-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "AyOnEs04"
+            }
+        },
+        {
+            "time": "2017-12-05T22:55:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1e556cd6-11a9-11e7-b4d1-020ecf4900d0",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "Rinako"
+            }
+        },
+        {
+            "time": "2017-12-05T22:55:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "39682bd2-4c0a-11e5-aeb5-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "miyagi22"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

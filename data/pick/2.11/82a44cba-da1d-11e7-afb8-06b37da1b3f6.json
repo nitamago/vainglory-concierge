@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:37:03+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:37:04+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:37:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "53de8d9a-bcc5-11e5-977a-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "BillybobGuy"
+            }
+        },
+        {
+            "time": "2017-12-06T00:37:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0778cc62-c8a9-11e7-ba0d-020c8314066a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "WishIHadSkins"
+            }
+        },
+        {
+            "time": "2017-12-06T00:37:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0dee80de-3c1b-11e7-b15b-06a9175d25fa",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "GothicLolis"
+            }
+        },
+        {
+            "time": "2017-12-06T00:38:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "83a5ae0e-df8e-11e6-bf6d-06f4ee369f53",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "ZenaWarrior"
+            }
+        },
+        {
+            "time": "2017-12-06T00:38:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a71caaf0-30ce-11e6-ae8b-06d90c28bf1a",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "TheZanku"
+            }
+        },
+        {
+            "time": "2017-12-06T00:38:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "85a630de-59d8-11e6-a9c0-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "AutumnEclipse"
+            }
+        }
+    ],
+    "winner": "another"
+}

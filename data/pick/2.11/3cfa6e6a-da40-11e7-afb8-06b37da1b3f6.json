@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:45:36+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:45:42+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Grace*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:45:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0f1c767a-8785-11e4-a162-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "HERMANOS"
+            }
+        },
+        {
+            "time": "2017-12-06T04:46:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "54cf56d0-21c5-11e5-92bc-068789513eb5",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "HootTheHootle"
+            }
+        },
+        {
+            "time": "2017-12-06T04:46:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c083b582-21ee-11e5-a2f8-06eb725f8a76",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "Raaseraphic"
+            }
+        },
+        {
+            "time": "2017-12-06T04:46:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "24ab80be-bf3b-11e5-bc65-06eb725f8a76",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "LuisaoFG"
+            }
+        },
+        {
+            "time": "2017-12-06T04:47:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "016aa1e0-c034-11e4-8f47-06eb725f8a76",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "BLAZZ"
+            }
+        },
+        {
+            "time": "2017-12-06T04:47:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cce38cae-adc1-11e4-9b86-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "Reap"
+            }
+        }
+    ],
+    "winner": "another"
+}

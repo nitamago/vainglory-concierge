@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:12:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4b412e2c-ab5d-11e6-bc17-06a9175d25fa",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "Pokegirl100"
+            }
+        },
+        {
+            "time": "2017-12-06T03:12:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0cd8d970-8a42-11e4-93ba-06eb725f8a76",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "dablord"
+            }
+        },
+        {
+            "time": "2017-12-06T03:12:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "692b4260-8d7d-11e4-947f-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "CapDeMilo"
+            }
+        },
+        {
+            "time": "2017-12-06T03:13:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "738aec84-e6e1-11e4-b0d5-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "ShaniseD"
+            }
+        },
+        {
+            "time": "2017-12-06T03:13:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "89bd485a-485f-11e5-8aab-06f4ee369f53",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "Minatothefirst"
+            }
+        },
+        {
+            "time": "2017-12-06T03:13:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "416052ce-8058-11e5-a67a-06f4ee369f53",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "rotatablecub"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

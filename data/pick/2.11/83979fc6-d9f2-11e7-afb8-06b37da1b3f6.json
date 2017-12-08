@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T19:29:08+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T19:29:12+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T19:29:23+0000",
+            "payload": {
+                "Player": "5aa9a186-cb86-11e4-a0e2-06d90c28bf1a",
+                "Handle": "DanielMV",
+                "Hero": "*Catherine*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T19:29:34+0000",
+            "payload": {
+                "Player": "5cbd3266-8f1e-11e4-9c29-06d90c28bf1a",
+                "Handle": "LuVisRaGe",
+                "Hero": "*Grace*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T19:29:57+0000",
+            "payload": {
+                "Player": "aef23d74-822d-11e7-883a-0297ea8a7ddc",
+                "Handle": "AceRush",
+                "Hero": "*Celeste*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T19:30:06+0000",
+            "payload": {
+                "Player": "17802cb6-716f-11e4-bba5-06641bcbf424",
+                "Handle": "kindseoul",
+                "Hero": "*Alpha*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T19:30:29+0000",
+            "payload": {
+                "Player": "5424d1f6-875a-11e5-bc2c-0628b69bf6d1",
+                "Handle": "Drogonn",
+                "Hero": "*Vox*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T19:30:38+0000",
+            "payload": {
+                "Player": "3c3c87d8-0f40-11e5-a6e1-06d90c28bf1a",
+                "Handle": "Gimuk",
+                "Hero": "*Krul*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

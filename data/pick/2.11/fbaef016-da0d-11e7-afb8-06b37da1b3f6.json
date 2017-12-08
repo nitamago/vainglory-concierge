@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T22:45:55+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T22:45:58+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T22:46:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c1aa3c24-f94d-11e5-925e-062cb73cdbb1",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "LyraisBae"
+            }
+        },
+        {
+            "time": "2017-12-05T22:46:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cdd60618-69c2-11e7-9511-02866102f5a6",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "CHICKENfromkorea"
+            }
+        },
+        {
+            "time": "2017-12-05T22:46:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dc71a64c-9584-11e4-b7af-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "cuminmymouth"
+            }
+        },
+        {
+            "time": "2017-12-05T22:46:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fad0dc68-ca0b-11e5-a7b7-0628b69bf6d1",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "trishp9"
+            }
+        },
+        {
+            "time": "2017-12-05T22:46:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4c01a470-904f-11e4-9144-06eb725f8a76",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "Psyrenous"
+            }
+        },
+        {
+            "time": "2017-12-05T22:47:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a99d66d2-1e2a-11e5-bdbd-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "OgGameFreak"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

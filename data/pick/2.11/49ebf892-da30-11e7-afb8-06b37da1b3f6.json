@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:51:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "603f2566-056b-11e5-be3e-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "TheGodOsiris"
+            }
+        },
+        {
+            "time": "2017-12-06T02:51:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b333cb1e-b58d-11e5-a2d7-0628b69bf6d1",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "KingJob"
+            }
+        },
+        {
+            "time": "2017-12-06T02:51:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "56cdc96e-3c67-11e5-8362-06f4ee369f53",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "RinZephyr"
+            }
+        },
+        {
+            "time": "2017-12-06T02:51:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9939d3f4-a889-11e5-a3a6-068789513eb5",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "Thewhitedead"
+            }
+        },
+        {
+            "time": "2017-12-06T02:51:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0a7562aa-4b64-11e5-bd07-068789513eb5",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "Telomere"
+            }
+        },
+        {
+            "time": "2017-12-06T02:51:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3099035c-19ae-11e5-8798-06d90c28bf1a",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "badatnames"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

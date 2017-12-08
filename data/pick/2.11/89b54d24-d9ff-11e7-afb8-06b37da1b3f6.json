@@ -1,0 +1,66 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:02:18+0000",
+            "payload": {
+                "Player": "1e20f82e-ea37-11e5-ae8d-0628b69bf6d1",
+                "Handle": "THeCAnuCK",
+                "Hero": "*Varya*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:02:19+0000",
+            "payload": {
+                "Player": "8edc8c0c-3247-11e5-8df2-068789513eb5",
+                "Handle": "zelle",
+                "Hero": "*SAW*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:02:31+0000",
+            "payload": {
+                "Player": "9c9c303c-2cb5-11e5-bb78-06b48b82cd49",
+                "Handle": "wasterman",
+                "Hero": "*Lyra*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:02:32+0000",
+            "payload": {
+                "Player": "b18391a2-6674-11e7-b86f-06f4ee369f53",
+                "Handle": "TauntingGiants",
+                "Hero": "*Alpha*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:02:57+0000",
+            "payload": {
+                "Player": "b2cf7180-b459-11e5-85c9-06b48b82cd49",
+                "Handle": "CrownAmb",
+                "Hero": "*Lance*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:03:02+0000",
+            "payload": {
+                "Player": "ab8aefaa-a526-11e4-84bf-06eb725f8a76",
+                "Handle": "Killface90",
+                "Hero": "*Rona*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

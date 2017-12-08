@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:43:37+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:43:50+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:43:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e246d2a8-2658-11e5-bee7-06f4ee369f53",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "ViiVii"
+            }
+        },
+        {
+            "time": "2017-12-06T02:44:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "84062948-52cf-11e5-b268-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "ReckFaze"
+            }
+        },
+        {
+            "time": "2017-12-06T02:44:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "43e2e0a8-93d1-11e4-bf99-06d90c28bf1a",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "LiluziVertXo"
+            }
+        },
+        {
+            "time": "2017-12-06T02:44:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "878e2f58-b02a-11e5-b338-06f4ee369f53",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "ProvidenceKB"
+            }
+        },
+        {
+            "time": "2017-12-06T02:44:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dedc1176-30cd-11e5-bede-06b48b82cd49",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "Qaa"
+            }
+        },
+        {
+            "time": "2017-12-06T02:45:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2d019caa-a789-11e4-8aab-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "BrokenEyez"
+            }
+        }
+    ],
+    "winner": "another"
+}

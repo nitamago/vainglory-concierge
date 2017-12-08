@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:38:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "292e446c-17df-11e6-bf41-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "SuPrEmEsLy"
+            }
+        },
+        {
+            "time": "2017-12-06T04:38:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c25aea00-8d6b-11e4-95d8-06d90c28bf1a",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "Chromeblue11"
+            }
+        },
+        {
+            "time": "2017-12-06T04:38:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bc920ad2-44f3-11e5-9fcd-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "BigAsianBoy"
+            }
+        },
+        {
+            "time": "2017-12-06T04:38:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1eda434c-b06f-11e7-9ffd-06388a2f2ea7",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "Oceanhorse"
+            }
+        },
+        {
+            "time": "2017-12-06T04:38:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dc43a606-bd89-11e5-aede-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "Pepper1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:38:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c0cf9cc2-bf5d-11e7-93d9-06eb725f8a76",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "Demonkame"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

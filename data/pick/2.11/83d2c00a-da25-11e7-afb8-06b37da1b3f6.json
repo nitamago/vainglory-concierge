@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:34:26+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:34:53+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:35:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5b7e821e-7879-11e7-8d70-068789513eb5",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "tinh1dem"
+            }
+        },
+        {
+            "time": "2017-12-06T01:35:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "333d4bac-ca2b-11e6-afdf-06f4ee369f53",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "YoungerMetro"
+            }
+        },
+        {
+            "time": "2017-12-06T01:35:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "400ae45e-aba3-11e5-adf9-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "RFWRogu3"
+            }
+        },
+        {
+            "time": "2017-12-06T01:35:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "21ea6c2e-68f3-11e7-935c-02a5820c0f16",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "Bean9001"
+            }
+        },
+        {
+            "time": "2017-12-06T01:35:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a1202d32-7616-11e7-bea2-0297ea8a7ddc",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "LofPandaz"
+            }
+        },
+        {
+            "time": "2017-12-06T01:35:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "481a9c5c-cf93-11e5-82a7-06d90c28bf1a",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "MerkzisOP"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

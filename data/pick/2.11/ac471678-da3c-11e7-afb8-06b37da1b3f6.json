@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:19:56+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:20:21+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:20:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6ba40bf8-d737-11e5-845b-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "AlextheGreat61"
+            }
+        },
+        {
+            "time": "2017-12-06T04:20:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "12b09444-c50b-11e7-897d-020c8314066a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "AlwaysSmart"
+            }
+        },
+        {
+            "time": "2017-12-06T04:21:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "08303fda-58f5-11e5-97c5-06d90c28bf1a",
+                "Hero": "*Flicker*",
+                "Team": "2",
+                "Handle": "SAV4GE"
+            }
+        },
+        {
+            "time": "2017-12-06T04:21:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b33a69ce-c3d9-11e5-a6ea-06eb725f8a76",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "AfterLifeRMR"
+            }
+        },
+        {
+            "time": "2017-12-06T04:21:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1501df4e-9a9e-11e5-8cae-0628b69bf6d1",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "WonderBread15"
+            }
+        },
+        {
+            "time": "2017-12-06T04:21:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d7f39a68-6963-11e5-8ce2-06b48b82cd49",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "OLordHelmet"
+            }
+        }
+    ],
+    "winner": "another"
+}

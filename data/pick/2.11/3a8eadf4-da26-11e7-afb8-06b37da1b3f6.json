@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:39:16+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:39:24+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Churnwalker*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:39:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "623dc58c-ab01-11e7-9fe4-062cb73cdbb1",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "Z9F"
+            }
+        },
+        {
+            "time": "2017-12-06T01:40:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "201dca50-ab65-11e5-a114-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "BradIey"
+            }
+        },
+        {
+            "time": "2017-12-06T01:40:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "76dbb91a-99cd-11e4-867a-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "esmei"
+            }
+        },
+        {
+            "time": "2017-12-06T01:40:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b998dd66-232d-11e5-8811-0628b69bf6d1",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "PvPWarrior"
+            }
+        },
+        {
+            "time": "2017-12-06T01:40:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "75cf2aae-6da6-11e5-a0cc-068789513eb5",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "L9F"
+            }
+        },
+        {
+            "time": "2017-12-06T01:41:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "440e897a-c85f-11e4-9a88-06d90c28bf1a",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "iIIest"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:58:05+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:58:10+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:58:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "38798e60-2ce2-11e5-a56e-06b48b82cd49",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "DraGunZ"
+            }
+        },
+        {
+            "time": "2017-12-06T03:58:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2007d1a8-7840-11e5-a866-06b48b82cd49",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "SearingPython"
+            }
+        },
+        {
+            "time": "2017-12-06T03:58:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fc28156c-7aad-11e4-b224-06eb725f8a76",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "FALCONX"
+            }
+        },
+        {
+            "time": "2017-12-06T03:58:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b4ebeb5e-3a62-11e5-8d04-06b48b82cd49",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "Thisguy19"
+            }
+        },
+        {
+            "time": "2017-12-06T03:59:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0594245a-cf9f-11e5-bd0d-062cb73cdbb1",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "NenoNemesis"
+            }
+        },
+        {
+            "time": "2017-12-06T03:59:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "da577fc2-d5ab-11e5-a54c-0628b69bf6d1",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "daboovanator"
+            }
+        }
+    ],
+    "winner": "another"
+}

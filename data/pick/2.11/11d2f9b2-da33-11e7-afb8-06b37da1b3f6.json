@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:11:03+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:11:10+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:11:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b60abb32-a18c-11e5-9c44-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "SinisterKai"
+            }
+        },
+        {
+            "time": "2017-12-06T03:11:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "10eb799c-0fd9-11e5-b587-06eb725f8a76",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "dmvANDRE"
+            }
+        },
+        {
+            "time": "2017-12-06T03:11:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1af259ca-372e-11e5-a728-0628b69bf6d1",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Teuchi"
+            }
+        },
+        {
+            "time": "2017-12-06T03:12:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1d22e902-1254-11e5-bce2-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "AlienIzSick"
+            }
+        },
+        {
+            "time": "2017-12-06T03:12:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ef4485cc-9505-11e7-bea0-06fc87f1dd11",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "JoeMaker"
+            }
+        },
+        {
+            "time": "2017-12-06T03:12:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "280d003a-3b91-11e5-8b54-0628b69bf6d1",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "RoyBrandt"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

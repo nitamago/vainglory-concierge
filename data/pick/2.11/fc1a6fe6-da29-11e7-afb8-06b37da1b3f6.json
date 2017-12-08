@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:06:19+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:06:34+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:06:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "279e26d8-af2b-11e6-b98e-06fc87f1dd11",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "KingLaz2020"
+            }
+        },
+        {
+            "time": "2017-12-06T02:06:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4ad17e6c-e837-11e6-a360-06388a2f2ea7",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "yukiyiko"
+            }
+        },
+        {
+            "time": "2017-12-06T02:07:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ccb50740-4bf4-11e5-a661-06f4ee369f53",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "artzpetejack"
+            }
+        },
+        {
+            "time": "2017-12-06T02:07:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "87e82e9c-0759-11e5-bc9c-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "KlarotNA"
+            }
+        },
+        {
+            "time": "2017-12-06T02:07:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d0d26f46-fbe7-11e4-9e84-06eb725f8a76",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "nicademus11"
+            }
+        },
+        {
+            "time": "2017-12-06T02:07:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a9b24f8c-844c-11e6-9ed9-06a9175d25fa",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "fernandorey"
+            }
+        }
+    ],
+    "winner": "another"
+}

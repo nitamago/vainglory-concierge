@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:58:15+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:58:17+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Catherine*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:58:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "068ba336-bf39-11e5-84e3-0628b69bf6d1",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "alldaywakebake"
+            }
+        },
+        {
+            "time": "2017-12-06T02:58:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5a43a17e-2684-11e6-9d71-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "MyLIttlePony54"
+            }
+        },
+        {
+            "time": "2017-12-06T02:58:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0e573be2-3fb0-11e5-ab0d-06eb725f8a76",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "Jayquell"
+            }
+        },
+        {
+            "time": "2017-12-06T02:59:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3f9ac886-43ca-11e5-8504-06b48b82cd49",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "SpectraI"
+            }
+        },
+        {
+            "time": "2017-12-06T02:59:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0b87fe54-627b-11e5-9808-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "TheEternalMage"
+            }
+        },
+        {
+            "time": "2017-12-06T02:59:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e82b9842-b047-11e5-b8b7-06f4ee369f53",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "AngosMegas"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

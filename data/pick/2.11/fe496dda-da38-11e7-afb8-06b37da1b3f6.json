@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:53:40+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:53:59+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:54:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "adf97b1a-203e-11e5-9d73-0628b69bf6d1",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "MrBadabuchi"
+            }
+        },
+        {
+            "time": "2017-12-06T03:54:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dfba8f70-eba7-11e4-b76e-06eb725f8a76",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "Vaingloriass"
+            }
+        },
+        {
+            "time": "2017-12-06T03:54:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "73b41eda-d31e-11e6-a42e-06fc87f1dd11",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "SaddestSatan"
+            }
+        },
+        {
+            "time": "2017-12-06T03:55:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1501df4e-9a9e-11e5-8cae-0628b69bf6d1",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "WonderBread15"
+            }
+        },
+        {
+            "time": "2017-12-06T03:55:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b33a69ce-c3d9-11e5-a6ea-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "AfterLifeRMR"
+            }
+        },
+        {
+            "time": "2017-12-06T03:55:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "be522104-c62a-11e6-91c9-06b48b82cd49",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "ProLadyDark90"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

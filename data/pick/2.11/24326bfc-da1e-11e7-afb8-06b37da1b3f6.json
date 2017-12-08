@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:41:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "73ab6130-a9cd-11e5-adf9-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "Wurmencio"
+            }
+        },
+        {
+            "time": "2017-12-06T00:41:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0093535c-8463-11e7-b62c-02a5820c0f16",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "SADW0RLD"
+            }
+        },
+        {
+            "time": "2017-12-06T00:41:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9340a8b2-c7d5-11e6-ba57-06eb725f8a76",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "BlackWolf69"
+            }
+        },
+        {
+            "time": "2017-12-06T00:41:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "eed691c0-4385-11e6-9ec1-06fc87f1dd11",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "SearceFul"
+            }
+        },
+        {
+            "time": "2017-12-06T00:41:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "64cb02c4-a21b-11e5-948d-06b48b82cd49",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "Imperatvr"
+            }
+        },
+        {
+            "time": "2017-12-06T00:42:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "50387a72-7365-11e7-a621-067e8bc536fd",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "MrBait"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

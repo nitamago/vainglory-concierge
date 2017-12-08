@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:08:00+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:08:24+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Catherine*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:08:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "46286e48-b763-11e6-8381-067e8bc536fd",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "ImCheesed"
+            }
+        },
+        {
+            "time": "2017-12-06T04:08:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2e1e0dc2-db59-11e4-a734-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "ThiccJaw"
+            }
+        },
+        {
+            "time": "2017-12-06T04:09:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "006bb044-9591-11e5-8ad8-06b48b82cd49",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Bcuzz"
+            }
+        },
+        {
+            "time": "2017-12-06T04:09:10+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4321bbc6-a609-11e5-a587-06b48b82cd49",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "Greatauk"
+            }
+        },
+        {
+            "time": "2017-12-06T04:09:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "60aec89a-a591-11e6-9d13-06b48b82cd49",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "SRuff"
+            }
+        },
+        {
+            "time": "2017-12-06T04:09:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2c4f3252-692d-11e5-b6da-06b48b82cd49",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "YOOOONNGGJJAEEEE"
+            }
+        }
+    ],
+    "winner": "another"
+}

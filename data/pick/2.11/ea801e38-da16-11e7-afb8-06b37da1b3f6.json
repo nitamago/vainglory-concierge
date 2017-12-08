@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T23:49:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4ebeeaa6-b9cd-11e7-a567-068789513eb5",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "hancient"
+            }
+        },
+        {
+            "time": "2017-12-05T23:50:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7491bcf6-22ab-11e5-848a-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Fidelity201"
+            }
+        },
+        {
+            "time": "2017-12-05T23:50:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4a54338e-db41-11e5-a7ff-06388a2f2ea7",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "AAMichael"
+            }
+        },
+        {
+            "time": "2017-12-05T23:50:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d2f7c5d2-d1af-11e7-8900-025e5fb8fe9e",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "DaRealWeen"
+            }
+        },
+        {
+            "time": "2017-12-05T23:50:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e136e522-04ad-11e6-a6de-067e8bc536fd",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "GunslingingDemon"
+            }
+        },
+        {
+            "time": "2017-12-05T23:50:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "88aa0500-6f9f-11e4-81c7-062d0b175276",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "lyonsdigital"
+            }
+        }
+    ],
+    "winner": "another"
+}

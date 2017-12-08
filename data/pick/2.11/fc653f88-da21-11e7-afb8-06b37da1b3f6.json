@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:09:01+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:09:09+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:09:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c2990c24-54b0-11e5-8918-068789513eb5",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "CDubs3287"
+            }
+        },
+        {
+            "time": "2017-12-06T01:09:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d00b5a4c-8b2a-11e4-9ad5-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "JulDeadly"
+            }
+        },
+        {
+            "time": "2017-12-06T01:09:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f99bf056-d2c8-11e5-9425-067e8bc536fd",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "DIOSINMORTAL"
+            }
+        },
+        {
+            "time": "2017-12-06T01:10:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "32599d2e-b4ad-11e5-99a1-06b48b82cd49",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "greenhstic"
+            }
+        },
+        {
+            "time": "2017-12-06T01:10:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0cbce910-0e7e-11e6-b7f0-06388a2f2ea7",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "xFab"
+            }
+        },
+        {
+            "time": "2017-12-06T01:10:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1491bf84-701f-11e4-b7eb-06641bcbf424",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "TidaIWave"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

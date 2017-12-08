@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:30:05+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Baron*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:30:12+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:30:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1057630a-63f4-11e5-bdf3-068789513eb5",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "JrRivera29"
+            }
+        },
+        {
+            "time": "2017-12-06T01:31:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dbfcdb38-fb99-11e5-bca1-06f4ee369f53",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "ghasthunter10"
+            }
+        },
+        {
+            "time": "2017-12-06T01:31:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "eaa6526c-387c-11e5-a296-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Shadowstrike23"
+            }
+        },
+        {
+            "time": "2017-12-06T01:31:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c18b137a-96f5-11e7-a25b-06b48b82cd49",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "gonghandsomeman"
+            }
+        },
+        {
+            "time": "2017-12-06T01:32:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "328d3220-7691-11e4-b745-06d90c28bf1a",
+                "Hero": "*Grumpjaw*",
+                "Team": "1",
+                "Handle": "1PAIN2GLORY"
+            }
+        },
+        {
+            "time": "2017-12-06T01:32:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "afbe2050-8f68-11e6-9804-06d90c28bf1a",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "FatesForever"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:55:37+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:55:42+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:55:48+0000",
+            "payload": {
+                "Player": "cc811758-179e-11e5-96c7-06d90c28bf1a",
+                "Handle": "CyberTraxx",
+                "Hero": "*Vox*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:56:13+0000",
+            "payload": {
+                "Player": "1ae5d204-f4bf-11e6-bf9e-06fc87f1dd11",
+                "Handle": "sokt",
+                "Hero": "*Catherine*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:56:33+0000",
+            "payload": {
+                "Player": "6beff9ea-05a0-11e6-9995-068789513eb5",
+                "Handle": "pAUlYwRaTH",
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:56:35+0000",
+            "payload": {
+                "Player": "593662f8-8b08-11e4-888b-06d90c28bf1a",
+                "Handle": "ViirusT",
+                "Hero": "*Ardan*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:56:58+0000",
+            "payload": {
+                "Player": "99adf27e-fc6e-11e4-b0d9-06eb725f8a76",
+                "Handle": "UnWeyFlamer",
+                "Hero": "*Reza*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:57:22+0000",
+            "payload": {
+                "Player": "1491bf84-701f-11e4-b7eb-06641bcbf424",
+                "Handle": "TidaIWave",
+                "Hero": "*Ozo*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:32:38+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:32:55+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:32:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dc7146bc-e6d2-11e4-a206-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "0ki7o"
+            }
+        },
+        {
+            "time": "2017-12-06T01:33:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "990e1f06-7442-11e4-9ae1-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "GBfloatzel"
+            }
+        },
+        {
+            "time": "2017-12-06T01:33:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d5deee86-f130-11e4-8e7e-06eb725f8a76",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "vngelo"
+            }
+        },
+        {
+            "time": "2017-12-06T01:33:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e08df35a-bd53-11e5-b421-06eb725f8a76",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "MeliodasDragoSin"
+            }
+        },
+        {
+            "time": "2017-12-06T01:33:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fa9761e2-25d1-11e5-b1fe-06f4ee369f53",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "LaloEgas"
+            }
+        },
+        {
+            "time": "2017-12-06T01:34:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d2e796d8-08c1-11e7-bc98-02f3b4306918",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "BoOoTyEaTeR"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

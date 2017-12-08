@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:10:24+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:10:42+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:10:56+0000",
+            "payload": {
+                "Player": "21c3cbb4-816f-11e4-a59c-06eb725f8a76",
+                "Handle": "spudly",
+                "Hero": "*Catherine*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:11:14+0000",
+            "payload": {
+                "Player": "d23403ea-8fed-11e6-8a68-06d90c28bf1a",
+                "Handle": "StayDrizzy",
+                "Hero": "*Lyra*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:11:28+0000",
+            "payload": {
+                "Player": "16b9d6f4-beba-11e4-8dd4-06eb725f8a76",
+                "Handle": "iPancho",
+                "Hero": "*Rona*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:11:38+0000",
+            "payload": {
+                "Player": "e5dcba02-83c1-11e4-8662-06d90c28bf1a",
+                "Handle": "Pears",
+                "Hero": "*Petal*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:11:44+0000",
+            "payload": {
+                "Player": "3c659f0e-08ee-11e5-9641-06d90c28bf1a",
+                "Handle": "Furlo",
+                "Hero": "*Vox*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:11:54+0000",
+            "payload": {
+                "Player": "c7b9ee72-6871-11e7-a4b6-06ab1a16f8e5",
+                "Handle": "Pathfinder112755",
+                "Hero": "*Celeste*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

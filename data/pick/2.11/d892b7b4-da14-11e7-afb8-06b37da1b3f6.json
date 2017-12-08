@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T23:34:54+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Ardan*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:34:58+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:35:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2431837e-6bb5-11e5-b4f6-0628b69bf6d1",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Simplest"
+            }
+        },
+        {
+            "time": "2017-12-05T23:35:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7ba74ae6-72ee-11e4-a192-06d90c28bf1a",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "C4bb4ge"
+            }
+        },
+        {
+            "time": "2017-12-05T23:35:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2b7989b2-27b6-11e5-8666-068789513eb5",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Killamasta"
+            }
+        },
+        {
+            "time": "2017-12-05T23:35:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bb63cee0-ccf5-11e5-bdac-06f4ee369f53",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "NarutoUZUMAKI"
+            }
+        },
+        {
+            "time": "2017-12-05T23:35:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0ee1163c-3482-11e7-8516-02866102f5a6",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "LoveScars"
+            }
+        },
+        {
+            "time": "2017-12-05T23:36:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "492550f0-d73c-11e5-a9af-06388a2f2ea7",
+                "Hero": "*Ozo*",
+                "Team": "2",
+                "Handle": "zRedemption"
+            }
+        }
+    ],
+    "winner": "another"
+}

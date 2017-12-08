@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:25:41+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:25:48+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:26:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c7c7a09e-d808-11e5-be01-06fc87f1dd11",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Decetical"
+            }
+        },
+        {
+            "time": "2017-12-06T02:26:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "22ec846a-83f2-11e4-9223-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "itsAkiGG"
+            }
+        },
+        {
+            "time": "2017-12-06T02:26:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5eba6460-c2c3-11e5-a8be-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "sakumo"
+            }
+        },
+        {
+            "time": "2017-12-06T02:26:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0a55c77c-0b64-11e6-bca1-06f4ee369f53",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "sanctified"
+            }
+        },
+        {
+            "time": "2017-12-06T02:27:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "97369e46-8829-11e5-8d8c-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "ExamiNationZun"
+            }
+        },
+        {
+            "time": "2017-12-06T02:27:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c3e23d48-55d3-11e5-b74b-068789513eb5",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "kirito1243"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

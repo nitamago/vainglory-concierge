@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:18:14+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:18:23+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Alpha*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:18:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "14abc450-eb93-11e6-a51d-062cb73cdbb1",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Firenado "
+            }
+        },
+        {
+            "time": "2017-12-06T00:18:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e13d2306-7110-11e4-9d7d-06641bcbf424",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Deynt"
+            }
+        },
+        {
+            "time": "2017-12-06T00:18:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a7571ad0-7d53-11e4-97d3-06eb725f8a76",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "PaddingtonBear"
+            }
+        },
+        {
+            "time": "2017-12-06T00:19:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "79f1ae76-464b-11e6-8138-0628b69bf6d1",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "fRosTbyte"
+            }
+        },
+        {
+            "time": "2017-12-06T00:19:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "92e0dd9c-7a34-11e4-a756-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "XenoTekken"
+            }
+        },
+        {
+            "time": "2017-12-06T00:19:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "aa2b1818-ecad-11e5-8583-062cb73cdbb1",
+                "Hero": "*Reza*",
+                "Team": "2",
+                "Handle": "andrew123456"
+            }
+        }
+    ],
+    "winner": "another"
+}

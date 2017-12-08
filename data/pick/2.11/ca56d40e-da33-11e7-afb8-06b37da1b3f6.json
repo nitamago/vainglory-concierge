@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:16:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "29f11416-cf99-11e6-b783-06ab1a16f8e5",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "KillerBee187"
+            }
+        },
+        {
+            "time": "2017-12-06T03:16:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "30c5bf06-a909-11e5-9d20-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "zeref666"
+            }
+        },
+        {
+            "time": "2017-12-06T03:16:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "16c0d706-f40a-11e6-932e-02081e0fc90e",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "Litujo"
+            }
+        },
+        {
+            "time": "2017-12-06T03:17:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9af260e6-d285-11e5-b38f-06fc87f1dd11",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "DOCTORKil1JOY"
+            }
+        },
+        {
+            "time": "2017-12-06T03:17:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3c76f986-6016-11e6-bcb0-0628b69bf6d1",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "DarkChocolate72"
+            }
+        },
+        {
+            "time": "2017-12-06T03:17:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2c24df26-d7d4-11e7-b396-020c8314066a",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "Carlvelli"
+            }
+        }
+    ],
+    "winner": "another"
+}

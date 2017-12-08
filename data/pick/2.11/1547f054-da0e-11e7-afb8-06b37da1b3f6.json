@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T22:46:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1d26ddb4-89b2-11e7-84e0-0224e22aef46",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "GotSkyllz"
+            }
+        },
+        {
+            "time": "2017-12-05T22:46:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5b948c6c-8975-11e4-887e-06eb725f8a76",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "AChosenOne"
+            }
+        },
+        {
+            "time": "2017-12-05T22:46:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2b6dcfb2-d260-11e7-8cd1-020c8314066a",
+                "Hero": "*Flicker*",
+                "Team": "2",
+                "Handle": "tostador"
+            }
+        },
+        {
+            "time": "2017-12-05T22:46:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "025ccf9e-3858-11e7-a14c-02f3b4306918",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "BoilingWater"
+            }
+        },
+        {
+            "time": "2017-12-05T22:46:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d170186e-ca03-11e5-91e1-06f4ee369f53",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "vickvinegar"
+            }
+        },
+        {
+            "time": "2017-12-05T22:46:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fdfece42-763b-11e4-b3b6-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "GarrettD"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

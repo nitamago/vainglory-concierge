@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T22:47:46+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T22:47:52+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T22:47:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "03de2bbc-7602-11e4-a146-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "SuperFox"
+            }
+        },
+        {
+            "time": "2017-12-05T22:48:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c2eb417a-05f2-11e7-9667-068789513eb5",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "SickSickSick"
+            }
+        },
+        {
+            "time": "2017-12-05T22:48:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "11a12312-b73d-11e5-bc60-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Nick40"
+            }
+        },
+        {
+            "time": "2017-12-05T22:48:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "17e7dc52-72f6-11e4-a192-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "quynho"
+            }
+        },
+        {
+            "time": "2017-12-05T22:48:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4f5b59e0-cd39-11e5-8d06-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "GoofyASF"
+            }
+        },
+        {
+            "time": "2017-12-05T22:48:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1fb70544-3884-11e5-80ff-06b48b82cd49",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "SoloQueueFrost"
+            }
+        }
+    ],
+    "winner": "another"
+}

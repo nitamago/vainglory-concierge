@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:24:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dd180f8a-de0e-11e6-9735-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Normakk1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:24:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "844ee5dc-e86d-11e5-88d0-067e8bc536fd",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Gol3mGuardian"
+            }
+        },
+        {
+            "time": "2017-12-06T04:24:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "98472762-07d4-11e6-a7e6-06fc87f1dd11",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "DAVIDsmith"
+            }
+        },
+        {
+            "time": "2017-12-06T04:25:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "394d3d7a-20b3-11e7-bbf9-0224e22aef46",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "SUPERSIMS"
+            }
+        },
+        {
+            "time": "2017-12-06T04:25:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2ac8b466-f0ba-11e5-97e3-06f4ee369f53",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "BruceLaynee"
+            }
+        },
+        {
+            "time": "2017-12-06T04:25:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "53fed968-7286-11e4-961b-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "KINGKOMA"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:04:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e6ab07e2-a813-11e4-a9bb-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Phaerun "
+            }
+        },
+        {
+            "time": "2017-12-06T00:04:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5809b902-7113-11e4-9c3c-06641bcbf424",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "SbMeow"
+            }
+        },
+        {
+            "time": "2017-12-06T00:04:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "142aa8ea-4100-11e6-98f5-06eb725f8a76",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "pautina"
+            }
+        },
+        {
+            "time": "2017-12-06T00:04:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "49a072e2-b82a-11e6-b22d-06f4ee369f53",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "Chosen1One"
+            }
+        },
+        {
+            "time": "2017-12-06T00:04:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "61e6a4ca-c6d7-11e4-af5e-06d90c28bf1a",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "Ramir0California"
+            }
+        },
+        {
+            "time": "2017-12-06T00:05:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d60721d8-a652-11e7-8960-02081e0fc90e",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "TryHardKilo"
+            }
+        }
+    ],
+    "winner": "another"
+}

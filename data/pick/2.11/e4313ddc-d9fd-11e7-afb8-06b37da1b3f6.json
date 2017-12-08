@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T20:50:45+0000",
+            "payload": {
+                "Hero": "*Reza*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:51:05+0000",
+            "payload": {
+                "Hero": "*Catherine*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:51:16+0000",
+            "payload": {
+                "Player": "8754bb74-1209-11e6-bd1e-06f4ee369f53",
+                "Handle": "AlSahHim69",
+                "Hero": "*Lyra*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:51:33+0000",
+            "payload": {
+                "Player": "a57339d8-8492-11e4-9954-06eb725f8a76",
+                "Handle": "DaDesk",
+                "Hero": "*Idris*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:51:43+0000",
+            "payload": {
+                "Player": "a04c328a-79d7-11e5-aca2-068789513eb5",
+                "Handle": "vanishsantos",
+                "Hero": "*Grace*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:51:56+0000",
+            "payload": {
+                "Player": "11e9ef26-c0d3-11e5-addf-068789513eb5",
+                "Handle": "Klaink",
+                "Hero": "*Rona*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:52:19+0000",
+            "payload": {
+                "Player": "bcef347c-2580-11e7-a289-06b48b82cd49",
+                "Handle": "screambloodygore",
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:52:21+0000",
+            "payload": {
+                "Player": "887d6010-c20d-11e5-a7dc-0628b69bf6d1",
+                "Handle": "COLLETTTE",
+                "Hero": "*Grumpjaw*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

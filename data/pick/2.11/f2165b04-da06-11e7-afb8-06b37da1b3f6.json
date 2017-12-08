@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:55:15+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:55:27+0000",
+            "payload": {
+                "Hero": "*Lance*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:55:33+0000",
+            "payload": {
+                "Player": "bffe9078-7361-11e4-a29d-06d90c28bf1a",
+                "Handle": "jalex2050",
+                "Hero": "*Vox*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:55:44+0000",
+            "payload": {
+                "Player": "6ce1a36e-a936-11e6-9c73-06f4ee369f53",
+                "Handle": "Infernus434",
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:55:55+0000",
+            "payload": {
+                "Player": "91658fa2-d5c4-11e5-ab98-06ab1a16f8e5",
+                "Handle": "senpaikaneki",
+                "Hero": "*Catherine*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:56:17+0000",
+            "payload": {
+                "Player": "492550f0-d73c-11e5-a9af-06388a2f2ea7",
+                "Handle": "zRedemption",
+                "Hero": "*Ozo*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:56:19+0000",
+            "payload": {
+                "Player": "7ba74ae6-72ee-11e4-a192-06d90c28bf1a",
+                "Handle": "C4bb4ge",
+                "Hero": "*Adagio*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:56:41+0000",
+            "payload": {
+                "Player": "e4333c04-bade-11e4-9580-06d90c28bf1a",
+                "Handle": "xXANDREWXx",
+                "Hero": "*Reim*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "left/blue",
+    "loser": "another"
+}

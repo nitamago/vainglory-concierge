@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T04:06:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e4fadf7e-238f-11e5-a63a-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "Bombulla"
+            }
+        },
+        {
+            "time": "2017-12-06T04:06:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a51de206-9201-11e7-a703-06f4ee369f53",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Purecurse"
+            }
+        },
+        {
+            "time": "2017-12-06T04:06:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ab34c3b0-18dc-11e7-8c36-06eb725f8a76",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "ItsAstro"
+            }
+        },
+        {
+            "time": "2017-12-06T04:06:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "761be7ce-7c1e-11e4-9c8c-06eb725f8a76",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "TH3WOLFE"
+            }
+        },
+        {
+            "time": "2017-12-06T04:06:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8c5ae170-b844-11e6-9e31-062cb73cdbb1",
+                "Hero": "*Reza*",
+                "Team": "1",
+                "Handle": "TACU"
+            }
+        },
+        {
+            "time": "2017-12-06T04:06:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2362900c-6415-11e5-b31e-06d90c28bf1a",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "OrzhovArrow"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:04:08+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:04:11+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:04:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1501df4e-9a9e-11e5-8cae-0628b69bf6d1",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "WonderBread15"
+            }
+        },
+        {
+            "time": "2017-12-06T03:04:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "239beb7e-38bb-11e6-92b2-062cb73cdbb1",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "xKingX"
+            }
+        },
+        {
+            "time": "2017-12-06T03:04:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7e1a6e32-c420-11e5-a7dc-0628b69bf6d1",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "UnderHeal"
+            }
+        },
+        {
+            "time": "2017-12-06T03:04:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b33a69ce-c3d9-11e5-a6ea-06eb725f8a76",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "AfterLifeRMR"
+            }
+        },
+        {
+            "time": "2017-12-06T03:05:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3ca9a63a-75d8-11e4-a1d6-06d90c28bf1a",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "Bootylicious"
+            }
+        },
+        {
+            "time": "2017-12-06T03:05:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3face6a8-4958-11e6-8c4e-06ab1a16f8e5",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "arrowjules"
+            }
+        }
+    ],
+    "winner": "another"
+}

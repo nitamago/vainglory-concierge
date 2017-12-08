@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:14:41+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Alpha*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:14:58+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Skye*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:15:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e5aeed7c-2bf3-11e5-9d4c-06f4ee369f53",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "zyrn"
+            }
+        },
+        {
+            "time": "2017-12-06T01:15:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0473c856-89a4-11e4-9954-06eb725f8a76",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "jackrv95"
+            }
+        },
+        {
+            "time": "2017-12-06T01:15:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f2014e2c-3039-11e5-b487-06f4ee369f53",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "NightDevil"
+            }
+        },
+        {
+            "time": "2017-12-06T01:15:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fa427ef0-4045-11e5-b0e7-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "WhiteFyre"
+            }
+        },
+        {
+            "time": "2017-12-06T01:15:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0e697822-8145-11e4-a2f5-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "farm"
+            }
+        },
+        {
+            "time": "2017-12-06T01:16:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e6240452-c1ff-11e5-87e2-06b48b82cd49",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "GIBA"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

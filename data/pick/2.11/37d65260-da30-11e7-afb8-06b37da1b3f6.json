@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:50:42+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:51:04+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:51:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "deb4344a-da85-11e6-842c-06fc87f1dd11",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "XsniperzX"
+            }
+        },
+        {
+            "time": "2017-12-06T02:51:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "56d6d88e-ff66-11e5-82b3-0628b69bf6d1",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "garza37"
+            }
+        },
+        {
+            "time": "2017-12-06T02:51:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c384116a-de67-11e5-9f56-06eb725f8a76",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "LuthienDior"
+            }
+        },
+        {
+            "time": "2017-12-06T02:51:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e6bfefb4-49b1-11e5-bcce-06f4ee369f53",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "adlesnake"
+            }
+        },
+        {
+            "time": "2017-12-06T02:51:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "676b1d36-9691-11e7-afa8-06a9175d25fa",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Berseck"
+            }
+        },
+        {
+            "time": "2017-12-06T02:52:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "459f8518-7437-11e4-a232-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "iLoveFlawLesS"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:06:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a793fd60-d059-11e5-a467-06c5ee41a4a5",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "CantNotPlay"
+            }
+        },
+        {
+            "time": "2017-12-06T04:07:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fd08ecfa-68bc-11e6-b7dc-0628b69bf6d1",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "BattleMaster2020"
+            }
+        },
+        {
+            "time": "2017-12-06T04:07:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "da4d9d6e-13c2-11e5-bc72-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "drackleonn"
+            }
+        },
+        {
+            "time": "2017-12-06T04:07:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c2742b4c-9ba1-11e5-a7c7-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "TheDFlight"
+            }
+        },
+        {
+            "time": "2017-12-06T04:07:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5c877a6a-bf58-11e6-906b-068789513eb5",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "gato27"
+            }
+        },
+        {
+            "time": "2017-12-06T04:07:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "864cac3e-72ee-11e4-88b0-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "MrJoeSmith"
+            }
+        }
+    ],
+    "winner": "another"
+}

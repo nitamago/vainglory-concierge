@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:51:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b72f51d2-076f-11e6-a8b6-062cb73cdbb1",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "mothag00se"
+            }
+        },
+        {
+            "time": "2017-12-06T03:51:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4172ec9c-0200-11e7-a1b5-067e8bc536fd",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Parupo"
+            }
+        },
+        {
+            "time": "2017-12-06T03:51:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fa41f89a-fd1e-11e5-9ba4-06ab1a16f8e5",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "KlenkinHamma"
+            }
+        },
+        {
+            "time": "2017-12-06T03:51:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f7c660fa-d4be-11e7-87db-06b672bd5be2",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "LuxDalihia"
+            }
+        },
+        {
+            "time": "2017-12-06T03:51:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "89c455aa-8629-11e7-9081-02b3611af5e6",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "MelancholyF"
+            }
+        },
+        {
+            "time": "2017-12-06T03:52:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "63a32664-6bdf-11e5-8887-068789513eb5",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "gayox"
+            }
+        }
+    ],
+    "winner": "another"
+}

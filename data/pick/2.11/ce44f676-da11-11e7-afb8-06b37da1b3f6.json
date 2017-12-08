@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-05T23:13:22+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:13:36+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:13:43+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a9a872de-01a6-11e5-b74d-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "RawPorkChops"
+            }
+        },
+        {
+            "time": "2017-12-05T23:14:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "43f1760e-6af4-11e5-bbb1-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "ChadB"
+            }
+        },
+        {
+            "time": "2017-12-05T23:14:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ac1703a6-d515-11e7-954a-025e5fb8fe9e",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "C9Carry"
+            }
+        },
+        {
+            "time": "2017-12-05T23:14:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "450bb71c-9e28-11e6-925f-068789513eb5",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "MLGBOI"
+            }
+        },
+        {
+            "time": "2017-12-05T23:14:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ea70efb2-b452-11e5-b443-0628b69bf6d1",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "lotusfire"
+            }
+        },
+        {
+            "time": "2017-12-05T23:14:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "32a14f7c-4f70-11e5-90e6-06d90c28bf1a",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "THESHEEPDOG"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

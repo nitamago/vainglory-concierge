@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:01:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b44eb92e-b26d-11e4-88e9-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "trips"
+            }
+        },
+        {
+            "time": "2017-12-06T02:01:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a24c780c-3c22-11e6-bde8-062cb73cdbb1",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Vaporus"
+            }
+        },
+        {
+            "time": "2017-12-06T02:01:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f4b74968-6378-11e7-bb83-06c5ee41a4a5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "kingCABA"
+            }
+        },
+        {
+            "time": "2017-12-06T02:01:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "bf9e4248-0c05-11e6-9cde-06f4ee369f53",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "DoctorShotz"
+            }
+        },
+        {
+            "time": "2017-12-06T02:01:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "75acd37a-856e-11e5-a1bf-06eb725f8a76",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "GummiWilly"
+            }
+        },
+        {
+            "time": "2017-12-06T02:01:58+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5357fdc2-bd03-11e6-96b1-06a9175d25fa",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "KaidoReyBestia"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:20:00+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Baron*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:20:07+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:20:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5a5e8d4c-3475-11e5-8eac-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "BKriter"
+            }
+        },
+        {
+            "time": "2017-12-06T04:20:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5fee0838-a5e5-11e4-a162-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "B20JDMGooN"
+            }
+        },
+        {
+            "time": "2017-12-06T04:20:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f3828998-cc05-11e4-b16f-06d90c28bf1a",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "JNagoo"
+            }
+        },
+        {
+            "time": "2017-12-06T04:20:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8fe54416-05c1-11e5-9875-06d90c28bf1a",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "PixelPiru"
+            }
+        },
+        {
+            "time": "2017-12-06T04:20:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d45ca24c-739a-11e4-bd86-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "toweroflighting"
+            }
+        },
+        {
+            "time": "2017-12-06T04:21:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5092791e-a693-11e5-a227-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "johnsonkty"
+            }
+        }
+    ],
+    "winner": "another"
+}

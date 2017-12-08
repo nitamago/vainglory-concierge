@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:29:13+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:29:14+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:29:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "db5528b8-bec6-11e4-9f6a-06d90c28bf1a",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "Dodanga"
+            }
+        },
+        {
+            "time": "2017-12-06T02:29:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f4e18444-732a-11e4-9184-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "Jaymar2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:29:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6e02d764-6949-11e5-b30a-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "rawrShocka"
+            }
+        },
+        {
+            "time": "2017-12-06T02:30:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "247779b0-20ba-11e5-9c6a-06f4ee369f53",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Byakushiki"
+            }
+        },
+        {
+            "time": "2017-12-06T02:30:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "45e3fd10-aa65-11e4-888f-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "TexasGandalf"
+            }
+        },
+        {
+            "time": "2017-12-06T02:30:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ebb36af0-219d-11e5-97f8-06d90c28bf1a",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "Hallucinated"
+            }
+        }
+    ],
+    "winner": "another"
+}

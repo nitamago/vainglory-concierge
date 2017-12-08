@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T23:29:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1c6ee0cc-732d-11e4-986c-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "Cheif"
+            }
+        },
+        {
+            "time": "2017-12-05T23:29:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4d6d6eb6-75e2-11e4-8b02-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Elusive12"
+            }
+        },
+        {
+            "time": "2017-12-05T23:29:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "42292f00-fee3-11e5-83c2-06fc87f1dd11",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "SaltyReaper"
+            }
+        },
+        {
+            "time": "2017-12-05T23:29:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ff180f4a-046b-11e6-bf8e-068789513eb5",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "BalloonDropYayo"
+            }
+        },
+        {
+            "time": "2017-12-05T23:29:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "53be5616-c3f4-11e5-9412-06b48b82cd49",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "MCWaffles"
+            }
+        },
+        {
+            "time": "2017-12-05T23:29:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "60ad4c2c-7299-11e4-8932-06d90c28bf1a",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "shadowsjudgement"
+            }
+        }
+    ],
+    "winner": "another"
+}

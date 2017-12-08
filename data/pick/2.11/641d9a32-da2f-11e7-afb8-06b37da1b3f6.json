@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:44:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "df8e111c-1981-11e6-8b8f-06fc87f1dd11",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "DeterminFlame"
+            }
+        },
+        {
+            "time": "2017-12-06T02:45:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "57b60672-d9e9-11e6-ac1f-062cb73cdbb1",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "jackyyu0930"
+            }
+        },
+        {
+            "time": "2017-12-06T02:45:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "382a8aae-6436-11e6-a3ba-068789513eb5",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "mwbmwbmwb"
+            }
+        },
+        {
+            "time": "2017-12-06T02:45:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "143065fe-10ab-11e5-a4bb-06d90c28bf1a",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "OlDirtyBastard24"
+            }
+        },
+        {
+            "time": "2017-12-06T02:45:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f42adb2a-d6dc-11e4-925d-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "levendi"
+            }
+        },
+        {
+            "time": "2017-12-06T02:45:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "27f788dc-bee0-11e4-8a5a-06d90c28bf1a",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "RickStayTrill"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

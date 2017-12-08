@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-05T23:59:50+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-05T23:59:54+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-05T23:59:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "28bde486-fe0a-11e5-a9f7-0628b69bf6d1",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "reus3000"
+            }
+        },
+        {
+            "time": "2017-12-06T00:00:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "48525fa0-0983-11e6-bf26-06fc87f1dd11",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "davidroquet"
+            }
+        },
+        {
+            "time": "2017-12-06T00:00:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "17163e62-0807-11e5-8385-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Esteban534"
+            }
+        },
+        {
+            "time": "2017-12-06T00:00:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9ae205e6-9218-11e5-a7ae-06f4ee369f53",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "THEKILLERJOKER"
+            }
+        },
+        {
+            "time": "2017-12-06T00:00:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "84f73dc4-bb07-11e5-bbc3-06eb725f8a76",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "Euan32"
+            }
+        },
+        {
+            "time": "2017-12-06T00:00:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "61155de4-2e6d-11e6-a2f7-06fc87f1dd11",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "GunmasterDraco"
+            }
+        }
+    ],
+    "winner": "another"
+}

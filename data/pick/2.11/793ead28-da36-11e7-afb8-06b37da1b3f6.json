@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:35:26+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:35:31+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:35:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ae65b016-4b46-11e7-9295-06d90c28bf1a",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "Poosea"
+            }
+        },
+        {
+            "time": "2017-12-06T03:35:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "139999f2-6cfb-11e4-b09f-06641bcbf424",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "iDianeri"
+            }
+        },
+        {
+            "time": "2017-12-06T03:35:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d1e4c182-6cfd-11e4-b98f-062d0b175276",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "DIANITA13"
+            }
+        },
+        {
+            "time": "2017-12-06T03:35:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "43bfefee-a532-11e5-adb5-06b48b82cd49",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "Aphotic101"
+            }
+        },
+        {
+            "time": "2017-12-06T03:36:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fd7e03a8-2454-11e5-8ede-0628b69bf6d1",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "XehvizYT"
+            }
+        },
+        {
+            "time": "2017-12-06T03:36:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6cae39ea-fd9a-11e5-80d5-06fc87f1dd11",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "TwstedLogic"
+            }
+        }
+    ],
+    "winner": "another"
+}

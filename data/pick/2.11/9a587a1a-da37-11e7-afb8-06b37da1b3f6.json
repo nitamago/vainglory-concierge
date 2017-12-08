@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:43:45+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:43:48+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:44:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0a58c660-c1a0-11e5-824c-0628b69bf6d1",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "reaI"
+            }
+        },
+        {
+            "time": "2017-12-06T03:44:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "027f79f4-7122-11e4-97bd-062d0b175276",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "BracingFlames"
+            }
+        },
+        {
+            "time": "2017-12-06T03:44:33+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e82b9842-b047-11e5-b8b7-06f4ee369f53",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "AngosMegas"
+            }
+        },
+        {
+            "time": "2017-12-06T03:44:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7ca75444-a615-11e5-8eb2-0628b69bf6d1",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "bunnywolf"
+            }
+        },
+        {
+            "time": "2017-12-06T03:45:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7fcfa86c-83eb-11e4-a9bb-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Mastersa"
+            }
+        },
+        {
+            "time": "2017-12-06T03:45:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5a43a17e-2684-11e6-9d71-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "MyLIttlePony54"
+            }
+        }
+    ],
+    "winner": "another"
+}

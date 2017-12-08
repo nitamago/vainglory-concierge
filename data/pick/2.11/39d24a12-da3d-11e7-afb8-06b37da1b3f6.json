@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:23:53+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:23:56+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:24:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "282ff1ec-106e-11e5-8671-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "ofs"
+            }
+        },
+        {
+            "time": "2017-12-06T04:24:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d1a8bb7c-6a56-11e5-b94d-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Russcrowe"
+            }
+        },
+        {
+            "time": "2017-12-06T04:24:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "69ec2f3c-af30-11e4-b4e8-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "theblackwings"
+            }
+        },
+        {
+            "time": "2017-12-06T04:24:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "96a03950-dd2b-11e4-b877-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "BimboBombasse"
+            }
+        },
+        {
+            "time": "2017-12-06T04:24:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9b9c177e-83a4-11e5-bb55-068789513eb5",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "l3lanker"
+            }
+        },
+        {
+            "time": "2017-12-06T04:25:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c37b35a2-5c05-11e5-bf04-06f4ee369f53",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "loki64"
+            }
+        }
+    ],
+    "winner": "another"
+}

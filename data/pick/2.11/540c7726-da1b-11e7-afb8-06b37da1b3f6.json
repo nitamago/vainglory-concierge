@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:21:31+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:21:38+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:21:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7901f53e-7644-11e5-8a2f-06f4ee369f53",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "RoyGbiv"
+            }
+        },
+        {
+            "time": "2017-12-06T00:22:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "016aa1e0-c034-11e4-8f47-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "BLAZZ"
+            }
+        },
+        {
+            "time": "2017-12-06T00:22:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "63dbfbac-e889-11e5-9139-06c5ee41a4a5",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "EvanD200398s"
+            }
+        },
+        {
+            "time": "2017-12-06T00:22:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "23a29476-733f-11e4-a6c2-06d90c28bf1a",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "AnakManis"
+            }
+        },
+        {
+            "time": "2017-12-06T00:22:40+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ce3283f4-82cd-11e4-9223-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "HydekX"
+            }
+        },
+        {
+            "time": "2017-12-06T00:23:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "79cb1ba6-7255-11e4-86a0-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "GreenEnvy"
+            }
+        }
+    ],
+    "winner": "another"
+}

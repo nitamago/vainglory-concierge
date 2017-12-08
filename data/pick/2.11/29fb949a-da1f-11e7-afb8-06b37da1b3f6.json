@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:48:54+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:49:05+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Catherine*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:49:12+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "838c7b90-72bd-11e4-9533-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "VicsNyquil"
+            }
+        },
+        {
+            "time": "2017-12-06T00:49:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "006bb044-9591-11e5-8ad8-06b48b82cd49",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Bcuzz"
+            }
+        },
+        {
+            "time": "2017-12-06T00:49:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6b22deba-d950-11e4-a2a5-06eb725f8a76",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "Trixster"
+            }
+        },
+        {
+            "time": "2017-12-06T00:49:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2fe71bac-d9b5-11e5-bdad-062cb73cdbb1",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "TBladeV2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:49:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "82710a60-c162-11e5-ac43-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "ABadPlayer"
+            }
+        },
+        {
+            "time": "2017-12-06T00:50:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8b4e6bb2-6caa-11e5-9de5-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "AidenSpeed"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

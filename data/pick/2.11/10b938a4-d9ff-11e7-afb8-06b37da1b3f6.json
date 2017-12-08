@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T20:58:55+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:59:05+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T20:59:11+0000",
+            "payload": {
+                "Player": "e6fea69e-94ff-11e4-8283-06eb725f8a76",
+                "Handle": "Dajat",
+                "Hero": "*Lyra*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:59:26+0000",
+            "payload": {
+                "Player": "080ab930-7721-11e7-a1a0-06eb725f8a76",
+                "Handle": "VanesaGirlMX",
+                "Hero": "*Lance*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:59:49+0000",
+            "payload": {
+                "Player": "60a3d446-06da-11e5-be3e-06eb725f8a76",
+                "Handle": "Shanku4yourtime",
+                "Hero": "*Ringo*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T20:59:52+0000",
+            "payload": {
+                "Player": "24ea75cc-8db2-11e5-8758-0628b69bf6d1",
+                "Handle": "haytr",
+                "Hero": "*Grace*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:00:16+0000",
+            "payload": {
+                "Player": "c32fda5a-6ddd-11e5-a3b6-0628b69bf6d1",
+                "Handle": "BearsKitchen2",
+                "Hero": "*Glaive*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:00:31+0000",
+            "payload": {
+                "Player": "d328b8f6-79c2-11e4-a9c0-06d90c28bf1a",
+                "Handle": "zubapants",
+                "Hero": "*Petal*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

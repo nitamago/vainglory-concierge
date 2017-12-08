@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:52:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3850770a-b806-11e5-a114-06d90c28bf1a",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "DARKHAWK"
+            }
+        },
+        {
+            "time": "2017-12-06T02:52:34+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c0e4025e-f932-11e5-a288-06d90c28bf1a",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "SlickMagic"
+            }
+        },
+        {
+            "time": "2017-12-06T02:52:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "46f95d60-7290-11e4-a57c-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "IceMan2020"
+            }
+        },
+        {
+            "time": "2017-12-06T02:52:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "298dee7e-545e-11e6-86bc-068789513eb5",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "SilverYuuki666"
+            }
+        },
+        {
+            "time": "2017-12-06T02:52:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "49a072e2-b82a-11e6-b22d-06f4ee369f53",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "Chosen1One"
+            }
+        },
+        {
+            "time": "2017-12-06T02:52:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2136abfa-2f8f-11e7-afb8-06c5ee41a4a5",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "Xasthurr"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

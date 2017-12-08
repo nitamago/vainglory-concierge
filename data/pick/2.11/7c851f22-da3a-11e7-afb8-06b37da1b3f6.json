@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:04:22+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:04:31+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:04:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "036cd7b0-30ae-11e6-986c-06fc87f1dd11",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "OldveL"
+            }
+        },
+        {
+            "time": "2017-12-06T04:05:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "698af9d4-c7de-11e5-947d-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "MuRDoc"
+            }
+        },
+        {
+            "time": "2017-12-06T04:05:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ce0c7266-8301-11e4-8566-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "StarKay"
+            }
+        },
+        {
+            "time": "2017-12-06T04:05:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f03e6764-c15c-11e5-8463-06eb725f8a76",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "Henrry27"
+            }
+        },
+        {
+            "time": "2017-12-06T04:05:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e1240634-63ac-11e5-b0c4-06f4ee369f53",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "WhispersWind"
+            }
+        },
+        {
+            "time": "2017-12-06T04:06:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1f6c65b0-714d-11e4-a761-062d0b175276",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "rand0mstyl3"
+            }
+        }
+    ],
+    "winner": "another"
+}

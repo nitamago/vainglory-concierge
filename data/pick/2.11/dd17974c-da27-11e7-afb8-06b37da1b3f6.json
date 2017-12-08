@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:51:06+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:51:12+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:51:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f88ef96e-c5f9-11e5-8b55-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "FavyanKRC19"
+            }
+        },
+        {
+            "time": "2017-12-06T01:51:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2bee776c-99b9-11e4-9953-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "docquinzel"
+            }
+        },
+        {
+            "time": "2017-12-06T01:51:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "49546900-84dd-11e5-b338-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Mrswag101"
+            }
+        },
+        {
+            "time": "2017-12-06T01:51:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "139999f2-6cfb-11e4-b09f-06641bcbf424",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "iDianeri"
+            }
+        },
+        {
+            "time": "2017-12-06T01:51:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d1e4c182-6cfd-11e4-b98f-062d0b175276",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "DIANITA13"
+            }
+        },
+        {
+            "time": "2017-12-06T01:52:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a151ddee-2237-11e5-9042-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "MagicSquid"
+            }
+        }
+    ],
+    "winner": "another"
+}

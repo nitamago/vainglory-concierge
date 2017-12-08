@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:35:29+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:35:33+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Ozo*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:35:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f887466e-c27a-11e6-8c3e-06388a2f2ea7",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "Capsizeq"
+            }
+        },
+        {
+            "time": "2017-12-06T00:36:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0e5ce110-8baa-11e4-867a-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "PhatPenguin"
+            }
+        },
+        {
+            "time": "2017-12-06T00:36:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e50c8156-9a31-11e6-8f26-06fc87f1dd11",
+                "Hero": "*Reza*",
+                "Team": "2",
+                "Handle": "AkameNA"
+            }
+        },
+        {
+            "time": "2017-12-06T00:36:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c0994572-7736-11e4-9faa-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "ModuleOne"
+            }
+        },
+        {
+            "time": "2017-12-06T00:36:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "481ba7f8-597e-11e6-a157-067e8bc536fd",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Oracale"
+            }
+        },
+        {
+            "time": "2017-12-06T00:37:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e5c84b4a-a6e7-11e5-afaa-06b48b82cd49",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "KenoEden"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:22:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "65b2b56e-14b7-11e7-8cf4-020ecf4900d0",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "MrPinkk"
+            }
+        },
+        {
+            "time": "2017-12-06T00:22:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "30ca2a16-31e7-11e6-90a7-06f4ee369f53",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "picklertickler"
+            }
+        },
+        {
+            "time": "2017-12-06T00:22:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d3f0d108-6f16-11e4-ac9d-062d0b175276",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "vulcan"
+            }
+        },
+        {
+            "time": "2017-12-06T00:22:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "009d854c-88d1-11e4-9954-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "UltraNinja"
+            }
+        },
+        {
+            "time": "2017-12-06T00:22:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "caaf6592-8de7-11e4-84bf-06eb725f8a76",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "ZeroGravityElite"
+            }
+        },
+        {
+            "time": "2017-12-06T00:22:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cbe05faa-6db6-11e7-9ac4-062cb73cdbb1",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Ozzyh1"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

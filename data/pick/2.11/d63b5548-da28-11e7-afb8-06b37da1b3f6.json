@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:58:11+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:58:15+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:58:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "71b1eaa0-6983-11e5-8184-068789513eb5",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "Burblecutt"
+            }
+        },
+        {
+            "time": "2017-12-06T01:58:59+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cdc38a0c-952f-11e4-9c3a-06eb725f8a76",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "presto69er"
+            }
+        },
+        {
+            "time": "2017-12-06T01:59:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "efc4611a-7b96-11e4-9e08-06eb725f8a76",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "Nickkdawwgg"
+            }
+        },
+        {
+            "time": "2017-12-06T01:59:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b77871c6-7ada-11e6-a5af-06fc87f1dd11",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "PeenutButt"
+            }
+        },
+        {
+            "time": "2017-12-06T01:59:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "87a30ae2-54d9-11e5-a86e-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "QILX"
+            }
+        },
+        {
+            "time": "2017-12-06T01:59:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f08d93dc-2130-11e6-8c91-06b48b82cd49",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "00Timewarp00"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

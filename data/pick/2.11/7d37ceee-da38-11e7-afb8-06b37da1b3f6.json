@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:49:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1554c096-843e-11e4-9953-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Babylonian"
+            }
+        },
+        {
+            "time": "2017-12-06T03:49:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4ac469aa-0c56-11e7-9649-0297ea8a7ddc",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Retribuire"
+            }
+        },
+        {
+            "time": "2017-12-06T03:50:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a696b68c-bb6d-11e6-9adc-068789513eb5",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "IrvinCmv99"
+            }
+        },
+        {
+            "time": "2017-12-06T03:50:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d4e656cc-419e-11e5-b2a1-0628b69bf6d1",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "DetectiveSphinx"
+            }
+        },
+        {
+            "time": "2017-12-06T03:50:06+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "15fb9e9c-1fb1-11e6-a953-06fc87f1dd11",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Davis905"
+            }
+        },
+        {
+            "time": "2017-12-06T03:50:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3e685088-10aa-11e7-be93-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "XWarWolfX"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:34:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1d26ddb4-89b2-11e7-84e0-0224e22aef46",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "GotSkyllz"
+            }
+        },
+        {
+            "time": "2017-12-06T00:34:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a2a3403e-5d79-11e5-b39a-0628b69bf6d1",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "LifeOfRell"
+            }
+        },
+        {
+            "time": "2017-12-06T00:34:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1c33bd5c-b3ce-11e5-a84f-06b48b82cd49",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "DarkAngel49"
+            }
+        },
+        {
+            "time": "2017-12-06T00:34:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2ad7fc80-25b9-11e6-935d-068789513eb5",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "adrian490190"
+            }
+        },
+        {
+            "time": "2017-12-06T00:34:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cd0a5386-201a-11e5-9d0a-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "SirKadabra"
+            }
+        },
+        {
+            "time": "2017-12-06T00:34:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "749aca12-ae16-11e4-b380-06d90c28bf1a",
+                "Hero": "*Ozo*",
+                "Team": "2",
+                "Handle": "Blueberon"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

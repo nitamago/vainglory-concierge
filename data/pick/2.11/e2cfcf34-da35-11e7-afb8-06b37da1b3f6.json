@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:31:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9cf2ae52-74e2-11e4-a9c0-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Triple6"
+            }
+        },
+        {
+            "time": "2017-12-06T03:31:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4d91de64-efd9-11e5-9c7a-068789513eb5",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "KANKER"
+            }
+        },
+        {
+            "time": "2017-12-06T03:31:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a232ac48-58f9-11e7-9c6f-06ab1a16f8e5",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "IzharTheKaiser"
+            }
+        },
+        {
+            "time": "2017-12-06T03:31:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "60033466-0029-11e6-813d-06f4ee369f53",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "ptha"
+            }
+        },
+        {
+            "time": "2017-12-06T03:31:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "10a29c36-a436-11e4-b5d5-06eb725f8a76",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "GiraffeKing"
+            }
+        },
+        {
+            "time": "2017-12-06T03:31:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "fc4fa0f0-62a0-11e6-98f6-06ab1a16f8e5",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "green2ex"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

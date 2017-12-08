@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T04:06:52+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T04:07:05+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Baron*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T04:07:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4948f34c-b12c-11e5-bc60-06eb725f8a76",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "Artiicuno"
+            }
+        },
+        {
+            "time": "2017-12-06T04:07:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0b5be896-768f-11e5-add3-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "NBDon"
+            }
+        },
+        {
+            "time": "2017-12-06T04:07:27+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "081e9ab2-7c64-11e6-aa58-06fc87f1dd11",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "elmksan"
+            }
+        },
+        {
+            "time": "2017-12-06T04:07:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b5c494c8-4334-11e6-90cb-062cb73cdbb1",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "MrJoy101"
+            }
+        },
+        {
+            "time": "2017-12-06T04:07:50+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "375e48a8-9001-11e6-af2c-06b48b82cd49",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "MountainLocals"
+            }
+        },
+        {
+            "time": "2017-12-06T04:08:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ac409558-7713-11e4-a5ea-06d90c28bf1a",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "Kanij"
+            }
+        }
+    ],
+    "winner": "another"
+}

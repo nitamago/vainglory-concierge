@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:41:31+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:41:35+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:41:57+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "23b0159c-d954-11e6-abef-067e8bc536fd",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "HeadiesHank"
+            }
+        },
+        {
+            "time": "2017-12-06T02:42:04+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "38798e60-2ce2-11e5-a56e-06b48b82cd49",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "DraGunZ"
+            }
+        },
+        {
+            "time": "2017-12-06T02:42:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "30931f76-7186-11e4-8f38-062d0b175276",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "RackemHawco"
+            }
+        },
+        {
+            "time": "2017-12-06T02:42:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "622d27c0-6680-11e6-9a4e-06f4ee369f53",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "soothsayer006"
+            }
+        },
+        {
+            "time": "2017-12-06T02:42:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a9efff20-8808-11e6-9d39-067e8bc536fd",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "DiceNSlice"
+            }
+        },
+        {
+            "time": "2017-12-06T02:42:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f2ac404a-0558-11e5-b059-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "PukiGG"
+            }
+        }
+    ],
+    "winner": "another"
+}

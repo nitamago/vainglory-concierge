@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T00:11:23+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T00:11:33+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T00:11:47+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "be945f40-ae41-11e4-8337-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "ApexNinja"
+            }
+        },
+        {
+            "time": "2017-12-06T00:11:51+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "58748b8e-8cba-11e4-9dc5-06eb725f8a76",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "eXampL"
+            }
+        },
+        {
+            "time": "2017-12-06T00:12:14+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2e5736dc-8e6f-11e5-ac08-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "ThebigBeast"
+            }
+        },
+        {
+            "time": "2017-12-06T00:12:29+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8a51e2f8-fb5c-11e4-9c5f-06eb725f8a76",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "Brillo7"
+            }
+        },
+        {
+            "time": "2017-12-06T00:12:45+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f6301584-45f4-11e5-9536-06b48b82cd49",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "Dethonwheels"
+            }
+        },
+        {
+            "time": "2017-12-06T00:13:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "2a32f6be-72cc-11e4-9a91-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "KillEveryone"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

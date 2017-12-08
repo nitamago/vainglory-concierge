@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T03:31:52+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:31:57+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Ardan*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:32:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "77d33960-0ffc-11e5-b318-06eb725f8a76",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "Yizio"
+            }
+        },
+        {
+            "time": "2017-12-06T03:32:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7ba74ae6-72ee-11e4-a192-06d90c28bf1a",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "C4bb4ge"
+            }
+        },
+        {
+            "time": "2017-12-06T03:32:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d8379b20-29e2-11e5-a56e-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "HawKx"
+            }
+        },
+        {
+            "time": "2017-12-06T03:33:02+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1120642c-4256-11e5-b938-068789513eb5",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "Asxp"
+            }
+        },
+        {
+            "time": "2017-12-06T03:33:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9fd8d4ba-73c4-11e6-8cab-06d90c28bf1a",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "KiwiAF"
+            }
+        },
+        {
+            "time": "2017-12-06T03:33:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9a70ae0a-746e-11e4-a9c0-06d90c28bf1a",
+                "Hero": "*Ozo*",
+                "Team": "2",
+                "Handle": "DerRabbit"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

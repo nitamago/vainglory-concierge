@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:19:59+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:20:23+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Grace*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:20:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ac409558-7713-11e4-a5ea-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "Kanij"
+            }
+        },
+        {
+            "time": "2017-12-06T02:20:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f49adc08-8016-11e4-950f-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "LordTinklebury"
+            }
+        },
+        {
+            "time": "2017-12-06T02:21:18+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7a23953a-7379-11e5-9d17-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "YukishiroTomoe"
+            }
+        },
+        {
+            "time": "2017-12-06T02:21:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "07e0f78a-9b87-11e4-821c-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Archangelninja"
+            }
+        },
+        {
+            "time": "2017-12-06T02:21:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1e5d9202-bd37-11e5-8355-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "JaviAir"
+            }
+        },
+        {
+            "time": "2017-12-06T02:21:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "282f319a-a9b9-11e6-9bd9-062cb73cdbb1",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "TaiDang"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

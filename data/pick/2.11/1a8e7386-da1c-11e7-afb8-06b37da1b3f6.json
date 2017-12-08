@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T00:26:46+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1646c8ca-f38a-11e5-968b-06c5ee41a4a5",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "ghaxt"
+            }
+        },
+        {
+            "time": "2017-12-06T00:26:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b75bb44e-040d-11e6-8be9-06f4ee369f53",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "MAKABOODA"
+            }
+        },
+        {
+            "time": "2017-12-06T00:26:54+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "e67b6cc0-f330-11e6-86ef-020355b21670",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "WithBuki"
+            }
+        },
+        {
+            "time": "2017-12-06T00:26:56+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1408ab80-24de-11e5-94f8-068789513eb5",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "Glant"
+            }
+        },
+        {
+            "time": "2017-12-06T00:27:16+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7cb63f5a-87b6-11e4-bf9c-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "AwkwardTurtle7"
+            }
+        },
+        {
+            "time": "2017-12-06T00:27:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "dd1a8808-7d5a-11e4-bf14-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "lolster"
+            }
+        }
+    ],
+    "winner": "another"
+}

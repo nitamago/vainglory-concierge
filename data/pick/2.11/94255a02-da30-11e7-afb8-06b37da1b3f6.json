@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T02:53:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "da554442-ebd5-11e5-8375-06b48b82cd49",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "AdaCurtis"
+            }
+        },
+        {
+            "time": "2017-12-06T02:53:25+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d5063578-8e0a-11e6-a1ae-06fc87f1dd11",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "Eyekanspel"
+            }
+        },
+        {
+            "time": "2017-12-06T02:53:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "059fe89a-ade7-11e6-a6c6-06388a2f2ea7",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "Wodeth"
+            }
+        },
+        {
+            "time": "2017-12-06T02:53:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ff30092c-cbaa-11e6-aeb1-06388a2f2ea7",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "player70"
+            }
+        },
+        {
+            "time": "2017-12-06T02:53:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c38dcc42-6a48-11e6-a074-06b48b82cd49",
+                "Hero": "*Grumpjaw*",
+                "Team": "2",
+                "Handle": "TheBoy16"
+            }
+        },
+        {
+            "time": "2017-12-06T02:53:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8fba5c24-5823-11e5-bd14-06f4ee369f53",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "quique22"
+            }
+        }
+    ],
+    "winner": "another"
+}

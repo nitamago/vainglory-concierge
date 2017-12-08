@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:13:58+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:14:02+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:14:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c7d7e8a0-21a1-11e5-8850-06b48b82cd49",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "kneroj"
+            }
+        },
+        {
+            "time": "2017-12-06T01:14:22+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "805c13aa-28e2-11e5-98c4-06b48b82cd49",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "leroyjenkins69"
+            }
+        },
+        {
+            "time": "2017-12-06T01:14:32+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c7b9ee72-6871-11e7-a4b6-06ab1a16f8e5",
+                "Hero": "*Ozo*",
+                "Team": "2",
+                "Handle": "Pathfinder112755"
+            }
+        },
+        {
+            "time": "2017-12-06T01:14:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "cad8ec40-ae8a-11e5-a74d-068789513eb5",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "DM0L1SH"
+            }
+        },
+        {
+            "time": "2017-12-06T01:15:01+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5b16bcb8-0807-11e5-9de5-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "dabossman1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:15:09+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "693c17f0-5fd9-11e5-b47d-0628b69bf6d1",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Lalan14"
+            }
+        }
+    ],
+    "winner": "another"
+}

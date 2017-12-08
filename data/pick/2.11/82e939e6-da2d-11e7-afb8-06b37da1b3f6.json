@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:31:30+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "452ab08c-cd26-11e5-a988-06ab1a16f8e5",
+                "Hero": "*Ozo*",
+                "Team": "2",
+                "Handle": "CEBOX"
+            }
+        },
+        {
+            "time": "2017-12-06T02:31:39+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8baf098c-8c84-11e5-90ca-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Thebloodthiter"
+            }
+        },
+        {
+            "time": "2017-12-06T02:31:53+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "b2401a6c-ace4-11e4-8acf-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "kLone"
+            }
+        },
+        {
+            "time": "2017-12-06T02:32:03+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7df80458-9e29-11e6-a031-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "DeathBlossom713"
+            }
+        },
+        {
+            "time": "2017-12-06T02:32:05+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d93f79a6-af66-11e6-9be3-06a9175d25fa",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Loriun"
+            }
+        },
+        {
+            "time": "2017-12-06T02:32:20+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8303fe9c-bb22-11e5-9341-0628b69bf6d1",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "ArthurChicken"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

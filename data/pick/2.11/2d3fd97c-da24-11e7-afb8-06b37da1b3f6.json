@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:24:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6ac8a52a-79fe-11e7-b805-0297ea8a7ddc",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "InfamousKnight"
+            }
+        },
+        {
+            "time": "2017-12-06T01:24:35+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1d6b313e-7f7d-11e6-bd77-06f4ee369f53",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "StopPlaying"
+            }
+        },
+        {
+            "time": "2017-12-06T01:24:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "4b949316-d21a-11e7-ba4e-02ce883f709a",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "lncredibIe"
+            }
+        },
+        {
+            "time": "2017-12-06T01:24:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5019fb42-3d2a-11e5-99fc-068789513eb5",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "XeroWolf"
+            }
+        },
+        {
+            "time": "2017-12-06T01:24:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "86687172-832a-11e7-9af1-06b48b82cd49",
+                "Hero": "*Reza*",
+                "Team": "1",
+                "Handle": "daeymond"
+            }
+        },
+        {
+            "time": "2017-12-06T01:24:41+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "38711fd4-6c9b-11e5-8807-06b48b82cd49",
+                "Hero": "*Reza*",
+                "Team": "2",
+                "Handle": "Immortvl"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T01:25:17+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:25:21+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:25:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "30b7c3bc-edea-11e5-9833-06c5ee41a4a5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Phoenixfire21"
+            }
+        },
+        {
+            "time": "2017-12-06T01:25:52+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "569a377c-49ad-11e5-8df2-06f4ee369f53",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "Zeckray "
+            }
+        },
+        {
+            "time": "2017-12-06T01:26:15+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7d647b4a-4603-11e5-bcaa-068789513eb5",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Ruben949"
+            }
+        },
+        {
+            "time": "2017-12-06T01:26:28+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "06d56fca-970d-11e4-a597-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "Gusos123"
+            }
+        },
+        {
+            "time": "2017-12-06T01:26:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f650b04c-7a38-11e4-b12c-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "Oompanda"
+            }
+        },
+        {
+            "time": "2017-12-06T01:27:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "5426245e-24fc-11e5-b9b3-06b48b82cd49",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "djbassmekanik"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "pick": [
+        {
+            "time": "2017-12-05T21:27:14+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:27:28+0000",
+            "payload": {
+                "Hero": "*Alpha*",
+                "Team": "2"
+            },
+            "type": "HeroBan"
+        },
+        {
+            "time": "2017-12-05T21:27:43+0000",
+            "payload": {
+                "Player": "92a477ca-3da2-11e6-babf-06f4ee369f53",
+                "Handle": "Atimiss",
+                "Hero": "*Grace*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:28:03+0000",
+            "payload": {
+                "Player": "c4e4fd10-fdd1-11e5-ba68-06eb725f8a76",
+                "Handle": "Jonser54",
+                "Hero": "*Vox*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:28:17+0000",
+            "payload": {
+                "Player": "524a69f0-56dd-11e7-a490-06eb725f8a76",
+                "Handle": "ZirkDroid",
+                "Hero": "*Lyra*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:28:40+0000",
+            "payload": {
+                "Player": "9dcbc22c-42f6-11e5-881e-06eb725f8a76",
+                "Handle": "Kolarov",
+                "Hero": "*Reza*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:29:04+0000",
+            "payload": {
+                "Player": "2faa03bc-b0c4-11e5-a3f9-06eb725f8a76",
+                "Handle": "JesusHolkCrew",
+                "Hero": "*Baron*",
+                "Team": "1"
+            },
+            "type": "HeroSelect"
+        },
+        {
+            "time": "2017-12-05T21:29:22+0000",
+            "payload": {
+                "Player": "50129664-7a0e-11e6-a37f-06d90c28bf1a",
+                "Handle": "SeguinBoy",
+                "Hero": "*Taka*",
+                "Team": "2"
+            },
+            "type": "HeroSelect"
+        }
+    ],
+    "winner": "another",
+    "loser": "left/blue"
+}

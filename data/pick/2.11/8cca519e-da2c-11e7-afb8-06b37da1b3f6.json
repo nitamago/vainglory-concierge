@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T02:25:08+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "113d97a0-5fd1-11e7-9179-06f4ee369f53",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "Playerari"
+            }
+        },
+        {
+            "time": "2017-12-06T02:25:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d2d2e9a4-e28d-11e6-b664-06f4ee369f53",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "dondies"
+            }
+        },
+        {
+            "time": "2017-12-06T02:25:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1b23fab2-5b2b-11e6-99c1-06b48b82cd49",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "InhaledEmotions"
+            }
+        },
+        {
+            "time": "2017-12-06T02:25:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "515faba6-eb33-11e6-af50-06a9175d25fa",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "HikarineKishou"
+            }
+        },
+        {
+            "time": "2017-12-06T02:25:19+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "14c15d48-0669-11e6-a103-068789513eb5",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "GalactixDarkrai"
+            }
+        },
+        {
+            "time": "2017-12-06T02:25:26+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "736a16ac-f78b-11e4-af69-06eb725f8a76",
+                "Hero": "*Flicker*",
+                "Team": "2",
+                "Handle": "JGunner"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

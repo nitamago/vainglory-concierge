@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:59:58+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Skye*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T02:00:16+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T02:00:24+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "d7d97fcc-8bee-11e5-b734-068789513eb5",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "TenzinT"
+            }
+        },
+        {
+            "time": "2017-12-06T02:00:42+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0f4d474e-375d-11e6-80f7-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "ZunK"
+            }
+        },
+        {
+            "time": "2017-12-06T02:00:44+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a2bc1182-3708-11e5-905f-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "P3rty"
+            }
+        },
+        {
+            "time": "2017-12-06T02:00:49+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a27d4d20-fd15-11e5-a7ca-06b48b82cd49",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "EyeLeSsTigER"
+            }
+        },
+        {
+            "time": "2017-12-06T02:01:07+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f6bac696-9222-11e5-a799-06f4ee369f53",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "DivineStorm"
+            }
+        },
+        {
+            "time": "2017-12-06T02:01:23+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "6de081a6-7817-11e4-8854-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "WickedYtg"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

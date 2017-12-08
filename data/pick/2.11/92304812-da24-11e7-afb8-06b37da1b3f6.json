@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "time": "2017-12-06T01:27:35+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T01:27:43+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Alpha*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T01:27:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "3ced0e6e-2214-11e5-9a02-06b48b82cd49",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Deathgambles"
+            }
+        },
+        {
+            "time": "2017-12-06T01:28:13+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "9c7b07ee-70cf-11e7-818d-02f3b4306918",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "QweenQuin"
+            }
+        },
+        {
+            "time": "2017-12-06T01:28:31+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "c4fae97e-6b08-11e5-814c-068789513eb5",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "krillergames"
+            }
+        },
+        {
+            "time": "2017-12-06T01:28:36+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "ddbf1756-ee78-11e6-9013-06c5ee41a4a5",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "B16king"
+            }
+        },
+        {
+            "time": "2017-12-06T01:28:48+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "7264380a-238b-11e6-ae5b-06eb725f8a76",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "jack380"
+            }
+        },
+        {
+            "time": "2017-12-06T01:29:11+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "65530b24-c442-11e7-9590-02a5820c0f16",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "teabag78"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

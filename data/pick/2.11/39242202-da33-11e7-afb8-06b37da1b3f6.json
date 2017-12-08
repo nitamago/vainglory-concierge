@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "time": "2017-12-06T03:12:37+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "time": "2017-12-06T03:13:04+0000",
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "time": "2017-12-06T03:13:17+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "50b3572e-e969-11e5-868d-06ab1a16f8e5",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "FeRNaDeR"
+            }
+        },
+        {
+            "time": "2017-12-06T03:13:37+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "0f179e1a-7dac-11e6-987c-06b48b82cd49",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Teashy"
+            }
+        },
+        {
+            "time": "2017-12-06T03:14:00+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "1f8a640c-9826-11e4-bf9c-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "RINRINRAJA"
+            }
+        },
+        {
+            "time": "2017-12-06T03:14:21+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "8988218e-f557-11e5-acfd-06388a2f2ea7",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "DrChakaL"
+            }
+        },
+        {
+            "time": "2017-12-06T03:14:38+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "f9cc971a-f4ba-11e5-9276-06f4ee369f53",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "Alamilla90"
+            }
+        },
+        {
+            "time": "2017-12-06T03:14:55+0000",
+            "type": "HeroSelect",
+            "payload": {
+                "Player": "a37db748-bb50-11e5-a875-06d90c28bf1a",
+                "Hero": "*Ozo*",
+                "Team": "2",
+                "Handle": "chorizo94"
+            }
+        }
+    ],
+    "winner": "another"
+}
