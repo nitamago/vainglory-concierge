@@ -3,7 +3,7 @@ from django.shortcuts import render
 # Create your views here.
 from django.http.response import HttpResponse
 from django.utils.html import mark_safe
-from .models import Data, Hero, HeroSelectForm, Match, HeroPickStat
+from .models import Data, Hero, HeroSelectForm, Match, HeroPickStat, HeroSingleSelectForm
 from django.db.models import Q
 
 def index_page(request):
@@ -50,13 +50,19 @@ def get_pick_stat(heros):
             hero_id = '%'
         else:
             hero_id = hero.hero_id
-            tmp_matches = tmp_matches.filter(Q(hero1 = hero_id) |
-                                           Q(hero2 = hero_id) |
-                                           Q(hero3 = hero_id))
+            tmp_matches = tmp_matches.filter(Q(left_hero1 = hero_id) |
+                                           Q(left_hero2 = hero_id) |
+                                           Q(left_hero3 = hero_id) |
+                                           Q(right_hero1 = hero_id) |
+                                           Q(right_hero2 = hero_id) |
+                                           Q(right_hero3 = hero_id))
 
     win_count = 0
-    for win in tmp_matches:
-        if win.win:
+    for m in tmp_matches:
+        side = which_side(heros, m)
+        if side == "left":
+            win_count += 1
+        elif side == "right":
             win_count += 1
     if len(tmp_matches) == 0:
         win_rate = 0.0
@@ -70,7 +76,6 @@ def get_pick_stat(heros):
     for i, x in enumerate(sorted_hero):
         if x is "None":
             sorted_hero[i] = None
-    print(sorted_hero)
     obj, created = HeroPickStat.objects.get_or_create(sample_count=len(tmp_matches),
                                              hero1=sorted_hero[0],
                                              hero2=sorted_hero[1],
@@ -93,12 +98,20 @@ def get_recommends(heros, min_sample, max_sample, min_win_rate, max_win_rate):
         else:
             hero_id = hero.hero_id
             selected_hero.add(hero_id)
-            tmp_matches = tmp_matches.filter(Q(hero1 = hero_id) |
-                                           Q(hero2 = hero_id) |
-                                           Q(hero3 = hero_id))
+            tmp_matches = tmp_matches.filter(Q(left_hero1 = hero_id) |
+                                           Q(left_hero2 = hero_id) |
+                                           Q(left_hero3 = hero_id) |
+                                           Q(right_hero1 = hero_id) |
+                                           Q(right_hero2 = hero_id) |
+                                           Q(right_hero3 = hero_id))
     rack_hero_list = []
     for match in tmp_matches:
-        s = set([match.hero1, match.hero2, match.hero3])
+        side = which_side(heros, match)
+        s = None
+        if side == "left":
+            s = set([match.left_hero1, match.left_hero2, match.left_hero3])
+        elif side == "right":
+            s = set([match.right_hero1, match.right_hero2, match.right_hero3])
         rack_hero_set = s - selected_hero
         if len(s) != 3:
             continue
@@ -115,9 +128,12 @@ def get_recommends(heros, min_sample, max_sample, min_win_rate, max_win_rate):
             _hero = list(rack_hero)[0]
             if _hero is None:
                 continue
-            _tmp_matches = tmp_matches.filter(Q(hero1 = _hero) |
-                                           Q(hero2 = _hero) |
-                                           Q(hero3 = _hero))
+            _tmp_matches = tmp_matches.filter(Q(left_hero1 = hero_id) |
+                                           Q(left_hero2 = hero_id) |
+                                           Q(left_hero3 = hero_id) |
+                                           Q(right_hero1 = hero_id) |
+                                           Q(right_hero2 = hero_id) |
+                                           Q(right_hero3 = hero_id))
             win_count = 0
             for win in _tmp_matches:
                 if win.win:
@@ -154,17 +170,29 @@ def get_recommends(heros, min_sample, max_sample, min_win_rate, max_win_rate):
                 continue
             elif _hero2 is None:
                 continue
-            _tmp_matches = tmp_matches.filter(Q(hero1 = _hero) |
-                                              Q(hero2 = _hero) |
-                                              Q(hero3 = _hero))
+            _tmp_matches = tmp_matches.filter(Q(left_hero1 = _hero) |
+                                           Q(left_hero2 = _hero) |
+                                           Q(left_hero3 = _hero) |
+                                           Q(right_hero1 = _hero) |
+                                           Q(right_hero2 = _hero) |
+                                           Q(right_hero3 = _hero))
 
-            _tmp_matches = _tmp_matches.filter(Q(hero1 = _hero2) |
-                                               Q(hero2 = _hero2) |
-                                               Q(hero3 = _hero2))
+            _tmp_matches = _tmp_matches.filter(Q(left_hero1 = _hero2) |
+                                           Q(left_hero2 = _hero2) |
+                                           Q(left_hero3 = _hero2) |
+                                           Q(right_hero1 = _hero2) |
+                                           Q(right_hero2 = _hero2) |
+                                           Q(right_hero3 = _hero2))
             win_count = 0
-            for win in _tmp_matches:
-                if win.win:
-                    win_count += 1
+            for m in _tmp_matches:
+                side = which_side(heros, m)
+                if side == "left":
+                    if m.left_win:
+                        win_count += 1
+                elif side == "right":
+                    if m.right_win:
+                        win_count += 1
+
             if len(_tmp_matches) == 0:
                 win_rate = 0.0
             else:
@@ -189,3 +217,96 @@ def get_recommends(heros, min_sample, max_sample, min_win_rate, max_win_rate):
     else:
         obj = None
     return obj
+
+def which_side(heros, m):
+    hero_set = set()
+    for hero in heros:
+        if hero is not None:
+            hero_set.add(hero.hero_id)
+
+    if hero_set <= set([m.left_hero1, m.left_hero2, m.left_hero3]):
+        return "left"
+    elif hero_set <= set([m.right_hero1, m.right_hero2, m.right_hero3]):
+        return "right"
+
+def compati_page(request):
+    if request.method == 'POST': # フォームが提出された
+        select = HeroSingleSelectForm(request.POST) # POST データの束縛フォーム
+        if select.is_valid(): # バリデーションを通った
+             message = 'データ検証に成功しました'
+             hero = select.cleaned_data['hero']
+             compatis = get_compatis(hero)
+        else:
+             message = 'データ検証に失敗しました'
+             message = None
+             heros = None
+    else:
+        select = HeroSingleSelectForm() # 非束縛フォーム
+        message = None
+        heros = None
+        compatis = None
+    return render(request, 'vainpick/compati.html', {
+                  'select': select,
+                  'message': message,
+                  'compati': compatis,
+                  })
+
+def get_compatis(hero):
+    tmp_matches = Match.objects.all()
+    hero_id = hero.hero_id
+    tmp_matches = tmp_matches.filter(Q(left_hero1 = hero_id) |
+                                   Q(left_hero2 = hero_id) |
+                                   Q(left_hero3 = hero_id) |
+                                   Q(right_hero1 = hero_id) |
+                                   Q(right_hero2 = hero_id) |
+                                   Q(right_hero3 = hero_id))
+
+    win_rate_dict = {}
+    heros = Hero.objects.all()
+    for h in heros:
+        win_rate_dict[h.hero_id] = [0.0, 0]
+
+    for m in tmp_matches:
+        side = which_side([hero], m)
+
+        # 敵サイドのヒーローを収集
+        enemy_heros = []
+        if side == "left":
+            enemy_heros.append(m.right_hero1)
+            enemy_heros.append(m.right_hero2)
+            enemy_heros.append(m.right_hero3)
+        elif side == "right":
+            enemy_heros.append(m.left_hero1)
+            enemy_heros.append(m.left_hero2)
+            enemy_heros.append(m.left_hero3)
+
+        # 各敵サイドヒーローに対して勝率を計算
+        if side == "left":
+            win = m.left_win
+        elif side == "right":
+            win = m.right_win
+
+        for eh in enemy_heros:
+            _data = win_rate_dict[eh]
+            _data[0] += 1 if win else 0
+            _data[1] += 1
+
+    ret_list = []
+    for _id, data in win_rate_dict.items():
+        d = {}
+        if data[1] == 0:
+            d["id"] = _id
+            d["sample_count"] = 0
+            d["win_rate"] = 0.0
+            d["win_rate_str"] = "0.0"
+        else:
+            d["id"] = _id
+            d["sample_count"] = data[1]
+            win_rate = data[0] / data[1]
+            d["win_rate"] = win_rate
+            d["win_rate_str"] = "{0:.1f}".format(win_rate*100)
+        ret_list.append(d)
+
+    ret_list = sorted(ret_list, key=lambda x:x["win_rate"])
+
+    return {"hero_id": hero_id, "win_rate_list": ret_list}
