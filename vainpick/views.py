@@ -129,7 +129,7 @@ def get_recommends(heros, min_sample, max_sample, min_win_rate, max_win_rate):
         rack_hero_set = s - selected_hero
         if len(s) != 3:
             continue
-        if tuple(rack_hero_set) in rack_hero_dict:
+        if tuple(rack_hero_set) in rack_hero_dict.keys():
             rack_hero_dict[tuple(rack_hero_set)].append("left")
         else:
             rack_hero_dict[tuple(rack_hero_set)] = ["left"]
@@ -139,7 +139,7 @@ def get_recommends(heros, min_sample, max_sample, min_win_rate, max_win_rate):
         rack_hero_set = s - selected_hero
         if len(s) != 3:
             continue
-        if tuple(rack_hero_set) in rack_hero_dict:
+        if tuple(rack_hero_set) in rack_hero_dict.keys():
             rack_hero_dict[tuple(rack_hero_set)].append("right")
         else:
             rack_hero_dict[tuple(rack_hero_set)] = ["right"]
@@ -229,9 +229,9 @@ def get_recommends(heros, min_sample, max_sample, min_win_rate, max_win_rate):
                 _tmp_matches = tmp_right_matches.filter(Q(right_hero1 = _hero) |
                                                         Q(right_hero2 = _hero) |
                                                         Q(right_hero3 = _hero))\
-                                                .filter(Q(left_hero1 = _hero2) |
-                                                        Q(left_hero2 = _hero2) |
-                                                        Q(left_hero3 = _hero2))
+                                                .filter(Q(right_hero1 = _hero2) |
+                                                        Q(right_hero2 = _hero2) |
+                                                        Q(right_hero3 = _hero2))
                 for m in _tmp_matches:
                     if m.right_win:
                         win_count += 1
