@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:33:45+0000",
+            "payload": {
+                "Player": "f2303a34-de9a-11e4-8ac0-06d90c28bf1a",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "FudgeMachine"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:33:59+0000",
+            "payload": {
+                "Player": "fb4a30be-d1c9-11e7-ad3f-0654fca4c20c",
+                "Hero": "*Flicker*",
+                "Team": "2",
+                "Handle": "Floormaster"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:33:59+0000",
+            "payload": {
+                "Player": "5e31703c-9be9-11e7-adb9-06fc87f1dd11",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "XxDeathwishxX"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:34:03+0000",
+            "payload": {
+                "Player": "e2e6a332-6fa1-11e4-a054-06641bcbf424",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "Razden"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:34:22+0000",
+            "payload": {
+                "Player": "20e1b33e-44d5-11e6-a163-068789513eb5",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "LordMadaraStyle"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:34:31+0000",
+            "payload": {
+                "Player": "f2961e9e-829b-11e5-9f8d-06b48b82cd49",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "PastelOtter"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

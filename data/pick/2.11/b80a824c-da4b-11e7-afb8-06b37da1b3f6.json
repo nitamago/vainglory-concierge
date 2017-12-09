@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:07:43+0000",
+            "payload": {
+                "Player": "9901a64e-d0f0-11e4-b16f-06d90c28bf1a",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "ram2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:07:46+0000",
+            "payload": {
+                "Player": "a1800762-4084-11e5-9710-06f4ee369f53",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "JustusLeague"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:07:51+0000",
+            "payload": {
+                "Player": "fe193c26-9c53-11e4-9954-06eb725f8a76",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "ElementWarrior3"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:08:03+0000",
+            "payload": {
+                "Player": "f3acd746-35ca-11e5-b8e9-0628b69bf6d1",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "CSMCeezy"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:08:05+0000",
+            "payload": {
+                "Player": "a6cfdb76-d13d-11e5-84e8-067e8bc536fd",
+                "Hero": "*Ozo*",
+                "Team": "2",
+                "Handle": "angel22219YT"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:08:32+0000",
+            "payload": {
+                "Player": "9210ce6a-37f4-11e7-a326-068789513eb5",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "Nemertines"
+            }
+        }
+    ],
+    "winner": "another"
+}

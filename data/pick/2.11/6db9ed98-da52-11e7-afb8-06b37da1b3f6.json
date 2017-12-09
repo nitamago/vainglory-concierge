@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:55:44+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:55:54+0000",
+            "payload": {
+                "Hero": "*Ardan*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:56:10+0000",
+            "payload": {
+                "Player": "68250842-cbf5-11e7-9be0-069ef91bd55c",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "PerplexingLove"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:56:20+0000",
+            "payload": {
+                "Player": "a3796526-98a6-11e4-8aab-06d90c28bf1a",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "iTWiSTED"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:56:41+0000",
+            "payload": {
+                "Player": "53109e3a-e28b-11e5-b081-06d90c28bf1a",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "Lash2000"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:57:01+0000",
+            "payload": {
+                "Player": "162a6808-3862-11e5-886e-0628b69bf6d1",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "Nameunknown69"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:57:05+0000",
+            "payload": {
+                "Player": "35df30e0-0051-11e6-acb3-062cb73cdbb1",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "XxAvizuuxX"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:57:08+0000",
+            "payload": {
+                "Player": "d3767a30-e331-11e5-96ad-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "HaywireBoar75"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

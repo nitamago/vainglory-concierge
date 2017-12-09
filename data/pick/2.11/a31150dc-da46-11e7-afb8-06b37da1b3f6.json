@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:31:12+0000",
+            "payload": {
+                "Player": "ce66a9cc-9b96-11e4-9909-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "BrAver"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:31:17+0000",
+            "payload": {
+                "Player": "7f2a84a6-4ac6-11e6-86e3-06ab1a16f8e5",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "rezwack"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:31:20+0000",
+            "payload": {
+                "Player": "89c455aa-8629-11e7-9081-02b3611af5e6",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "MelancholyF"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:31:32+0000",
+            "payload": {
+                "Player": "2ad2a50a-d20c-11e6-bb73-06fc87f1dd11",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "Noobricorn"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:31:45+0000",
+            "payload": {
+                "Player": "e6e7220a-0744-11e5-b969-06eb725f8a76",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "OGMostWanted"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:31:49+0000",
+            "payload": {
+                "Player": "a4db29f8-d2f7-11e6-a9bf-06b48b82cd49",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "KingCoupa"
+            }
+        }
+    ],
+    "winner": "another"
+}

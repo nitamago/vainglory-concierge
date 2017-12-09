@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:01:32+0000",
+            "payload": {
+                "Player": "7f4f6878-b00a-11e4-aae5-06eb725f8a76",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "goose47"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:01:33+0000",
+            "payload": {
+                "Player": "325aef92-807d-11e7-9a06-0224e22aef46",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "lukewarm23"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:01:33+0000",
+            "payload": {
+                "Player": "937c1f44-a4c2-11e7-9b6d-0263a81144c0",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "OneMadBastich"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:01:43+0000",
+            "payload": {
+                "Player": "2faf0924-e6c5-11e6-a885-06d90c28bf1a",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "coyote530"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:02:04+0000",
+            "payload": {
+                "Player": "c0cf9cc2-bf5d-11e7-93d9-06eb725f8a76",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "Demonkame"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:02:22+0000",
+            "payload": {
+                "Player": "a60840de-1ef3-11e7-a7c8-0224e22aef46",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "DoraDDestroya"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

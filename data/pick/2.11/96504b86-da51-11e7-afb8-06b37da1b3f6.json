@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:49:38+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:49:42+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:49:47+0000",
+            "payload": {
+                "Player": "1e20f82e-ea37-11e5-ae8d-0628b69bf6d1",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "THeCAnuCK"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:49:50+0000",
+            "payload": {
+                "Player": "c821bdf6-005c-11e5-b3f0-06d90c28bf1a",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "CkHrAuOlS"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:49:56+0000",
+            "payload": {
+                "Player": "8e430780-b446-11e6-8283-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "HmngSavage"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:50:01+0000",
+            "payload": {
+                "Player": "cfc17fe2-362b-11e5-8a3d-06f4ee369f53",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "VanZan"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:50:07+0000",
+            "payload": {
+                "Player": "04a49b6e-251e-11e5-87e4-06eb725f8a76",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "dirtastic"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:50:19+0000",
+            "payload": {
+                "Player": "44f44238-c428-11e5-87e2-06b48b82cd49",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "Alejandro330"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

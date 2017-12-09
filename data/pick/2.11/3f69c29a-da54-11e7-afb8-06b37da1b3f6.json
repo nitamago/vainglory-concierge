@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T07:08:57+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T07:09:03+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:09:27+0000",
+            "payload": {
+                "Player": "afa7a556-0772-11e6-ba88-0628b69bf6d1",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Rogue43"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:09:38+0000",
+            "payload": {
+                "Player": "9214facc-3975-11e6-9291-0628b69bf6d1",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "k9b"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:09:54+0000",
+            "payload": {
+                "Player": "d689b01c-7480-11e6-9fc0-06c5ee41a4a5",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "Varkis"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:10:00+0000",
+            "payload": {
+                "Player": "d7b54ff2-4ea9-11e6-ada2-06c5ee41a4a5",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "urthatisthisisu"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:10:02+0000",
+            "payload": {
+                "Player": "061cb82c-c0d7-11e6-a52f-06ab1a16f8e5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Gojira87"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:10:09+0000",
+            "payload": {
+                "Player": "d4a02132-360f-11e6-b0e7-06f4ee369f53",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "AramTheBomb"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

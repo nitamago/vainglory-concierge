@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:20:11+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:20:15+0000",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:20:24+0000",
+            "payload": {
+                "Player": "cbe33f54-7947-11e6-942c-06b48b82cd49",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Ivan19u"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:20:26+0000",
+            "payload": {
+                "Player": "4dea0cca-8916-11e6-a8c5-06ab1a16f8e5",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "MANDIRIGMA02"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:20:31+0000",
+            "payload": {
+                "Player": "d1a8bb7c-6a56-11e5-b94d-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Russcrowe"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:20:54+0000",
+            "payload": {
+                "Player": "198c0378-0d1b-11e7-86b3-02866102f5a6",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "ImFat"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:21:18+0000",
+            "payload": {
+                "Player": "2b39ed36-237c-11e5-9a22-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "ZeroGamingV1"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:21:20+0000",
+            "payload": {
+                "Player": "fba5b09a-b1a7-11e5-b36c-06f4ee369f53",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "tylerdurden619"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:47:57+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:48:05+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:48:08+0000",
+            "payload": {
+                "Player": "c71a2388-72dd-11e4-a8db-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "zRichie"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:48:23+0000",
+            "payload": {
+                "Player": "71408d9c-b406-11e5-b02a-068789513eb5",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "deadtag12"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:48:29+0000",
+            "payload": {
+                "Player": "54cf56d0-21c5-11e5-92bc-068789513eb5",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "HootTheHootle"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:48:52+0000",
+            "payload": {
+                "Player": "acca7560-6ab6-11e5-b2fa-068789513eb5",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "LoveReimi"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:49:16+0000",
+            "payload": {
+                "Player": "c2990c24-54b0-11e5-8918-068789513eb5",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "CDubs3287"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:49:22+0000",
+            "payload": {
+                "Player": "c083b582-21ee-11e5-a2f8-06eb725f8a76",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "Raaseraphic"
+            }
+        }
+    ],
+    "winner": "another"
+}

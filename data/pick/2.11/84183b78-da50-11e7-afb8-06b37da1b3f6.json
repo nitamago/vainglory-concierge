@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:42:08+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:42:10+0000",
+            "payload": {
+                "Hero": "*Alpha*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:42:27+0000",
+            "payload": {
+                "Player": "96dcb234-5526-11e7-b34a-06ab1a16f8e5",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "MrWafflesJ"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:42:30+0000",
+            "payload": {
+                "Player": "eb5484a6-730e-11e4-aebc-06d90c28bf1a",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "DragonChen"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:42:38+0000",
+            "payload": {
+                "Player": "e4f2e7ba-a850-11e5-b02d-0628b69bf6d1",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Emty96MX"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:42:38+0000",
+            "payload": {
+                "Player": "2cd409a4-403c-11e7-b388-06ab1a16f8e5",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "mercedesbeo"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:43:01+0000",
+            "payload": {
+                "Player": "b2b96966-9280-11e6-a597-06f4ee369f53",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "CarlosDuty"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:43:03+0000",
+            "payload": {
+                "Player": "e82e0840-7716-11e4-8b95-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "NINE"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

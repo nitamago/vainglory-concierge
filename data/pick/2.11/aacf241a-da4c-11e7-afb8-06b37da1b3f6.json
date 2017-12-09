@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:14:33+0000",
+            "payload": {
+                "Player": "123047bc-adbb-11e5-aacc-068789513eb5",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "CashQuon"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:14:35+0000",
+            "payload": {
+                "Player": "c05ffb08-adbf-11e5-a547-0628b69bf6d1",
+                "Hero": "*Flicker*",
+                "Team": "1",
+                "Handle": "SKakaRapGod"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:14:37+0000",
+            "payload": {
+                "Player": "85112aa8-d9b6-11e6-9d38-06388a2f2ea7",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "Pastadude97"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:14:45+0000",
+            "payload": {
+                "Player": "f11de1e4-71ff-11e4-a296-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Fries678"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:14:51+0000",
+            "payload": {
+                "Player": "f20c03b4-e168-11e4-bf14-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "ScrumRat"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:14:52+0000",
+            "payload": {
+                "Player": "89bbe9fc-8896-11e5-9f17-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "dollaz456"
+            }
+        }
+    ],
+    "winner": "another"
+}

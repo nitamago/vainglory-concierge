@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:04:50+0000",
+            "payload": {
+                "Player": "4baab9bc-728b-11e4-bc0d-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Ratman"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:04:54+0000",
+            "payload": {
+                "Player": "23b3b136-b11a-11e7-82fc-06ab1a16f8e5",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Kn8Mare"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:04:55+0000",
+            "payload": {
+                "Player": "d8ea1ce0-84ca-11e4-ac6d-06d90c28bf1a",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "DiploStayFli"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:04:58+0000",
+            "payload": {
+                "Player": "3660e54a-4571-11e5-bfdf-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "LordValhalla"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:05:04+0000",
+            "payload": {
+                "Player": "48fd82ac-bdc2-11e5-a5bf-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Deathtalius"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:05:06+0000",
+            "payload": {
+                "Player": "d29bc42a-6aa5-11e6-95dc-06b48b82cd49",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "lakesidesouth"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:32:00+0000",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:32:19+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:32:42+0000",
+            "payload": {
+                "Player": "89e75d90-08e8-11e5-a158-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Toxicnoise"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:33:01+0000",
+            "payload": {
+                "Player": "86c92874-30e2-11e5-8603-06eb725f8a76",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "Scorpio2702"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:33:05+0000",
+            "payload": {
+                "Player": "0f49c29a-5080-11e6-bcc9-06fc87f1dd11",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "HaHaHa11"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:33:29+0000",
+            "payload": {
+                "Player": "4ac113a6-aa02-11e6-8a2e-062cb73cdbb1",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "champion"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:33:36+0000",
+            "payload": {
+                "Player": "280475c8-fcf7-11e5-9e7b-06fc87f1dd11",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "iLoveAshIay"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:33:54+0000",
+            "payload": {
+                "Player": "fbdf34c8-899e-11e4-bc71-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "acallan1"
+            }
+        }
+    ],
+    "winner": "another"
+}

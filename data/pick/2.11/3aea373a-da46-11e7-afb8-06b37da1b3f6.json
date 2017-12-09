@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:28:19+0000",
+            "payload": {
+                "Player": "8c227fd0-cff8-11e6-8f51-067e8bc536fd",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "is4i4h"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:28:19+0000",
+            "payload": {
+                "Player": "92e5cb02-aa0a-11e5-b45d-06f4ee369f53",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Mowgles"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:28:35+0000",
+            "payload": {
+                "Player": "ae27f2be-3bec-11e5-aeae-06b48b82cd49",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "RobSeaSot"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:28:35+0000",
+            "payload": {
+                "Player": "cc5388ee-7355-11e4-b131-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "thereisnotry"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:28:37+0000",
+            "payload": {
+                "Player": "cc331a8a-658c-11e5-a447-06f4ee369f53",
+                "Hero": "*Ozo*",
+                "Team": "2",
+                "Handle": "oOHERCULESOo18"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:29:02+0000",
+            "payload": {
+                "Player": "80dd8c16-b12f-11e5-a7bd-06eb725f8a76",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "Edgerunner"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

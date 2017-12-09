@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:48:57+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:49:26+0000",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:49:36+0000",
+            "payload": {
+                "Player": "b62fb0e0-e7ab-11e4-889f-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "apasin"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:49:38+0000",
+            "payload": {
+                "Player": "eb5484a6-730e-11e4-aebc-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "DragonChen"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:49:41+0000",
+            "payload": {
+                "Player": "e82e0840-7716-11e4-8b95-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "NINE"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:50:05+0000",
+            "payload": {
+                "Player": "8225727a-0839-11e7-bc56-0297ea8a7ddc",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "SkyDragonSlifer"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:50:19+0000",
+            "payload": {
+                "Player": "efd0bf90-ec94-11e4-b586-06d90c28bf1a",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "Leogeass"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:50:26+0000",
+            "payload": {
+                "Player": "03215598-3a27-11e5-b37b-06b48b82cd49",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "FearMyTalent"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

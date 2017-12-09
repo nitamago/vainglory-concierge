@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:07:06+0000",
+            "payload": {
+                "Player": "39d27a44-8cb3-11e4-9439-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "DrFreezie"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:07:10+0000",
+            "payload": {
+                "Player": "3c7cd1e6-777c-11e4-8b02-06d90c28bf1a",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "Feray"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:07:22+0000",
+            "payload": {
+                "Player": "f7ce38c2-bfc2-11e7-a7b4-062cb73cdbb1",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "KleanKut"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:07:29+0000",
+            "payload": {
+                "Player": "5c392016-c4d6-11e7-ad88-062cb73cdbb1",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "Bri77le"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:07:33+0000",
+            "payload": {
+                "Player": "3f85aeaa-6ec4-11e4-a371-06641bcbf424",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "NevercryWolf"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:07:38+0000",
+            "payload": {
+                "Player": "8c5ae170-b844-11e6-9e31-062cb73cdbb1",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "TACU"
+            }
+        }
+    ],
+    "winner": "another"
+}

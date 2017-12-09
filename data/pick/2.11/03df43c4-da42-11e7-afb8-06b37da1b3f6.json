@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:58:11+0000",
+            "payload": {
+                "Player": "6eec3212-930f-11e4-97dc-06eb725f8a76",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "HansGruber15"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:58:15+0000",
+            "payload": {
+                "Player": "fc30b954-8ad5-11e5-b039-06f4ee369f53",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "yvngprince"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:58:19+0000",
+            "payload": {
+                "Player": "0bbf7f62-5778-11e6-b691-068789513eb5",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "MelvinS"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:58:32+0000",
+            "payload": {
+                "Player": "0f81cad2-6907-11e7-999f-06b48b82cd49",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "Nacho19"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:58:53+0000",
+            "payload": {
+                "Player": "eff9d234-3f47-11e6-9b13-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "endeavorr"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:58:53+0000",
+            "payload": {
+                "Player": "88867f8c-827c-11e4-9c29-06d90c28bf1a",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "Thr3e"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

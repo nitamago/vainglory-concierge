@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:53:50+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:54:00+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:54:20+0000",
+            "payload": {
+                "Player": "a7c701aa-2344-11e5-bed9-06b48b82cd49",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Rxckstar"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:54:34+0000",
+            "payload": {
+                "Player": "d7d97fcc-8bee-11e5-b734-068789513eb5",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "TenzinT"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:54:45+0000",
+            "payload": {
+                "Player": "a5b7a82c-a29a-11e4-9954-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Fightastic"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:55:09+0000",
+            "payload": {
+                "Player": "f5cc2152-1d5c-11e5-9a30-06d90c28bf1a",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "Sugabear"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:55:32+0000",
+            "payload": {
+                "Player": "8a7367a8-5cbd-11e5-83cd-06d90c28bf1a",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "NeOnNezZy"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:55:40+0000",
+            "payload": {
+                "Player": "91658fa2-d5c4-11e5-ab98-06ab1a16f8e5",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "senpaikaneki"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:55:01+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:55:09+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:55:25+0000",
+            "payload": {
+                "Player": "b16bbd88-25db-11e5-a2cc-068789513eb5",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "Notlim"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:55:38+0000",
+            "payload": {
+                "Player": "5fee0838-a5e5-11e4-a162-06d90c28bf1a",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "B20JDMGooN"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:55:48+0000",
+            "payload": {
+                "Player": "339731c4-bf30-11e4-917c-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "jadecricket"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:56:06+0000",
+            "payload": {
+                "Player": "2fd7788a-37e6-11e5-bda3-068789513eb5",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "shreker"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:56:07+0000",
+            "payload": {
+                "Player": "811110b6-7825-11e4-b7f5-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "BowTieTilliDie"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:56:17+0000",
+            "payload": {
+                "Player": "0fab7866-90e0-11e4-bc71-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "aliensushi"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

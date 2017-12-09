@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:30:29+0000",
+            "payload": {
+                "Player": "d065cbee-2026-11e5-aedd-068789513eb5",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "theqman"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:30:46+0000",
+            "payload": {
+                "Player": "f80244cc-c0cf-11e4-83f8-06eb725f8a76",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "UzumakiGabo"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:30:49+0000",
+            "payload": {
+                "Player": "0c4da0f6-3759-11e6-9bef-06f4ee369f53",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "SkiddyTalamasK"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:30:52+0000",
+            "payload": {
+                "Player": "90107eb0-d003-11e7-b365-02ce883f709a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "FkingLaserSights"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:30:54+0000",
+            "payload": {
+                "Player": "cdf5b33e-f366-11e4-8a1c-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "DeityOfChrist"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:31:01+0000",
+            "payload": {
+                "Player": "f0846240-b19a-11e5-863f-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Blackleg"
+            }
+        }
+    ],
+    "winner": "another"
+}

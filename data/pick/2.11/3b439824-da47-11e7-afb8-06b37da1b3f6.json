@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:35:35+0000",
+            "payload": {
+                "Player": "5b60074c-d418-11e4-bd95-06eb725f8a76",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "Draxjax"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:35:53+0000",
+            "payload": {
+                "Player": "d858909e-6e00-11e4-8f16-062d0b175276",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "ChainSAW"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:36:07+0000",
+            "payload": {
+                "Player": "857cea60-6f6c-11e4-9c3c-06641bcbf424",
+                "Hero": "*Flicker*",
+                "Team": "1",
+                "Handle": "ESPNELLIS"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:36:07+0000",
+            "payload": {
+                "Player": "4737ae8e-6fb2-11e4-a1de-06641bcbf424",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "KoreanTiger"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:36:08+0000",
+            "payload": {
+                "Player": "71d701fa-727e-11e6-984b-06ab1a16f8e5",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "DLongs"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:36:24+0000",
+            "payload": {
+                "Player": "135111a6-2046-11e5-bbec-06d90c28bf1a",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "stone20"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

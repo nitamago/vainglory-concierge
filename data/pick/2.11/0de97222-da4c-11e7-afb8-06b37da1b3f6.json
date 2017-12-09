@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:10:03+0000",
+            "payload": {
+                "Player": "d8a882b8-f161-11e4-9edf-06eb725f8a76",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "ZzBubbazZ"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:10:05+0000",
+            "payload": {
+                "Player": "e6456134-75b4-11e5-9360-0628b69bf6d1",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Silvani"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:10:12+0000",
+            "payload": {
+                "Player": "190d38f2-75df-11e4-a2d6-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "thebundi"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:10:28+0000",
+            "payload": {
+                "Player": "528cce46-c29a-11e4-b995-06d90c28bf1a",
+                "Hero": "*Grumpjaw*",
+                "Team": "1",
+                "Handle": "LegendaryStoner"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:10:30+0000",
+            "payload": {
+                "Player": "54b7b34c-9306-11e5-a54c-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "Tacomon"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:10:56+0000",
+            "payload": {
+                "Player": "15081f82-8497-11e7-b66c-020355b21670",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "3mit"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T07:11:37+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T07:12:05+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:12:24+0000",
+            "payload": {
+                "Player": "1f259df6-fe96-11e5-ab7a-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Tony9635"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:12:47+0000",
+            "payload": {
+                "Player": "abd03184-6a0e-11e5-aff7-06eb725f8a76",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "Nobody2003"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:13:10+0000",
+            "payload": {
+                "Player": "ccf3d84c-381c-11e7-a700-02081e0fc90e",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "percocet"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:13:12+0000",
+            "payload": {
+                "Player": "fba5b09a-b1a7-11e5-b36c-06f4ee369f53",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "tylerdurden619"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:13:25+0000",
+            "payload": {
+                "Player": "b21bd648-2763-11e6-b197-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "bthebeast3333"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:13:46+0000",
+            "payload": {
+                "Player": "851cb5b4-8eca-11e4-9dc5-06eb725f8a76",
+                "Hero": "*Reza*",
+                "Team": "2",
+                "Handle": "MrKrul"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:59:31+0000",
+            "payload": {
+                "Player": "6b64a126-6ecd-11e4-a36d-06641bcbf424",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "lordknives"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:59:44+0000",
+            "payload": {
+                "Player": "5ad0d5c8-e0dc-11e5-a6d6-068789513eb5",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "SilentHuntress"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:59:54+0000",
+            "payload": {
+                "Player": "25a523c2-23ef-11e5-b985-068789513eb5",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "Essaamkhaalid"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:00:03+0000",
+            "payload": {
+                "Player": "72518eb4-37da-11e5-9d09-06f4ee369f53",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "PoisinedFEVER"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:00:03+0000",
+            "payload": {
+                "Player": "ce977718-e704-11e5-be47-0628b69bf6d1",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "SilentChaos25"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:00:08+0000",
+            "payload": {
+                "Player": "8b119ad2-22cc-11e7-899b-02f3b4306918",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "PharaohsKeep"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:36:30+0000",
+            "payload": {
+                "Player": "2ec7e14e-3355-11e6-8a49-06d90c28bf1a",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "Socom2016"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:36:32+0000",
+            "payload": {
+                "Player": "54c72872-7025-11e4-8c4e-06641bcbf424",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "Lincredible"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:36:33+0000",
+            "payload": {
+                "Player": "4f8a8474-16a3-11e5-8093-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "fartcow"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:36:34+0000",
+            "payload": {
+                "Player": "e848b2a8-8c5b-11e4-a162-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "deathslayer3141"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:37:01+0000",
+            "payload": {
+                "Player": "4d762ac4-2a03-11e7-91e3-062cb73cdbb1",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "AHRIMAN"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:37:07+0000",
+            "payload": {
+                "Player": "ee1fd110-c73c-11e7-9fb1-020c8314066a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "N33M0"
+            }
+        }
+    ],
+    "winner": "another"
+}

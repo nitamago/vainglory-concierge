@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:30:20+0000",
+            "payload": {
+                "Player": "e4bbf6d2-80ed-11e4-a848-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "zapz"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:30:23+0000",
+            "payload": {
+                "Player": "c330c052-7ae0-11e7-a82d-06388a2f2ea7",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "eddiefromdablock"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:30:23+0000",
+            "payload": {
+                "Player": "0bbdb700-c676-11e6-835c-06eb725f8a76",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "xXkruXx"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:30:28+0000",
+            "payload": {
+                "Player": "5fa3f504-3199-11e6-983f-062cb73cdbb1",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "RebelRed"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:30:31+0000",
+            "payload": {
+                "Player": "c31d68b6-0238-11e7-8e26-0224e22aef46",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "anthony2k5"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:30:42+0000",
+            "payload": {
+                "Player": "3c69dd10-037b-11e7-abcd-0297ea8a7ddc",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "Jerry19"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:19:09+0000",
+            "payload": {
+                "Player": "c1bbd10e-fe59-11e4-b4e9-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "CanisWolf"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:19:14+0000",
+            "payload": {
+                "Player": "04cd6272-8159-11e6-81dc-067e8bc536fd",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "highestkingz"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:19:17+0000",
+            "payload": {
+                "Player": "87f5c9fe-8960-11e7-a85f-02b3611af5e6",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "Vicouw"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:19:30+0000",
+            "payload": {
+                "Player": "87318396-58e7-11e6-807b-06388a2f2ea7",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "jishtron"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:19:53+0000",
+            "payload": {
+                "Player": "0cbc8298-6ef4-11e4-b86a-06641bcbf424",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "CW3"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:19:59+0000",
+            "payload": {
+                "Player": "280c3f4e-06d8-11e5-b9db-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "gajahmada"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

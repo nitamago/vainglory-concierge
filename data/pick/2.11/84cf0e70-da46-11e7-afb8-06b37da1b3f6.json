@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:30:20+0000",
+            "payload": {
+                "Player": "a70e4e68-3bd4-11e6-b377-067e8bc536fd",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "RapTor007"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:30:26+0000",
+            "payload": {
+                "Player": "45b9ea54-fbb1-11e5-9f0b-06f4ee369f53",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "GANX"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:30:38+0000",
+            "payload": {
+                "Player": "644b7306-269c-11e5-b7d6-06d90c28bf1a",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "TeyenoTuoyo"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:30:50+0000",
+            "payload": {
+                "Player": "538a9d0a-9504-11e4-9ba0-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "BenitoCaesta"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:31:01+0000",
+            "payload": {
+                "Player": "e81c8d82-3acc-11e7-ba39-020ecf4900d0",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "labananebelle"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:31:08+0000",
+            "payload": {
+                "Player": "c1cf8f5a-aa5c-11e5-a706-068789513eb5",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "DemonicLemonz"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

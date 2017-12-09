@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:25:54+0000",
+            "payload": {
+                "Player": "f717db60-322d-11e5-9fab-0628b69bf6d1",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "DK55"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:26:15+0000",
+            "payload": {
+                "Player": "17d8dd54-70e1-11e4-9351-06641bcbf424",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "Azen1"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:26:16+0000",
+            "payload": {
+                "Player": "91c2e210-f28d-11e6-b3e9-06ab1a16f8e5",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Grilluall"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:26:20+0000",
+            "payload": {
+                "Player": "40ec1552-6ea3-11e4-92f7-062d0b175276",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "drdoucet"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:26:24+0000",
+            "payload": {
+                "Player": "0de8492c-3987-11e6-9529-067e8bc536fd",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "drdeadly"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:26:27+0000",
+            "payload": {
+                "Player": "1a086d8a-1251-11e5-8804-06d90c28bf1a",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "allastor"
+            }
+        }
+    ],
+    "winner": "another"
+}

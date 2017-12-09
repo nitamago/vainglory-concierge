@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:50:27+0000",
+            "payload": {
+                "Player": "4751ba64-79ba-11e5-9a02-0628b69bf6d1",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "get2dachoppaa"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:50:31+0000",
+            "payload": {
+                "Player": "a0164bb4-e4dc-11e5-9ee2-06ab1a16f8e5",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Shaboscar"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:50:33+0000",
+            "payload": {
+                "Player": "32e4ee82-ae63-11e6-95a1-06388a2f2ea7",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "SouperNick"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:50:56+0000",
+            "payload": {
+                "Player": "e046827a-f0a9-11e5-9177-06fc87f1dd11",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "ZonBorfunguy22"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:51:15+0000",
+            "payload": {
+                "Player": "2fd777c2-780b-11e4-9a06-06d90c28bf1a",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "Vorv"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:51:23+0000",
+            "payload": {
+                "Player": "16166110-d91a-11e5-ba2c-06ab1a16f8e5",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "Sahua"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

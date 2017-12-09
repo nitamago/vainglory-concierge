@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:46:19+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:46:25+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:46:35+0000",
+            "payload": {
+                "Player": "3d75af7c-c9b4-11e7-afda-06b672bd5be2",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "Hunrune"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:46:46+0000",
+            "payload": {
+                "Player": "a98c6ae0-65eb-11e5-8371-06eb725f8a76",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "cbenner"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:46:54+0000",
+            "payload": {
+                "Player": "a6926120-e2c5-11e6-ac44-062cb73cdbb1",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Gamebred"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:47:17+0000",
+            "payload": {
+                "Player": "68ee8c1a-16ef-11e6-af07-06c5ee41a4a5",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "Anko123"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:47:31+0000",
+            "payload": {
+                "Player": "f14866a4-e421-11e5-a749-068789513eb5",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "brokeblokegg"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:47:51+0000",
+            "payload": {
+                "Player": "b1977c9a-55e8-11e7-ae6c-062cb73cdbb1",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Puniel"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

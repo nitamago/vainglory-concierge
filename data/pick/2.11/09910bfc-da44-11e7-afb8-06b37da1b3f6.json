@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:12:42+0000",
+            "payload": {
+                "Player": "708c1d4a-84b0-11e7-ad59-02a5820c0f16",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "MorphNeoTrin"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:13:00+0000",
+            "payload": {
+                "Player": "b5174724-a4a0-11e5-b2f2-0628b69bf6d1",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "Astral5"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:13:09+0000",
+            "payload": {
+                "Player": "49852332-6ad9-11e6-ad5d-06c5ee41a4a5",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "TK502"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:13:16+0000",
+            "payload": {
+                "Player": "73e5ba38-845b-11e6-818f-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "stonedRaider98"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:13:17+0000",
+            "payload": {
+                "Player": "55744714-7d04-11e4-94bf-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "SnakeRiver"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:13:20+0000",
+            "payload": {
+                "Player": "ee1a1150-c90d-11e5-b935-06f4ee369f53",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "Shadow2016"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

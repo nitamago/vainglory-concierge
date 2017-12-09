@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:48:19+0000",
+            "payload": {
+                "Player": "503bcbaa-7368-11e4-95b3-06d90c28bf1a",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "Jewlian"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:48:20+0000",
+            "payload": {
+                "Player": "a70e4e68-3bd4-11e6-b377-067e8bc536fd",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "RapTor007"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:48:20+0000",
+            "payload": {
+                "Player": "ea35b16a-7856-11e4-9a06-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "natokona"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:48:59+0000",
+            "payload": {
+                "Player": "73d43c4e-d29b-11e5-93d0-06c5ee41a4a5",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Grubitsch"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:49:05+0000",
+            "payload": {
+                "Player": "12825b10-f4f6-11e5-a53c-06ab1a16f8e5",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "ShowGaNai"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:49:12+0000",
+            "payload": {
+                "Player": "15e8508e-8edf-11e5-b499-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "BeatKiller"
+            }
+        }
+    ],
+    "winner": "another"
+}

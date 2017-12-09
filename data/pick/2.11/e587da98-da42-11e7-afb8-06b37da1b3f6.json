@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:04:28+0000",
+            "payload": {
+                "Player": "d0a35a92-e20d-11e4-8ebb-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "bruce17"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:04:38+0000",
+            "payload": {
+                "Player": "3bf1ae5a-de9e-11e6-a865-068789513eb5",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Zorraputa"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:04:39+0000",
+            "payload": {
+                "Player": "aa786870-e8d4-11e5-b4f8-06fc87f1dd11",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "Psychonosis"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:04:40+0000",
+            "payload": {
+                "Player": "cc515706-1eb4-11e7-b189-020355b21670",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "itsRafailan"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:04:46+0000",
+            "payload": {
+                "Player": "2abb550c-5379-11e5-95fd-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "jkgg"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:04:57+0000",
+            "payload": {
+                "Player": "167ec8ae-4194-11e5-b170-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "DeadpoolSHIELD"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

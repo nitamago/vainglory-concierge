@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:15:10+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:15:37+0000",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:15:51+0000",
+            "payload": {
+                "Player": "466bab40-7ff9-11e7-8101-06388a2f2ea7",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "BuiIldDefense"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:16:12+0000",
+            "payload": {
+                "Player": "0a641e70-afc4-11e7-b167-06fc87f1dd11",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "lIIIlI"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:16:35+0000",
+            "payload": {
+                "Player": "bb756756-a409-11e4-9d4c-06d90c28bf1a",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "Grvpes"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:16:59+0000",
+            "payload": {
+                "Player": "17e7dc52-72f6-11e4-a192-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "quynho"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:17:23+0000",
+            "payload": {
+                "Player": "ec1ab372-4978-11e7-9b20-020ecf4900d0",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "SuperEzio"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:17:37+0000",
+            "payload": {
+                "Player": "16b53794-73bd-11e5-bf20-068789513eb5",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "FaZeRomanse"
+            }
+        }
+    ],
+    "winner": "another"
+}

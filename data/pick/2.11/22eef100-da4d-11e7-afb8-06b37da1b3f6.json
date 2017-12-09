@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:17:55+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:18:03+0000",
+            "payload": {
+                "Hero": "*Skye*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:18:25+0000",
+            "payload": {
+                "Player": "ce93a2c6-ec01-11e5-910b-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Demonstrations"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:18:43+0000",
+            "payload": {
+                "Player": "cee1a29c-dc8d-11e5-b7fc-06388a2f2ea7",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Project152"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:18:51+0000",
+            "payload": {
+                "Player": "97766228-6eea-11e4-bfea-06641bcbf424",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "luffy0325"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:19:11+0000",
+            "payload": {
+                "Player": "8a3d12b8-6855-11e5-8ddb-06b48b82cd49",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "EmperorTrump1"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:19:26+0000",
+            "payload": {
+                "Player": "4c0645f0-7cf9-11e6-af64-062cb73cdbb1",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "wlee4"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:19:43+0000",
+            "payload": {
+                "Player": "f0638ddc-e3bc-11e5-a1bc-06c5ee41a4a5",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "XxKrimzenFlarexX"
+            }
+        }
+    ],
+    "winner": "another"
+}

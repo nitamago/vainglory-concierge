@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:46:03+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:46:05+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:46:28+0000",
+            "payload": {
+                "Player": "e0f8d082-3507-11e5-abbd-0628b69bf6d1",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "SOBxRBE"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:46:29+0000",
+            "payload": {
+                "Player": "84a0cfc0-641c-11e6-b7d6-0628b69bf6d1",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "GankaSaurusRex"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:46:47+0000",
+            "payload": {
+                "Player": "7cee58cc-5312-11e5-83e6-06f4ee369f53",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "vicelord"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:46:53+0000",
+            "payload": {
+                "Player": "7e744cfe-6ee9-11e5-a5dc-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "tooarguelles"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:47:08+0000",
+            "payload": {
+                "Player": "a89235ca-3f5b-11e7-b5ce-06fc87f1dd11",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "corruptedLogic"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:47:18+0000",
+            "payload": {
+                "Player": "1140618a-9e22-11e7-8b03-06fc87f1dd11",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "AragornDragon"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:02:50+0000",
+            "payload": {
+                "Player": "681780d0-78a5-11e7-a3ff-06ab1a16f8e5",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Sofia0512"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:02:53+0000",
+            "payload": {
+                "Player": "0dc3a0d4-d11f-11e5-8f9b-06b48b82cd49",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "CivilizedSavage"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:02:53+0000",
+            "payload": {
+                "Player": "b8bd6536-31f1-11e7-8a3b-02a5820c0f16",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "MangaENova"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:03:08+0000",
+            "payload": {
+                "Player": "b8522a46-9332-11e5-8abf-06b48b82cd49",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "spartano69"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:03:21+0000",
+            "payload": {
+                "Player": "607df276-4ce9-11e5-bb07-06f4ee369f53",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "xhedos"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:03:22+0000",
+            "payload": {
+                "Player": "bdfb2e7c-910d-11e7-a7f7-0224e22aef46",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Stormvolt"
+            }
+        }
+    ],
+    "winner": "another"
+}

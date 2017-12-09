@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:39:28+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:39:51+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:40:02+0000",
+            "payload": {
+                "Player": "23d8ce32-409a-11e5-bfdf-06d90c28bf1a",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "MrJu"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:40:13+0000",
+            "payload": {
+                "Player": "9698be1e-e5bd-11e5-bbe9-062cb73cdbb1",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "jainish31"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:40:31+0000",
+            "payload": {
+                "Player": "abe76e62-a61d-11e5-a3a6-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "BlackHippie"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:40:39+0000",
+            "payload": {
+                "Player": "6d6826da-658c-11e5-b382-068789513eb5",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "1shotkestrel"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:41:01+0000",
+            "payload": {
+                "Player": "20b7c772-fb25-11e4-87c3-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "DylanlovesAndrew"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:41:03+0000",
+            "payload": {
+                "Player": "fad0dc68-ca0b-11e5-a7b7-0628b69bf6d1",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "trishp9"
+            }
+        }
+    ],
+    "winner": "another"
+}

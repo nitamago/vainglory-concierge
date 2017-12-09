@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:54:38+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:54:42+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:55:04+0000",
+            "payload": {
+                "Player": "068ba336-bf39-11e5-84e3-0628b69bf6d1",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "alldaywakebake"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:55:05+0000",
+            "payload": {
+                "Player": "390b8de4-7e44-11e4-b2a2-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "BHxartiest"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:55:21+0000",
+            "payload": {
+                "Player": "e0f8d082-3507-11e5-abbd-0628b69bf6d1",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "SOBxRBE"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:55:46+0000",
+            "payload": {
+                "Player": "be522104-c62a-11e6-91c9-06b48b82cd49",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "ProLadyDark90"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:55:49+0000",
+            "payload": {
+                "Player": "6682c318-3d26-11e5-99fc-068789513eb5",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "abelabels"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:55:58+0000",
+            "payload": {
+                "Player": "5b4cd12c-47d6-11e5-8aab-06f4ee369f53",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "The21jux"
+            }
+        }
+    ],
+    "winner": "another"
+}

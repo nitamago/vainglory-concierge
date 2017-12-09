@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:08:29+0000",
+            "payload": {
+                "Player": "e79f344c-c698-11e7-a50b-025e5fb8fe9e",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "FlashyAF"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:08:31+0000",
+            "payload": {
+                "Player": "e4f3b9f0-3b28-11e5-a27a-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "xbossdupx"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:08:31+0000",
+            "payload": {
+                "Player": "453279ec-8794-11e6-b0e0-06ab1a16f8e5",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "elreus"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:08:34+0000",
+            "payload": {
+                "Player": "3bbafcd2-530d-11e7-907c-02a5820c0f16",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "CrayonFrisbee"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:08:51+0000",
+            "payload": {
+                "Player": "243df58e-bff0-11e5-a5d3-06f4ee369f53",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "Stuzal"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:09:02+0000",
+            "payload": {
+                "Player": "341df00e-8215-11e4-a3dc-06eb725f8a76",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "Deadpreus"
+            }
+        }
+    ],
+    "winner": "another"
+}

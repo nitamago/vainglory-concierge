@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:49:58+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:50:03+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:50:05+0000",
+            "payload": {
+                "Player": "93cc4626-262e-11e7-b354-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Juguegos"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:50:13+0000",
+            "payload": {
+                "Player": "282ff1ec-106e-11e5-8671-06eb725f8a76",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "ofs"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:50:29+0000",
+            "payload": {
+                "Player": "aca076ea-6f83-11e4-a602-06641bcbf424",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "gemhigh"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:50:45+0000",
+            "payload": {
+                "Player": "69ec2f3c-af30-11e4-b4e8-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "theblackwings"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:51:01+0000",
+            "payload": {
+                "Player": "08bb1496-05e9-11e7-841e-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Sergio17"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:51:17+0000",
+            "payload": {
+                "Player": "d8fd7e60-076a-11e6-94f0-06388a2f2ea7",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "FuryLeon"
+            }
+        }
+    ],
+    "winner": "another"
+}

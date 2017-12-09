@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:00:57+0000",
+            "payload": {
+                "Hero": "*Catherine*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:01:02+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:01:08+0000",
+            "payload": {
+                "Player": "b8b17b40-88d8-11e5-8fb7-068789513eb5",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "JuryokuX"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:01:12+0000",
+            "payload": {
+                "Player": "e35a50ec-2874-11e6-8828-06388a2f2ea7",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "r0ny"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:01:23+0000",
+            "payload": {
+                "Player": "37539e70-0755-11e5-98b4-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Sethery"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:01:37+0000",
+            "payload": {
+                "Player": "de32e53a-6ef7-11e4-a933-062d0b175276",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "THEBUTTMAN"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:02:01+0000",
+            "payload": {
+                "Player": "3de4c4be-9388-11e7-9a90-0224e22aef46",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "Iucius"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:02:15+0000",
+            "payload": {
+                "Player": "7403310a-71f5-11e4-961b-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "PatMcLeprechaun"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

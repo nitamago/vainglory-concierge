@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:21:34+0000",
+            "payload": {
+                "Player": "ac8867f6-76ab-11e4-b7f5-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "Kodabear"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:21:46+0000",
+            "payload": {
+                "Player": "ae0e7188-640d-11e5-ad85-06b48b82cd49",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "Drunkianvang"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:21:47+0000",
+            "payload": {
+                "Player": "1b51e0f8-b483-11e4-994d-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "bigcocopuff"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:21:49+0000",
+            "payload": {
+                "Player": "a62cf3ae-731d-11e4-9bd2-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "h6y3"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:22:00+0000",
+            "payload": {
+                "Player": "267aa324-5b41-11e5-9a01-06b48b82cd49",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "RADC"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:22:05+0000",
+            "payload": {
+                "Player": "91c77f80-834c-11e4-9439-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "CountVosburgh"
+            }
+        }
+    ],
+    "winner": "another"
+}

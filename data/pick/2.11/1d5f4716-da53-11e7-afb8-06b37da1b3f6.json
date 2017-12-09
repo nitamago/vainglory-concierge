@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T07:00:37+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T07:00:58+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:01:05+0000",
+            "payload": {
+                "Player": "180aeb6c-093e-11e7-9940-02866102f5a6",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "MrsMethodical"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:01:20+0000",
+            "payload": {
+                "Player": "0a8f13aa-6924-11e7-a6da-0263a81144c0",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Mendez30"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:01:40+0000",
+            "payload": {
+                "Player": "39319374-2fc0-11e7-941a-06fc87f1dd11",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "cristoffersaul"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:01:55+0000",
+            "payload": {
+                "Player": "5ab3d1e6-0942-11e7-bf25-067e8bc536fd",
+                "Hero": "*Ozo*",
+                "Team": "1",
+                "Handle": "MrMethodical"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:01:57+0000",
+            "payload": {
+                "Player": "dc1e0ef0-5b36-11e6-875f-06fc87f1dd11",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "Mikazukispeach"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:02:22+0000",
+            "payload": {
+                "Player": "83a47778-352a-11e6-b8f6-0628b69bf6d1",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "KirkJustice"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

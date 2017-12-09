@@ -1,0 +1,74 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:19:49+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:20:22+0000",
+            "payload": {
+                "Player": "180aeb6c-093e-11e7-9940-02866102f5a6",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "MrsMethodical"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:20:22+0000",
+            "payload": {
+                "Player": "27d6aa4c-33cb-11e7-a0f8-02b3611af5e6",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "chipSkylark"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:20:35+0000",
+            "payload": {
+                "Player": "3862c8be-fdfc-11e6-8a76-0223dbc2587a",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "Hokage0fTheLeaf"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:20:58+0000",
+            "payload": {
+                "Player": "5ab3d1e6-0942-11e7-bf25-067e8bc536fd",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "MrMethodical"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:21:19+0000",
+            "payload": {
+                "Player": "69bf9a1c-a401-11e7-a9a5-06c5ee41a4a5",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Nyoz"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:21:25+0000",
+            "payload": {
+                "Player": "514f3786-dd36-11e6-900c-062cb73cdbb1",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "superSage"
+            }
+        }
+    ],
+    "winner": "another"
+}

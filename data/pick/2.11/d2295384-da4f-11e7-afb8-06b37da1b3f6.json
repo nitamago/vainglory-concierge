@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:37:07+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:37:17+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:37:37+0000",
+            "payload": {
+                "Player": "68153af4-7821-11e5-9b4d-06f4ee369f53",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "CLloyD"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:37:42+0000",
+            "payload": {
+                "Player": "d55b57f4-bbfd-11e5-899d-06b48b82cd49",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "SentientHunhow"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:37:43+0000",
+            "payload": {
+                "Player": "ebb9965c-be09-11e4-8267-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "SamSum3213"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:37:50+0000",
+            "payload": {
+                "Player": "63baeffa-2856-11e5-a17d-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Lolopechay"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:37:54+0000",
+            "payload": {
+                "Player": "9d5c5a3e-c551-11e6-94f2-06fc87f1dd11",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "classceleste"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:38:14+0000",
+            "payload": {
+                "Player": "b0b49322-a0a3-11e5-904f-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "GR3YBUSH"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

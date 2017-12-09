@@ -1,0 +1,82 @@
+{
+    "winner": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            },
+            "time": "2017-12-06T07:38:02+0000"
+        },
+        {
+            "type": "HeroBan",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            },
+            "time": "2017-12-06T07:38:10+0000"
+        },
+        {
+            "type": "HeroSelect",
+            "payload": {
+                "Handle": "Arnox",
+                "Hero": "*Ardan*",
+                "Player": "bd7d43e2-8970-11e4-9bf4-06eb725f8a76",
+                "Team": "1"
+            },
+            "time": "2017-12-06T07:38:29+0000"
+        },
+        {
+            "type": "HeroSelect",
+            "payload": {
+                "Handle": "ACEcrEAtioN",
+                "Hero": "*Churnwalker*",
+                "Player": "4d963d0a-e940-11e5-bab9-068789513eb5",
+                "Team": "2"
+            },
+            "time": "2017-12-06T07:38:43+0000"
+        },
+        {
+            "type": "HeroSelect",
+            "payload": {
+                "Handle": "Chrisssy",
+                "Hero": "*Gwen*",
+                "Player": "c719e488-16f0-11e5-b33d-06eb725f8a76",
+                "Team": "2"
+            },
+            "time": "2017-12-06T07:38:45+0000"
+        },
+        {
+            "type": "HeroSelect",
+            "payload": {
+                "Handle": "Varrien",
+                "Hero": "*Vox*",
+                "Player": "e0d27752-2143-11e5-826a-06eb725f8a76",
+                "Team": "1"
+            },
+            "time": "2017-12-06T07:38:52+0000"
+        },
+        {
+            "type": "HeroSelect",
+            "payload": {
+                "Handle": "AshFromTheFiree",
+                "Hero": "*Blackfeather*",
+                "Player": "a60fdfda-c38b-11e4-b47b-06eb725f8a76",
+                "Team": "1"
+            },
+            "time": "2017-12-06T07:38:55+0000"
+        },
+        {
+            "type": "HeroSelect",
+            "payload": {
+                "Handle": "YOOOONNGGJJAEEEE",
+                "Hero": "*Baptiste*",
+                "Player": "2c4f3252-692d-11e5-b6da-06b48b82cd49",
+                "Team": "2"
+            },
+            "time": "2017-12-06T07:39:07+0000"
+        }
+    ],
+    "loser": "another"
+}

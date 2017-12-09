@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T07:00:34+0000",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T07:00:44+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:00:49+0000",
+            "payload": {
+                "Player": "c14334b2-bc42-11e6-bea4-06388a2f2ea7",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "ByNameCoC"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:01:09+0000",
+            "payload": {
+                "Player": "ae60986c-851e-11e7-ae3b-0224e22aef46",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "AIta"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:01:14+0000",
+            "payload": {
+                "Player": "9df9d292-22f7-11e7-8737-06f4ee369f53",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "IIOMEGA"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:01:24+0000",
+            "payload": {
+                "Player": "89e75d90-08e8-11e5-a158-06eb725f8a76",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "Toxicnoise"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:01:42+0000",
+            "payload": {
+                "Player": "ea9f5fb6-31ba-11e5-a5d5-06d90c28bf1a",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "CrisDan"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:02:06+0000",
+            "payload": {
+                "Player": "84062948-52cf-11e5-b268-06eb725f8a76",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "ReckFaze"
+            }
+        }
+    ],
+    "winner": "another"
+}

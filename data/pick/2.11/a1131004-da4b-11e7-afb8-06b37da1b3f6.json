@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:07:12+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:07:15+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:07:38+0000",
+            "payload": {
+                "Player": "7b633b3e-dd6f-11e5-9565-06fc87f1dd11",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "JuniorLoliPop"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:08:01+0000",
+            "payload": {
+                "Player": "b1aeba72-85a2-11e4-9439-06eb725f8a76",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "EdwardHolmes"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:08:06+0000",
+            "payload": {
+                "Player": "dac305f0-575e-11e6-84d8-06fc87f1dd11",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "aizero19"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:08:21+0000",
+            "payload": {
+                "Player": "339731c4-bf30-11e4-917c-06d90c28bf1a",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "jadecricket"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:08:33+0000",
+            "payload": {
+                "Player": "d3135c04-1495-11e5-bde8-06eb725f8a76",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "Bedroominc"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:08:42+0000",
+            "payload": {
+                "Player": "300a3900-5604-11e5-b9c8-06f4ee369f53",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "papayadecelaya"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

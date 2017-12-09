@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:12:00+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:12:02+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:12:22+0000",
+            "payload": {
+                "Player": "9fd8d4ba-73c4-11e6-8cab-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "KiwiAF"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:12:29+0000",
+            "payload": {
+                "Player": "e0d27752-2143-11e5-826a-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Varrien"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:12:35+0000",
+            "payload": {
+                "Player": "86c92874-30e2-11e5-8603-06eb725f8a76",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "Scorpio2702"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:12:53+0000",
+            "payload": {
+                "Player": "c2eb417a-05f2-11e7-9667-068789513eb5",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "SickSickSick"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:13:16+0000",
+            "payload": {
+                "Player": "b5803cc6-d26d-11e4-b964-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "GreenListerine"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:13:39+0000",
+            "payload": {
+                "Player": "09496edc-7c75-11e7-be05-020ecf4900d0",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "InakiZorro"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

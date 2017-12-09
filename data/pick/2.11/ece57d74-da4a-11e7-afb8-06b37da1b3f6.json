@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:01:57+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:02:09+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:02:21+0000",
+            "payload": {
+                "Player": "53109e3a-e28b-11e5-b081-06d90c28bf1a",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "Lash2000"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:02:44+0000",
+            "payload": {
+                "Player": "0a07daee-e964-11e4-a455-06eb725f8a76",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "GoldenNova"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:02:47+0000",
+            "payload": {
+                "Player": "2dd22e24-4cd8-11e6-a8df-0628b69bf6d1",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "FilthyRich420"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:03:07+0000",
+            "payload": {
+                "Player": "0209ecfe-01ec-11e7-aede-020ecf4900d0",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "AssasinGhost"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:03:28+0000",
+            "payload": {
+                "Player": "d3767a30-e331-11e5-96ad-06d90c28bf1a",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "HaywireBoar75"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:03:39+0000",
+            "payload": {
+                "Player": "97d6e788-c4ab-11e6-a072-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "TheForechunTeler"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

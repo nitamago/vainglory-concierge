@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:19:44+0000",
+            "payload": {
+                "Player": "f502ef32-3169-11e5-b7e8-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "rodspeed"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:19:46+0000",
+            "payload": {
+                "Player": "b215677c-7d91-11e4-83eb-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "MADDxGAMER"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:19:49+0000",
+            "payload": {
+                "Player": "b24e8a78-78d9-11e4-b12c-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "EarlyBird_CQ"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:19:58+0000",
+            "payload": {
+                "Player": "29052ada-79ef-11e4-bb59-06d90c28bf1a",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "sora1"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:20:00+0000",
+            "payload": {
+                "Player": "845f2492-acd6-11e5-b667-06f4ee369f53",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "iFarmTurrets"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:20:43+0000",
+            "payload": {
+                "Player": "e0e00696-f182-11e5-8048-06fc87f1dd11",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "rabidity"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

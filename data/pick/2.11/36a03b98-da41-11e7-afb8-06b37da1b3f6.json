@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:52:46+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:52:58+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:53:23+0000",
+            "payload": {
+                "Player": "bb013f3e-be2f-11e5-81d1-06d90c28bf1a",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "bigdrew75"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:53:39+0000",
+            "payload": {
+                "Player": "269f319c-9251-11e6-aac1-06b48b82cd49",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "ReaperKnightVG"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:53:53+0000",
+            "payload": {
+                "Player": "186fe1e6-9475-11e5-8611-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "HighStrike "
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:54:01+0000",
+            "payload": {
+                "Player": "6b97110e-36c5-11e5-ab88-06f4ee369f53",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "Master2x"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:54:02+0000",
+            "payload": {
+                "Player": "5576d366-a037-11e4-800e-06eb725f8a76",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "Adaox"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:54:14+0000",
+            "payload": {
+                "Player": "5b690d9c-b9d1-11e6-920d-06eb725f8a76",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "iLoveSuck"
+            }
+        }
+    ],
+    "winner": "another"
+}

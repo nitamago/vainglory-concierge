@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:03:27+0000",
+            "payload": {
+                "Player": "6ddb3664-2f0b-11e5-9378-06b48b82cd49",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "mysterumble"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:03:32+0000",
+            "payload": {
+                "Player": "feb8bffe-13ed-11e6-8883-062cb73cdbb1",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "thePrestige"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:03:35+0000",
+            "payload": {
+                "Player": "17d8dd54-70e1-11e4-9351-06641bcbf424",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "Azen1"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:03:58+0000",
+            "payload": {
+                "Player": "52079a12-f6f3-11e5-9079-06388a2f2ea7",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "shore22"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:04:01+0000",
+            "payload": {
+                "Player": "8f464ff8-882d-11e4-9954-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Jonaparedes"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:04:10+0000",
+            "payload": {
+                "Player": "48126eb8-7686-11e4-a5ea-06d90c28bf1a",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "Jhonante"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

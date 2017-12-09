@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:19:29+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:19:53+0000",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:20:08+0000",
+            "payload": {
+                "Player": "43f77db2-73bd-11e4-bf6c-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "x_PiNAYBABY619_x"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:20:28+0000",
+            "payload": {
+                "Player": "08bb1496-05e9-11e7-841e-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "Sergio17"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:20:38+0000",
+            "payload": {
+                "Player": "9936f84e-ae63-11e4-8e2b-06eb725f8a76",
+                "Hero": "*Reza*",
+                "Team": "2",
+                "Handle": "ParkourDaikiri"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:21:01+0000",
+            "payload": {
+                "Player": "390b8de4-7e44-11e4-b2a2-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "BHxartiest"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:21:06+0000",
+            "payload": {
+                "Player": "626c638c-6211-11e5-908e-0628b69bf6d1",
+                "Hero": "*Petal*",
+                "Team": "1",
+                "Handle": "wutzituya"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:21:19+0000",
+            "payload": {
+                "Player": "0c2f1a18-d67f-11e5-9288-062cb73cdbb1",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Nathnn"
+            }
+        }
+    ],
+    "winner": "another"
+}

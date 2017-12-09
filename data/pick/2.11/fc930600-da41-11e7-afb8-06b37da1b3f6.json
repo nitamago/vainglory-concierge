@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:58:21+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:58:34+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:58:55+0000",
+            "payload": {
+                "Player": "338c8a68-21ea-11e5-9904-068789513eb5",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "Selvin504"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:58:59+0000",
+            "payload": {
+                "Player": "293e474a-2384-11e5-a032-06f4ee369f53",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "OneGirlTwoCups"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:59:02+0000",
+            "payload": {
+                "Player": "7ba74ae6-72ee-11e4-a192-06d90c28bf1a",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "C4bb4ge"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:59:10+0000",
+            "payload": {
+                "Player": "cdbd952e-6d75-11e5-9e8f-06f4ee369f53",
+                "Hero": "*Reza*",
+                "Team": "1",
+                "Handle": "bichobi"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:59:33+0000",
+            "payload": {
+                "Player": "34399782-aaa4-11e6-980c-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "HuYiJack"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:59:54+0000",
+            "payload": {
+                "Player": "246e2ac2-7ae8-11e4-9c8c-06eb725f8a76",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "jhwalding"
+            }
+        }
+    ],
+    "winner": "another"
+}

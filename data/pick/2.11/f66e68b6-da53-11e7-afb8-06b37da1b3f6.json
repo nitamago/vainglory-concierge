@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T07:06:51+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T07:06:54+0000",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:06:58+0000",
+            "payload": {
+                "Player": "d1ea41aa-6ab3-11e7-90bd-06388a2f2ea7",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "Scarlettheharlot"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:07:17+0000",
+            "payload": {
+                "Player": "26165eb4-58f3-11e5-b000-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "HAMILTON7"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:07:22+0000",
+            "payload": {
+                "Player": "d8344c08-7011-11e4-af86-06641bcbf424",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "sumasuma"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:07:24+0000",
+            "payload": {
+                "Player": "1411d390-21aa-11e5-a742-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "SonOfVictory"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:07:36+0000",
+            "payload": {
+                "Player": "0752bd94-b525-11e6-8e6a-06fc87f1dd11",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "JorDanger"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:07:43+0000",
+            "payload": {
+                "Player": "da0c8d2c-d279-11e4-a28e-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Privilege "
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T07:03:59+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T07:04:07+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:04:09+0000",
+            "payload": {
+                "Player": "4eab4c08-88c5-11e4-b6fa-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "FORTITUDE"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:04:17+0000",
+            "payload": {
+                "Player": "6ac53e28-1afe-11e5-bd69-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "DelirioN"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:04:38+0000",
+            "payload": {
+                "Player": "d9ca1f8c-5d20-11e5-abd6-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "jhaabatt "
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:04:48+0000",
+            "payload": {
+                "Player": "c7005c10-807e-11e4-b8d4-06eb725f8a76",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "ahhhhshlay"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:04:54+0000",
+            "payload": {
+                "Player": "a81775aa-2212-11e5-b5fb-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "LegitSwags"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:05:05+0000",
+            "payload": {
+                "Player": "3402257e-3e0b-11e5-86c1-06f4ee369f53",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Whitemagex"
+            }
+        }
+    ],
+    "winner": "another"
+}

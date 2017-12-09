@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:13:57+0000",
+            "payload": {
+                "Player": "80248f36-c048-11e5-9838-068789513eb5",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "TheLegendDrew"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:14:00+0000",
+            "payload": {
+                "Player": "026d8792-0b39-11e5-b1ba-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "ImArtistic"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:14:05+0000",
+            "payload": {
+                "Player": "e6bd12ec-98ad-11e7-8b8a-02a5820c0f16",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Switwich"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:14:17+0000",
+            "payload": {
+                "Player": "952196b0-c563-11e6-b9c6-062cb73cdbb1",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "THEYUS"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:14:36+0000",
+            "payload": {
+                "Player": "81c239de-5363-11e6-bcc9-067e8bc536fd",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Rajiggles"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:14:48+0000",
+            "payload": {
+                "Player": "6ba3ccea-77ec-11e7-a4ff-020355b21670",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Gears95"
+            }
+        }
+    ],
+    "winner": "another"
+}

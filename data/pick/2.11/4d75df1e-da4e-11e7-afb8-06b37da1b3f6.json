@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:26:04+0000",
+            "payload": {
+                "Hero": "*Grace*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:26:08+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:26:22+0000",
+            "payload": {
+                "Player": "2700392a-c590-11e6-b699-06a9175d25fa",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "Khloee"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:26:29+0000",
+            "payload": {
+                "Player": "38decab8-e1b0-11e5-a0a3-067e8bc536fd",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "ShadowGod13"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:26:51+0000",
+            "payload": {
+                "Player": "7163c4ca-bda6-11e5-8221-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "UniverseGod"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:26:53+0000",
+            "payload": {
+                "Player": "c7eda31c-5508-11e5-89aa-06f4ee369f53",
+                "Hero": "*Petal*",
+                "Team": "1",
+                "Handle": "ladyvana"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:27:11+0000",
+            "payload": {
+                "Player": "7d750312-55b1-11e5-9bc4-068789513eb5",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "RlCH"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:27:14+0000",
+            "payload": {
+                "Player": "15aac1c4-56c5-11e7-8190-020ecf4900d0",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "XCatBugNinjaX"
+            }
+        }
+    ],
+    "winner": "another"
+}

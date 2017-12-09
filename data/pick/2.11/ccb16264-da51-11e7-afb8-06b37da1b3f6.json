@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:51:24+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:51:46+0000",
+            "payload": {
+                "Hero": "*Grace*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:51:48+0000",
+            "payload": {
+                "Player": "4dea0cca-8916-11e6-a8c5-06ab1a16f8e5",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "MANDIRIGMA02"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:51:52+0000",
+            "payload": {
+                "Player": "6bb483ce-80df-11e5-b8c5-06eb725f8a76",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "Zythe"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:52:06+0000",
+            "payload": {
+                "Player": "5b71e346-ca79-11e6-aa68-06b48b82cd49",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "rodriguez10"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:52:27+0000",
+            "payload": {
+                "Player": "9b58f0fc-0695-11e5-a833-06d90c28bf1a",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "GeneralMills"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:52:52+0000",
+            "payload": {
+                "Player": "e9df79b8-ca6f-11e6-bb65-067e8bc536fd",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "AkilezMx"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:53:13+0000",
+            "payload": {
+                "Player": "7a130956-a455-11e5-acad-068789513eb5",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "SuperSaiyanBros"
+            }
+        }
+    ],
+    "winner": "another"
+}

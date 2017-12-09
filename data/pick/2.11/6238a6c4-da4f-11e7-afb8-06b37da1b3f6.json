@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:33:55+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:34:16+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:34:36+0000",
+            "payload": {
+                "Player": "2811cf86-6cdb-11e5-ba7c-06b48b82cd49",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Dingus1"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:34:44+0000",
+            "payload": {
+                "Player": "3a98dc06-f860-11e5-b5d0-062cb73cdbb1",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "bullet2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:34:57+0000",
+            "payload": {
+                "Player": "5c7415c8-08fc-11e6-ba2b-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Davedav"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:35:11+0000",
+            "payload": {
+                "Player": "186fe1e6-9475-11e5-8611-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "HighStrike "
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:35:31+0000",
+            "payload": {
+                "Player": "e71bba44-edbf-11e5-a424-06b48b82cd49",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "Zherykea"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:35:51+0000",
+            "payload": {
+                "Player": "69ec2f3c-af30-11e4-b4e8-06d90c28bf1a",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "theblackwings"
+            }
+        }
+    ],
+    "winner": "another"
+}

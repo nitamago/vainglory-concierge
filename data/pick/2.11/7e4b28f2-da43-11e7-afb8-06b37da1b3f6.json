@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:09:01+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:09:07+0000",
+            "payload": {
+                "Hero": "*Skye*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:11+0000",
+            "payload": {
+                "Player": "1f6c65b0-714d-11e4-a761-062d0b175276",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "rand0mstyl3"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:31+0000",
+            "payload": {
+                "Player": "dbf1c836-ac22-11e5-9d6d-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "xSuper64x"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:51+0000",
+            "payload": {
+                "Player": "f4a2e692-9de2-11e5-b076-0628b69bf6d1",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Caesar"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:10:08+0000",
+            "payload": {
+                "Player": "478eb7f6-76ab-11e4-b6fb-06d90c28bf1a",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "Earl34"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:10:27+0000",
+            "payload": {
+                "Player": "2d5facca-c12f-11e6-94bd-06a9175d25fa",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "NotJoJo"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:10:50+0000",
+            "payload": {
+                "Player": "a6c63ed8-7741-11e4-bac5-06d90c28bf1a",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "Ooo0ooO"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

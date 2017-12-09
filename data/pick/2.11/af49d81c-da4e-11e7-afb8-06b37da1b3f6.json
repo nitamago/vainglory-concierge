@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:28:47+0000",
+            "payload": {
+                "Player": "9901a64e-d0f0-11e4-b16f-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "ram2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:28:54+0000",
+            "payload": {
+                "Player": "7f02fad2-aabf-11e5-a1b9-06f4ee369f53",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "RamirAnthony"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:28:59+0000",
+            "payload": {
+                "Player": "56d76a16-c107-11e6-b928-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Yoeshi"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:29:00+0000",
+            "payload": {
+                "Player": "f794bb88-3cb1-11e5-bbbc-068789513eb5",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "TheStrangeTamer"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:29:07+0000",
+            "payload": {
+                "Player": "8673bfca-bbfb-11e5-a568-068789513eb5",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "VanhallaGuardian"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:29:08+0000",
+            "payload": {
+                "Player": "d23a0898-e525-11e6-98b2-06a9175d25fa",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "BRITELUV"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

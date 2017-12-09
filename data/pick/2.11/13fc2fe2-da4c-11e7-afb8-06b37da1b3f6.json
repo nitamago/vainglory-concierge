@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:10:26+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:10:40+0000",
+            "payload": {
+                "Hero": "*Catherine*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:10:43+0000",
+            "payload": {
+                "Player": "5990aeec-21e9-11e6-9c06-06388a2f2ea7",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "BlackSoldier97"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:10:45+0000",
+            "payload": {
+                "Player": "03c48722-77fe-11e4-9ddc-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "ShivTheDestroyer"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:10:57+0000",
+            "payload": {
+                "Player": "aa281280-f8d4-11e4-9dab-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Chxmpion"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:11:10+0000",
+            "payload": {
+                "Player": "123b0d0e-ad9f-11e4-8212-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "MasterCheif11769"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:11:12+0000",
+            "payload": {
+                "Player": "2d615dfe-76c7-11e4-a41a-06d90c28bf1a",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "INDICO"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:11:36+0000",
+            "payload": {
+                "Player": "d23403ea-8fed-11e6-8a68-06d90c28bf1a",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "StayDrizzy"
+            }
+        }
+    ],
+    "winner": "another"
+}

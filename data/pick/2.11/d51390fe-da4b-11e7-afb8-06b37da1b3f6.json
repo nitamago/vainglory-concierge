@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:08:26+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:08:35+0000",
+            "payload": {
+                "Hero": "*Alpha*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:08:36+0000",
+            "payload": {
+                "Player": "279efb40-221d-11e5-a385-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "sillyrabbit"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:08:52+0000",
+            "payload": {
+                "Player": "eee695d4-14b5-11e5-9eb5-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "-bet0771-"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:09:04+0000",
+            "payload": {
+                "Player": "4cd54924-c5fa-11e5-b387-06f4ee369f53",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "TheRealMordoc"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:09:08+0000",
+            "payload": {
+                "Player": "26165eb4-58f3-11e5-b000-06b48b82cd49",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "HAMILTON7"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:09:16+0000",
+            "payload": {
+                "Player": "0e7c1c6a-2461-11e5-b7b4-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "ace187"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:09:39+0000",
+            "payload": {
+                "Player": "82be1162-2026-11e5-a620-06f4ee369f53",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "kitsuneAnn"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

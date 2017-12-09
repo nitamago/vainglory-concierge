@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:14:08+0000",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:14:25+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:14:34+0000",
+            "payload": {
+                "Player": "d83f75a4-b685-11e5-8465-0628b69bf6d1",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "Torao04"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:14:35+0000",
+            "payload": {
+                "Player": "ebb9965c-be09-11e4-8267-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "SamSum3213"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:14:38+0000",
+            "payload": {
+                "Player": "4948f34c-b12c-11e5-bc60-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Artiicuno"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:14:41+0000",
+            "payload": {
+                "Player": "87e82e9c-0759-11e5-bc9c-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "KlarotNA"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:15:00+0000",
+            "payload": {
+                "Player": "ffa94402-b384-11e5-bfdd-06f4ee369f53",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "yahir17"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:15:15+0000",
+            "payload": {
+                "Player": "0edb60bc-771b-11e7-859c-020ecf4900d0",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "NeverPeeWhistle"
+            }
+        }
+    ],
+    "winner": "another"
+}

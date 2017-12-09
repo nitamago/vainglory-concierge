@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:39:22+0000",
+            "payload": {
+                "Player": "aa636d12-2f92-11e6-bbe4-06b48b82cd49",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "korupt"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:39:33+0000",
+            "payload": {
+                "Player": "6ede36b6-912b-11e4-a107-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "ToxicJr"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:39:42+0000",
+            "payload": {
+                "Player": "c7b9ee72-6871-11e7-a4b6-06ab1a16f8e5",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "Pathfinder112755"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:39:46+0000",
+            "payload": {
+                "Player": "97d6e788-c4ab-11e6-a072-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "TheForechunTeler"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:39:47+0000",
+            "payload": {
+                "Player": "2571bec8-e0d9-11e4-b3f0-06d90c28bf1a",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "Enzyo"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:39:47+0000",
+            "payload": {
+                "Player": "7ce5e19c-e72d-11e5-9913-0628b69bf6d1",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "Rodolfito"
+            }
+        }
+    ],
+    "winner": "another"
+}

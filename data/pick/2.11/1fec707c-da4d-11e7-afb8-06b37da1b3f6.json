@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:18:05+0000",
+            "payload": {
+                "Hero": "*Churnwalker*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:18:21+0000",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:18:37+0000",
+            "payload": {
+                "Player": "5288a076-8469-11e7-9918-020ecf4900d0",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "LuluXiu"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:18:46+0000",
+            "payload": {
+                "Player": "84847bf4-7a8e-11e5-a0f3-0628b69bf6d1",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Sneak25"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:19:09+0000",
+            "payload": {
+                "Player": "c0164ad6-7b91-11e5-9684-0628b69bf6d1",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Rich64"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:19:31+0000",
+            "payload": {
+                "Player": "2670731a-1f88-11e7-8314-062cb73cdbb1",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "iLove15minLPQ"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:19:56+0000",
+            "payload": {
+                "Player": "1952ae48-ff17-11e4-b3f0-06d90c28bf1a",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "GirlsOnBoys"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:20:17+0000",
+            "payload": {
+                "Player": "d00b5a4c-8b2a-11e4-9ad5-06eb725f8a76",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "JulDeadly"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

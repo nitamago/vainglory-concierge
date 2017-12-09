@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:46:52+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:47:04+0000",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:47:22+0000",
+            "payload": {
+                "Player": "9a8f92d8-1749-11e5-bd6b-06eb725f8a76",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "Neopreme"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:47:45+0000",
+            "payload": {
+                "Player": "7e744cfe-6ee9-11e5-a5dc-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "tooarguelles"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:47:49+0000",
+            "payload": {
+                "Player": "24ab80be-bf3b-11e5-bc65-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "LuisaoFG"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:48:13+0000",
+            "payload": {
+                "Player": "fb8afe58-7cbf-11e4-b467-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "DanteVI"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:48:13+0000",
+            "payload": {
+                "Player": "9cd7c936-b009-11e4-b2f5-06d90c28bf1a",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "TwistedArchAngel"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:48:36+0000",
+            "payload": {
+                "Player": "6190d4d0-c129-11e5-8b55-068789513eb5",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "souporhero"
+            }
+        }
+    ],
+    "winner": "another"
+}

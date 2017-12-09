@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T07:08:27+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T07:08:56+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:09:05+0000",
+            "payload": {
+                "Player": "49ba9eb4-c118-11e6-80e8-062cb73cdbb1",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "sexydnam"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:09:25+0000",
+            "payload": {
+                "Player": "e421e2be-c8c4-11e7-beb3-02ce883f709a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Blancooo"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:09:31+0000",
+            "payload": {
+                "Player": "ce0c7266-8301-11e4-8566-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "StarKay"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:09:52+0000",
+            "payload": {
+                "Player": "30b14e36-a324-11e4-87fd-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Azezal"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:10:10+0000",
+            "payload": {
+                "Player": "ce648286-7c5f-11e6-b844-0628b69bf6d1",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "Hazzzard"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:10:32+0000",
+            "payload": {
+                "Player": "8cea180e-c088-11e5-825b-0628b69bf6d1",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "aCorleone"
+            }
+        }
+    ],
+    "winner": "another"
+}

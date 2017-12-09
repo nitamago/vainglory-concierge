@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:21:41+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:22:10+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:22:27+0000",
+            "payload": {
+                "Player": "293e474a-2384-11e5-a032-06f4ee369f53",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "OneGirlTwoCups"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:22:42+0000",
+            "payload": {
+                "Player": "8ee2fe0e-b31f-11e4-a951-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "LostBoyAzu"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:22:45+0000",
+            "payload": {
+                "Player": "338c8a68-21ea-11e5-9904-068789513eb5",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Selvin504"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:23:04+0000",
+            "payload": {
+                "Player": "8b1dbb34-409f-11e5-a62a-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "mementto"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:23:07+0000",
+            "payload": {
+                "Player": "17163e62-0807-11e5-8385-06eb725f8a76",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "Esteban534"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:23:30+0000",
+            "payload": {
+                "Player": "09496edc-7c75-11e7-be05-020ecf4900d0",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "InakiZorro"
+            }
+        }
+    ],
+    "winner": "another"
+}

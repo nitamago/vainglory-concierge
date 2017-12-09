@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:02:05+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:02:08+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:02:15+0000",
+            "payload": {
+                "Player": "94213a28-a529-11e5-8676-06b48b82cd49",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "ToyamaKinji"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:02:17+0000",
+            "payload": {
+                "Player": "7b691e2a-8c51-11e4-8ebd-06d90c28bf1a",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "EpicenterMonster"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:02:34+0000",
+            "payload": {
+                "Player": "d2225278-6dd5-11e7-ad72-06388a2f2ea7",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "OppaiNA"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:02:50+0000",
+            "payload": {
+                "Player": "20b7c772-fb25-11e4-87c3-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "DylanlovesAndrew"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:03:00+0000",
+            "payload": {
+                "Player": "f28f8dde-bad3-11e5-aea5-06f4ee369f53",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "Danielrbirch"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:03:05+0000",
+            "payload": {
+                "Player": "22e86128-12e5-11e5-80b3-06d90c28bf1a",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "DeathNephilim"
+            }
+        }
+    ],
+    "winner": "another"
+}

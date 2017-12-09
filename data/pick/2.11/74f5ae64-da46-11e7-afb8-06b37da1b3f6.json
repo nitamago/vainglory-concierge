@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:29:59+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:30:24+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:30:38+0000",
+            "payload": {
+                "Player": "1379a370-72c0-11e4-a296-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "drafo"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:30:52+0000",
+            "payload": {
+                "Player": "269f319c-9251-11e6-aac1-06b48b82cd49",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "ReaperKnightVG"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:31:10+0000",
+            "payload": {
+                "Player": "6b97110e-36c5-11e5-ab88-06f4ee369f53",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Master2x"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:31:12+0000",
+            "payload": {
+                "Player": "3d431292-ea54-11e5-9072-0628b69bf6d1",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "BladeEnforcer"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:31:27+0000",
+            "payload": {
+                "Player": "dc7146bc-e6d2-11e4-a206-06eb725f8a76",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "0ki7o"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:31:50+0000",
+            "payload": {
+                "Player": "96a03950-dd2b-11e4-b877-06d90c28bf1a",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "BimboBombasse"
+            }
+        }
+    ],
+    "winner": "another"
+}

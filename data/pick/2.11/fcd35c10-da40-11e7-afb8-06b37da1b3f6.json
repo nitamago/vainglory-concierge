@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:50:43+0000",
+            "payload": {
+                "Player": "4cb16e14-2a7c-11e6-8a84-0628b69bf6d1",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "sofaking420"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:50:44+0000",
+            "payload": {
+                "Player": "9c830114-2613-11e5-8b4f-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "FantasticPony"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:50:49+0000",
+            "payload": {
+                "Player": "db0a48f8-238d-11e5-8ff8-0628b69bf6d1",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "hachbackna"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:51:02+0000",
+            "payload": {
+                "Player": "d3a2b1f8-c7b3-11e4-bf87-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "Guest_000270165"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:51:09+0000",
+            "payload": {
+                "Player": "9eae6914-48ae-11e7-8e3c-06c5ee41a4a5",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Alonso145"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:51:11+0000",
+            "payload": {
+                "Player": "a793fd60-d059-11e5-a467-06c5ee41a4a5",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "CantNotPlay"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

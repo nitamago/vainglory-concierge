@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:42:24+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:42:27+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:42:47+0000",
+            "payload": {
+                "Player": "83a5ae0e-df8e-11e6-bf6d-06f4ee369f53",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "ZenaWarrior"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:43:04+0000",
+            "payload": {
+                "Player": "ba6cf6ae-9e4d-11e6-a1c7-067e8bc536fd",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "RoyalAloha"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:43:21+0000",
+            "payload": {
+                "Player": "323ce95c-83f0-11e4-8938-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "GuiltyVoid"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:43:32+0000",
+            "payload": {
+                "Player": "0dee80de-3c1b-11e7-b15b-06a9175d25fa",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "GothicLolis"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:43:48+0000",
+            "payload": {
+                "Player": "a71caaf0-30ce-11e6-ae8b-06d90c28bf1a",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "TheZanku"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:44:01+0000",
+            "payload": {
+                "Player": "4ef25788-9e4e-11e6-9f72-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "KaNaKz"
+            }
+        }
+    ],
+    "winner": "another"
+}

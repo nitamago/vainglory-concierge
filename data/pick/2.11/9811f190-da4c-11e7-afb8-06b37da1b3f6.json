@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:14:14+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:14:31+0000",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:14:48+0000",
+            "payload": {
+                "Player": "d3cf1080-05b7-11e5-9b64-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "NoesisDianoia"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:15:02+0000",
+            "payload": {
+                "Player": "0d588784-95b5-11e7-a392-02b3611af5e6",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "iKiddo"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:15:15+0000",
+            "payload": {
+                "Player": "0dae380e-cbd1-11e6-be3f-06ab1a16f8e5",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "Longshowers"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:15:17+0000",
+            "payload": {
+                "Player": "4a35e64c-f714-11e5-a9cf-068789513eb5",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "KandiTwirlMiso"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:15:20+0000",
+            "payload": {
+                "Player": "3c15a8da-ac06-11e5-829a-06b48b82cd49",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "Maptidude"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:15:23+0000",
+            "payload": {
+                "Player": "46156e4a-8323-11e4-93d5-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Mckullen"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

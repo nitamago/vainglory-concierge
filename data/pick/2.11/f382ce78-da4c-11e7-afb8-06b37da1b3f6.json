@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:16:36+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:16:44+0000",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:17:05+0000",
+            "payload": {
+                "Player": "acca7560-6ab6-11e5-b2fa-068789513eb5",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "LoveReimi"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:17:16+0000",
+            "payload": {
+                "Player": "4eda1c02-de2f-11e5-a15e-06fc87f1dd11",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "DogEatDogWorld"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:17:24+0000",
+            "payload": {
+                "Player": "9f5c9de8-ce32-11e4-a31b-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Hypster"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:17:33+0000",
+            "payload": {
+                "Player": "9cd7c936-b009-11e4-b2f5-06d90c28bf1a",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "TwistedArchAngel"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:17:56+0000",
+            "payload": {
+                "Player": "74d8ca0c-cd9b-11e4-9b20-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "XxkillaxX"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:18:11+0000",
+            "payload": {
+                "Player": "305f375c-79d7-11e4-b111-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "TonyP_321"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

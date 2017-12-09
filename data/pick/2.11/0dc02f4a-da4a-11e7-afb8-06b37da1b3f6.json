@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:55:41+0000",
+            "payload": {
+                "Player": "9fe7cf76-0c4e-11e5-838d-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Shadowsedge"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:55:59+0000",
+            "payload": {
+                "Player": "470706c8-b24a-11e4-b84b-06eb725f8a76",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "inertchuchito"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:56:02+0000",
+            "payload": {
+                "Player": "8a824e20-0839-11e7-b6d2-020355b21670",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "CapyCatSil"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:56:10+0000",
+            "payload": {
+                "Player": "30931f76-7186-11e4-8f38-062d0b175276",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "RackemHawco"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:56:26+0000",
+            "payload": {
+                "Player": "f80244cc-c0cf-11e4-83f8-06eb725f8a76",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "UzumakiGabo"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:56:28+0000",
+            "payload": {
+                "Player": "b63be2ae-1783-11e5-9def-06eb725f8a76",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "DragonaY"
+            }
+        }
+    ],
+    "winner": "another"
+}

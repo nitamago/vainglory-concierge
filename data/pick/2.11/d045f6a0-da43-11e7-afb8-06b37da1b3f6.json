@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:11:13+0000",
+            "payload": {
+                "Hero": "*Catherine*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:11:30+0000",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:11:51+0000",
+            "payload": {
+                "Player": "ad7715b6-41d0-11e7-8ed9-02a5820c0f16",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "KingRAGNAR"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:11:58+0000",
+            "payload": {
+                "Player": "630832cc-2cee-11e7-8f2e-0263a81144c0",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "Frosty113"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:12:22+0000",
+            "payload": {
+                "Player": "a80974b4-d2de-11e5-9de0-06b48b82cd49",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "ruffiancadaver"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:12:41+0000",
+            "payload": {
+                "Player": "f377e798-8750-11e5-bc34-0628b69bf6d1",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "Cmour"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:13:01+0000",
+            "payload": {
+                "Player": "da8bf56c-bca7-11e5-9b6a-068789513eb5",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "MrStealyoBacks"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:13:23+0000",
+            "payload": {
+                "Player": "fd291d2c-81be-11e4-9d17-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "ProtomanX"
+            }
+        }
+    ],
+    "winner": "another"
+}

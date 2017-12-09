@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:00:07+0000",
+            "payload": {
+                "Player": "d20c4dfe-d1d4-11e6-b3a5-062cb73cdbb1",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "johnny4toes"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:00:12+0000",
+            "payload": {
+                "Player": "3de2553e-dc91-11e6-a4ba-06fc87f1dd11",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "LordNegger"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:00:25+0000",
+            "payload": {
+                "Player": "a4a176b6-7027-11e4-8776-06641bcbf424",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "Surfpaw"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:00:45+0000",
+            "payload": {
+                "Player": "9615c0bc-2a74-11e6-a83b-068789513eb5",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "Megamuerte"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:00:47+0000",
+            "payload": {
+                "Player": "6907e9ac-e6da-11e5-a928-06f4ee369f53",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "arial99"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:00:48+0000",
+            "payload": {
+                "Player": "8ea1afe0-6b54-11e7-8e9b-029cb633549e",
+                "Hero": "*Reza*",
+                "Team": "2",
+                "Handle": "iamkorbin"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

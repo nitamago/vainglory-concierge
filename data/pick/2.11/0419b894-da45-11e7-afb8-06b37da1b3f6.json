@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:19:58+0000",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:20:06+0000",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:20:20+0000",
+            "payload": {
+                "Player": "ae47a336-c6d2-11e5-8338-06f4ee369f53",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "DaniU"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:20:34+0000",
+            "payload": {
+                "Player": "8d43b9a0-2361-11e5-8254-06f4ee369f53",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "duckdetective"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:20:45+0000",
+            "payload": {
+                "Player": "210486b2-7113-11e4-bfea-06641bcbf424",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "xTYPHONx"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:20:54+0000",
+            "payload": {
+                "Player": "4ad08596-820e-11e6-b394-068789513eb5",
+                "Hero": "*Samuel*",
+                "Team": "1",
+                "Handle": "Tiersquote"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:21:08+0000",
+            "payload": {
+                "Player": "9e0f8cfa-924d-11e4-81a1-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "2Raw"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:21:21+0000",
+            "payload": {
+                "Player": "509c08d8-22d3-11e5-87e4-06eb725f8a76",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "Dashpots"
+            }
+        }
+    ],
+    "winner": "another"
+}

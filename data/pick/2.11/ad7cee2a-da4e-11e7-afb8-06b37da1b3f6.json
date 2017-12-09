@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:28:41+0000",
+            "payload": {
+                "Player": "06e46b04-6ece-11e4-a8d1-06641bcbf424",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "ReVsReBirth"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:28:42+0000",
+            "payload": {
+                "Player": "6e37c866-7f43-11e4-9304-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Jitch"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:29:17+0000",
+            "payload": {
+                "Player": "407c25ba-7cf9-11e6-91da-06ab1a16f8e5",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "PyromaticNinja"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:29:18+0000",
+            "payload": {
+                "Player": "5f55dd10-f728-11e6-9c0b-02a5820c0f16",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "NecrosSammy"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:29:30+0000",
+            "payload": {
+                "Player": "24c89af8-6b91-11e5-858e-068789513eb5",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "citybo"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:29:32+0000",
+            "payload": {
+                "Player": "ae8bbb92-a9bf-11e4-93a1-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "leexy"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

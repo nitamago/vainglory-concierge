@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:08:52+0000",
+            "payload": {
+                "Player": "1c96ed3e-be8a-11e5-a364-0628b69bf6d1",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "MrT23"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:08:52+0000",
+            "payload": {
+                "Player": "d7a1c778-3c7d-11e5-a08b-0628b69bf6d1",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "DEVASTAT0R"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:09:41+0000",
+            "payload": {
+                "Player": "72518eb4-37da-11e5-9d09-06f4ee369f53",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "PoisinedFEVER"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:09:42+0000",
+            "payload": {
+                "Player": "cc6750d8-9f8f-11e5-96c3-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "BakiTheDemon"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:09:43+0000",
+            "payload": {
+                "Player": "2a857336-a0ef-11e7-9bb8-0297ea8a7ddc",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "PhoKingNemo"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:09:52+0000",
+            "payload": {
+                "Player": "fa07b458-4b50-11e5-a6e9-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "CrazyLegs2"
+            }
+        }
+    ],
+    "winner": "another"
+}

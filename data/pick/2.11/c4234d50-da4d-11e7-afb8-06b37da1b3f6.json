@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:22:19+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:22:29+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:22:34+0000",
+            "payload": {
+                "Player": "744440fa-6b40-11e6-b136-06c5ee41a4a5",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "CuckMeDaddy"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:22:39+0000",
+            "payload": {
+                "Player": "3b528fd4-c331-11e5-963a-06b48b82cd49",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "miklodecazarin"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:22:49+0000",
+            "payload": {
+                "Player": "dbb5bd02-404b-11e5-bf15-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "KenLight"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:22:57+0000",
+            "payload": {
+                "Player": "2248d56a-626f-11e6-b26c-068789513eb5",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "xXTruthXx"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:23:12+0000",
+            "payload": {
+                "Player": "d9e14576-0744-11e6-9701-06d90c28bf1a",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "Naz9"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:23:36+0000",
+            "payload": {
+                "Player": "70367908-2f7a-11e6-8604-06ab1a16f8e5",
+                "Hero": "*Ozo*",
+                "Team": "2",
+                "Handle": "Pvman"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:11:59+0000",
+            "payload": {
+                "Player": "c0997642-d0b6-11e6-9c3d-06388a2f2ea7",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Niffet"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:11:59+0000",
+            "payload": {
+                "Player": "0a06cce0-ac8b-11e5-8195-06f4ee369f53",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "ForeverGoat"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:12:04+0000",
+            "payload": {
+                "Player": "c03bd5ce-7ab1-11e6-8ee0-062cb73cdbb1",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "Harker1596"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:12:11+0000",
+            "payload": {
+                "Player": "79cb1518-d792-11e5-af69-062cb73cdbb1",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "SirMaggio"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:12:19+0000",
+            "payload": {
+                "Player": "e2105cd0-335b-11e6-8383-067e8bc536fd",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "rubaguilar"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:12:23+0000",
+            "payload": {
+                "Player": "99683178-a94a-11e6-8816-06d90c28bf1a",
+                "Hero": "*Samuel*",
+                "Team": "1",
+                "Handle": "freddy95"
+            }
+        }
+    ],
+    "winner": "another"
+}

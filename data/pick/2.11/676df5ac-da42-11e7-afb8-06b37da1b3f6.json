@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:01:09+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:01:14+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:01:34+0000",
+            "payload": {
+                "Player": "305ed2be-ae37-11e4-8d9a-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "BacktoBlack"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:01:51+0000",
+            "payload": {
+                "Player": "1db6e7be-274e-11e6-9476-0628b69bf6d1",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "MellowClutch"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:01:53+0000",
+            "payload": {
+                "Player": "d909cd4a-b951-11e4-855a-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Flamingos"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:02:16+0000",
+            "payload": {
+                "Player": "e82e0840-7716-11e4-8b95-06d90c28bf1a",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "NINE"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:02:19+0000",
+            "payload": {
+                "Player": "eb5484a6-730e-11e4-aebc-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "DragonChen"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:02:24+0000",
+            "payload": {
+                "Player": "a99d66d2-1e2a-11e5-bdbd-06d90c28bf1a",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "OgGameFreak"
+            }
+        }
+    ],
+    "winner": "another"
+}

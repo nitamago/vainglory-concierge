@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:54:52+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:55:08+0000",
+            "payload": {
+                "Hero": "*Churnwalker*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:55:30+0000",
+            "payload": {
+                "Player": "8b84bae8-c86a-11e5-8b24-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "AllyPeterson"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:55:45+0000",
+            "payload": {
+                "Player": "1952ae48-ff17-11e4-b3f0-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "GirlsOnBoys"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:55:50+0000",
+            "payload": {
+                "Player": "088f7c2a-6a5f-11e7-b2cb-020ecf4900d0",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "KQNGSTA"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:56:10+0000",
+            "payload": {
+                "Player": "5472b556-d34b-11e4-a9c9-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "NasIsTheBest"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:56:29+0000",
+            "payload": {
+                "Player": "c7d203d0-298b-11e5-9526-068789513eb5",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "Jazville"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:56:52+0000",
+            "payload": {
+                "Player": "cf7026a4-72ab-11e4-88f1-06d90c28bf1a",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "Nate4"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

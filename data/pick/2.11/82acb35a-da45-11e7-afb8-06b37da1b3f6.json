@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:23:19+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:23:25+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:23:31+0000",
+            "payload": {
+                "Player": "d6ce6760-6f60-11e4-a933-062d0b175276",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "Slay4DaGODS"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:23:53+0000",
+            "payload": {
+                "Player": "1db6e7be-274e-11e6-9476-0628b69bf6d1",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "MellowClutch"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:24:04+0000",
+            "payload": {
+                "Player": "a99d66d2-1e2a-11e5-bdbd-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "OgGameFreak"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:24:24+0000",
+            "payload": {
+                "Player": "473516c8-e429-11e5-beea-0628b69bf6d1",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "Fijifa5"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:24:27+0000",
+            "payload": {
+                "Player": "3e16a090-e198-11e5-8efd-06388a2f2ea7",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "Greg009"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:24:36+0000",
+            "payload": {
+                "Player": "3e7d380c-8b3d-11e5-9651-068789513eb5",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "AYCE"
+            }
+        }
+    ],
+    "winner": "another"
+}

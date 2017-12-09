@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:04:42+0000",
+            "payload": {
+                "Player": "947b3386-c38e-11e7-9845-068789513eb5",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "GazingStars12"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:04:50+0000",
+            "payload": {
+                "Player": "d39be478-8e1e-11e4-9bf4-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Shtirlic"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:04:52+0000",
+            "payload": {
+                "Player": "cc3b9292-53ff-11e7-a053-02866102f5a6",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "GeneralKW"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:05:15+0000",
+            "payload": {
+                "Player": "6e962844-4156-11e6-bcc9-06fc87f1dd11",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "CLGstorm"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:05:15+0000",
+            "payload": {
+                "Player": "932acac0-c653-11e6-ae6e-06eb725f8a76",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "HackzLord"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:05:37+0000",
+            "payload": {
+                "Player": "f31f929c-3cf7-11e7-8d11-020355b21670",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Quintero1996"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

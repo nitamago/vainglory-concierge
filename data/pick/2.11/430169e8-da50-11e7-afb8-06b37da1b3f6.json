@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:40:29+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:40:37+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:40:42+0000",
+            "payload": {
+                "Player": "04792d42-9fd7-11e5-a86e-06b48b82cd49",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "TorviMartinez"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:40:46+0000",
+            "payload": {
+                "Player": "8a0351dc-6f1c-11e4-9c06-062d0b175276",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "NinjaLordXCI"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:40:49+0000",
+            "payload": {
+                "Player": "6207bfb8-9548-11e4-9297-06eb725f8a76",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "DarkIenzo"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:40:50+0000",
+            "payload": {
+                "Player": "b5146712-cdb0-11e7-9a3a-0654fca4c20c",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "neurofibroma"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:41:06+0000",
+            "payload": {
+                "Player": "a9614202-44c4-11e7-a583-020355b21670",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "DMILLA"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:41:11+0000",
+            "payload": {
+                "Player": "e786ff60-23fc-11e7-a7c5-020355b21670",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "brezzyy"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

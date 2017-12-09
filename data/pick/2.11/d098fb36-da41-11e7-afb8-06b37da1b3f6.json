@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:56:45+0000",
+            "payload": {
+                "Hero": "*Kestrel*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:57:02+0000",
+            "payload": {
+                "Hero": "*Baron*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:57:09+0000",
+            "payload": {
+                "Player": "4e333a4e-2f62-11e5-bf7c-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "JohnMimi"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:57:13+0000",
+            "payload": {
+                "Player": "210486b2-7113-11e4-bfea-06641bcbf424",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "xTYPHONx"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:57:18+0000",
+            "payload": {
+                "Player": "9f15bcca-5816-11e5-a8ee-06d90c28bf1a",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "kahonguyen"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:57:32+0000",
+            "payload": {
+                "Player": "de6b52f8-3f20-11e6-829d-06d90c28bf1a",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "Ironranch"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:57:52+0000",
+            "payload": {
+                "Player": "ba685122-b0be-11e4-88e9-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "MrSleepyT"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:58:10+0000",
+            "payload": {
+                "Player": "44ee1f78-d13b-11e5-be08-06c5ee41a4a5",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "mastercuddler"
+            }
+        }
+    ],
+    "winner": "another"
+}

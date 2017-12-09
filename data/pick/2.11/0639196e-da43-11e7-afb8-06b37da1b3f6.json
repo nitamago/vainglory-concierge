@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:05:22+0000",
+            "payload": {
+                "Hero": "*Fortress*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:05:26+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:05:49+0000",
+            "payload": {
+                "Player": "d902ede4-bdeb-11e7-87ec-067e8bc536fd",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "justinhangtree"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:05:52+0000",
+            "payload": {
+                "Player": "2851de2c-4165-11e7-8865-02b3611af5e6",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "DaNuttyProfessor"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:05:54+0000",
+            "payload": {
+                "Player": "29a99bba-a3d7-11e6-bd7a-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Ax5n1p3r"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:06:02+0000",
+            "payload": {
+                "Player": "f547ce2c-0a4a-11e5-8449-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "lacob76"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:06:09+0000",
+            "payload": {
+                "Player": "6f1572e2-ce89-11e5-b34f-06ab1a16f8e5",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Kryptoknight426"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:06:09+0000",
+            "payload": {
+                "Player": "fb8f23e8-df15-11e5-bf42-067e8bc536fd",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "xArchGamerx"
+            }
+        }
+    ],
+    "winner": "another"
+}

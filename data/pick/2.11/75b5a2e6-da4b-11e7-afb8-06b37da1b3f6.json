@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:05:45+0000",
+            "payload": {
+                "Player": "53f64faa-6de5-11e4-b2d8-06641bcbf424",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Gumi129"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:05:57+0000",
+            "payload": {
+                "Player": "3ced0e6e-2214-11e5-9a02-06b48b82cd49",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "Deathgambles"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:06:02+0000",
+            "payload": {
+                "Player": "1a5e0318-a3c8-11e5-94cd-06f4ee369f53",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "DanielMS"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:06:09+0000",
+            "payload": {
+                "Player": "f794bb88-3cb1-11e5-bbbc-068789513eb5",
+                "Hero": "*Petal*",
+                "Team": "1",
+                "Handle": "TheStrangeTamer"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:06:14+0000",
+            "payload": {
+                "Player": "cf971644-d161-11e6-918a-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Haxan"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:06:40+0000",
+            "payload": {
+                "Player": "9fbaf6a0-7d0f-11e4-8d06-06eb725f8a76",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "EliHernandez"
+            }
+        }
+    ],
+    "winner": "another"
+}

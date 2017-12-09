@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:16:32+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:16:44+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:16:53+0000",
+            "payload": {
+                "Player": "d4cf5bb2-3fdb-11e5-92ad-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "NickdeG"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:17:03+0000",
+            "payload": {
+                "Player": "954be6ae-20eb-11e5-acfe-06f4ee369f53",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "rodrisees"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:17:11+0000",
+            "payload": {
+                "Player": "78dff78a-e323-11e5-9b14-06fc87f1dd11",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "XxLEOLIONxX"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:17:34+0000",
+            "payload": {
+                "Player": "0a64dea2-7762-11e4-b6fb-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "Agent700"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:17:45+0000",
+            "payload": {
+                "Player": "cdd60618-69c2-11e7-9511-02866102f5a6",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "CHICKENfromkorea"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:17:57+0000",
+            "payload": {
+                "Player": "f57dba38-a233-11e5-83c0-068789513eb5",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "swaggyNN3"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

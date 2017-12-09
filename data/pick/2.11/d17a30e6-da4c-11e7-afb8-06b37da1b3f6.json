@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:15:24+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:15:29+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:15:37+0000",
+            "payload": {
+                "Player": "603f2566-056b-11e5-be3e-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "TheGodOsiris"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:15:43+0000",
+            "payload": {
+                "Player": "47be471a-c488-11e5-bbbd-0628b69bf6d1",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "mcdavo"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:16:02+0000",
+            "payload": {
+                "Player": "da0c8d2c-d279-11e4-a28e-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Privilege "
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:16:23+0000",
+            "payload": {
+                "Player": "310996e6-8fd6-11e5-9f33-06d90c28bf1a",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "lonelycAt"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:16:27+0000",
+            "payload": {
+                "Player": "b1d35cde-7a61-11e4-a756-06d90c28bf1a",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "DeadlyNightshade"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:16:31+0000",
+            "payload": {
+                "Player": "ff086276-befb-11e5-a362-06f4ee369f53",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "ClavillazoStr8"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

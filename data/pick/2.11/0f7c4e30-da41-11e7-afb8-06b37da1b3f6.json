@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:51:28+0000",
+            "payload": {
+                "Hero": "*Catherine*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:51:35+0000",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:51:38+0000",
+            "payload": {
+                "Player": "f54ca7ba-414c-11e5-afa3-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "KiloMike"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:51:57+0000",
+            "payload": {
+                "Player": "df2ccc1e-9861-11e5-b19d-06f4ee369f53",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Maxtopher"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:52:18+0000",
+            "payload": {
+                "Player": "e7415c30-a846-11e6-ba3c-06c5ee41a4a5",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Yomping"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:52:35+0000",
+            "payload": {
+                "Player": "f84b12a8-4b63-11e7-879c-029cb633549e",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "BladeMaster334"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:52:51+0000",
+            "payload": {
+                "Player": "687a6102-3127-11e7-ab79-02f3b4306918",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "jaysonny"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:53:02+0000",
+            "payload": {
+                "Player": "3a551172-5c77-11e5-8331-0628b69bf6d1",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "BurgerManMark"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:22:40+0000",
+            "payload": {
+                "Player": "1e35cef4-9813-11e6-bdb3-06b48b82cd49",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "ThrivingSpirit"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:22:41+0000",
+            "payload": {
+                "Player": "a524b6e0-e117-11e5-84eb-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "RestlessSpirit"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:22:42+0000",
+            "payload": {
+                "Player": "3b5c2c26-e3a6-11e4-a734-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "KBELL03"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:22:43+0000",
+            "payload": {
+                "Player": "0bdf50ce-c522-11e4-988d-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "agentanonymous"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:22:44+0000",
+            "payload": {
+                "Player": "55a8685a-52eb-11e6-be24-062cb73cdbb1",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "MidnightArcher"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:22:49+0000",
+            "payload": {
+                "Player": "a7c051aa-860f-11e6-b95c-06b48b82cd49",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "Rick305"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

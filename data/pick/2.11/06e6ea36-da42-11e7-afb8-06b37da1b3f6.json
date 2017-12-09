@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:58:08+0000",
+            "payload": {
+                "Player": "c25aea00-8d6b-11e4-95d8-06d90c28bf1a",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "Chromeblue11"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:58:16+0000",
+            "payload": {
+                "Player": "7325ffa8-b04d-11e7-a6c6-067e8bc536fd",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "VainOfJane"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:58:22+0000",
+            "payload": {
+                "Player": "1eda434c-b06f-11e7-9ffd-06388a2f2ea7",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Oceanhorse"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:58:25+0000",
+            "payload": {
+                "Player": "b7fef168-baa1-11e6-b075-06ab1a16f8e5",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "Termanyoshi"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:58:26+0000",
+            "payload": {
+                "Player": "7df8b786-ab7a-11e7-b700-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "TheMvchine"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:58:32+0000",
+            "payload": {
+                "Player": "bc920ad2-44f3-11e5-9fcd-06eb725f8a76",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "BigAsianBoy"
+            }
+        }
+    ],
+    "winner": "another"
+}

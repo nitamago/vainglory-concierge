@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:05:19+0000",
+            "payload": {
+                "Player": "bb18cb68-c64a-11e5-ada0-06f4ee369f53",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "ranmaymedio"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:05:44+0000",
+            "payload": {
+                "Player": "384fb292-320b-11e5-adfe-068789513eb5",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Eithan"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:05:49+0000",
+            "payload": {
+                "Player": "e7f0a054-0dab-11e6-98a8-06f4ee369f53",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "Sirconol"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:05:52+0000",
+            "payload": {
+                "Player": "8ef89792-c2d0-11e6-b731-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "venomousgod"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:05:53+0000",
+            "payload": {
+                "Player": "437db0da-7f35-11e4-b2a2-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "AugeStyle"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:06:04+0000",
+            "payload": {
+                "Player": "d0c044a8-ad1e-11e6-ad25-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "StraightFlexing"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

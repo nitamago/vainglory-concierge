@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:12:44+0000",
+            "payload": {
+                "Player": "f3d1cfde-60f7-11e6-a541-0628b69bf6d1",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "HOPPAN"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:12:46+0000",
+            "payload": {
+                "Player": "d2c2ba76-b81c-11e5-ac1b-06f4ee369f53",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "jc013 "
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:12:47+0000",
+            "payload": {
+                "Player": "6e08d68a-60f8-11e6-acfc-062cb73cdbb1",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "MOCHl"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:13:06+0000",
+            "payload": {
+                "Player": "e5d81704-705c-11e4-9351-06641bcbf424",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "tia2409"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:13:12+0000",
+            "payload": {
+                "Player": "36079be0-6a2c-11e5-97b0-0628b69bf6d1",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "TheLastGrimm"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:13:24+0000",
+            "payload": {
+                "Player": "1c9dad1e-bd4a-11e4-9555-06eb725f8a76",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "ivioksha"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

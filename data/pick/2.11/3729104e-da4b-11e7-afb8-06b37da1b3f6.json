@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:03:55+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:04:06+0000",
+            "payload": {
+                "Hero": "*Ardan*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:04:19+0000",
+            "payload": {
+                "Player": "6dc9258c-c6c3-11e5-b36a-0628b69bf6d1",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "joseki98"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:04:36+0000",
+            "payload": {
+                "Player": "16b53794-73bd-11e5-bf20-068789513eb5",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "FaZeRomanse"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:04:51+0000",
+            "payload": {
+                "Player": "d943e2da-8c12-11e4-8566-06eb725f8a76",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "LeNNoX"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:05:03+0000",
+            "payload": {
+                "Player": "dbf1c836-ac22-11e5-9d6d-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "xSuper64x"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:05:23+0000",
+            "payload": {
+                "Player": "c1395b6a-c320-11e6-a960-06fc87f1dd11",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "JustChillOut"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:05:37+0000",
+            "payload": {
+                "Player": "0d96d28e-89c6-11e5-8e77-06f4ee369f53",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "shmiddy"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

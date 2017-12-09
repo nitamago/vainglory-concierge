@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:08:54+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:09:10+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:15+0000",
+            "payload": {
+                "Player": "061cb82c-c0d7-11e6-a52f-06ab1a16f8e5",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Gojira87"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:26+0000",
+            "payload": {
+                "Player": "5b6df5ea-b095-11e6-bad0-06a9175d25fa",
+                "Hero": "*Reza*",
+                "Team": "2",
+                "Handle": "lamarmota"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:43+0000",
+            "payload": {
+                "Player": "44cab052-231e-11e7-aae9-062cb73cdbb1",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "mitzuha"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:46+0000",
+            "payload": {
+                "Player": "ddc89ebe-c841-11e6-af76-06388a2f2ea7",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "JaysusHunterv2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:57+0000",
+            "payload": {
+                "Player": "afa7a556-0772-11e6-ba88-0628b69bf6d1",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "Rogue43"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:10:16+0000",
+            "payload": {
+                "Player": "089c2f6a-244d-11e5-8165-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "SlashDog"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

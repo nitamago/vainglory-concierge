@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:35:34+0000",
+            "payload": {
+                "Player": "f80cbb7c-d0ea-11e7-89c7-069ef91bd55c",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Vladma"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:35:38+0000",
+            "payload": {
+                "Player": "cfbe6380-22d2-11e7-ae27-02a5820c0f16",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "Alectho"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:35:46+0000",
+            "payload": {
+                "Player": "172dd038-5c00-11e6-8ea7-06fc87f1dd11",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "PureStyle"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:36:11+0000",
+            "payload": {
+                "Player": "25bb36ce-6505-11e5-b5b2-06b48b82cd49",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "dota2progamers"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:36:22+0000",
+            "payload": {
+                "Player": "14ecf3ee-7331-11e4-af34-06d90c28bf1a",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "FIEND"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:36:26+0000",
+            "payload": {
+                "Player": "25087658-c36b-11e7-bb84-020ecf4900d0",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "BMAX87"
+            }
+        }
+    ],
+    "winner": "another"
+}

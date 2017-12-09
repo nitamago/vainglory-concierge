@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:51:59+0000",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:52:15+0000",
+            "payload": {
+                "Hero": "*Ozo*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:52:21+0000",
+            "payload": {
+                "Player": "f241bf50-5ca8-11e7-94f8-02b3611af5e6",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "Inxent"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:52:35+0000",
+            "payload": {
+                "Player": "84487334-c588-11e6-b65a-06c5ee41a4a5",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "xXBeto209Xx"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:52:53+0000",
+            "payload": {
+                "Player": "b16c2de2-6b1b-11e5-9820-06b48b82cd49",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "Jaydabadoo"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:52:56+0000",
+            "payload": {
+                "Player": "588d8d3e-839b-11e7-abfc-02a5820c0f16",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "killairbus"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:53:17+0000",
+            "payload": {
+                "Player": "24a7c468-a02a-11e5-9b49-06f4ee369f53",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "Antitrex"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:53:19+0000",
+            "payload": {
+                "Player": "ecde9f8c-6a6f-11e6-a7c8-06fc87f1dd11",
+                "Hero": "*Flicker*",
+                "Team": "2",
+                "Handle": "Vague209"
+            }
+        }
+    ],
+    "winner": "another"
+}

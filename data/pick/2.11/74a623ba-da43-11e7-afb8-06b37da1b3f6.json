@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:08:24+0000",
+            "payload": {
+                "Hero": "*Catherine*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:08:48+0000",
+            "payload": {
+                "Hero": "*Petal*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:08:51+0000",
+            "payload": {
+                "Player": "9522255a-2297-11e5-bc58-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Brandar"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:13+0000",
+            "payload": {
+                "Player": "476d5c94-a348-11e5-b55b-06eb725f8a76",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "JMM17"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:30+0000",
+            "payload": {
+                "Player": "23b31eb0-6342-11e5-b6e1-06f4ee369f53",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "darkbebba"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:35+0000",
+            "payload": {
+                "Player": "1787ce42-9245-11e5-8464-068789513eb5",
+                "Hero": "*Flicker*",
+                "Team": "1",
+                "Handle": "SirEbrawl"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:37+0000",
+            "payload": {
+                "Player": "0be48f24-7e54-11e7-8c48-06ab1a16f8e5",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "Guest_446258909"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:58+0000",
+            "payload": {
+                "Player": "ebcccd62-7b77-11e6-bdc3-062cb73cdbb1",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "HolkeanoLH"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

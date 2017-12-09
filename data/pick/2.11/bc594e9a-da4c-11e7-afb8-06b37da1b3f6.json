@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:15:05+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:15:12+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:15:29+0000",
+            "payload": {
+                "Player": "ec1ab372-4978-11e7-9b20-020ecf4900d0",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "SuperEzio"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:15:45+0000",
+            "payload": {
+                "Player": "c5f27a30-94fb-11e7-ac82-06a9175d25fa",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "TonyAngels"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:15:55+0000",
+            "payload": {
+                "Player": "68bc7a74-9586-11e7-9e1d-068789513eb5",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "iAmAriel "
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:16:17+0000",
+            "payload": {
+                "Player": "6d0ebb66-8024-11e4-a5ee-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "TungTom"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:16:39+0000",
+            "payload": {
+                "Player": "17e7dc52-72f6-11e4-a192-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "quynho"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:17:01+0000",
+            "payload": {
+                "Player": "e091a052-feef-11e6-9c72-0263a81144c0",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "IsWill"
+            }
+        }
+    ],
+    "winner": "another"
+}

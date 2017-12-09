@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T07:03:58+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T07:04:04+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:04:22+0000",
+            "payload": {
+                "Player": "71b1eaa0-6983-11e5-8184-068789513eb5",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "Burblecutt"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:04:23+0000",
+            "payload": {
+                "Player": "e3da3bba-213e-11e5-96a9-06f4ee369f53",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "H0777"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:04:29+0000",
+            "payload": {
+                "Player": "e9d63c3c-cdee-11e5-9d73-06b48b82cd49",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "masterluis066"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:04:32+0000",
+            "payload": {
+                "Player": "0be48f24-7e54-11e7-8c48-06ab1a16f8e5",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Guest_446258909"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:04:41+0000",
+            "payload": {
+                "Player": "bb013f3e-be2f-11e5-81d1-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "bigdrew75"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:05:01+0000",
+            "payload": {
+                "Player": "186fe1e6-9475-11e5-8611-06d90c28bf1a",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "HighStrike "
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

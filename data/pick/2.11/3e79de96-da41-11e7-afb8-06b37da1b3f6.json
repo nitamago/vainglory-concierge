@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:52:57+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:53:13+0000",
+            "payload": {
+                "Hero": "*Grace*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:53:23+0000",
+            "payload": {
+                "Player": "54ca2928-69d5-11e5-b267-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Electroys"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:53:47+0000",
+            "payload": {
+                "Player": "c4fac5cc-2772-11e5-a3cb-06d90c28bf1a",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "hortht"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:54:10+0000",
+            "payload": {
+                "Player": "baa21428-2b40-11e5-b7d6-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Mcpanda390"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:54:22+0000",
+            "payload": {
+                "Player": "619e16f4-b283-11e5-8465-0628b69bf6d1",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "AcceI"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:54:29+0000",
+            "payload": {
+                "Player": "6aca6778-3d1f-11e7-bc72-0223dbc2587a",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "BeamRegimeYT"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:54:50+0000",
+            "payload": {
+                "Player": "6b6d1c50-57ae-11e5-a6a5-06f4ee369f53",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "marionso38"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:04:24+0000",
+            "payload": {
+                "Player": "3850770a-b806-11e5-a114-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "DARKHAWK"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:04:26+0000",
+            "payload": {
+                "Player": "114530b4-bbea-11e5-bb84-06b48b82cd49",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "oswalwar"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:04:26+0000",
+            "payload": {
+                "Player": "f2874804-2514-11e5-a3db-06eb725f8a76",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "Ramongo"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:04:28+0000",
+            "payload": {
+                "Player": "4d2b06fa-6fa4-11e4-bf97-062d0b175276",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Mattie"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:04:46+0000",
+            "payload": {
+                "Player": "be367c0e-6f8e-11e5-9dfe-0628b69bf6d1",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "MojoJojoDope"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:04:47+0000",
+            "payload": {
+                "Player": "f31842fe-7430-11e4-9fcd-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Lomeli_ED"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

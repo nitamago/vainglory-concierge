@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:58:38+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:58:57+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:59:05+0000",
+            "payload": {
+                "Player": "14abc450-eb93-11e6-a51d-062cb73cdbb1",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "Firenado "
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:59:16+0000",
+            "payload": {
+                "Player": "631acfde-f195-11e6-868b-0224e22aef46",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Xtrixx"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:59:33+0000",
+            "payload": {
+                "Player": "a05f3a9a-f2c9-11e5-9920-06d90c28bf1a",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "l3ongo"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:59:47+0000",
+            "payload": {
+                "Player": "cd98a6f6-723f-11e4-88b0-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Karatemaster"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:00:08+0000",
+            "payload": {
+                "Player": "7efbc0fc-34d3-11e6-9ea3-06388a2f2ea7",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "ImABurntToast"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:00:18+0000",
+            "payload": {
+                "Player": "d24f2602-9c4e-11e7-8f11-068789513eb5",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "Vanishingkid"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:26:45+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:26:59+0000",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:27:23+0000",
+            "payload": {
+                "Player": "d303215e-78f0-11e4-9d68-06d90c28bf1a",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "l3eer"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:27:48+0000",
+            "payload": {
+                "Player": "86d8831c-e42f-11e6-a5ec-06fc87f1dd11",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "TheLEGend27"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:28:03+0000",
+            "payload": {
+                "Player": "2ddd5504-ac81-11e4-9b4e-06d90c28bf1a",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "amazingkg"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:28:20+0000",
+            "payload": {
+                "Player": "887d6010-c20d-11e5-a7dc-0628b69bf6d1",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "COLLETTTE"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:28:42+0000",
+            "payload": {
+                "Player": "ad07cdf8-50af-11e7-bd41-0224e22aef46",
+                "Hero": "*Samuel*",
+                "Team": "1",
+                "Handle": "AdrastossNA"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:28:49+0000",
+            "payload": {
+                "Player": "2fa3f260-ddd7-11e6-aab6-067e8bc536fd",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "LetsFaceTimeBubu"
+            }
+        }
+    ],
+    "winner": "another"
+}

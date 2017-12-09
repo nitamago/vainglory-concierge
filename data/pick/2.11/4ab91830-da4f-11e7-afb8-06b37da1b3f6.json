@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:33:32+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:33:36+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:34:00+0000",
+            "payload": {
+                "Player": "b46b2b58-0ed3-11e7-9443-02866102f5a6",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "SSCaoz"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:34:16+0000",
+            "payload": {
+                "Player": "8b98a3aa-f631-11e6-91c9-06f4ee369f53",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "WitheKing"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:34:20+0000",
+            "payload": {
+                "Player": "26165eb4-58f3-11e5-b000-06b48b82cd49",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "HAMILTON7"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:34:33+0000",
+            "payload": {
+                "Player": "0edb60bc-771b-11e7-859c-020ecf4900d0",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "NeverPeeWhistle"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:34:44+0000",
+            "payload": {
+                "Player": "45d70f64-ddb4-11e5-9e6a-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "xxAMILCARxx"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:35:08+0000",
+            "payload": {
+                "Player": "0e7c1c6a-2461-11e5-b7b4-06eb725f8a76",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "ace187"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

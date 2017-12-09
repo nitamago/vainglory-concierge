@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:32:13+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:32:19+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:32:41+0000",
+            "payload": {
+                "Player": "f0d8f9d0-ed4c-11e4-be12-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "sebasbg"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:32:43+0000",
+            "payload": {
+                "Player": "756386c6-a444-11e5-9244-06f4ee369f53",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Alonestar"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:33:07+0000",
+            "payload": {
+                "Player": "60c23ef6-8062-11e6-a2fd-06fc87f1dd11",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "FelixFaceut"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:33:20+0000",
+            "payload": {
+                "Player": "f6301584-45f4-11e5-9536-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Dethonwheels"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:33:24+0000",
+            "payload": {
+                "Player": "8c946252-0809-11e5-98f6-06eb725f8a76",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "VibeWithMe"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:33:38+0000",
+            "payload": {
+                "Player": "a63546a6-84e0-11e4-aadc-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "GreenZexal240"
+            }
+        }
+    ],
+    "winner": "another"
+}

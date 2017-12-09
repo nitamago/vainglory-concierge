@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:36:11+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:36:28+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:36:42+0000",
+            "payload": {
+                "Player": "3921a9d2-0d70-11e6-b041-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Mexacor3"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:37:01+0000",
+            "payload": {
+                "Player": "7e36ef38-ae7f-11e4-9840-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "CantLastHit"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:37:15+0000",
+            "payload": {
+                "Player": "648a316c-91f1-11e4-81a1-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "SavageG"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:37:27+0000",
+            "payload": {
+                "Player": "3277785c-e9a6-11e5-b37f-06fc87f1dd11",
+                "Hero": "*Samuel*",
+                "Team": "1",
+                "Handle": "Landoo"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:37:34+0000",
+            "payload": {
+                "Player": "6e6bd24a-37b3-11e5-a1f9-06f4ee369f53",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Misanthope"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:37:54+0000",
+            "payload": {
+                "Player": "4ddc9198-957d-11e7-af00-0297ea8a7ddc",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "thesaucegod"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

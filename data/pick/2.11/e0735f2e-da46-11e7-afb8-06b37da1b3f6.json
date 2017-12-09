@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:32:58+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:33:11+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:33:16+0000",
+            "payload": {
+                "Player": "d24f2602-9c4e-11e7-8f11-068789513eb5",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Vanishingkid"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:33:32+0000",
+            "payload": {
+                "Player": "3d7153b2-2c7d-11e6-8383-067e8bc536fd",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "lykuz"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:33:54+0000",
+            "payload": {
+                "Player": "bdda5366-90b8-11e5-a943-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "uchija"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:33:58+0000",
+            "payload": {
+                "Player": "631acfde-f195-11e6-868b-0224e22aef46",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "Xtrixx"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:34:21+0000",
+            "payload": {
+                "Player": "a05f3a9a-f2c9-11e5-9920-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "l3ongo"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:34:23+0000",
+            "payload": {
+                "Player": "31e5603e-6696-11e7-ada6-06fc87f1dd11",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "Axith"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

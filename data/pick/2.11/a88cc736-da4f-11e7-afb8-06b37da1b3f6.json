@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:35:59+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:36:18+0000",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:36:27+0000",
+            "payload": {
+                "Player": "d753f37e-711f-11e4-9ad1-062d0b175276",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "catlover"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:36:31+0000",
+            "payload": {
+                "Player": "1d87fe98-a7ec-11e7-9d9e-0297ea8a7ddc",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "RobertxDD"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:36:53+0000",
+            "payload": {
+                "Player": "95fcdba8-a2cb-11e7-8392-0297ea8a7ddc",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "ILLINI"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:37:02+0000",
+            "payload": {
+                "Player": "2c4f3252-692d-11e5-b6da-06b48b82cd49",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "YOOOONNGGJJAEEEE"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:37:10+0000",
+            "payload": {
+                "Player": "550dec18-d57d-11e4-b179-06d90c28bf1a",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "Aguadostylo"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:37:31+0000",
+            "payload": {
+                "Player": "c45c6260-372b-11e5-8b23-06d90c28bf1a",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "Darkhour"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

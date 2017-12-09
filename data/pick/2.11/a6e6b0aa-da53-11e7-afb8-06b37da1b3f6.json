@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:04:18+0000",
+            "payload": {
+                "Player": "27e566be-8a89-11e5-b35f-06f4ee369f53",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Byron3122"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:04:19+0000",
+            "payload": {
+                "Player": "f80f4e10-a92c-11e5-bfb8-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Hideking"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:04:22+0000",
+            "payload": {
+                "Player": "171131a6-edc0-11e6-90d2-06ab1a16f8e5",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Febomorningstar"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:04:25+0000",
+            "payload": {
+                "Player": "e848b2a8-8c5b-11e4-a162-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "deathslayer3141"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:04:25+0000",
+            "payload": {
+                "Player": "4ddb9678-10fd-11e5-8301-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "hmmmaryan"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:04:29+0000",
+            "payload": {
+                "Player": "b0524e12-7450-11e5-bdcc-06eb725f8a76",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "hobbitzez"
+            }
+        }
+    ],
+    "winner": "another"
+}

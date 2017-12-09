@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:51:35+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:51:44+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:51:47+0000",
+            "payload": {
+                "Player": "f54ca7ba-414c-11e5-afa3-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "KiloMike"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:52:08+0000",
+            "payload": {
+                "Player": "4ab8e300-fea0-11e6-8093-02b3611af5e6",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "EdyCM"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:52:30+0000",
+            "payload": {
+                "Player": "dc4a6638-a89f-11e6-b13d-068789513eb5",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "MstrKrft"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:52:38+0000",
+            "payload": {
+                "Player": "687a6102-3127-11e7-ab79-02f3b4306918",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "jaysonny"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:53:02+0000",
+            "payload": {
+                "Player": "cd863c30-95b2-11e6-915a-06f4ee369f53",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "josue47"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:53:18+0000",
+            "payload": {
+                "Player": "4e21c3b0-7115-11e4-b809-062d0b175276",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "Lazzau"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

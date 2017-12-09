@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:45:19+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:45:25+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:45:45+0000",
+            "payload": {
+                "Player": "041eeade-3c91-11e5-a828-06b48b82cd49",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "cuano"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:46:05+0000",
+            "payload": {
+                "Player": "35df30e0-0051-11e6-acb3-062cb73cdbb1",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "XxAvizuuxX"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:46:09+0000",
+            "payload": {
+                "Player": "bb013f3e-be2f-11e5-81d1-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "bigdrew75"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:46:11+0000",
+            "payload": {
+                "Player": "df1846c4-c230-11e5-93e1-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "LEONCTR"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:46:27+0000",
+            "payload": {
+                "Player": "24ed2988-f1db-11e5-a5b1-06d90c28bf1a",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "IIxxII"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:46:43+0000",
+            "payload": {
+                "Player": "97766228-6eea-11e4-bfea-06641bcbf424",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "luffy0325"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

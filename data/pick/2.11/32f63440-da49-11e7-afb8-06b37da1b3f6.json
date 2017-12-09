@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:49:53+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:50:07+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:50:19+0000",
+            "payload": {
+                "Player": "cdbd952e-6d75-11e5-9e8f-06f4ee369f53",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "bichobi"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:50:31+0000",
+            "payload": {
+                "Player": "69bcdd54-05d2-11e7-95fd-02081e0fc90e",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "cccccccccicc"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:50:51+0000",
+            "payload": {
+                "Player": "ba3501a6-7454-11e4-a51b-06d90c28bf1a",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "StudentDriver"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:51:10+0000",
+            "payload": {
+                "Player": "8e7eed58-c7d0-11e5-bcf0-068789513eb5",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "ThNg"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:51:16+0000",
+            "payload": {
+                "Player": "3997a970-1356-11e6-874a-06c5ee41a4a5",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Dertez"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:51:34+0000",
+            "payload": {
+                "Player": "8ee511c2-92ca-11e5-aa15-06eb725f8a76",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "bybrian"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

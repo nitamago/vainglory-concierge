@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:59:23+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:59:26+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:59:36+0000",
+            "payload": {
+                "Player": "bf00e46e-be74-11e5-896f-0628b69bf6d1",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "KUSHandOJ"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:59:51+0000",
+            "payload": {
+                "Player": "e9bbcd00-efcf-11e4-bccd-06eb725f8a76",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "Awwxy"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:59:53+0000",
+            "payload": {
+                "Player": "29e894ee-8e3c-11e4-947f-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "MiracleSA"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:00:00+0000",
+            "payload": {
+                "Player": "7f74bf36-ada0-11e4-8212-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "Arutoria"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:00:07+0000",
+            "payload": {
+                "Player": "4e555232-31d3-11e5-a200-0628b69bf6d1",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "TheB4ne"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:00:14+0000",
+            "payload": {
+                "Player": "7c48b232-af11-11e4-b5f9-06d90c28bf1a",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "Donuthing"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

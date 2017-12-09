@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:50:25+0000",
+            "payload": {
+                "Player": "243df58e-bff0-11e5-a5d3-06f4ee369f53",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Stuzal"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:50:29+0000",
+            "payload": {
+                "Player": "6e56db00-53b5-11e6-bc43-06c5ee41a4a5",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "KittySmasher101"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:50:35+0000",
+            "payload": {
+                "Player": "ed0b40f0-ac60-11e5-a2f5-06f4ee369f53",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "popt4rt"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:50:36+0000",
+            "payload": {
+                "Player": "657ad7a2-9b4b-11e5-ae35-06b48b82cd49",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "Vaden"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:50:48+0000",
+            "payload": {
+                "Player": "228db8cc-0ef8-11e5-b3d1-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "al3xk4zuk1"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:51:01+0000",
+            "payload": {
+                "Player": "c8098710-6b08-11e5-8120-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "WildThief"
+            }
+        }
+    ],
+    "winner": "another"
+}

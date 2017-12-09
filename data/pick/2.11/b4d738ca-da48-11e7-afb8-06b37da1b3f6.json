@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:46:09+0000",
+            "payload": {
+                "Hero": "*Catherine*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:46:12+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:46:19+0000",
+            "payload": {
+                "Player": "09fa2560-8143-11e7-820c-06a9175d25fa",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "Contramaestre"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:46:43+0000",
+            "payload": {
+                "Player": "7a23c4ec-7482-11e5-94e9-06eb725f8a76",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "ULTIMATEOWNAGE"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:46:44+0000",
+            "payload": {
+                "Player": "e31cda94-e443-11e4-b515-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "EmileonFire"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:46:47+0000",
+            "payload": {
+                "Player": "de339d66-7c32-11e4-9f0a-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "ThatBedonie"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:46:52+0000",
+            "payload": {
+                "Player": "ba24664e-5837-11e5-97c5-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "2WheelJunkie"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:47:16+0000",
+            "payload": {
+                "Player": "89ceb586-51eb-11e6-b587-06eb725f8a76",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "REWHORE"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

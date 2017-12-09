@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:33:06+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:33:11+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:33:12+0000",
+            "payload": {
+                "Player": "2a831e92-2671-11e5-a38e-06b48b82cd49",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Carry0rThrow"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:33:27+0000",
+            "payload": {
+                "Player": "8aff9c24-8ac3-11e7-b8bb-06a9175d25fa",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "SYTHHD"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:33:31+0000",
+            "payload": {
+                "Player": "79f1ae76-464b-11e6-8138-0628b69bf6d1",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "fRosTbyte"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:33:44+0000",
+            "payload": {
+                "Player": "3e3751d6-329e-11e5-aff8-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "VGLxMasterx"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:33:54+0000",
+            "payload": {
+                "Player": "4ac1ec6c-8478-11e7-a029-06d90c28bf1a",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "Ibreakbones"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:34:18+0000",
+            "payload": {
+                "Player": "92e0dd9c-7a34-11e4-a756-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "XenoTekken"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

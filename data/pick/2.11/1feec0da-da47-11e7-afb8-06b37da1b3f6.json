@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:34:47+0000",
+            "payload": {
+                "Hero": "*Alpha*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:34:57+0000",
+            "payload": {
+                "Hero": "*Ozo*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:35:01+0000",
+            "payload": {
+                "Player": "0cc3e7be-2d93-11e5-bfef-06f4ee369f53",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "AlchemistPrime"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:35:03+0000",
+            "payload": {
+                "Player": "b27bd1d2-8898-11e7-bb95-06ab1a16f8e5",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "8WindBruce8"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:35:27+0000",
+            "payload": {
+                "Player": "5e90188e-dd81-11e6-8d5c-06ab1a16f8e5",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "onkive"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:35:39+0000",
+            "payload": {
+                "Player": "016aa1e0-c034-11e4-8f47-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "BLAZZ"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:35:47+0000",
+            "payload": {
+                "Player": "c7ab29c4-8290-11e4-b0a5-06d90c28bf1a",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "TacoLove"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:36:10+0000",
+            "payload": {
+                "Player": "aca076ea-6f83-11e4-a602-06641bcbf424",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "gemhigh"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

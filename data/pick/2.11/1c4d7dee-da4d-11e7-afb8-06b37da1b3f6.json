@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:17:35+0000",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:17:38+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:17:52+0000",
+            "payload": {
+                "Player": "c6f2c8bc-0c00-11e5-b91f-06d90c28bf1a",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "jouleme"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:18:03+0000",
+            "payload": {
+                "Player": "d761cffe-4ee0-11e5-b9c9-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "sauwolf"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:18:05+0000",
+            "payload": {
+                "Player": "b7e96f6e-3512-11e7-80fa-06388a2f2ea7",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "SALMO91"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:18:09+0000",
+            "payload": {
+                "Player": "2b7ae884-04c0-11e5-859b-06eb725f8a76",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "babloo"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:18:23+0000",
+            "payload": {
+                "Player": "d9efb64c-af57-11e4-a16e-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "thatsosm"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:18:41+0000",
+            "payload": {
+                "Player": "f6d7ba42-2415-11e5-93b0-06b48b82cd49",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "ConanTheBarbarin"
+            }
+        }
+    ],
+    "winner": "another"
+}

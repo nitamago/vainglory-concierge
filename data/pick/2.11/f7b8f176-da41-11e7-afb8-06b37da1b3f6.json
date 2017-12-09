@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:57:51+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:57:59+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:58:13+0000",
+            "payload": {
+                "Player": "509c08d8-22d3-11e5-87e4-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "Dashpots"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:58:34+0000",
+            "payload": {
+                "Player": "3c8c1954-6da2-11e5-9319-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "EyeofSet"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:58:55+0000",
+            "payload": {
+                "Player": "e6851e86-f4a0-11e4-81e4-06eb725f8a76",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "Zanzibar907"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:59:05+0000",
+            "payload": {
+                "Player": "8d43b9a0-2361-11e5-8254-06f4ee369f53",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "duckdetective"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:59:24+0000",
+            "payload": {
+                "Player": "f19f399c-ba79-11e5-aefc-06b48b82cd49",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "iDarKLoRDi"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:59:42+0000",
+            "payload": {
+                "Player": "cab885b8-65a0-11e6-89b5-06388a2f2ea7",
+                "Hero": "*Ozo*",
+                "Team": "2",
+                "Handle": "chamako907"
+            }
+        }
+    ],
+    "winner": "another"
+}

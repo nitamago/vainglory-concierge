@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:17:37+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:17:40+0000",
+            "payload": {
+                "Hero": "*Joule*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:17:44+0000",
+            "payload": {
+                "Player": "afff6730-fc74-11e6-86db-06b48b82cd49",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "ThrowaSaurusRex"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:17:59+0000",
+            "payload": {
+                "Player": "b1aeba72-85a2-11e4-9439-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "EdwardHolmes"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:18:14+0000",
+            "payload": {
+                "Player": "dac305f0-575e-11e6-84d8-06fc87f1dd11",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "aizero19"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:18:33+0000",
+            "payload": {
+                "Player": "46fd1dbc-0379-11e6-982f-06d90c28bf1a",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "perfectblinky"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:18:43+0000",
+            "payload": {
+                "Player": "120f7d2a-c981-11e5-9fd1-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "StructuredChaos"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:19:02+0000",
+            "payload": {
+                "Player": "954be6ae-20eb-11e5-acfe-06f4ee369f53",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "rodrisees"
+            }
+        }
+    ],
+    "winner": "another"
+}

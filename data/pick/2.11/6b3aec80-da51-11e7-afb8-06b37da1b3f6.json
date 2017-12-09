@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:48:45+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:49:00+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:49:04+0000",
+            "payload": {
+                "Player": "5506b7f4-ea27-11e4-889f-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "DeathKnightNA"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:49:27+0000",
+            "payload": {
+                "Player": "90de79ce-2109-11e5-a3bd-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Hellsbane"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:49:51+0000",
+            "payload": {
+                "Player": "f54d5b54-a517-11e5-a880-06f4ee369f53",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "CityofFire"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:50:07+0000",
+            "payload": {
+                "Player": "492d3a16-8820-11e4-8897-06eb725f8a76",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "ADPA"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:50:26+0000",
+            "payload": {
+                "Player": "2a52740a-618f-11e5-8e5b-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "jzedx"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:50:31+0000",
+            "payload": {
+                "Player": "cf7ba35a-e2cf-11e4-b081-06eb725f8a76",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "Noburu"
+            }
+        }
+    ],
+    "winner": "another"
+}

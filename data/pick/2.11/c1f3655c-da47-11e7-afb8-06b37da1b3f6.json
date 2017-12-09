@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:39:35+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:39:48+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:40:07+0000",
+            "payload": {
+                "Player": "b4674e42-233f-11e5-bed9-06b48b82cd49",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "ThugNasty863"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:40:31+0000",
+            "payload": {
+                "Player": "d531f494-7037-11e4-afbd-06641bcbf424",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "sudoVG"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:40:35+0000",
+            "payload": {
+                "Player": "f4bb0ca6-8bbe-11e7-8f80-068789513eb5",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "SkyHorseFate"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:40:55+0000",
+            "payload": {
+                "Player": "83f1fa98-25ea-11e5-b354-0628b69bf6d1",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "skilI"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:41:07+0000",
+            "payload": {
+                "Player": "3face6a8-4958-11e6-8c4e-06ab1a16f8e5",
+                "Hero": "*Flicker*",
+                "Team": "1",
+                "Handle": "arrowjules"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:41:09+0000",
+            "payload": {
+                "Player": "d0c2ed8e-8f90-11e7-a719-02081e0fc90e",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "REdrUm"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

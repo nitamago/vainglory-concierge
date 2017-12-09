@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:19:43+0000",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:19:56+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:20:21+0000",
+            "payload": {
+                "Player": "5467916c-b168-11e4-9d3d-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Cloudls"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:20:43+0000",
+            "payload": {
+                "Player": "4e9265ca-75e2-11e5-915c-06b48b82cd49",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "NuGzZz"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:20:54+0000",
+            "payload": {
+                "Player": "e6a1b7ac-8d68-11e4-9f18-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "GreenMaGic"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:21:09+0000",
+            "payload": {
+                "Player": "0a6629ec-8c0c-11e4-9144-06eb725f8a76",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "LiliaRoma"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:21:13+0000",
+            "payload": {
+                "Player": "052219e0-be3a-11e4-9706-06eb725f8a76",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "-SGxSnover-"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:21:33+0000",
+            "payload": {
+                "Player": "398b2668-8f0f-11e4-93d5-06eb725f8a76",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "iDaBBeR"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

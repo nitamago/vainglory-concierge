@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:22:17+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:22:31+0000",
+            "payload": {
+                "Hero": "*Alpha*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:22:34+0000",
+            "payload": {
+                "Player": "75c711de-5d97-11e6-90a0-068789513eb5",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Kyzer7777"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:22:39+0000",
+            "payload": {
+                "Player": "65b2b56e-14b7-11e7-8cf4-020ecf4900d0",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "MrPinkk"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:22:48+0000",
+            "payload": {
+                "Player": "32a14f7c-4f70-11e5-90e6-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "THESHEEPDOG"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:23:12+0000",
+            "payload": {
+                "Player": "06658704-ff8f-11e6-953d-06c5ee41a4a5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "creepycapricorn"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:23:14+0000",
+            "payload": {
+                "Player": "c6c0aee0-9524-11e7-89a9-02866102f5a6",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "Sonarux"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:23:27+0000",
+            "payload": {
+                "Player": "01054eb0-9923-11e7-a691-029cb633549e",
+                "Hero": "*Flicker*",
+                "Team": "2",
+                "Handle": "KINGDOM99"
+            }
+        }
+    ],
+    "winner": "another"
+}

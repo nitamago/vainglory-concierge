@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:01:50+0000",
+            "payload": {
+                "Player": "cbfd0356-97d4-11e7-98b6-06388a2f2ea7",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "TioChoky"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:02:09+0000",
+            "payload": {
+                "Player": "da9cb75e-eaeb-11e5-9b84-06b48b82cd49",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "OlguinxD"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:02:22+0000",
+            "payload": {
+                "Player": "26a0fa36-7679-11e4-8365-06d90c28bf1a",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "Aceyford"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:02:23+0000",
+            "payload": {
+                "Player": "13863b46-f52b-11e5-a4c8-06fc87f1dd11",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "Roboknite"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:02:23+0000",
+            "payload": {
+                "Player": "85c6552a-b0cf-11e4-9c82-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "Nerokiwi"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:02:26+0000",
+            "payload": {
+                "Player": "693a04ee-c3b0-11e4-988d-06d90c28bf1a",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "Wolfsman"
+            }
+        }
+    ],
+    "winner": "another"
+}

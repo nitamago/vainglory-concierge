@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:51:22+0000",
+            "payload": {
+                "Hero": "*Reza*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:51:30+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:51:42+0000",
+            "payload": {
+                "Player": "d29b1a8e-42a1-11e5-b170-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Heavenssaints"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:51:45+0000",
+            "payload": {
+                "Player": "300c832a-2b4f-11e5-b4ec-06b48b82cd49",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "SkyeGlory"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:52:04+0000",
+            "payload": {
+                "Player": "5415f14a-2422-11e5-a7e6-0628b69bf6d1",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "SNUFFALUF1GUS"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:52:09+0000",
+            "payload": {
+                "Player": "56518a82-7dd3-11e4-a688-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Megasteel"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:52:15+0000",
+            "payload": {
+                "Player": "2590f878-6cc9-11e7-b656-0297ea8a7ddc",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "bchillmusic"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:52:17+0000",
+            "payload": {
+                "Player": "d6e65574-239b-11e5-bf9a-06f4ee369f53",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "eric7D"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

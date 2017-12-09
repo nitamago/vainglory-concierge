@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:52:55+0000",
+            "payload": {
+                "Player": "2e7de380-cff0-11e7-b436-02ce883f709a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "ManuGod"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:53:27+0000",
+            "payload": {
+                "Player": "01c1d1d6-520a-11e6-a795-067e8bc536fd",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "kugauluv"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:53:29+0000",
+            "payload": {
+                "Player": "29af4cf0-bdd1-11e5-8413-06f4ee369f53",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "GymKahna"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:53:30+0000",
+            "payload": {
+                "Player": "b2bbf9ea-c4b5-11e5-ad69-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Steener"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:53:35+0000",
+            "payload": {
+                "Player": "8bee40c0-7777-11e4-a232-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "FriChicken"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:53:39+0000",
+            "payload": {
+                "Player": "a38719c6-6e96-11e4-b701-06641bcbf424",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "Fortaye"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:57:17+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:57:19+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:57:26+0000",
+            "payload": {
+                "Player": "477f69a4-c476-11e4-bc57-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "MaknBaconPancake"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:57:27+0000",
+            "payload": {
+                "Player": "6b22deba-d950-11e4-a2a5-06eb725f8a76",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "Trixster"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:57:51+0000",
+            "payload": {
+                "Player": "f570ef02-a73d-11e4-ac6d-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "GrindR"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:58:12+0000",
+            "payload": {
+                "Player": "46b25b44-72ea-11e5-9d17-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "LdF"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:58:34+0000",
+            "payload": {
+                "Player": "338c8a68-21ea-11e5-9904-068789513eb5",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "Selvin504"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:58:47+0000",
+            "payload": {
+                "Player": "8b257a56-3a71-11e5-b691-068789513eb5",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "JoDidley"
+            }
+        }
+    ],
+    "winner": "another"
+}

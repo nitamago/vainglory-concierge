@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:53:13+0000",
+            "payload": {
+                "Player": "fe00c47c-0353-11e5-9dab-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "SpaceOctopus"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:53:15+0000",
+            "payload": {
+                "Player": "13a20692-6664-11e5-9c0b-06b48b82cd49",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Dazdave101"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:53:19+0000",
+            "payload": {
+                "Player": "cc5388ee-7355-11e4-b131-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "thereisnotry"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:53:23+0000",
+            "payload": {
+                "Player": "d2a35390-2aa2-11e6-83de-062cb73cdbb1",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "Nowhee"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:53:57+0000",
+            "payload": {
+                "Player": "446d4f0c-6fab-11e5-a433-06f4ee369f53",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Der333"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:53:58+0000",
+            "payload": {
+                "Player": "c635af1a-6fac-11e5-b8b2-06d90c28bf1a",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "GoliathDalton"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

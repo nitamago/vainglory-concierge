@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:06:09+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:06:18+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:06:42+0000",
+            "payload": {
+                "Player": "f641827e-75ef-11e7-8787-06a9175d25fa",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "shreyascr7"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:06:51+0000",
+            "payload": {
+                "Player": "b47d6772-118d-11e5-9548-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "AnimePusiPlz"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:07:03+0000",
+            "payload": {
+                "Player": "9ea94140-1148-11e5-80ff-06d90c28bf1a",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "Otaku4ever "
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:07:26+0000",
+            "payload": {
+                "Player": "32ad0672-1466-11e5-8804-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "MissNinja"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:07:39+0000",
+            "payload": {
+                "Player": "90bff3fe-abb4-11e7-90c1-02866102f5a6",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "lolguy22"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:08:01+0000",
+            "payload": {
+                "Player": "3373ecde-ee36-11e4-898a-06d90c28bf1a",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "tinymonkey"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

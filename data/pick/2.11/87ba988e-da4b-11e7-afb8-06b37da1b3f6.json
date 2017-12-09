@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:06:20+0000",
+            "payload": {
+                "Player": "7399fdf0-2e42-11e7-b461-06eb725f8a76",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "MikeTrill"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:06:25+0000",
+            "payload": {
+                "Player": "220b880e-fc76-11e5-a007-06fc87f1dd11",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "BluDmon"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:06:44+0000",
+            "payload": {
+                "Player": "27a9c452-278f-11e7-9355-0297ea8a7ddc",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Rahorakhty"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:06:54+0000",
+            "payload": {
+                "Player": "72e80178-e5fe-11e5-b8be-067e8bc536fd",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "LordKami"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:06:56+0000",
+            "payload": {
+                "Player": "0799b374-81e3-11e4-b525-06d90c28bf1a",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "HAL"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:06:57+0000",
+            "payload": {
+                "Player": "bbf0549e-5fbf-11e5-bbce-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "kaerinna"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

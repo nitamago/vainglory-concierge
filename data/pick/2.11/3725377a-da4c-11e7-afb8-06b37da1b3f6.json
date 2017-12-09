@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:11:24+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:11:39+0000",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:11:43+0000",
+            "payload": {
+                "Player": "889b7e06-2055-11e5-ba1d-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "BruMon3"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:11:45+0000",
+            "payload": {
+                "Player": "60511446-0f79-11e7-8591-06f4ee369f53",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Uglymongoose"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:11:49+0000",
+            "payload": {
+                "Player": "9213c716-0ed7-11e5-8afb-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "theElectedOne"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:12:11+0000",
+            "payload": {
+                "Player": "fe4e000e-c7d2-11e5-a8db-06b48b82cd49",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "JackJo13"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:12:12+0000",
+            "payload": {
+                "Player": "3d431292-ea54-11e5-9072-0628b69bf6d1",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "BladeEnforcer"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:12:23+0000",
+            "payload": {
+                "Player": "2811cf86-6cdb-11e5-ba7c-06b48b82cd49",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "Dingus1"
+            }
+        }
+    ],
+    "winner": "another"
+}

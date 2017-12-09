@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:49:53+0000",
+            "payload": {
+                "Player": "a56db170-be2f-11e5-9bf6-0628b69bf6d1",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "MNTJGL"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:49:54+0000",
+            "payload": {
+                "Player": "0d346700-35e8-11e7-a451-02866102f5a6",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "JuanCarlosBodoke"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:49:54+0000",
+            "payload": {
+                "Player": "b6456bf4-85ba-11e4-9f18-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "DracoTiger"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:50:05+0000",
+            "payload": {
+                "Player": "0536f15a-8233-11e4-b27a-06d90c28bf1a",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "VatesVego"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:50:21+0000",
+            "payload": {
+                "Player": "1b19dfe6-4aff-11e6-a5f4-06eb725f8a76",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "Zarex"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:50:28+0000",
+            "payload": {
+                "Player": "e0cfbd14-d2f0-11e5-8f32-06b48b82cd49",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "Dualitat731"
+            }
+        }
+    ],
+    "winner": "another"
+}

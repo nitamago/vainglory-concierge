@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:04:39+0000",
+            "payload": {
+                "Hero": "*Ardan*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:04:51+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:04:54+0000",
+            "payload": {
+                "Player": "7ad69420-8ff0-11e6-9ce5-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "CondeWolf"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:04:59+0000",
+            "payload": {
+                "Player": "d96c695c-6962-11e5-92e5-06b48b82cd49",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "buddybing"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:05:22+0000",
+            "payload": {
+                "Player": "a42d3424-798c-11e7-9f0f-02b3611af5e6",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "boubon"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:05:24+0000",
+            "payload": {
+                "Player": "0c94fb84-76a5-11e4-a146-06d90c28bf1a",
+                "Hero": "*Reza*",
+                "Team": "1",
+                "Handle": "MeetYourMakerr"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:05:48+0000",
+            "payload": {
+                "Player": "186fe1e6-9475-11e5-8611-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "HighStrike "
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:06:11+0000",
+            "payload": {
+                "Player": "69ec2f3c-af30-11e4-b4e8-06d90c28bf1a",
+                "Hero": "*Grumpjaw*",
+                "Team": "2",
+                "Handle": "theblackwings"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:43:22+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:43:30+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:43:34+0000",
+            "payload": {
+                "Player": "27d6aa4c-33cb-11e7-a0f8-02b3611af5e6",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "chipSkylark"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:43:37+0000",
+            "payload": {
+                "Player": "07700448-59ab-11e5-a00f-06b48b82cd49",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "KiLLRkae"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:43:44+0000",
+            "payload": {
+                "Player": "921679a6-e948-11e5-8551-0628b69bf6d1",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "Active89"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:43:58+0000",
+            "payload": {
+                "Player": "514f3786-dd36-11e6-900c-062cb73cdbb1",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "superSage"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:44:04+0000",
+            "payload": {
+                "Player": "3862c8be-fdfc-11e6-8a76-0223dbc2587a",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "Hokage0fTheLeaf"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:44:16+0000",
+            "payload": {
+                "Player": "ecee4bfc-63be-11e5-8327-068789513eb5",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "MRVICE13"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:44:15+0000",
+            "payload": {
+                "Player": "54c74b3a-b0a8-11e5-9a4f-06f4ee369f53",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "VainInsertion"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:44:35+0000",
+            "payload": {
+                "Player": "9dd41018-0695-11e6-9cde-06ab1a16f8e5",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "Tyreal58"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:44:54+0000",
+            "payload": {
+                "Player": "9d77543c-9b95-11e6-a5b0-06ab1a16f8e5",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "QUESASO"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:44:54+0000",
+            "payload": {
+                "Player": "e1ca2114-c282-11e6-a52f-067e8bc536fd",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "Jadehait"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:44:56+0000",
+            "payload": {
+                "Player": "3d49172a-116c-11e6-809a-06f4ee369f53",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "cuntsomething"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:45:04+0000",
+            "payload": {
+                "Player": "f3b92102-c6ac-11e7-b903-020c8314066a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "DCampero"
+            }
+        }
+    ],
+    "winner": "another"
+}

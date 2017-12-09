@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:21:29+0000",
+            "payload": {
+                "Player": "9c830114-2613-11e5-8b4f-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "FantasticPony"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:21:33+0000",
+            "payload": {
+                "Player": "5000832a-6eca-11e5-a782-068789513eb5",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Darknetic"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:21:34+0000",
+            "payload": {
+                "Player": "9e70369e-70cf-11e4-a8d1-06641bcbf424",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "assassindevil"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:21:35+0000",
+            "payload": {
+                "Player": "e639a390-070e-11e5-be7b-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "Cesar502"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:21:39+0000",
+            "payload": {
+                "Player": "d4e656cc-419e-11e5-b2a1-0628b69bf6d1",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "DetectiveSphinx"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:21:40+0000",
+            "payload": {
+                "Player": "b8158a10-10a9-11e6-b905-068789513eb5",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "OblivionDragon"
+            }
+        }
+    ],
+    "winner": "another"
+}

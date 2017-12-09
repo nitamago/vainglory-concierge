@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:02:07+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:02:34+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:02:59+0000",
+            "payload": {
+                "Player": "6e473e66-b49b-11e5-a752-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "WhoopsMyBad"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:03:07+0000",
+            "payload": {
+                "Player": "dd194f90-a997-11e6-b298-068789513eb5",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "LetharG"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:03:13+0000",
+            "payload": {
+                "Player": "d45ca24c-739a-11e4-bd86-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "toweroflighting"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:03:29+0000",
+            "payload": {
+                "Player": "d29b1a8e-42a1-11e5-b170-06d90c28bf1a",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "Heavenssaints"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:03:32+0000",
+            "payload": {
+                "Player": "2590f878-6cc9-11e7-b656-0297ea8a7ddc",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "bchillmusic"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:03:37+0000",
+            "payload": {
+                "Player": "77b6ed06-2edc-11e5-9729-06eb725f8a76",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "Zerver"
+            }
+        }
+    ],
+    "winner": "another"
+}

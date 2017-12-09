@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:42:03+0000",
+            "payload": {
+                "Player": "01edb15e-8eef-11e5-9edc-06eb725f8a76",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "shyster"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:42:05+0000",
+            "payload": {
+                "Player": "60033466-0029-11e6-813d-06f4ee369f53",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "ptha"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:42:05+0000",
+            "payload": {
+                "Player": "fe193c26-9c53-11e4-9954-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "ElementWarrior3"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:42:06+0000",
+            "payload": {
+                "Player": "5b60074c-d418-11e4-bd95-06eb725f8a76",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "Draxjax"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:42:44+0000",
+            "payload": {
+                "Player": "67581188-4886-11e5-8e0c-068789513eb5",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "MrVoxel"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:42:56+0000",
+            "payload": {
+                "Player": "9210ce6a-37f4-11e7-a326-068789513eb5",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Nemertines"
+            }
+        }
+    ],
+    "winner": "another"
+}

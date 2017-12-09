@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:06+0000",
+            "payload": {
+                "Player": "755cba02-abf2-11e5-a114-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "Marvinpho"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:30+0000",
+            "payload": {
+                "Player": "46f95d60-7290-11e4-a57c-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "IceMan2020"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:49+0000",
+            "payload": {
+                "Player": "f85df638-90ec-11e7-b261-0224e22aef46",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "Milordz"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:50+0000",
+            "payload": {
+                "Player": "3f9d0a02-6881-11e5-a021-06f4ee369f53",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Frankiecheaa"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:50+0000",
+            "payload": {
+                "Player": "8dc0e1f6-8ee1-11e4-94a3-06d90c28bf1a",
+                "Hero": "*Ozo*",
+                "Team": "1",
+                "Handle": "lincolnabe"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:50+0000",
+            "payload": {
+                "Player": "be863432-d541-11e6-b82a-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "DarkDrakoWolf"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

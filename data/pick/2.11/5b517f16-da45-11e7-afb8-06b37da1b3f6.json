@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:22:07+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:22:18+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:22:35+0000",
+            "payload": {
+                "Player": "6b7fe46e-a9fe-11e5-89f4-06b48b82cd49",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Phyxxius"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:22:54+0000",
+            "payload": {
+                "Player": "52d6d28e-9b44-11e4-8566-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "DemonPooper"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:23:10+0000",
+            "payload": {
+                "Player": "652ea67e-0f37-11e6-ba35-06ab1a16f8e5",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "LetsBeNice"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:23:17+0000",
+            "payload": {
+                "Player": "fc4519aa-bbd9-11e5-976c-06f4ee369f53",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "iLoveTDSakumoJ"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:23:40+0000",
+            "payload": {
+                "Player": "5eba6460-c2c3-11e5-a8be-06b48b82cd49",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "sakumo"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:23:58+0000",
+            "payload": {
+                "Player": "ad614bbc-d717-11e4-b6fe-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "TapirGod"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

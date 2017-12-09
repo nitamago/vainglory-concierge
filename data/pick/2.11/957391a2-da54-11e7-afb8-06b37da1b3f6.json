@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T07:11:07+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T07:11:07+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:11:17+0000",
+            "payload": {
+                "Player": "7ad69420-8ff0-11e6-9ce5-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "CondeWolf"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:11:21+0000",
+            "payload": {
+                "Player": "cdb83aae-2baf-11e6-8f6d-067e8bc536fd",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "MamiTomoe143"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:11:30+0000",
+            "payload": {
+                "Player": "dc7146bc-e6d2-11e4-a206-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "0ki7o"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:11:42+0000",
+            "payload": {
+                "Player": "711cb238-9336-11e4-8938-06d90c28bf1a",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "Talkitivedj"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:11:57+0000",
+            "payload": {
+                "Player": "67ee47dc-170a-11e5-a5ba-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "agilee"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:12:13+0000",
+            "payload": {
+                "Player": "1ef43594-88af-11e4-b0fa-06d90c28bf1a",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "Deathwords"
+            }
+        }
+    ],
+    "winner": "another"
+}

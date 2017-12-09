@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:03:41+0000",
+            "payload": {
+                "Player": "3791e620-90c5-11e7-9fdc-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "getluckygabe"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:03:42+0000",
+            "payload": {
+                "Player": "77fb9076-7214-11e4-a57c-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "AriesGod"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:03:43+0000",
+            "payload": {
+                "Player": "fd4b8af2-3223-11e7-9eec-02f3b4306918",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "gtgod"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:03:55+0000",
+            "payload": {
+                "Player": "aa625462-8555-11e7-aa3a-06b48b82cd49",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "ShadowRock"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:03:59+0000",
+            "payload": {
+                "Player": "4b43b914-47d2-11e7-83b8-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "chawder07"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:04:00+0000",
+            "payload": {
+                "Player": "907e0116-d206-11e6-9699-06b48b82cd49",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Hitefon"
+            }
+        }
+    ],
+    "winner": "another"
+}

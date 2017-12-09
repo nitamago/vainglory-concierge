@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:57:36+0000",
+            "payload": {
+                "Player": "ce05f824-abe0-11e5-8a4b-0628b69bf6d1",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Flippycore"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:57:39+0000",
+            "payload": {
+                "Player": "8aea0228-bb0e-11e5-9d7a-068789513eb5",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "swaggmuffinsex"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:57:42+0000",
+            "payload": {
+                "Player": "9d47cd88-9567-11e4-93e7-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Krizis"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:57:42+0000",
+            "payload": {
+                "Player": "b2938268-407f-11e5-82ea-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "jeffrey29292"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:57:44+0000",
+            "payload": {
+                "Player": "c2a2ae2c-bc03-11e5-a875-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "SH556"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:58:15+0000",
+            "payload": {
+                "Player": "78fb498a-72cd-11e4-b131-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "JoThrow12"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

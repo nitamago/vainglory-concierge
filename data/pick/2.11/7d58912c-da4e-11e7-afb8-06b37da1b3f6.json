@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:27:32+0000",
+            "payload": {
+                "Hero": "*Catherine*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:28:00+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:28:02+0000",
+            "payload": {
+                "Player": "dc7146bc-e6d2-11e4-a206-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "0ki7o"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:28:14+0000",
+            "payload": {
+                "Player": "f9035eec-7340-11e4-a296-06d90c28bf1a",
+                "Hero": "*Flicker*",
+                "Team": "2",
+                "Handle": "celebi"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:28:26+0000",
+            "payload": {
+                "Player": "77b6ed06-2edc-11e5-9729-06eb725f8a76",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Zerver"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:28:49+0000",
+            "payload": {
+                "Player": "684a43fa-4ea2-11e5-a913-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "DarknessShadows"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:29:02+0000",
+            "payload": {
+                "Player": "5b71e346-ca79-11e6-aa68-06b48b82cd49",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "rodriguez10"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:29:04+0000",
+            "payload": {
+                "Player": "7ad69420-8ff0-11e6-9ce5-06eb725f8a76",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "CondeWolf"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

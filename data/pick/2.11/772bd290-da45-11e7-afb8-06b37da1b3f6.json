@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:22:58+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:23:24+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:23:33+0000",
+            "payload": {
+                "Player": "c14334b2-bc42-11e6-bea4-06388a2f2ea7",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "ByNameCoC"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:23:56+0000",
+            "payload": {
+                "Player": "bfdde15a-0205-11e6-9d79-06b48b82cd49",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "princehill82"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:23:59+0000",
+            "payload": {
+                "Player": "f6f38a16-0fd8-11e5-8014-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "Bagel36"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:24:16+0000",
+            "payload": {
+                "Player": "98866574-1eac-11e5-a249-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "iLeftuForVG"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:24:20+0000",
+            "payload": {
+                "Player": "70b2f0dc-d2b4-11e5-8a12-06ab1a16f8e5",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "xDemonLordz"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:24:39+0000",
+            "payload": {
+                "Player": "cf7ba35a-e2cf-11e4-b081-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "Noburu"
+            }
+        }
+    ],
+    "winner": "another"
+}

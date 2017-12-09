@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:55:09+0000",
+            "payload": {
+                "Player": "c4746bac-a2d5-11e4-95d8-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Dockie"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:55:11+0000",
+            "payload": {
+                "Player": "2831e2b4-2498-11e7-912d-0223dbc2587a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "FreshOnion"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:55:18+0000",
+            "payload": {
+                "Player": "6a7eb180-cb4b-11e5-8b04-06b48b82cd49",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "DragoRule"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:55:34+0000",
+            "payload": {
+                "Player": "4142ecf2-35a7-11e6-ac09-0628b69bf6d1",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "Jmoney631"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:55:43+0000",
+            "payload": {
+                "Player": "763bc3ee-b049-11e6-b024-06a9175d25fa",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "KolAnders"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:55:56+0000",
+            "payload": {
+                "Player": "39682bd2-4c0a-11e5-aeb5-06d90c28bf1a",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "miyagi22"
+            }
+        }
+    ],
+    "winner": "another"
+}

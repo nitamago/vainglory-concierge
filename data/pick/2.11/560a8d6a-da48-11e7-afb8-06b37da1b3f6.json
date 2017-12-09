@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:43:34+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:43:42+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:43:57+0000",
+            "payload": {
+                "Player": "0a1fe942-c544-11e5-ab6a-068789513eb5",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "lxDragonSlayerxl"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:44:19+0000",
+            "payload": {
+                "Player": "4eab4c08-88c5-11e4-b6fa-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "FORTITUDE"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:44:43+0000",
+            "payload": {
+                "Player": "a81775aa-2212-11e5-b5fb-06d90c28bf1a",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "LegitSwags"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:45:04+0000",
+            "payload": {
+                "Player": "e6bfefb4-49b1-11e5-bcce-06f4ee369f53",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "adlesnake"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:45:25+0000",
+            "payload": {
+                "Player": "0dd4f576-15d8-11e5-97c8-06d90c28bf1a",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "ElSexyCharly"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:45:50+0000",
+            "payload": {
+                "Player": "c7005c10-807e-11e4-b8d4-06eb725f8a76",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "ahhhhshlay"
+            }
+        }
+    ],
+    "winner": "another"
+}

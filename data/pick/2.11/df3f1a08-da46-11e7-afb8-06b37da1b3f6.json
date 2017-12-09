@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:32:52+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:33:22+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:33:39+0000",
+            "payload": {
+                "Player": "df6660d6-9801-11e7-967c-06fc87f1dd11",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "calibre50"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:33:59+0000",
+            "payload": {
+                "Player": "17000e5c-0b14-11e5-b6e7-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Wavebreaker"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:34:09+0000",
+            "payload": {
+                "Player": "e7383826-8430-11e4-867a-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "KOSHKA1v3"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:34:30+0000",
+            "payload": {
+                "Player": "875f0486-981c-11e7-8135-0263a81144c0",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "jodagoflo"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:34:31+0000",
+            "payload": {
+                "Player": "5b4cd12c-47d6-11e5-8aab-06f4ee369f53",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "The21jux"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:34:55+0000",
+            "payload": {
+                "Player": "dfe01164-8805-11e5-b35f-06f4ee369f53",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "Razorer"
+            }
+        }
+    ],
+    "winner": "another"
+}

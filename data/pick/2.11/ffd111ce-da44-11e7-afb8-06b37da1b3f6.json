@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:19:31+0000",
+            "payload": {
+                "Player": "892047a4-8ce2-11e5-9748-06b48b82cd49",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "Pinkslime"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:19:43+0000",
+            "payload": {
+                "Player": "e046827a-f0a9-11e5-9177-06fc87f1dd11",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "ZonBorfunguy22"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:19:46+0000",
+            "payload": {
+                "Player": "dd59a94a-14b6-11e5-aa9f-06eb725f8a76",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "MrJantastic"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:20:02+0000",
+            "payload": {
+                "Player": "87960104-6d60-11e5-bb8c-068789513eb5",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "gangstaleenjr"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:20:16+0000",
+            "payload": {
+                "Player": "fd78cdc0-3b24-11e5-ada6-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "IplayForPings"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:20:23+0000",
+            "payload": {
+                "Player": "49d3a388-20f0-11e5-a3bd-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "anothrrhit"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

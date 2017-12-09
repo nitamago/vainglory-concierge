@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:56:46+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:56:58+0000",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:57:14+0000",
+            "payload": {
+                "Player": "875f0486-981c-11e7-8135-0263a81144c0",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "jodagoflo"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:57:36+0000",
+            "payload": {
+                "Player": "24ed2988-f1db-11e5-a5b1-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "IIxxII"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:57:47+0000",
+            "payload": {
+                "Player": "5f6c4498-70fd-11e7-9fdf-0224e22aef46",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "KeithCharles"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:58:09+0000",
+            "payload": {
+                "Player": "5bf96c12-8fb5-11e5-a03a-06b48b82cd49",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "Player66490455"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:58:27+0000",
+            "payload": {
+                "Player": "316bbe42-7799-11e6-927d-06c5ee41a4a5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Caliber50"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:58:39+0000",
+            "payload": {
+                "Player": "ec9eae12-81be-11e5-80c5-0628b69bf6d1",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "noaoch"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

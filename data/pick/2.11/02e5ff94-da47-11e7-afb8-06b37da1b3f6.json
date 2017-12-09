@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:33:49+0000",
+            "payload": {
+                "Hero": "*Ardan*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:33:53+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:33:57+0000",
+            "payload": {
+                "Player": "7ad69420-8ff0-11e6-9ce5-06eb725f8a76",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "CondeWolf"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:34:13+0000",
+            "payload": {
+                "Player": "83cd39ec-7d11-11e4-8b94-06eb725f8a76",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "Shu_Ouma"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:34:19+0000",
+            "payload": {
+                "Player": "5d1053cc-ecd0-11e5-8de1-068789513eb5",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "Keluia"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:34:36+0000",
+            "payload": {
+                "Player": "d96c695c-6962-11e5-92e5-06b48b82cd49",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "buddybing"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:34:57+0000",
+            "payload": {
+                "Player": "eb26c104-bbe9-11e5-bd20-06f4ee369f53",
+                "Hero": "*Petal*",
+                "Team": "1",
+                "Handle": "PaRRaNdErO"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:35:14+0000",
+            "payload": {
+                "Player": "c5b75748-6591-11e5-a415-068789513eb5",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "AnotherNoobGamer"
+            }
+        }
+    ],
+    "winner": "another"
+}

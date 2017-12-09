@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:33:35+0000",
+            "payload": {
+                "Player": "fed7b8da-3bb4-11e5-adff-0628b69bf6d1",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "2fast2furious"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:33:58+0000",
+            "payload": {
+                "Player": "1273af24-1550-11e5-b99d-06d90c28bf1a",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "XxThundaxX"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:34:01+0000",
+            "payload": {
+                "Player": "ed04e95c-7080-11e4-9499-062d0b175276",
+                "Hero": "*Phinn*",
+                "Team": "1",
+                "Handle": "Keris_"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:34:26+0000",
+            "payload": {
+                "Player": "4ff10ab2-ad69-11e4-8437-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Miichell"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:34:27+0000",
+            "payload": {
+                "Player": "be0d5088-2662-11e5-8f0e-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Asapkenn"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:34:29+0000",
+            "payload": {
+                "Player": "81b228ea-75d4-11e5-a928-06f4ee369f53",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "LORDICE"
+            }
+        }
+    ],
+    "winner": "another"
+}

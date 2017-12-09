@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:31:12+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:31:17+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:31:23+0000",
+            "payload": {
+                "Player": "fb8f23e8-df15-11e5-bf42-067e8bc536fd",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "xArchGamerx"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:31:30+0000",
+            "payload": {
+                "Player": "a2ddec46-91b9-11e6-b960-06ab1a16f8e5",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "fifthelemental"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:31:32+0000",
+            "payload": {
+                "Player": "50231cb6-1652-11e6-b201-06f4ee369f53",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "theforeigner"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:31:54+0000",
+            "payload": {
+                "Player": "29a99bba-a3d7-11e6-bd7a-06eb725f8a76",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "Ax5n1p3r"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:32:03+0000",
+            "payload": {
+                "Player": "2851de2c-4165-11e7-8865-02b3611af5e6",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "DaNuttyProfessor"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:32:06+0000",
+            "payload": {
+                "Player": "76ffa888-90c6-11e6-a1aa-06d90c28bf1a",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "OnenOnlyKO"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

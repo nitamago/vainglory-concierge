@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:16:46+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:17:13+0000",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:17:15+0000",
+            "payload": {
+                "Player": "cf7ba35a-e2cf-11e4-b081-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Noburu"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:17:17+0000",
+            "payload": {
+                "Player": "5506b7f4-ea27-11e4-889f-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "DeathKnightNA"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:17:19+0000",
+            "payload": {
+                "Player": "e0f8d082-3507-11e5-abbd-0628b69bf6d1",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "SOBxRBE"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:17:40+0000",
+            "payload": {
+                "Player": "1f84f3e4-48ea-11e5-91ea-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "SyI"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:18:04+0000",
+            "payload": {
+                "Player": "f87f313e-909c-11e4-b0e4-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "Natester22"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:18:06+0000",
+            "payload": {
+                "Player": "6682c318-3d26-11e5-99fc-068789513eb5",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "abelabels"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

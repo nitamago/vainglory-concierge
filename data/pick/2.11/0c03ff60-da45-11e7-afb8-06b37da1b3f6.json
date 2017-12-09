@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:19:59+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:20:12+0000",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:20:36+0000",
+            "payload": {
+                "Player": "54ca2928-69d5-11e5-b267-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Electroys"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:20:57+0000",
+            "payload": {
+                "Player": "d00b5a4c-8b2a-11e4-9ad5-06eb725f8a76",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "JulDeadly"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:21:14+0000",
+            "payload": {
+                "Player": "84847bf4-7a8e-11e5-a0f3-0628b69bf6d1",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Sneak25"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:21:30+0000",
+            "payload": {
+                "Player": "6aca6778-3d1f-11e7-bc72-0223dbc2587a",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "BeamRegimeYT"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:21:54+0000",
+            "payload": {
+                "Player": "619e16f4-b283-11e5-8465-0628b69bf6d1",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "AcceI"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:22:17+0000",
+            "payload": {
+                "Player": "c0164ad6-7b91-11e5-9684-0628b69bf6d1",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "Rich64"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

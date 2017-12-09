@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:08:12+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:08:15+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:08:33+0000",
+            "payload": {
+                "Player": "3f8372c8-aaa6-11e6-8ab8-06eb725f8a76",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "DezeraSavage"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:08:50+0000",
+            "payload": {
+                "Player": "51236386-7046-11e4-a054-06641bcbf424",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "DragoonSpirit"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:10+0000",
+            "payload": {
+                "Player": "8d9d8c9e-cb7e-11e5-977c-067e8bc536fd",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "IWantFood"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:27+0000",
+            "payload": {
+                "Player": "c558ffc0-90b4-11e4-bf99-06d90c28bf1a",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "TR00P"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:28+0000",
+            "payload": {
+                "Player": "603f2566-056b-11e5-be3e-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "TheGodOsiris"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:30+0000",
+            "payload": {
+                "Player": "92e1e578-2e81-11e5-acb4-06eb725f8a76",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "xNativePride"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

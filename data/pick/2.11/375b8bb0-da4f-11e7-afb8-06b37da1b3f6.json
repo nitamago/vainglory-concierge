@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:32:37+0000",
+            "payload": {
+                "Player": "0c834b9a-7c5f-11e4-9c04-06eb725f8a76",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "GodoftheArena"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:32:46+0000",
+            "payload": {
+                "Player": "4ddb9678-10fd-11e5-8301-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "hmmmaryan"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:32:56+0000",
+            "payload": {
+                "Player": "588a06aa-c57d-11e6-8dbe-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "RageCageKing"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:32:58+0000",
+            "payload": {
+                "Player": "9767e3d0-12fd-11e5-bc70-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Forrestdm"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:32:59+0000",
+            "payload": {
+                "Player": "171131a6-edc0-11e6-90d2-06ab1a16f8e5",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Febomorningstar"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:33:22+0000",
+            "payload": {
+                "Player": "293ac2fa-78a8-11e4-9ddc-06d90c28bf1a",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "wickiller"
+            }
+        }
+    ],
+    "winner": "another"
+}

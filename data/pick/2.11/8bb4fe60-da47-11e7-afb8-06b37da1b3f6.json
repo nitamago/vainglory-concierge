@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:37:44+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:37:50+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:38:02+0000",
+            "payload": {
+                "Player": "9a1982e2-a983-11e5-963a-0628b69bf6d1",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "dirtymanwhkre"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:38:12+0000",
+            "payload": {
+                "Player": "1fdeee54-b13d-11e7-aade-06d90c28bf1a",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "NanachiChan"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:38:25+0000",
+            "payload": {
+                "Player": "78e31bda-e80b-11e5-b391-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "XenoWert"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:38:46+0000",
+            "payload": {
+                "Player": "e091a052-feef-11e6-9c72-0263a81144c0",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "IsWill"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:38:53+0000",
+            "payload": {
+                "Player": "c5f27a30-94fb-11e7-ac82-06a9175d25fa",
+                "Hero": "*Petal*",
+                "Team": "1",
+                "Handle": "TonyAngels"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:38:58+0000",
+            "payload": {
+                "Player": "d4cd2478-22cb-11e5-bebd-06f4ee369f53",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Afridi"
+            }
+        }
+    ],
+    "winner": "another"
+}

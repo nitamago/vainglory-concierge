@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:36:35+0000",
+            "payload": {
+                "Player": "896b7904-728a-11e4-b331-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Tony07"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:36:43+0000",
+            "payload": {
+                "Player": "3ac1f01c-b019-11e5-8d4b-06d90c28bf1a",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "destroyerboy"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:37:03+0000",
+            "payload": {
+                "Player": "9ad24b8e-a769-11e7-8df2-06a9175d25fa",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "ATBJH"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:37:16+0000",
+            "payload": {
+                "Player": "9e9b903e-614e-11e6-beb1-0628b69bf6d1",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Logic7"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:37:17+0000",
+            "payload": {
+                "Player": "ddc11efc-8b77-11e6-b124-06b48b82cd49",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "HUFFLEPUFFIN16"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:37:18+0000",
+            "payload": {
+                "Player": "1db50da4-a3df-11e7-bb08-06fc87f1dd11",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "KarmaKill5"
+            }
+        }
+    ],
+    "winner": "another"
+}

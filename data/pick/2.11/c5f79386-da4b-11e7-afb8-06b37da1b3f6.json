@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:08:05+0000",
+            "payload": {
+                "Player": "8b19e95c-9d94-11e6-83a4-067e8bc536fd",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "puffenough"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:08:06+0000",
+            "payload": {
+                "Player": "c7c3efbe-6686-11e6-a01d-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "XendZame"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:08:10+0000",
+            "payload": {
+                "Player": "7eb876da-202a-11e5-8e45-06eb725f8a76",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "sorbett"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:08:14+0000",
+            "payload": {
+                "Player": "d15018a2-83c8-11e4-88cc-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Vacka"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:08:43+0000",
+            "payload": {
+                "Player": "96a5a188-3c02-11e6-a07d-06b48b82cd49",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "CaptKillz"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:08:44+0000",
+            "payload": {
+                "Player": "fba35cfa-5f85-11e6-bec5-06fc87f1dd11",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "Shylynn"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

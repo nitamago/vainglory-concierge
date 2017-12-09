@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:49:48+0000",
+            "payload": {
+                "Player": "9df48e64-353e-11e7-a2d5-062cb73cdbb1",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "budclouds"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:49:49+0000",
+            "payload": {
+                "Player": "243df58e-bff0-11e5-a5d3-06f4ee369f53",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Stuzal"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:49:54+0000",
+            "payload": {
+                "Player": "0829e6c4-7dd1-11e6-b0e4-06388a2f2ea7",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "Houdini16"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:50:11+0000",
+            "payload": {
+                "Player": "abd43716-16f2-11e6-b632-06ab1a16f8e5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "mrspacman"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:50:18+0000",
+            "payload": {
+                "Player": "f60356b0-824a-11e5-bb3e-068789513eb5",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "DivineWB"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:50:20+0000",
+            "payload": {
+                "Player": "356ccb9c-b1c0-11e6-b43b-06ab1a16f8e5",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "dwarfmafia"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

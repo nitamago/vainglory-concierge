@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:31:38+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:31:44+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:32:08+0000",
+            "payload": {
+                "Player": "c719e488-16f0-11e5-b33d-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Chrisssy"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:32:12+0000",
+            "payload": {
+                "Player": "f570ef02-a73d-11e4-ac6d-06d90c28bf1a",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "GrindR"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:32:21+0000",
+            "payload": {
+                "Player": "98d5bc5c-7121-11e4-9fbd-062d0b175276",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "Stussy"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:32:39+0000",
+            "payload": {
+                "Player": "4d963d0a-e940-11e5-bab9-068789513eb5",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "ACEcrEAtioN"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:32:59+0000",
+            "payload": {
+                "Player": "9fd8d4ba-73c4-11e6-8cab-06d90c28bf1a",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "KiwiAF"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:33:00+0000",
+            "payload": {
+                "Player": "6b22deba-d950-11e4-a2a5-06eb725f8a76",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "Trixster"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

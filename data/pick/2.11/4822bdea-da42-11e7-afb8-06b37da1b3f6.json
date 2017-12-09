@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:59:59+0000",
+            "payload": {
+                "Player": "3e685088-10aa-11e7-be93-06d90c28bf1a",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "XWarWolfX"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:00:01+0000",
+            "payload": {
+                "Player": "9293c2c6-d2b2-11e7-b58d-02ce883f709a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Vee7"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:00:15+0000",
+            "payload": {
+                "Player": "dae6fbfa-5542-11e5-8096-068789513eb5",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "R1CHARD"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:00:16+0000",
+            "payload": {
+                "Player": "d05977cc-d3b8-11e5-853f-0628b69bf6d1",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "MeAngry"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:00:39+0000",
+            "payload": {
+                "Player": "156fa926-a83e-11e6-984e-06eb725f8a76",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "AliensVerdes"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:00:56+0000",
+            "payload": {
+                "Player": "d9fcdcbe-3fb6-11e6-a619-0628b69bf6d1",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "pancito17"
+            }
+        }
+    ],
+    "winner": "another"
+}

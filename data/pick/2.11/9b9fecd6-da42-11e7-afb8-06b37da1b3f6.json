@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:02:45+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:02:59+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:03:19+0000",
+            "payload": {
+                "Player": "84a6297c-b22d-11e4-9f26-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Ethankiller"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:03:29+0000",
+            "payload": {
+                "Player": "e6c6dbd2-bc6e-11e5-91b4-0628b69bf6d1",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "EndlessAngel"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:03:33+0000",
+            "payload": {
+                "Player": "450c2994-a34d-11e5-9716-068789513eb5",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "paradoxicalworld"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:03:38+0000",
+            "payload": {
+                "Player": "acf71c5c-8805-11e5-b380-068789513eb5",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "upendra7"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:03:43+0000",
+            "payload": {
+                "Player": "df3bcc24-652f-11e5-8c30-06f4ee369f53",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "GODDLLY"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:03:47+0000",
+            "payload": {
+                "Player": "452f55f0-b840-11e6-989e-067e8bc536fd",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "jjeezTheMediocre"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

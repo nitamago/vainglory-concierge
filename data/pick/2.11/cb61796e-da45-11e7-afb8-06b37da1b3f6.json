@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:25:28+0000",
+            "payload": {
+                "Player": "d4fa6d7e-3a69-11e5-930a-06eb725f8a76",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "DeathNDoses"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:25:29+0000",
+            "payload": {
+                "Player": "6c9c159e-d962-11e7-9e5c-06b672bd5be2",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "Henkaii"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:25:33+0000",
+            "payload": {
+                "Player": "3e602f42-6f09-11e4-b6c2-062d0b175276",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "vovius"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:25:41+0000",
+            "payload": {
+                "Player": "2787e60a-a541-11e6-9375-06388a2f2ea7",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "MasterGiggity"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:25:44+0000",
+            "payload": {
+                "Player": "7fbc4bf8-6ecb-11e4-b701-06641bcbf424",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "MrKiddo"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:25:52+0000",
+            "payload": {
+                "Player": "6eea3910-6714-11e5-aa2b-068789513eb5",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "Stubal"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

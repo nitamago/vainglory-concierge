@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:03:48+0000",
+            "payload": {
+                "Player": "a5117786-9e3e-11e5-a1ff-068789513eb5",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "swimmerjared"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:03:53+0000",
+            "payload": {
+                "Player": "e8f83b4c-7ac5-11e6-9c01-06b48b82cd49",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "pwetnimelo"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:04:04+0000",
+            "payload": {
+                "Player": "3181f416-1307-11e5-b761-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "DressedInBlack"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:04:11+0000",
+            "payload": {
+                "Player": "1a88fd28-150e-11e5-9851-06d90c28bf1a",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "ponchofz"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:04:19+0000",
+            "payload": {
+                "Player": "de8cb98c-81ae-11e5-bf2d-06f4ee369f53",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "Ferriol"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:04:21+0000",
+            "payload": {
+                "Player": "7b8fd784-3a44-11e6-88ad-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "GabrielGmz"
+            }
+        }
+    ],
+    "winner": "another"
+}

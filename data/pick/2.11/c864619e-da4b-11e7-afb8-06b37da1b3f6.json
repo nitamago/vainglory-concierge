@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:07:57+0000",
+            "payload": {
+                "Player": "0990733c-1555-11e6-99be-06ab1a16f8e5",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "ActiveinfusioN"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:08:01+0000",
+            "payload": {
+                "Player": "ab81b656-7112-11e6-82ea-06eb725f8a76",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "Orion76"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:08:16+0000",
+            "payload": {
+                "Player": "c8098710-6b08-11e5-8120-06d90c28bf1a",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "WildThief"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:08:18+0000",
+            "payload": {
+                "Player": "3b46e614-46e7-11e5-8b7b-068789513eb5",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "EzekielJ"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:08:20+0000",
+            "payload": {
+                "Player": "91c77f80-834c-11e4-9439-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "CountVosburgh"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:08:20+0000",
+            "payload": {
+                "Player": "46f95d60-7290-11e4-a57c-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "IceMan2020"
+            }
+        }
+    ],
+    "winner": "another"
+}

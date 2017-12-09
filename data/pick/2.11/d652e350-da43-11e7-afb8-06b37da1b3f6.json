@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:11:24+0000",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:11:37+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:11:47+0000",
+            "payload": {
+                "Player": "c5b75748-6591-11e5-a415-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "AnotherNoobGamer"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:11:50+0000",
+            "payload": {
+                "Player": "43e58bf6-118c-11e7-a9e5-02b3611af5e6",
+                "Hero": "*Reza*",
+                "Team": "2",
+                "Handle": "TheDarkestSoul"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:11:58+0000",
+            "payload": {
+                "Player": "c244a9a2-84a3-11e7-8fee-02b3611af5e6",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "NationalBeast"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:12:16+0000",
+            "payload": {
+                "Player": "83cd39ec-7d11-11e4-8b94-06eb725f8a76",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "Shu_Ouma"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:12:37+0000",
+            "payload": {
+                "Player": "d96c695c-6962-11e5-92e5-06b48b82cd49",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "buddybing"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:12:47+0000",
+            "payload": {
+                "Player": "23414846-fc69-11e6-8155-029cb633549e",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "KiteBandito"
+            }
+        }
+    ],
+    "winner": "another"
+}

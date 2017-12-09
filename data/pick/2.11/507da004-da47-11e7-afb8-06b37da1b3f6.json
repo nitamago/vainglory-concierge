@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:36:24+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:36:51+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:37:08+0000",
+            "payload": {
+                "Player": "7efbc0fc-34d3-11e6-9ea3-06388a2f2ea7",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "ImABurntToast"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:37:32+0000",
+            "payload": {
+                "Player": "29d71d7e-24b2-11e5-8b04-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "lllllIIlllII"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:37:53+0000",
+            "payload": {
+                "Player": "ea4015fc-020b-11e6-95fe-062cb73cdbb1",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "lllllIIlllI"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:38:07+0000",
+            "payload": {
+                "Player": "14abc450-eb93-11e6-a51d-062cb73cdbb1",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "Firenado "
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:38:15+0000",
+            "payload": {
+                "Player": "cd98a6f6-723f-11e4-88b0-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Karatemaster"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:38:29+0000",
+            "payload": {
+                "Player": "ea9f5fb6-31ba-11e5-a5d5-06d90c28bf1a",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "CrisDan"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

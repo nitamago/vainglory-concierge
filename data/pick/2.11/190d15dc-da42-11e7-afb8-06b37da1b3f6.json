@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:58:55+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:58:57+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:59:01+0000",
+            "payload": {
+                "Player": "c14334b2-bc42-11e6-bea4-06388a2f2ea7",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "ByNameCoC"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:59:08+0000",
+            "payload": {
+                "Player": "e45a83b4-7198-11e6-bc05-06fc87f1dd11",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "JoeFixIt"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:59:32+0000",
+            "payload": {
+                "Player": "bfdde15a-0205-11e6-9d79-06b48b82cd49",
+                "Hero": "*Ozo*",
+                "Team": "2",
+                "Handle": "princehill82"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:59:50+0000",
+            "payload": {
+                "Player": "60ca8c5c-d963-11e4-b6cc-06eb725f8a76",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "steviej"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:00:12+0000",
+            "payload": {
+                "Player": "068ba336-bf39-11e5-84e3-0628b69bf6d1",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "alldaywakebake"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:00:16+0000",
+            "payload": {
+                "Player": "34839f48-204a-11e5-87d8-0628b69bf6d1",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "PATOPMP"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:22:59+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:23:13+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:23:16+0000",
+            "payload": {
+                "Player": "6eb9e22e-3829-11e6-8cfd-067e8bc536fd",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "LeveLdeKang"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:23:21+0000",
+            "payload": {
+                "Player": "4e194ce0-e030-11e5-be33-068789513eb5",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "DR4KULA"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:23:35+0000",
+            "payload": {
+                "Player": "313cf1e2-6670-11e5-805a-0628b69bf6d1",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "GodzillaKilla"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:23:39+0000",
+            "payload": {
+                "Player": "898e541c-35aa-11e6-84b2-06ab1a16f8e5",
+                "Hero": "*Flicker*",
+                "Team": "1",
+                "Handle": "velvted"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:23:59+0000",
+            "payload": {
+                "Player": "f25e49a0-c586-11e5-8117-068789513eb5",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "shetsu"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:24:02+0000",
+            "payload": {
+                "Player": "0b1490ee-7204-11e4-8ccc-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Roflz"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:56:45+0000",
+            "payload": {
+                "Player": "135111a6-2046-11e5-bbec-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "stone20"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:56:45+0000",
+            "payload": {
+                "Player": "64695d0e-6638-11e5-b9cb-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "FeLiXteKat"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:56:53+0000",
+            "payload": {
+                "Player": "0c4da0f6-3759-11e6-9bef-06f4ee369f53",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "SkiddyTalamasK"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:56:59+0000",
+            "payload": {
+                "Player": "71d701fa-727e-11e6-984b-06ab1a16f8e5",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "DLongs"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:57:09+0000",
+            "payload": {
+                "Player": "7cb72792-04ee-11e6-9253-06ab1a16f8e5",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "Sedechu"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:57:11+0000",
+            "payload": {
+                "Player": "e2741e1e-b066-11e5-b0da-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "Promaster233"
+            }
+        }
+    ],
+    "winner": "another"
+}

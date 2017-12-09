@@ -1,0 +1,74 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:08:32+0000",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:09:19+0000",
+            "payload": {
+                "Player": "24a7c468-a02a-11e5-9b49-06f4ee369f53",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "Antitrex"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:09:23+0000",
+            "payload": {
+                "Player": "22e34aec-f7e2-11e6-b6d1-02a5820c0f16",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "Beastfury9182"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:09:35+0000",
+            "payload": {
+                "Player": "80248f36-c048-11e5-9838-068789513eb5",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "TheLegendDrew"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:09:44+0000",
+            "payload": {
+                "Player": "f241bf50-5ca8-11e7-94f8-02b3611af5e6",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "Inxent"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:10:06+0000",
+            "payload": {
+                "Player": "588d8d3e-839b-11e7-abfc-02a5820c0f16",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "killairbus"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:10:29+0000",
+            "payload": {
+                "Player": "6059e64c-171e-11e6-ba83-062cb73cdbb1",
+                "Hero": "*Flicker*",
+                "Team": "2",
+                "Handle": "ELEMENTFURY"
+            }
+        }
+    ],
+    "winner": "another"
+}

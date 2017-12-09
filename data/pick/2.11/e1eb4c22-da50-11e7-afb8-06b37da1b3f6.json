@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:44:40+0000",
+            "payload": {
+                "Player": "acf3c77e-7275-11e4-a6c2-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Huaesky"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:44:41+0000",
+            "payload": {
+                "Player": "e4d9deaa-9000-11e4-93ba-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "pcgamex"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:44:42+0000",
+            "payload": {
+                "Player": "e4802184-f883-11e5-b73e-0628b69bf6d1",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "JaneMarie"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:45:01+0000",
+            "payload": {
+                "Player": "5997231e-b4f0-11e5-a1b9-06f4ee369f53",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "SaeranChoi"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:45:01+0000",
+            "payload": {
+                "Player": "e2741e1e-b066-11e5-b0da-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Promaster233"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:45:08+0000",
+            "payload": {
+                "Player": "af966abc-704b-11e4-afbd-06641bcbf424",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "TotalPhoenix"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

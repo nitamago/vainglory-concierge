@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:07:49+0000",
+            "payload": {
+                "Player": "9057da06-71f3-11e4-95b3-06d90c28bf1a",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "pandajor"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:07:52+0000",
+            "payload": {
+                "Player": "0b8f10c6-bcb3-11e5-8785-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "SkylerMaRiE"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:07:58+0000",
+            "payload": {
+                "Player": "68faa0dc-6757-11e6-a8c7-06fc87f1dd11",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Ariagan"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:08:09+0000",
+            "payload": {
+                "Player": "4b15792e-d5cc-11e5-bb78-06d90c28bf1a",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "Raidriar5"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:08:16+0000",
+            "payload": {
+                "Player": "855b6980-80f3-11e7-856b-020355b21670",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "KoichiGen"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:08:27+0000",
+            "payload": {
+                "Player": "abc8839a-7148-11e4-a054-06641bcbf424",
+                "Hero": "*Flicker*",
+                "Team": "2",
+                "Handle": "Loodo"
+            }
+        }
+    ],
+    "winner": "another"
+}

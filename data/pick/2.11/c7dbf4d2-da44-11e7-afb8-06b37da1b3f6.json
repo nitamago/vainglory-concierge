@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:18:12+0000",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:18:17+0000",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:18:37+0000",
+            "payload": {
+                "Player": "908d880e-9070-11e4-a9bb-06eb725f8a76",
+                "Hero": "*Flicker*",
+                "Team": "1",
+                "Handle": "theSHRPone"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:18:53+0000",
+            "payload": {
+                "Player": "217a9b68-6ac7-11e6-82bb-062cb73cdbb1",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "TITANB0B"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:18:55+0000",
+            "payload": {
+                "Player": "cca55bd4-df6e-11e5-baff-0628b69bf6d1",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "SenshiNoRyujin"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:18:58+0000",
+            "payload": {
+                "Player": "61ebe0bc-0360-11e7-89db-062cb73cdbb1",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "LiLprince07"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:19:21+0000",
+            "payload": {
+                "Player": "876a8c0e-c5f8-11e5-8785-06d90c28bf1a",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "Jordash"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:19:39+0000",
+            "payload": {
+                "Player": "b5b21196-c808-11e6-bb93-06d90c28bf1a",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "EERASERHEADD"
+            }
+        }
+    ],
+    "winner": "another"
+}

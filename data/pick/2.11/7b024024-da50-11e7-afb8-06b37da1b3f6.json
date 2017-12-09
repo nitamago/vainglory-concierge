@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:41:50+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:41:54+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:42:00+0000",
+            "payload": {
+                "Player": "1edcb5e4-e585-11e4-9aef-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "akde"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:42:10+0000",
+            "payload": {
+                "Player": "d66ac6b0-abb7-11e7-ac95-067e8bc536fd",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "TxBryan"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:42:20+0000",
+            "payload": {
+                "Player": "28648a8c-a9c1-11e5-bf19-068789513eb5",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "ThisisnotmySMURF"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:42:25+0000",
+            "payload": {
+                "Player": "658e14fc-7b49-11e4-886e-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "WilCD"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:42:45+0000",
+            "payload": {
+                "Player": "f25e49a0-c586-11e5-8117-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "shetsu"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:42:52+0000",
+            "payload": {
+                "Player": "78641bdc-400c-11e7-9245-06c5ee41a4a5",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "JulDeadlyNA"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:48:47+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:48:59+0000",
+            "payload": {
+                "Hero": "*Catherine*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:49:01+0000",
+            "payload": {
+                "Player": "0822d5e2-84df-11e4-9953-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Neto0711"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:49:06+0000",
+            "payload": {
+                "Player": "d67cb570-7c97-11e4-9851-06eb725f8a76",
+                "Hero": "*Grumpjaw*",
+                "Team": "2",
+                "Handle": "Cookie_sketch"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:49:17+0000",
+            "payload": {
+                "Player": "48a6924e-2dda-11e5-86d0-06f4ee369f53",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "hunterxXxhunter"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:49:38+0000",
+            "payload": {
+                "Player": "b64b9b70-c5d6-11e5-9142-06f4ee369f53",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "TheTallGuy"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:49:58+0000",
+            "payload": {
+                "Player": "7cb2b8fa-fd82-11e6-825e-06388a2f2ea7",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "JCassian"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:50:12+0000",
+            "payload": {
+                "Player": "618b668c-71f5-11e4-8ccc-06d90c28bf1a",
+                "Hero": "*Flicker*",
+                "Team": "2",
+                "Handle": "Dillion49"
+            }
+        }
+    ],
+    "winner": "another"
+}

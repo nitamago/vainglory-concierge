@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:46:51+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:47:02+0000",
+            "payload": {
+                "Hero": "*Phinn*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:47:04+0000",
+            "payload": {
+                "Player": "190d38f2-75df-11e4-a2d6-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "thebundi"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:47:27+0000",
+            "payload": {
+                "Player": "6442489c-a257-11e7-b35c-062cb73cdbb1",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "AbusedNapkin"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:47:30+0000",
+            "payload": {
+                "Player": "abb62a12-6be6-11e5-b2bd-06b48b82cd49",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "cakegoddess"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:47:55+0000",
+            "payload": {
+                "Player": "8f81f2d4-2d8b-11e5-b1fe-06f4ee369f53",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "fillydip"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:48:09+0000",
+            "payload": {
+                "Player": "54b7b34c-9306-11e5-a54c-06eb725f8a76",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "Tacomon"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:48:28+0000",
+            "payload": {
+                "Player": "3c07cad2-6a0a-11e5-aea3-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Kelsssheee"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

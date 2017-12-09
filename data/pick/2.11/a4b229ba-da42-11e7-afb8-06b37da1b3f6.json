@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:03:02+0000",
+            "payload": {
+                "Hero": "*Churnwalker*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:03:04+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:03:16+0000",
+            "payload": {
+                "Player": "0ee1163c-3482-11e7-8516-02866102f5a6",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "LoveScars"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:03:28+0000",
+            "payload": {
+                "Player": "c7d203d0-298b-11e5-9526-068789513eb5",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Jazville"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:03:38+0000",
+            "payload": {
+                "Player": "5472b556-d34b-11e4-a9c9-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "NasIsTheBest"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:03:56+0000",
+            "payload": {
+                "Player": "d942d45e-8734-11e4-b997-06d90c28bf1a",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "JaecheonDaesong"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:04:09+0000",
+            "payload": {
+                "Player": "66bfaf34-8d5a-11e4-947f-06eb725f8a76",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "GOODLUCKHAVEFUN"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:04:31+0000",
+            "payload": {
+                "Player": "8b84bae8-c86a-11e5-8b24-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "AllyPeterson"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

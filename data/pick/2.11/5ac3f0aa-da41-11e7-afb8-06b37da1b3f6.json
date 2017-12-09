@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:53:26+0000",
+            "payload": {
+                "Player": "827c24c2-3bbe-11e7-9465-0297ea8a7ddc",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "JOSUEIII"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:53:45+0000",
+            "payload": {
+                "Player": "2f45deae-c613-11e6-ba94-06ab1a16f8e5",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "Lunist"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:53:45+0000",
+            "payload": {
+                "Player": "59d54028-446a-11e5-a661-06f4ee369f53",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "hypervain57"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:53:46+0000",
+            "payload": {
+                "Player": "f794bb88-3cb1-11e5-bbbc-068789513eb5",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "TheStrangeTamer"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:54:11+0000",
+            "payload": {
+                "Player": "0afe3c2e-239b-11e5-9a4e-0628b69bf6d1",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "DuoChamp"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:54:19+0000",
+            "payload": {
+                "Player": "588a06aa-c57d-11e6-8dbe-068789513eb5",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "RageCageKing"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

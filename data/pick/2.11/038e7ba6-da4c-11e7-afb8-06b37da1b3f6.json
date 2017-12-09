@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:09:58+0000",
+            "payload": {
+                "Player": "d1b330e6-a4a3-11e7-81c5-06c5ee41a4a5",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "hooa17"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:10:10+0000",
+            "payload": {
+                "Player": "864cf8d2-bc49-11e6-99be-06fc87f1dd11",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "VonJonBrovi"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:10:12+0000",
+            "payload": {
+                "Player": "fa59b804-5f8d-11e7-b5fa-0224e22aef46",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "kwanoi"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:10:24+0000",
+            "payload": {
+                "Player": "76e54d22-2b27-11e5-bede-06b48b82cd49",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "spiderkar"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:10:29+0000",
+            "payload": {
+                "Player": "645fc9e4-922e-11e4-9144-06eb725f8a76",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "kidwall"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:10:31+0000",
+            "payload": {
+                "Player": "f46f6130-8967-11e5-a511-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "1evo1"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

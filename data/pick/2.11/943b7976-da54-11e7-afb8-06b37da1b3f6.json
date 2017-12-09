@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T07:11:01+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T07:11:05+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:11:11+0000",
+            "payload": {
+                "Player": "d00b5a4c-8b2a-11e4-9ad5-06eb725f8a76",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "JulDeadly"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:11:34+0000",
+            "payload": {
+                "Player": "7edd8eb4-1c6f-11e7-8e23-06ab1a16f8e5",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "BestDstractionNA"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:11:45+0000",
+            "payload": {
+                "Player": "8aff9c24-8ac3-11e7-b8bb-06a9175d25fa",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "SYTHHD"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:12:09+0000",
+            "payload": {
+                "Player": "e091a052-feef-11e6-9c72-0263a81144c0",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "IsWill"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:12:16+0000",
+            "payload": {
+                "Player": "68bc7a74-9586-11e7-9e1d-068789513eb5",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "iAmAriel "
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:12:27+0000",
+            "payload": {
+                "Player": "85904522-8067-11e4-a891-06d90c28bf1a",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "theamazinghulk"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

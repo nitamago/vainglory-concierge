@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:28:35+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:28:44+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:29:01+0000",
+            "payload": {
+                "Player": "1a9017be-84c3-11e5-bb55-068789513eb5",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "XxSilenzerxX"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:29:25+0000",
+            "payload": {
+                "Player": "fbc84e00-8c75-11e4-bc71-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "CGREG15"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:29:31+0000",
+            "payload": {
+                "Player": "6d5db87c-9173-11e5-90db-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "VerwerXXIII"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:29:56+0000",
+            "payload": {
+                "Player": "b53b50d0-8d06-11e5-b022-06f4ee369f53",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "Woodworking"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:30:08+0000",
+            "payload": {
+                "Player": "0f4d474e-375d-11e6-80f7-06eb725f8a76",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "ZunK"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:30:26+0000",
+            "payload": {
+                "Player": "bd7de704-dee6-11e4-bc0d-06d90c28bf1a",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "goyo21"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

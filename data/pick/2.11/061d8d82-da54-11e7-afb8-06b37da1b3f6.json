@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T07:07:03+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T07:07:27+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:07:29+0000",
+            "payload": {
+                "Player": "cf7ba35a-e2cf-11e4-b081-06eb725f8a76",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "Noburu"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:07:51+0000",
+            "payload": {
+                "Player": "068ba336-bf39-11e5-84e3-0628b69bf6d1",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "alldaywakebake"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:07:51+0000",
+            "payload": {
+                "Player": "92067ed8-252c-11e5-8818-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "b3astmod3"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:07:58+0000",
+            "payload": {
+                "Player": "d67a2136-80f5-11e4-b245-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Leekor12"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:08:22+0000",
+            "payload": {
+                "Player": "70367908-2f7a-11e6-8604-06ab1a16f8e5",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "Pvman"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:08:45+0000",
+            "payload": {
+                "Player": "47ede044-3ed5-11e5-89fb-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "branditoo"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

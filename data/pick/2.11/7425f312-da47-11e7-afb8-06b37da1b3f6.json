@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:37:07+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:37:13+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:37:26+0000",
+            "payload": {
+                "Player": "f55e7902-31ed-11e7-a86d-029cb633549e",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "LemLegend3"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:37:44+0000",
+            "payload": {
+                "Player": "6796a68c-a9fc-11e5-9378-06b48b82cd49",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "Argixaan"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:38:08+0000",
+            "payload": {
+                "Player": "d09f7a54-54df-11e5-a674-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "THEDIEGUIS"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:38:09+0000",
+            "payload": {
+                "Player": "6c635f38-722c-11e4-a20b-06d90c28bf1a",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "Moonlight2024"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:38:20+0000",
+            "payload": {
+                "Player": "b1683872-2129-11e5-b2c4-06b48b82cd49",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "KruciiaL"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:38:25+0000",
+            "payload": {
+                "Player": "3a0fc21a-c7ad-11e5-877e-068789513eb5",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "Ratajkowskii"
+            }
+        }
+    ],
+    "winner": "another"
+}

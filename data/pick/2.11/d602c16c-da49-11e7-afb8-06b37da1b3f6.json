@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:54:11+0000",
+            "payload": {
+                "Player": "d292fa90-3a83-11e6-af40-06388a2f2ea7",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "FrancisBlood"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:54:18+0000",
+            "payload": {
+                "Player": "1e191ae0-c277-11e7-9df7-02081e0fc90e",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Brake123"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:54:19+0000",
+            "payload": {
+                "Player": "3ed0fa6a-24cb-11e5-85a7-06f4ee369f53",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "kaijumota"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:54:19+0000",
+            "payload": {
+                "Player": "46da9204-7ab8-11e6-a952-0628b69bf6d1",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "Ponyo3"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:54:35+0000",
+            "payload": {
+                "Player": "c08c83d8-35c5-11e6-9d82-06388a2f2ea7",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "Washeezoo"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:54:38+0000",
+            "payload": {
+                "Player": "69347508-2dc5-11e6-b0e7-06f4ee369f53",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "TripleOG"
+            }
+        }
+    ],
+    "winner": "another"
+}

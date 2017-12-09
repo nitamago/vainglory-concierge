@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:08:44+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:09:00+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:12+0000",
+            "payload": {
+                "Player": "3d7153b2-2c7d-11e6-8383-067e8bc536fd",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "lykuz"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:26+0000",
+            "payload": {
+                "Player": "1140618a-9e22-11e7-8b03-06fc87f1dd11",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "AragornDragon"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:39+0000",
+            "payload": {
+                "Player": "bdda5366-90b8-11e5-a943-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "uchija"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:10:01+0000",
+            "payload": {
+                "Player": "d4cd2478-22cb-11e5-bebd-06f4ee369f53",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "Afridi"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:10:08+0000",
+            "payload": {
+                "Player": "5b4cd12c-47d6-11e5-8aab-06f4ee369f53",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "The21jux"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:10:29+0000",
+            "payload": {
+                "Player": "b3efa63c-d3af-11e5-9b75-06c5ee41a4a5",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "ItsKamina"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:08:50+0000",
+            "payload": {
+                "Hero": "*Ardan*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:09:04+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:09:12+0000",
+            "payload": {
+                "Player": "ba4a7c60-8efe-11e4-8897-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "iNecFlash"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:09:36+0000",
+            "payload": {
+                "Player": "8a7367a8-5cbd-11e5-83cd-06d90c28bf1a",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "NeOnNezZy"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:09:40+0000",
+            "payload": {
+                "Player": "f5cc2152-1d5c-11e5-9a30-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Sugabear"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:09:47+0000",
+            "payload": {
+                "Player": "6a5a36bc-6be6-11e5-8f14-06b48b82cd49",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "zik696"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:09:57+0000",
+            "payload": {
+                "Player": "769713d6-ffa8-11e5-b400-0628b69bf6d1",
+                "Hero": "*Ozo*",
+                "Team": "1",
+                "Handle": "ErXon"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:10:18+0000",
+            "payload": {
+                "Player": "4eda1c02-de2f-11e5-a15e-06fc87f1dd11",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "DogEatDogWorld"
+            }
+        }
+    ],
+    "winner": "another"
+}

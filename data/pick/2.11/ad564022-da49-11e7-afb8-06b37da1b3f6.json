@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:53:06+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:53:26+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:53:32+0000",
+            "payload": {
+                "Player": "4ddc9198-957d-11e7-af00-0297ea8a7ddc",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "thesaucegod"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:53:50+0000",
+            "payload": {
+                "Player": "bdda5366-90b8-11e5-a943-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "uchija"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:53:53+0000",
+            "payload": {
+                "Player": "3d7153b2-2c7d-11e6-8383-067e8bc536fd",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "lykuz"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:54:04+0000",
+            "payload": {
+                "Player": "eeba18ba-a5b1-11e4-81a1-06d90c28bf1a",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "mapb994"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:54:26+0000",
+            "payload": {
+                "Player": "7e36ef38-ae7f-11e4-9840-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "CantLastHit"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:54:28+0000",
+            "payload": {
+                "Player": "d743c216-f15f-11e6-ba66-0263a81144c0",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "PSwells"
+            }
+        }
+    ],
+    "winner": "another"
+}

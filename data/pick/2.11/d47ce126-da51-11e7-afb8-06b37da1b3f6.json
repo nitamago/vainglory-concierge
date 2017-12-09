@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:51:19+0000",
+            "payload": {
+                "Player": "31588e5c-bc0f-11e6-8e17-06388a2f2ea7",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "spencer1023"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:51:21+0000",
+            "payload": {
+                "Player": "adb6bc12-9f74-11e4-9a9d-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "Figget "
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:51:23+0000",
+            "payload": {
+                "Player": "b18391a2-6674-11e7-b86f-06f4ee369f53",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "TauntingGiants"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:51:24+0000",
+            "payload": {
+                "Player": "181b419c-aa85-11e5-b9f7-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "winterstorm1988"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:51:29+0000",
+            "payload": {
+                "Player": "e301452c-b5c1-11e5-a587-06b48b82cd49",
+                "Hero": "*Ozo*",
+                "Team": "1",
+                "Handle": "Cmiller"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:51:43+0000",
+            "payload": {
+                "Player": "e96ac8f6-44eb-11e7-8599-020355b21670",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "Protatoez"
+            }
+        }
+    ],
+    "winner": "another"
+}

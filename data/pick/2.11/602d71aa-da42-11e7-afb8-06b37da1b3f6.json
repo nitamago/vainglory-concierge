@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:00:43+0000",
+            "payload": {
+                "Player": "d67dfd9c-29bf-11e5-a9ce-06b48b82cd49",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "greenzeye"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:00:48+0000",
+            "payload": {
+                "Player": "8c81086e-b5bf-11e6-8ed5-06b48b82cd49",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "NahualKing"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:00:48+0000",
+            "payload": {
+                "Player": "e7e4c7c2-04c2-11e5-b566-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Toroterra"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:00:51+0000",
+            "payload": {
+                "Player": "85f78e8e-1355-11e7-80fc-06c5ee41a4a5",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "yamemandu"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:01:08+0000",
+            "payload": {
+                "Player": "46cf5360-0dd7-11e6-9a88-068789513eb5",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "Vretil"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:01:21+0000",
+            "payload": {
+                "Player": "ae27f2be-3bec-11e5-aeae-06b48b82cd49",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "RobSeaSot"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

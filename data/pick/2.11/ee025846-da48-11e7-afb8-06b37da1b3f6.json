@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:47:31+0000",
+            "payload": {
+                "Player": "fa6d0ab8-df72-11e5-8092-06b48b82cd49",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "DustyDork"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:47:32+0000",
+            "payload": {
+                "Player": "33155fe4-b1a3-11e5-9e93-06f4ee369f53",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "gabe33333"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:47:51+0000",
+            "payload": {
+                "Player": "586b5baa-6d64-11e5-8269-0628b69bf6d1",
+                "Hero": "*Grumpjaw*",
+                "Team": "2",
+                "Handle": "urbitchescrush"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:47:52+0000",
+            "payload": {
+                "Player": "d9391974-608f-11e6-a4c1-06fc87f1dd11",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "Obey1kanObey"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:47:54+0000",
+            "payload": {
+                "Player": "6ce3b5de-31ac-11e6-b2ce-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "MediateMouse"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:48:16+0000",
+            "payload": {
+                "Player": "2cb5ce8c-5322-11e7-b021-020ecf4900d0",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "ACM96"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

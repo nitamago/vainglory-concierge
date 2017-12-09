@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:12:31+0000",
+            "payload": {
+                "Player": "85597d3c-dfdd-11e4-9890-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "joMommasHouse"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:12:47+0000",
+            "payload": {
+                "Player": "e54364e4-86f3-11e4-b47c-06eb725f8a76",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "boeck"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:13:00+0000",
+            "payload": {
+                "Player": "3c608d56-36fc-11e6-b88f-06c5ee41a4a5",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "saips58"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:13:06+0000",
+            "payload": {
+                "Player": "38278f84-13f1-11e5-9ec6-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "anikiliator"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:13:07+0000",
+            "payload": {
+                "Player": "845f2492-acd6-11e5-b667-06f4ee369f53",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "iFarmTurrets"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:13:26+0000",
+            "payload": {
+                "Player": "dc0e7120-8ddd-11e4-8897-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "Aimer"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

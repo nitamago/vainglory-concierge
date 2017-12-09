@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:03:33+0000",
+            "payload": {
+                "Player": "9df48e64-353e-11e7-a2d5-062cb73cdbb1",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "budclouds"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:04:07+0000",
+            "payload": {
+                "Player": "46ad5fd8-307f-11e6-8469-067e8bc536fd",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "charpy1"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:04:22+0000",
+            "payload": {
+                "Player": "9a7d7de4-ca3c-11e6-9f12-06b48b82cd49",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "playtolive23"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:04:22+0000",
+            "payload": {
+                "Player": "3481493c-a8bd-11e4-93e7-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "SomeKidNamedAlex"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:04:23+0000",
+            "payload": {
+                "Player": "a63fea16-238c-11e5-85b3-06b48b82cd49",
+                "Hero": "*Petal*",
+                "Team": "1",
+                "Handle": "mekkasesto"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:04:24+0000",
+            "payload": {
+                "Player": "a4c38f00-0ff6-11e7-8234-0224e22aef46",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Ventruillo"
+            }
+        }
+    ],
+    "winner": "another"
+}

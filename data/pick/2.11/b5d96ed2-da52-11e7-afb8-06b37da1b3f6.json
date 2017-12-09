@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:58:01+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:58:03+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:58:07+0000",
+            "payload": {
+                "Player": "3204e4dc-7dd8-11e7-adb7-06a9175d25fa",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "BillilentonxM"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:58:17+0000",
+            "payload": {
+                "Player": "4948f34c-b12c-11e5-bc60-06eb725f8a76",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "Artiicuno"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:58:32+0000",
+            "payload": {
+                "Player": "6de82ab8-b025-11e5-b02d-0628b69bf6d1",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "StrategicX"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:58:36+0000",
+            "payload": {
+                "Player": "ae389d16-ed23-11e4-9e70-06eb725f8a76",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "VgColoradoSkum"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:58:58+0000",
+            "payload": {
+                "Player": "9445eed6-d215-11e5-bf52-06ab1a16f8e5",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "Rubicante"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:59:21+0000",
+            "payload": {
+                "Player": "0d5d9430-aeb7-11e6-9752-062cb73cdbb1",
+                "Hero": "*Reza*",
+                "Team": "2",
+                "Handle": "WhatsMeta"
+            }
+        }
+    ],
+    "winner": "another"
+}

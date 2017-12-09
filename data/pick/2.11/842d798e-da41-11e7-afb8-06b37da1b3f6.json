@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:54:40+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:54:47+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:54:49+0000",
+            "payload": {
+                "Player": "06a77394-921d-11e4-9ba0-06d90c28bf1a",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "MewTwolnATutu"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:54:51+0000",
+            "payload": {
+                "Player": "4e555232-31d3-11e5-a200-0628b69bf6d1",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "TheB4ne"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:54:59+0000",
+            "payload": {
+                "Player": "1d134bae-0e4a-11e5-b1bc-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Raff10"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:55:23+0000",
+            "payload": {
+                "Player": "8a847ed2-dce6-11e4-bd61-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "SlickbackJr"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:55:41+0000",
+            "payload": {
+                "Player": "cd98a6f6-723f-11e4-88b0-06d90c28bf1a",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "Karatemaster"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:55:49+0000",
+            "payload": {
+                "Player": "01a47828-34e9-11e5-8ae7-0628b69bf6d1",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "bluer123"
+            }
+        }
+    ],
+    "winner": "another"
+}

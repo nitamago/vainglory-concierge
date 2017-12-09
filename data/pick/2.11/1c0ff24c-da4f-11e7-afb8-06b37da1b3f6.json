@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:31:53+0000",
+            "payload": {
+                "Player": "b3e57842-c073-11e4-988d-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "FAMOUS"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:31:56+0000",
+            "payload": {
+                "Player": "645f21d2-e58f-11e5-9cc5-06c5ee41a4a5",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "Wurmy"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:32:03+0000",
+            "payload": {
+                "Player": "58b9f7d2-720a-11e6-aefe-067e8bc536fd",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "KritzTK"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:32:37+0000",
+            "payload": {
+                "Player": "0e580058-64b9-11e5-a9de-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "Krasics7"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:32:39+0000",
+            "payload": {
+                "Player": "a38719c6-6e96-11e4-b701-06641bcbf424",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "Fortaye"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:32:51+0000",
+            "payload": {
+                "Player": "01c1d1d6-520a-11e6-a795-067e8bc536fd",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "kugauluv"
+            }
+        }
+    ],
+    "winner": "another"
+}

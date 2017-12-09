@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:47:02+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:47:21+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:47:31+0000",
+            "payload": {
+                "Player": "184b3330-3571-11e6-97bb-06b48b82cd49",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "alfonsox93"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:47:55+0000",
+            "payload": {
+                "Player": "15969f10-b43a-11e6-9aaa-06c5ee41a4a5",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "chosen1pr"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:48:18+0000",
+            "payload": {
+                "Player": "69b1c90c-87a5-11e5-bc2c-0628b69bf6d1",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "SenexProxy"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:48:39+0000",
+            "payload": {
+                "Player": "37da0a5a-d437-11e5-b3d2-06f4ee369f53",
+                "Hero": "*Samuel*",
+                "Team": "1",
+                "Handle": "Kkhuate"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:49:02+0000",
+            "payload": {
+                "Player": "b6741716-adf4-11e5-8eae-06f4ee369f53",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "xXlilEmanXx"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:49:14+0000",
+            "payload": {
+                "Player": "2c918aa4-e2bd-11e4-9787-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "JayChu"
+            }
+        }
+    ],
+    "winner": "another"
+}

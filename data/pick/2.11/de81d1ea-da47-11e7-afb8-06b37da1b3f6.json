@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:40:04+0000",
+            "payload": {
+                "Player": "e5d87202-a076-11e6-b8c0-06f4ee369f53",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "RisenShadow"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:40:09+0000",
+            "payload": {
+                "Player": "4ace000c-c3ee-11e5-9eae-06b48b82cd49",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "JoblessJoshua"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:40:19+0000",
+            "payload": {
+                "Player": "f365d872-b14d-11e7-ab06-06a9175d25fa",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "Beelzebubazaar"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:40:21+0000",
+            "payload": {
+                "Player": "0121bda2-3dd4-11e7-bf7f-02866102f5a6",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "michaelmho"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:40:29+0000",
+            "payload": {
+                "Player": "37832352-c8f5-11e7-8804-0654fca4c20c",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "Montavy"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:40:38+0000",
+            "payload": {
+                "Player": "c74906de-0832-11e7-b166-062cb73cdbb1",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "shooterofdeath"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:23:46+0000",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:23:50+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:24:05+0000",
+            "payload": {
+                "Player": "593662f8-8b08-11e4-888b-06d90c28bf1a",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "ViirusT"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:24:28+0000",
+            "payload": {
+                "Player": "cdbd952e-6d75-11e5-9e8f-06f4ee369f53",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "bichobi"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:24:34+0000",
+            "payload": {
+                "Player": "04b17a58-72e2-11e4-8932-06d90c28bf1a",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "IspecterI"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:24:55+0000",
+            "payload": {
+                "Player": "769713d6-ffa8-11e5-b400-0628b69bf6d1",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "ErXon"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:25:17+0000",
+            "payload": {
+                "Player": "72626898-bee8-11e5-908e-06b48b82cd49",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "LilSleep"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:25:21+0000",
+            "payload": {
+                "Player": "7edd8eb4-1c6f-11e7-8e23-06ab1a16f8e5",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "BestDstractionNA"
+            }
+        }
+    ],
+    "winner": "another"
+}

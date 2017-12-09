@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:58:57+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:59:08+0000",
+            "payload": {
+                "Hero": "*Vox*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:59:28+0000",
+            "payload": {
+                "Player": "744440fa-6b40-11e6-b136-06c5ee41a4a5",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "CuckMeDaddy"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:59:52+0000",
+            "payload": {
+                "Player": "f938c9a4-9e2f-11e5-aa8c-0628b69bf6d1",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Guest2213"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:00:14+0000",
+            "payload": {
+                "Player": "2b39ed36-237c-11e5-9a22-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "ZeroGamingV1"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:00:27+0000",
+            "payload": {
+                "Player": "fbfa6586-f50e-11e5-bb47-067e8bc536fd",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Sonverse"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:00:31+0000",
+            "payload": {
+                "Player": "fba5b09a-b1a7-11e5-b36c-06f4ee369f53",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "tylerdurden619"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:00:55+0000",
+            "payload": {
+                "Player": "c7ab29c4-8290-11e4-b0a5-06d90c28bf1a",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "TacoLove"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:52:45+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:53:03+0000",
+            "payload": {
+                "Hero": "*Alpha*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:53:04+0000",
+            "payload": {
+                "Player": "94685dde-8cd4-11e6-b75d-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "lopezz21"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:53:25+0000",
+            "payload": {
+                "Player": "32a14f7c-4f70-11e5-90e6-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "THESHEEPDOG"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:53:44+0000",
+            "payload": {
+                "Player": "01054eb0-9923-11e7-a691-029cb633549e",
+                "Hero": "*Flicker*",
+                "Team": "2",
+                "Handle": "KINGDOM99"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:53:52+0000",
+            "payload": {
+                "Player": "c309584c-86e2-11e7-b7b8-02081e0fc90e",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "AlanJ99"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:53:56+0000",
+            "payload": {
+                "Player": "353c7ff4-8cd7-11e6-af24-06b48b82cd49",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "Lancia13"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:54:04+0000",
+            "payload": {
+                "Player": "65b2b56e-14b7-11e7-8cf4-020ecf4900d0",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "MrPinkk"
+            }
+        }
+    ],
+    "winner": "another"
+}

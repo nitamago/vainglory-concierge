@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:39:24+0000",
+            "payload": {
+                "Hero": "*Alpha*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:39:32+0000",
+            "payload": {
+                "Hero": "*Catherine*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:39:56+0000",
+            "payload": {
+                "Player": "062c7dc8-6bda-11e5-977c-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "SirGarnet"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:40:10+0000",
+            "payload": {
+                "Player": "f377e798-8750-11e5-bc34-0628b69bf6d1",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Cmour"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:40:29+0000",
+            "payload": {
+                "Player": "da8bf56c-bca7-11e5-9b6a-068789513eb5",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "MrStealyoBacks"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:40:44+0000",
+            "payload": {
+                "Player": "c476bac8-6755-11e7-ab7e-06c5ee41a4a5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "trinithy"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:40:47+0000",
+            "payload": {
+                "Player": "24b52aa4-cdcf-11e5-8c43-06b48b82cd49",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "naruto1999"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:40:52+0000",
+            "payload": {
+                "Player": "ad7715b6-41d0-11e7-8ed9-02a5820c0f16",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "KingRAGNAR"
+            }
+        }
+    ],
+    "winner": "another"
+}

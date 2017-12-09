@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:06:18+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:06:33+0000",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:06:34+0000",
+            "payload": {
+                "Player": "38798e60-2ce2-11e5-a56e-06b48b82cd49",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "DraGunZ"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:06:39+0000",
+            "payload": {
+                "Player": "e7c6dbf8-22a0-11e5-91e4-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Lixue"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:06:47+0000",
+            "payload": {
+                "Player": "9d5c5a3e-c551-11e6-94f2-06fc87f1dd11",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "classceleste"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:06:53+0000",
+            "payload": {
+                "Player": "6207bfb8-9548-11e4-9297-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "DarkIenzo"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:07:01+0000",
+            "payload": {
+                "Player": "8b8e6a62-993e-11e5-b768-0628b69bf6d1",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "Auddie"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:07:20+0000",
+            "payload": {
+                "Player": "68153af4-7821-11e5-9b4d-06f4ee369f53",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "CLloyD"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

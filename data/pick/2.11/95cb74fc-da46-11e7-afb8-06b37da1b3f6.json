@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:30:51+0000",
+            "payload": {
+                "Player": "5cb0a28c-5cb5-11e7-a07c-02081e0fc90e",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "TheCatsheep"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:30:52+0000",
+            "payload": {
+                "Player": "12d7f91a-77db-11e4-8b95-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "GiovaMB"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:31:02+0000",
+            "payload": {
+                "Player": "3c7cd1e6-777c-11e4-8b02-06d90c28bf1a",
+                "Hero": "*Petal*",
+                "Team": "1",
+                "Handle": "Feray"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:31:07+0000",
+            "payload": {
+                "Player": "4f692876-d5e6-11e5-bfdb-06388a2f2ea7",
+                "Hero": "*Samuel*",
+                "Team": "1",
+                "Handle": "FateVibe"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:31:11+0000",
+            "payload": {
+                "Player": "b042f96e-fed7-11e5-a44d-06b48b82cd49",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "giobani"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:31:11+0000",
+            "payload": {
+                "Player": "89a967d8-654a-11e5-8a61-06eb725f8a76",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "Drakun86"
+            }
+        }
+    ],
+    "winner": "another"
+}

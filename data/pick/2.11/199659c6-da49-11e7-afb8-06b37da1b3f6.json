@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:49:11+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:49:31+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:49:54+0000",
+            "payload": {
+                "Player": "9fe89bac-3e23-11e5-b84f-068789513eb5",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "TheSack"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:50:13+0000",
+            "payload": {
+                "Player": "5a8967be-1ad9-11e7-aa1e-0223dbc2587a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "digny195"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:50:15+0000",
+            "payload": {
+                "Player": "2ceb2cc8-48db-11e6-a68a-062cb73cdbb1",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "NiceDog"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:50:31+0000",
+            "payload": {
+                "Player": "f6f38a16-0fd8-11e5-8014-06eb725f8a76",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "Bagel36"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:50:55+0000",
+            "payload": {
+                "Player": "a65e78b6-c6e5-11e6-aa59-06fc87f1dd11",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "IIJediMasterII"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:51:19+0000",
+            "payload": {
+                "Player": "08bb1496-05e9-11e7-841e-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Sergio17"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:25:13+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:25:21+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:25:34+0000",
+            "payload": {
+                "Player": "0465c562-84f6-11e7-ad59-06388a2f2ea7",
+                "Hero": "*Churnwalker*",
+                "Team": "1",
+                "Handle": "DumbledoreA"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:25:47+0000",
+            "payload": {
+                "Player": "e2ab373a-cb7a-11e5-b17a-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "OrangeGuy52"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:26:08+0000",
+            "payload": {
+                "Player": "f87f313e-909c-11e4-b0e4-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Natester22"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:26:21+0000",
+            "payload": {
+                "Player": "c37b35a2-5c05-11e5-bf04-06f4ee369f53",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "loki64"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:26:29+0000",
+            "payload": {
+                "Player": "d1a8bb7c-6a56-11e5-b94d-06d90c28bf1a",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "Russcrowe"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:26:38+0000",
+            "payload": {
+                "Player": "198c0378-0d1b-11e7-86b3-02866102f5a6",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "ImFat"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:56:45+0000",
+            "payload": {
+                "Hero": "*Joule*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:56:52+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:56:58+0000",
+            "payload": {
+                "Player": "b1aeba72-85a2-11e4-9439-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "EdwardHolmes"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:57:02+0000",
+            "payload": {
+                "Player": "c7be0ecc-77bd-11e5-87ab-06d90c28bf1a",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "sickSpartan117"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:57:08+0000",
+            "payload": {
+                "Player": "4ef25788-9e4e-11e6-9f72-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "KaNaKz"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:57:21+0000",
+            "payload": {
+                "Player": "dac305f0-575e-11e6-84d8-06fc87f1dd11",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "aizero19"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:57:23+0000",
+            "payload": {
+                "Player": "4673e712-94bb-11e6-9bd6-06ab1a16f8e5",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "dase64"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:57:46+0000",
+            "payload": {
+                "Player": "ba6cf6ae-9e4d-11e6-a1c7-067e8bc536fd",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "RoyalAloha"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

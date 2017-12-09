@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:20:37+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:21:02+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:21:24+0000",
+            "payload": {
+                "Player": "2ddd5504-ac81-11e4-9b4e-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "amazingkg"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:21:41+0000",
+            "payload": {
+                "Player": "4f1d4d8e-b1a1-11e5-a74d-068789513eb5",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Chelo130"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:21:58+0000",
+            "payload": {
+                "Player": "07ba7722-7e03-11e5-9fa3-06f4ee369f53",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Lagarto845"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:22:02+0000",
+            "payload": {
+                "Player": "2e5050a4-8bde-11e4-bf9c-06d90c28bf1a",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "Chaininy"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:22:06+0000",
+            "payload": {
+                "Player": "2fa3f260-ddd7-11e6-aab6-067e8bc536fd",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "LetsFaceTimeBubu"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:22:28+0000",
+            "payload": {
+                "Player": "4fe58fe2-f1a2-11e5-aa10-06b48b82cd49",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "ZombiePolloo"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

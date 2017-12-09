@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:37:53+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:38:15+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:38:22+0000",
+            "payload": {
+                "Player": "cdbd952e-6d75-11e5-9e8f-06f4ee369f53",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "bichobi"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:38:41+0000",
+            "payload": {
+                "Player": "85dee3c8-297f-11e5-a943-06f4ee369f53",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "EdwuardElric"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:38:47+0000",
+            "payload": {
+                "Player": "fb3782ae-f7ac-11e6-834f-06c5ee41a4a5",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "NaDeShoT"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:39:10+0000",
+            "payload": {
+                "Player": "593662f8-8b08-11e4-888b-06d90c28bf1a",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "ViirusT"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:39:17+0000",
+            "payload": {
+                "Player": "e0d27752-2143-11e5-826a-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "Varrien"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:39:36+0000",
+            "payload": {
+                "Player": "17163e62-0807-11e5-8385-06eb725f8a76",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "Esteban534"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:02:36+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:02:43+0000",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:02:58+0000",
+            "payload": {
+                "Player": "6ee32daa-04a8-11e6-9902-067e8bc536fd",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "xXOwlKingXx"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:03:10+0000",
+            "payload": {
+                "Player": "8b5e2146-74cf-11e6-b369-0628b69bf6d1",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "qween2000"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:03:18+0000",
+            "payload": {
+                "Player": "e2ca09a8-6c88-11e6-ba72-0628b69bf6d1",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "PaxTheHunter"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:03:19+0000",
+            "payload": {
+                "Player": "846caa5c-8d44-11e4-9f18-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "LordBryant"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:03:25+0000",
+            "payload": {
+                "Player": "0a645274-2842-11e6-9328-067e8bc536fd",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "Phamtonface"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:03:46+0000",
+            "payload": {
+                "Player": "4eefc076-1061-11e5-8014-06eb725f8a76",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "Fernimack"
+            }
+        }
+    ],
+    "winner": "another"
+}

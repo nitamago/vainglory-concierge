@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:57:56+0000",
+            "payload": {
+                "Hero": "*Alpha*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:58:18+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:58:40+0000",
+            "payload": {
+                "Player": "e586efea-c250-11e5-addf-068789513eb5",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "ChiefEmerys"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:58:46+0000",
+            "payload": {
+                "Player": "9939d3f4-a889-11e5-a3a6-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Thewhitedead"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:59:08+0000",
+            "payload": {
+                "Player": "fb49fcfe-b42c-11e6-ab28-06eb725f8a76",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "Joel1204Papu"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:59:10+0000",
+            "payload": {
+                "Player": "279efb40-221d-11e5-a385-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "sillyrabbit"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:59:16+0000",
+            "payload": {
+                "Player": "99e290e0-7291-11e4-9184-06d90c28bf1a",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "ChiefSosa"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:59:32+0000",
+            "payload": {
+                "Player": "19fbfeb8-b207-11e6-8917-06ab1a16f8e5",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "xRECx"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

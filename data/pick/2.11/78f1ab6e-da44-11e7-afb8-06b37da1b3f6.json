@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:15:41+0000",
+            "payload": {
+                "Player": "e16c791e-5324-11e7-800d-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Pok3"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:15:55+0000",
+            "payload": {
+                "Player": "f46f6130-8967-11e5-a511-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "1evo1"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:15:56+0000",
+            "payload": {
+                "Player": "e05e614a-abf8-11e7-bd45-06f4ee369f53",
+                "Hero": "*Reza*",
+                "Team": "2",
+                "Handle": "GreatBrandoni"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:15:59+0000",
+            "payload": {
+                "Player": "645fc9e4-922e-11e4-9144-06eb725f8a76",
+                "Hero": "*Ozo*",
+                "Team": "1",
+                "Handle": "kidwall"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:16:18+0000",
+            "payload": {
+                "Player": "267bd768-ce43-11e7-a81a-069ef91bd55c",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "WinstonDoPhi"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:16:24+0000",
+            "payload": {
+                "Player": "704f2d0c-5fc8-11e7-973e-06ab1a16f8e5",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "rishabhz"
+            }
+        }
+    ],
+    "winner": "another"
+}

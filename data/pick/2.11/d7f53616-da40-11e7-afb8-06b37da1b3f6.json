@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:49:55+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:50:02+0000",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:50:15+0000",
+            "payload": {
+                "Player": "cad8ec40-ae8a-11e5-a74d-068789513eb5",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "DM0L1SH"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:50:17+0000",
+            "payload": {
+                "Player": "baa45408-16be-11e6-91f0-06b48b82cd49",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "jugger12"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:50:27+0000",
+            "payload": {
+                "Player": "0edb60bc-771b-11e7-859c-020ecf4900d0",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "NeverPeeWhistle"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:50:44+0000",
+            "payload": {
+                "Player": "d2c90bfa-27b2-11e6-8a69-0628b69bf6d1",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "sanket11"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:51:02+0000",
+            "payload": {
+                "Player": "5990aeec-21e9-11e6-9c06-06388a2f2ea7",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "BlackSoldier97"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:51:15+0000",
+            "payload": {
+                "Player": "d23403ea-8fed-11e6-8a68-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "StayDrizzy"
+            }
+        }
+    ],
+    "winner": "another"
+}

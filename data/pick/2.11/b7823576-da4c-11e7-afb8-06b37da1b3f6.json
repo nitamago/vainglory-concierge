@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:15:02+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:15:24+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:15:41+0000",
+            "payload": {
+                "Player": "4c427a1a-7374-11e4-88b0-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "hnxy99"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:16:00+0000",
+            "payload": {
+                "Player": "8d967bb0-71b7-11e4-9c35-062d0b175276",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Zeeley"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:16:23+0000",
+            "payload": {
+                "Player": "af158610-7166-11e4-9c3c-06641bcbf424",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "Airwreckage"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:16:25+0000",
+            "payload": {
+                "Player": "cd9485c8-2cea-11e6-bfe1-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "CrypticOwl"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:16:31+0000",
+            "payload": {
+                "Player": "5a5e8d4c-3475-11e5-8eac-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "BKriter"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:16:37+0000",
+            "payload": {
+                "Player": "2cd409a4-403c-11e7-b388-06ab1a16f8e5",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "mercedesbeo"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

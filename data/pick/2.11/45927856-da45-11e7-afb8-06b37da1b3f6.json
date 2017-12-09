@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:21:34+0000",
+            "payload": {
+                "Player": "4ebeeaa6-b9cd-11e7-a567-068789513eb5",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "hancient"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:21:36+0000",
+            "payload": {
+                "Player": "47fb1cec-351e-11e6-ba42-062cb73cdbb1",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "kikzhay"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:21:48+0000",
+            "payload": {
+                "Player": "a77e6ae2-cf0b-11e7-934a-06b672bd5be2",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "noiz97"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:22:14+0000",
+            "payload": {
+                "Player": "7b0ca126-0583-11e5-b1ba-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "bloodcloaked"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:22:19+0000",
+            "payload": {
+                "Player": "c0cf9cc2-bf5d-11e7-93d9-06eb725f8a76",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "Demonkame"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:22:28+0000",
+            "payload": {
+                "Player": "3574ecc0-6fb6-11e5-bc93-06b48b82cd49",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "ryemj"
+            }
+        }
+    ],
+    "winner": "another"
+}

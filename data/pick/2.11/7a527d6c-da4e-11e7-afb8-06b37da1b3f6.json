@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:27:23+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:27:37+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:27:41+0000",
+            "payload": {
+                "Player": "fb8f23e8-df15-11e5-bf42-067e8bc536fd",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "xArchGamerx"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:27:47+0000",
+            "payload": {
+                "Player": "15ae05ba-ee96-11e6-9cc8-06f4ee369f53",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "heartheat"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:27:52+0000",
+            "payload": {
+                "Player": "833ca33e-357e-11e5-930a-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "novajnior"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:27:55+0000",
+            "payload": {
+                "Player": "29a99bba-a3d7-11e6-bd7a-06eb725f8a76",
+                "Hero": "*Flicker*",
+                "Team": "1",
+                "Handle": "Ax5n1p3r"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:28:00+0000",
+            "payload": {
+                "Player": "2851de2c-4165-11e7-8865-02b3611af5e6",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "DaNuttyProfessor"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:28:16+0000",
+            "payload": {
+                "Player": "4a069426-43d9-11e5-91aa-06b48b82cd49",
+                "Hero": "*Baron*",
+                "Team": "2",
+                "Handle": "fleco21998"
+            }
+        }
+    ],
+    "winner": "another"
+}

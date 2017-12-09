@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:47:30+0000",
+            "payload": {
+                "Player": "8647f9c0-bcd3-11e5-9bcf-06f4ee369f53",
+                "Hero": "*Ozo*",
+                "Team": "2",
+                "Handle": "SIGHIRU"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:47:59+0000",
+            "payload": {
+                "Player": "475890e2-d2e6-11e6-a8f6-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "thrall03"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:48:03+0000",
+            "payload": {
+                "Player": "f41ae758-0fc9-11e5-ad0e-06eb725f8a76",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "yuhhNOtim"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:48:06+0000",
+            "payload": {
+                "Player": "c96a831a-687f-11e5-b6da-06b48b82cd49",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "empoleon"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:48:17+0000",
+            "payload": {
+                "Player": "1b23fab2-5b2b-11e6-99c1-06b48b82cd49",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "InhaledEmotions"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:48:24+0000",
+            "payload": {
+                "Player": "66f02d1c-84b3-11e4-84bf-06eb725f8a76",
+                "Hero": "*Baptiste*",
+                "Team": "1",
+                "Handle": "Cossurf"
+            }
+        }
+    ],
+    "winner": "another"
+}

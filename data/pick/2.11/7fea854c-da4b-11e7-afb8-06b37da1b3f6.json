@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:06:00+0000",
+            "payload": {
+                "Hero": "*Ardan*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:06:04+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:06:17+0000",
+            "payload": {
+                "Player": "f487ed52-2724-11e7-b564-02f3b4306918",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "luvell"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:06:19+0000",
+            "payload": {
+                "Player": "6a268b42-205d-11e6-85a7-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "RapthorZTK"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:06:44+0000",
+            "payload": {
+                "Player": "b47d6772-118d-11e5-9548-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "AnimePusiPlz"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:06:52+0000",
+            "payload": {
+                "Player": "4167fca8-738f-11e4-a192-06d90c28bf1a",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "Victimn"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:07:08+0000",
+            "payload": {
+                "Player": "67b193f0-9113-11e4-a9bb-06eb725f8a76",
+                "Hero": "*Petal*",
+                "Team": "1",
+                "Handle": "SkyDevil"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:07:22+0000",
+            "payload": {
+                "Player": "9ea94140-1148-11e5-80ff-06d90c28bf1a",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "Otaku4ever "
+            }
+        }
+    ],
+    "winner": "another"
+}

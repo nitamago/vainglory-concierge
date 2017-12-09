@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:20:58+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:21:03+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:21:08+0000",
+            "payload": {
+                "Player": "7403310a-71f5-11e4-961b-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "PatMcLeprechaun"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:21:17+0000",
+            "payload": {
+                "Player": "9de8333c-f54a-11e6-8338-06ab1a16f8e5",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "fpg"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:21:23+0000",
+            "payload": {
+                "Player": "466bab40-7ff9-11e7-8101-06388a2f2ea7",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "BuiIldDefense"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:21:45+0000",
+            "payload": {
+                "Player": "37539e70-0755-11e5-98b4-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Sethery"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:21:55+0000",
+            "payload": {
+                "Player": "6c702310-3c21-11e6-9ea1-0628b69bf6d1",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "xGALAXYx"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:22:15+0000",
+            "payload": {
+                "Player": "71d42322-af74-11e5-99c5-068789513eb5",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "Fezzz"
+            }
+        }
+    ],
+    "winner": "another"
+}

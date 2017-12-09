@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:44:30+0000",
+            "payload": {
+                "Hero": "*Vox*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:44:50+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:44:57+0000",
+            "payload": {
+                "Player": "2e5a27c8-847c-11e4-a597-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "skyboi"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:45:14+0000",
+            "payload": {
+                "Player": "2670731a-1f88-11e7-8314-062cb73cdbb1",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "iLove15minLPQ"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:45:28+0000",
+            "payload": {
+                "Player": "1952ae48-ff17-11e4-b3f0-06d90c28bf1a",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "GirlsOnBoys"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:45:39+0000",
+            "payload": {
+                "Player": "03c6b64a-3b39-11e7-8647-020ecf4900d0",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "DrukGyalpo"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:45:53+0000",
+            "payload": {
+                "Player": "92ba7e1a-90b5-11e6-b8ec-06ab1a16f8e5",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "slumpedboi"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:46:11+0000",
+            "payload": {
+                "Player": "5288a076-8469-11e7-9918-020ecf4900d0",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "LuluXiu"
+            }
+        }
+    ],
+    "winner": "another"
+}

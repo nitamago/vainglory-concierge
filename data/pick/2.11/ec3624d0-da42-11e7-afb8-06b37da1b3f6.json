@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:04:40+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:04:45+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:04:55+0000",
+            "payload": {
+                "Player": "9269d94a-865a-11e4-9953-06eb725f8a76",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "Xnihilo"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:05:17+0000",
+            "payload": {
+                "Player": "121b333e-6ea2-11e5-b1dc-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "Eat23"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:05:17+0000",
+            "payload": {
+                "Player": "91ce29a0-3806-11e6-86f4-06ab1a16f8e5",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "ItsEddy"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:05:38+0000",
+            "payload": {
+                "Player": "3047d03a-7694-11e4-a756-06d90c28bf1a",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "aske808"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:06:00+0000",
+            "payload": {
+                "Player": "2120c074-79ed-11e4-9ddc-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Pyros_Demise"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:06:24+0000",
+            "payload": {
+                "Player": "ae6fdd88-2015-11e5-9696-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "FancyNancy"
+            }
+        }
+    ],
+    "winner": "another"
+}

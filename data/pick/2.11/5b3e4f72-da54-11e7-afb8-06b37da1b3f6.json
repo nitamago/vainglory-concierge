@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:09:26+0000",
+            "payload": {
+                "Player": "9e280b42-7e37-11e4-be83-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "LordMerlot"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:09:27+0000",
+            "payload": {
+                "Player": "43edd348-0349-11e7-8458-06a9175d25fa",
+                "Hero": "*Koshka*",
+                "Team": "1",
+                "Handle": "farrahact"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:09:54+0000",
+            "payload": {
+                "Player": "de3731f0-cbbd-11e7-af08-06b672bd5be2",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "garebearbjj"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:10:04+0000",
+            "payload": {
+                "Player": "b8f25b32-d3dc-11e7-a382-02ce883f709a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Meowfin"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:10:05+0000",
+            "payload": {
+                "Player": "892333f6-43b2-11e6-b638-06388a2f2ea7",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "GreenPlaya"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:10:19+0000",
+            "payload": {
+                "Player": "990c8e0e-8895-11e4-a8e1-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Skrog"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:19:10+0000",
+            "payload": {
+                "Player": "d2258bde-1d6f-11e7-a174-06eb725f8a76",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "BLaRose"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:19:14+0000",
+            "payload": {
+                "Player": "5201d4d6-0fd3-11e5-b7a2-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Assailanttt"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:19:33+0000",
+            "payload": {
+                "Player": "720ca544-6d66-11e5-a85f-068789513eb5",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "ParasiticBunny"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:19:36+0000",
+            "payload": {
+                "Player": "b6da325c-16c3-11e6-bf19-06ab1a16f8e5",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "GaelDark"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:19:38+0000",
+            "payload": {
+                "Player": "c7f4639e-597e-11e5-846a-068789513eb5",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "AlejandroZett"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:19:41+0000",
+            "payload": {
+                "Player": "97ce6c14-37db-11e6-97b9-06b48b82cd49",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "RafaelIbave"
+            }
+        }
+    ],
+    "winner": "another"
+}

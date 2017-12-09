@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:02:48+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:02:55+0000",
+            "payload": {
+                "Hero": "*Grace*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:02:56+0000",
+            "payload": {
+                "Player": "2ec7e14e-3355-11e6-8a49-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Socom2016"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:03:18+0000",
+            "payload": {
+                "Player": "9ec50e2c-6068-11e7-a0ce-029cb633549e",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "SubM3Out"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:03:32+0000",
+            "payload": {
+                "Player": "00aa3866-5d16-11e7-9293-02f3b4306918",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "AbYssaL"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:03:56+0000",
+            "payload": {
+                "Player": "51672280-77e9-11e7-bb89-029cb633549e",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "TheAngryLizard"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:04:20+0000",
+            "payload": {
+                "Player": "f5cb5bde-b728-11e6-a01f-062cb73cdbb1",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "PolarArches"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:04:24+0000",
+            "payload": {
+                "Player": "2f45aeb6-f77e-11e5-b84e-067e8bc536fd",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "KingMamba24"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

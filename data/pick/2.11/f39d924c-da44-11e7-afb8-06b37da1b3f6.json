@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:19:06+0000",
+            "payload": {
+                "Player": "0dae380e-cbd1-11e6-be3f-06ab1a16f8e5",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Longshowers"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:19:13+0000",
+            "payload": {
+                "Player": "fa4253ba-9572-11e7-a739-06388a2f2ea7",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "23mb"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:19:14+0000",
+            "payload": {
+                "Player": "476ee666-6eb2-11e4-b86c-062d0b175276",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Limit"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:19:16+0000",
+            "payload": {
+                "Player": "10bef39c-f7da-11e5-b5b7-06f4ee369f53",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "ErikDrew"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:19:19+0000",
+            "payload": {
+                "Player": "968c087e-816b-11e5-9284-0628b69bf6d1",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "NiteBlue"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:19:20+0000",
+            "payload": {
+                "Player": "0d588784-95b5-11e7-a392-02b3611af5e6",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "iKiddo"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

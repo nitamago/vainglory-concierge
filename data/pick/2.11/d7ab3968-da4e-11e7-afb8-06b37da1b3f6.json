@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:29:59+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:30:19+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:30:22+0000",
+            "payload": {
+                "Player": "8ad8c11a-3c07-11e5-bb2d-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "FreddyCrooger"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:30:45+0000",
+            "payload": {
+                "Player": "b3a12f9e-022a-11e6-8537-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "PrinceCharlie9"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:31:04+0000",
+            "payload": {
+                "Player": "9e848386-6ee7-11e4-b7eb-06641bcbf424",
+                "Hero": "*Samuel*",
+                "Team": "2",
+                "Handle": "Wolfstanix"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:31:27+0000",
+            "payload": {
+                "Player": "bb382f2a-1471-11e5-8a23-06eb725f8a76",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "AFitzwater12"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:31:32+0000",
+            "payload": {
+                "Player": "65c78a46-4bba-11e6-b35a-06f4ee369f53",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "SirSleepy33"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:31:54+0000",
+            "payload": {
+                "Player": "eb14ff54-8eff-11e4-8243-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Istarli"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

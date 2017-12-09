@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:30:05+0000",
+            "payload": {
+                "Player": "39703796-711d-11e4-b1ff-06641bcbf424",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "kratos76"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:30:05+0000",
+            "payload": {
+                "Player": "4ce98b36-ad44-11e7-9df7-02081e0fc90e",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "MosaicCosmos"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:30:09+0000",
+            "payload": {
+                "Player": "41ff2108-75a8-11e4-b745-06d90c28bf1a",
+                "Hero": "*Petal*",
+                "Team": "2",
+                "Handle": "Dgil"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:30:15+0000",
+            "payload": {
+                "Player": "e3d794da-9763-11e7-9748-06fc87f1dd11",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "CouldNotFindOne"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:30:16+0000",
+            "payload": {
+                "Player": "8c81086e-b5bf-11e6-8ed5-06b48b82cd49",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "NahualKing"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:30:27+0000",
+            "payload": {
+                "Player": "3894ec12-c59a-11e6-a806-06388a2f2ea7",
+                "Hero": "*Adagio*",
+                "Team": "1",
+                "Handle": "JayJayXIII"
+            }
+        }
+    ],
+    "winner": "another"
+}

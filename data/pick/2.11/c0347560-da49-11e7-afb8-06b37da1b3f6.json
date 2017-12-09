@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:53:25+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:53:54+0000",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:54:10+0000",
+            "payload": {
+                "Player": "71d42322-af74-11e5-99c5-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Fezzz"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:54:15+0000",
+            "payload": {
+                "Player": "a7ab4f14-002b-11e5-aa22-06eb725f8a76",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Selmaw"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:54:33+0000",
+            "payload": {
+                "Player": "5034e246-511a-11e5-a4e8-06d90c28bf1a",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "Silentkillerr"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:54:56+0000",
+            "payload": {
+                "Player": "6b4bc0e2-07a1-11e7-951e-06fc87f1dd11",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "ZenZoO"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:55:19+0000",
+            "payload": {
+                "Player": "466bab40-7ff9-11e7-8101-06388a2f2ea7",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "BuiIldDefense"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:55:33+0000",
+            "payload": {
+                "Player": "85bc7e7a-7f46-11e4-a86b-06eb725f8a76",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "Cynical"
+            }
+        }
+    ],
+    "winner": "another"
+}

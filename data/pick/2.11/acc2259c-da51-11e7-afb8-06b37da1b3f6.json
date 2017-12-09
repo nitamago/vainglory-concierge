@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:50:15+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:50:33+0000",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:50:40+0000",
+            "payload": {
+                "Player": "d4cf5bb2-3fdb-11e5-92ad-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "NickdeG"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:50:41+0000",
+            "payload": {
+                "Player": "910f4168-6ded-11e5-9456-0628b69bf6d1",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "TempePenyet"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:51:00+0000",
+            "payload": {
+                "Player": "473516c8-e429-11e5-beea-0628b69bf6d1",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "Fijifa5"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:51:21+0000",
+            "payload": {
+                "Player": "5a5744d6-3b89-11e5-89a5-06d90c28bf1a",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "mynamesblurry"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:51:27+0000",
+            "payload": {
+                "Player": "c984c4f4-82a0-11e7-bbac-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "FlowerBoi"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:51:32+0000",
+            "payload": {
+                "Player": "3e16a090-e198-11e5-8efd-06388a2f2ea7",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "Greg009"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

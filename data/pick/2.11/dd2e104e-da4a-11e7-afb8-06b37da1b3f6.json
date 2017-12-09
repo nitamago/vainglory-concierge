@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:01:30+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:01:35+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:01:46+0000",
+            "payload": {
+                "Player": "38decab8-e1b0-11e5-a0a3-067e8bc536fd",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "ShadowGod13"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:02:00+0000",
+            "payload": {
+                "Player": "fb8f23e8-df15-11e5-bf42-067e8bc536fd",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "xArchGamerx"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:02:18+0000",
+            "payload": {
+                "Player": "29a99bba-a3d7-11e6-bd7a-06eb725f8a76",
+                "Hero": "*Flicker*",
+                "Team": "2",
+                "Handle": "Ax5n1p3r"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:02:35+0000",
+            "payload": {
+                "Player": "15aac1c4-56c5-11e7-8190-020ecf4900d0",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "XCatBugNinjaX"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:02:55+0000",
+            "payload": {
+                "Player": "7163c4ca-bda6-11e5-8221-06d90c28bf1a",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "UniverseGod"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:02:56+0000",
+            "payload": {
+                "Player": "2851de2c-4165-11e7-8865-02b3611af5e6",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "DaNuttyProfessor"
+            }
+        }
+    ],
+    "winner": "another"
+}

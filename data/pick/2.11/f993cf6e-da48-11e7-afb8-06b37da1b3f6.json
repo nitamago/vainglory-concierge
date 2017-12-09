@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:47:59+0000",
+            "payload": {
+                "Player": "2fe0b5dc-b104-11e7-81de-062cb73cdbb1",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "HideTheYoshi"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:48:09+0000",
+            "payload": {
+                "Player": "50c95a34-b240-11e5-a3b7-06b48b82cd49",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "Hellfiend"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:48:47+0000",
+            "payload": {
+                "Player": "846caa5c-8d44-11e4-9f18-06d90c28bf1a",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "LordBryant"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:48:49+0000",
+            "payload": {
+                "Player": "6ee32daa-04a8-11e6-9902-067e8bc536fd",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "xXOwlKingXx"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:48:49+0000",
+            "payload": {
+                "Player": "97293fe2-47ba-11e7-b351-067e8bc536fd",
+                "Hero": "*Glaive*",
+                "Team": "1",
+                "Handle": "XarrowjrX"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:48:54+0000",
+            "payload": {
+                "Player": "fcaacb4c-be2c-11e5-b5db-06b48b82cd49",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "soldiersilver"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

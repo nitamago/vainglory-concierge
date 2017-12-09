@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:05:08+0000",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:05:22+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:05:27+0000",
+            "payload": {
+                "Player": "542e1a90-7d0b-11e4-a86b-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "iHarlie"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:05:47+0000",
+            "payload": {
+                "Player": "2ee6bf48-c514-11e4-9c48-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Bobsicle96"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:06:09+0000",
+            "payload": {
+                "Player": "bffe9078-7361-11e4-a29d-06d90c28bf1a",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "jalex2050"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:06:16+0000",
+            "payload": {
+                "Player": "5f425a0c-90ae-11e4-9f55-06eb725f8a76",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "iKake"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:06:34+0000",
+            "payload": {
+                "Player": "500a2a3a-8147-11e5-955e-0628b69bf6d1",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "BeZrk"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:06:36+0000",
+            "payload": {
+                "Player": "cfedfaf8-927a-11e5-b244-068789513eb5",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "EDGrams"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

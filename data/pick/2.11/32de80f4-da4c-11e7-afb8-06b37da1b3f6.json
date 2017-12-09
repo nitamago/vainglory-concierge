@@ -1,0 +1,76 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:10:57+0000",
+            "payload": {
+                "Player": "172dd038-5c00-11e6-8ea7-06fc87f1dd11",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "PureStyle"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:10:58+0000",
+            "payload": {
+                "Player": "d63ed228-70d5-11e4-9e0f-06641bcbf424",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "jeshurun"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:10:59+0000",
+            "payload": {
+                "Player": "f80cbb7c-d0ea-11e7-89c7-069ef91bd55c",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "Vladma"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:11:00+0000",
+            "payload": {
+                "Player": "2774e7f2-af55-11e7-8727-06a9175d25fa",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "MasterMayo"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:11:00+0000",
+            "payload": {
+                "Player": "7cd2dfb6-d8b7-11e7-8b60-020c8314066a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "BOOMSquad"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:11:04+0000",
+            "payload": {
+                "Player": "ee29b59a-9b2d-11e6-a9b4-06f4ee369f53",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "RoBru"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:11:23+0000",
+            "payload": {
+                "Player": "7cd2dfb6-d8b7-11e7-8b60-020c8314066a",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "BOOMSquad"
+            }
+        }
+    ],
+    "winner": "another"
+}

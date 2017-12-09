@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:35:55+0000",
+            "payload": {
+                "Hero": "*Skye*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:36:02+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:36:13+0000",
+            "payload": {
+                "Player": "a5101f3a-d52f-11e5-8154-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "Soulreaperr"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:36:29+0000",
+            "payload": {
+                "Player": "7139b72e-2392-11e5-80d7-06b48b82cd49",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "DrBobDobis"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:36:39+0000",
+            "payload": {
+                "Player": "60511446-0f79-11e7-8591-06f4ee369f53",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Uglymongoose"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:36:56+0000",
+            "payload": {
+                "Player": "9ea94140-1148-11e5-80ff-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Otaku4ever "
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:37:14+0000",
+            "payload": {
+                "Player": "b47d6772-118d-11e5-9548-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "AnimePusiPlz"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:37:17+0000",
+            "payload": {
+                "Player": "9213c716-0ed7-11e5-8afb-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "theElectedOne"
+            }
+        }
+    ],
+    "winner": "another"
+}

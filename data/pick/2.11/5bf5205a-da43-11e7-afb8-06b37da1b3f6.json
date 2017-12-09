@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:07:46+0000",
+            "payload": {
+                "Hero": "*Vox*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:07:57+0000",
+            "payload": {
+                "Hero": "*Joule*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:08:18+0000",
+            "payload": {
+                "Player": "c7ab29c4-8290-11e4-b0a5-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "TacoLove"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:08:24+0000",
+            "payload": {
+                "Player": "04630eb2-59c9-11e5-b209-06b48b82cd49",
+                "Hero": "*Ozo*",
+                "Team": "2",
+                "Handle": "Lemonicus"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:08:29+0000",
+            "payload": {
+                "Player": "9ad29070-948e-11e5-832e-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "Setuiret"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:08:45+0000",
+            "payload": {
+                "Player": "e7506d48-75de-11e4-9ddc-06d90c28bf1a",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "AndraeKMTY"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:08:46+0000",
+            "payload": {
+                "Player": "7ad69420-8ff0-11e6-9ce5-06eb725f8a76",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "CondeWolf"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:08:57+0000",
+            "payload": {
+                "Player": "f55e7902-31ed-11e7-a86d-029cb633549e",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "LemLegend3"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

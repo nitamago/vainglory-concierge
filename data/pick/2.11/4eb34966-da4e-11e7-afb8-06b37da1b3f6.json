@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:26:33+0000",
+            "payload": {
+                "Hero": "*Catherine*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:26:40+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:27:01+0000",
+            "payload": {
+                "Player": "0d5d9430-aeb7-11e6-9752-062cb73cdbb1",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "WhatsMeta"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:27:05+0000",
+            "payload": {
+                "Player": "1deac122-e678-11e5-b993-06b48b82cd49",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "Twinspar"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:27:14+0000",
+            "payload": {
+                "Player": "c2bf1b1e-85fe-11e6-a299-06fc87f1dd11",
+                "Hero": "*Phinn*",
+                "Team": "2",
+                "Handle": "MojoRiewer"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:27:31+0000",
+            "payload": {
+                "Player": "6de82ab8-b025-11e5-b02d-0628b69bf6d1",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "StrategicX"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:27:42+0000",
+            "payload": {
+                "Player": "5afaf7a2-8830-11e7-8d44-0297ea8a7ddc",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "XRapTorX"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:27:46+0000",
+            "payload": {
+                "Player": "16f8cb9e-303c-11e6-a9d3-06f4ee369f53",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "cabilla"
+            }
+        }
+    ],
+    "winner": "another"
+}

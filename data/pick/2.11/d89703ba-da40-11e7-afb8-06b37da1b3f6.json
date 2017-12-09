@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:49:55+0000",
+            "payload": {
+                "Player": "6e37c866-7f43-11e4-9304-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Jitch"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:50:08+0000",
+            "payload": {
+                "Player": "b5174724-a4a0-11e5-b2f2-0628b69bf6d1",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Astral5"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:50:15+0000",
+            "payload": {
+                "Player": "796bd4fe-159b-11e5-9d26-06d90c28bf1a",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "Tokebro"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:50:26+0000",
+            "payload": {
+                "Player": "615f1756-29d5-11e5-b334-06b48b82cd49",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "NyteWing"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:50:41+0000",
+            "payload": {
+                "Player": "ee1a1150-c90d-11e5-b935-06f4ee369f53",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Shadow2016"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:50:47+0000",
+            "payload": {
+                "Player": "89e8d5e2-6914-11e7-8c46-0263a81144c0",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "Brefrost"
+            }
+        }
+    ],
+    "winner": "another"
+}

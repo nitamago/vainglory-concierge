@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:06:29+0000",
+            "payload": {
+                "Player": "f91c6f30-b7e7-11e5-bd60-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "DamianNJ"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:06:37+0000",
+            "payload": {
+                "Player": "ff7000ee-c5b5-11e7-b4d8-06b672bd5be2",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Chernovis"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:06:40+0000",
+            "payload": {
+                "Player": "b18391a2-6674-11e7-b86f-06f4ee369f53",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "TauntingGiants"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:06:41+0000",
+            "payload": {
+                "Player": "917a5412-640a-11e6-ae81-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "EDISONar15"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:06:47+0000",
+            "payload": {
+                "Player": "f0846240-b19a-11e5-863f-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Blackleg"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:06:55+0000",
+            "payload": {
+                "Player": "cb6686e6-633d-11e6-bc44-06ab1a16f8e5",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "chucu21212"
+            }
+        }
+    ],
+    "winner": "another"
+}

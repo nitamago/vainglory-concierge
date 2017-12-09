@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:52:38+0000",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:52:42+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:53:03+0000",
+            "payload": {
+                "Player": "bbc5b74a-8ccf-11e7-ad71-020355b21670",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "gu4rdi4n"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:53:05+0000",
+            "payload": {
+                "Player": "52d6d28e-9b44-11e4-8566-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "DemonPooper"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:53:27+0000",
+            "payload": {
+                "Player": "d9ca1f8c-5d20-11e5-abd6-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "jhaabatt "
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:53:49+0000",
+            "payload": {
+                "Player": "69225176-d603-11e5-9110-06fc87f1dd11",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "knifenu2times"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:54:06+0000",
+            "payload": {
+                "Player": "3c87acc0-8bfa-11e7-8b5a-067e8bc536fd",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "ILoveNabi"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:54:30+0000",
+            "payload": {
+                "Player": "d0704e28-1128-11e5-a10c-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "2",
+                "Handle": "MelissaXO"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

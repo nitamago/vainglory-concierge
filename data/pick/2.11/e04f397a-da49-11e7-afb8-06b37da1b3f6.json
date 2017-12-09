@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:54:31+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:54:52+0000",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:55:16+0000",
+            "payload": {
+                "Player": "a63546a6-84e0-11e4-aadc-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "GreenZexal240"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:55:20+0000",
+            "payload": {
+                "Player": "d7d97fcc-8bee-11e5-b734-068789513eb5",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "TenzinT"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:55:41+0000",
+            "payload": {
+                "Player": "91658fa2-d5c4-11e5-ab98-06ab1a16f8e5",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "senpaikaneki"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:56:04+0000",
+            "payload": {
+                "Player": "95fcdba8-a2cb-11e7-8392-0297ea8a7ddc",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "ILLINI"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:56:08+0000",
+            "payload": {
+                "Player": "b3f0053a-f0ad-11e5-94e2-06b48b82cd49",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "destrollerdark"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:56:11+0000",
+            "payload": {
+                "Player": "ee3a5964-222e-11e5-8731-06f4ee369f53",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "Lostjustice"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

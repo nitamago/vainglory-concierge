@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:22:27+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:22:38+0000",
+            "payload": {
+                "Hero": "*Alpha*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:23:01+0000",
+            "payload": {
+                "Player": "49ba9eb4-c118-11e6-80e8-062cb73cdbb1",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "sexydnam"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:23:24+0000",
+            "payload": {
+                "Player": "03564b9a-2b4f-11e5-9611-06b48b82cd49",
+                "Hero": "*Skye*",
+                "Team": "2",
+                "Handle": "KidGohan"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:23:41+0000",
+            "payload": {
+                "Player": "ea0d8a40-a7be-11e4-93ba-06eb725f8a76",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "LocalPuertoRican"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:23:49+0000",
+            "payload": {
+                "Player": "ce648286-7c5f-11e6-b844-0628b69bf6d1",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "Hazzzard"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:23:52+0000",
+            "payload": {
+                "Player": "8a51e2f8-fb5c-11e4-9c5f-06eb725f8a76",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Brillo7"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:24:14+0000",
+            "payload": {
+                "Player": "db86e7a4-710f-11e4-bba5-06641bcbf424",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "ForbiddenZone"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

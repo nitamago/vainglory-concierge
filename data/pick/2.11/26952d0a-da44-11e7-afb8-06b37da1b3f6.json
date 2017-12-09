@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:13:33+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:13:53+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:14:03+0000",
+            "payload": {
+                "Player": "6dd4fb66-4322-11e5-935a-06f4ee369f53",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "basketpaul"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:14:13+0000",
+            "payload": {
+                "Player": "869ea5f6-b02f-11e4-9580-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "ToughTwinkie"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:14:19+0000",
+            "payload": {
+                "Player": "69ec2f3c-af30-11e4-b4e8-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "theblackwings"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:14:36+0000",
+            "payload": {
+                "Player": "60511446-0f79-11e7-8591-06f4ee369f53",
+                "Hero": "*Reza*",
+                "Team": "1",
+                "Handle": "Uglymongoose"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:14:39+0000",
+            "payload": {
+                "Player": "9213c716-0ed7-11e5-8afb-06d90c28bf1a",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "theElectedOne"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:14:59+0000",
+            "payload": {
+                "Player": "e9d63c3c-cdee-11e5-9d73-06b48b82cd49",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "masterluis066"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:27:20+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:27:39+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:27:41+0000",
+            "payload": {
+                "Player": "ea5f1702-8f42-11e7-9552-02a5820c0f16",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "ReCoIL"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:27:48+0000",
+            "payload": {
+                "Player": "4af39d32-ca2c-11e5-adf4-068789513eb5",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "TuyenVinamilk91"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:28:13+0000",
+            "payload": {
+                "Player": "e9bbcd00-efcf-11e4-bccd-06eb725f8a76",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Awwxy"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:28:16+0000",
+            "payload": {
+                "Player": "500a2a3a-8147-11e5-955e-0628b69bf6d1",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "BeZrk"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:28:29+0000",
+            "payload": {
+                "Player": "43bb1dca-ae39-11e4-8c44-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "TrustReborn"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:28:47+0000",
+            "payload": {
+                "Player": "12272e58-a68f-11e5-bc60-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "Unalter"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

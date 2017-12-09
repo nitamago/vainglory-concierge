@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:36:25+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:36:35+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:36:42+0000",
+            "payload": {
+                "Player": "1ac671f4-74d6-11e4-b6fb-06d90c28bf1a",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "Deurotic"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:37:03+0000",
+            "payload": {
+                "Player": "c7b2711c-7ddf-11e4-83eb-06eb725f8a76",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "TheCrimson"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:37:05+0000",
+            "payload": {
+                "Player": "22e86128-12e5-11e5-80b3-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "DeathNephilim"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:37:27+0000",
+            "payload": {
+                "Player": "d6e65574-239b-11e5-bf9a-06f4ee369f53",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "eric7D"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:37:29+0000",
+            "payload": {
+                "Player": "dd194f90-a997-11e6-b298-068789513eb5",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "LetharG"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:37:42+0000",
+            "payload": {
+                "Player": "300a3900-5604-11e5-b9c8-06f4ee369f53",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "papayadecelaya"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

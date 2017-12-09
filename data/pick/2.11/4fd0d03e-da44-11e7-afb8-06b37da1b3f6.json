@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:14:39+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:14:53+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:15:09+0000",
+            "payload": {
+                "Player": "37da0a5a-d437-11e5-b3d2-06f4ee369f53",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "Kkhuate"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:15:28+0000",
+            "payload": {
+                "Player": "cbc54606-fde7-11e5-8ae6-062cb73cdbb1",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "XxXIMPERIONXxX"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:15:30+0000",
+            "payload": {
+                "Player": "3dd3d07c-8af1-11e7-96d0-02a5820c0f16",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "Tomore"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:15:45+0000",
+            "payload": {
+                "Player": "e8cbabba-2604-11e6-9ca9-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "rEElyBruh"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:15:51+0000",
+            "payload": {
+                "Player": "dd144130-3e31-11e5-bcbd-0628b69bf6d1",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "Redsolo"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:16:15+0000",
+            "payload": {
+                "Player": "c5369dd0-5a90-11e5-b39d-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "CDanniiel"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

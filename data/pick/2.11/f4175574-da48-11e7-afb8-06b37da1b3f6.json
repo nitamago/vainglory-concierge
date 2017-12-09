@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:47:59+0000",
+            "payload": {
+                "Hero": "*Blackfeather*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:48:04+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:48:22+0000",
+            "payload": {
+                "Player": "60dee244-7462-11e4-bfe8-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Classified"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:48:41+0000",
+            "payload": {
+                "Player": "2811cf86-6cdb-11e5-ba7c-06b48b82cd49",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Dingus1"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:49:04+0000",
+            "payload": {
+                "Player": "71b1eaa0-6983-11e5-8184-068789513eb5",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Burblecutt"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:49:05+0000",
+            "payload": {
+                "Player": "d9f13518-7923-11e4-af77-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "seantoemas"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:49:29+0000",
+            "payload": {
+                "Player": "70367908-2f7a-11e6-8604-06ab1a16f8e5",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "Pvman"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:49:36+0000",
+            "payload": {
+                "Player": "86e6f5ee-12af-11e5-ac8d-06eb725f8a76",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "Etham13"
+            }
+        }
+    ],
+    "winner": "another"
+}

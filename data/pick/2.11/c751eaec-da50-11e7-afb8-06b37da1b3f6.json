@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:43:55+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:44:01+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:44:13+0000",
+            "payload": {
+                "Player": "30b14e36-a324-11e4-87fd-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "Azezal"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:44:31+0000",
+            "payload": {
+                "Player": "c5f27a30-94fb-11e7-ac82-06a9175d25fa",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "TonyAngels"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:44:35+0000",
+            "payload": {
+                "Player": "e091a052-feef-11e6-9c72-0263a81144c0",
+                "Hero": "*Lorelai*",
+                "Team": "2",
+                "Handle": "IsWill"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:44:52+0000",
+            "payload": {
+                "Player": "ce648286-7c5f-11e6-b844-0628b69bf6d1",
+                "Hero": "*Joule*",
+                "Team": "1",
+                "Handle": "Hazzzard"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:44:53+0000",
+            "payload": {
+                "Player": "49ba9eb4-c118-11e6-80e8-062cb73cdbb1",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "sexydnam"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:45:11+0000",
+            "payload": {
+                "Player": "68bc7a74-9586-11e7-9e1d-068789513eb5",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "iAmAriel "
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

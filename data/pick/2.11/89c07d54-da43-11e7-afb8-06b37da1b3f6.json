@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:13+0000",
+            "payload": {
+                "Player": "63398f7c-7371-11e4-a6c2-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "BuckShank"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:15+0000",
+            "payload": {
+                "Player": "f2303a34-de9a-11e4-8ac0-06d90c28bf1a",
+                "Hero": "*Koshka*",
+                "Team": "2",
+                "Handle": "FudgeMachine"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:26+0000",
+            "payload": {
+                "Player": "7e18361a-8de4-11e6-be2a-06b48b82cd49",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "skippinPENGUIN"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:28+0000",
+            "payload": {
+                "Player": "e2e6a332-6fa1-11e4-a054-06641bcbf424",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "Razden"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:29+0000",
+            "payload": {
+                "Player": "0b52450c-11f9-11e5-af0d-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "ponio"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:35+0000",
+            "payload": {
+                "Player": "f73381e8-51be-11e5-ac16-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "SebastianFuse"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

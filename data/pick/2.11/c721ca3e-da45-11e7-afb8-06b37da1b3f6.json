@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:25:21+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:25:40+0000",
+            "payload": {
+                "Hero": "*Baron*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:25:58+0000",
+            "payload": {
+                "Player": "bbc5b74a-8ccf-11e7-ad71-020355b21670",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "gu4rdi4n"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:26:18+0000",
+            "payload": {
+                "Player": "246e2ac2-7ae8-11e4-9c8c-06eb725f8a76",
+                "Hero": "*Adagio*",
+                "Team": "2",
+                "Handle": "jhwalding"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:26:21+0000",
+            "payload": {
+                "Player": "7ba74ae6-72ee-11e4-a192-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "C4bb4ge"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:26:46+0000",
+            "payload": {
+                "Player": "3c87acc0-8bfa-11e7-8b5a-067e8bc536fd",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "ILoveNabi"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:26:48+0000",
+            "payload": {
+                "Player": "fda1b636-67d8-11e6-ba59-06fc87f1dd11",
+                "Hero": "*Celeste*",
+                "Team": "1",
+                "Handle": "Moonshiny"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:27:09+0000",
+            "payload": {
+                "Player": "8b257a56-3a71-11e5-b691-068789513eb5",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "JoDidley"
+            }
+        }
+    ],
+    "winner": "another"
+}

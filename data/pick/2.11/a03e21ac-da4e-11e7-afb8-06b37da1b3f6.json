@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:28:36+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:28:40+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:28:49+0000",
+            "payload": {
+                "Player": "9df9d292-22f7-11e7-8737-06f4ee369f53",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "IIOMEGA"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:29:00+0000",
+            "payload": {
+                "Player": "2fd7788a-37e6-11e5-bda3-068789513eb5",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "shreker"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:29:04+0000",
+            "payload": {
+                "Player": "47922e9a-3cf7-11e6-af9c-06f4ee369f53",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "AdmiralBarney"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:29:21+0000",
+            "payload": {
+                "Player": "ae60986c-851e-11e7-ae3b-0224e22aef46",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "AIta"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:29:42+0000",
+            "payload": {
+                "Player": "a4de7c7a-921f-11e6-aa16-06b48b82cd49",
+                "Hero": "*Skye*",
+                "Team": "1",
+                "Handle": "Splashhh"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:29:54+0000",
+            "payload": {
+                "Player": "f677f34e-72dd-11e4-a296-06d90c28bf1a",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "Jadog20"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:43:35+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T06:43:41+0000",
+            "payload": {
+                "Hero": "*Skaarf*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:43:45+0000",
+            "payload": {
+                "Player": "32a14f7c-4f70-11e5-90e6-06d90c28bf1a",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "THESHEEPDOG"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:43:54+0000",
+            "payload": {
+                "Player": "061cb82c-c0d7-11e6-a52f-06ab1a16f8e5",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Gojira87"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:44:06+0000",
+            "payload": {
+                "Player": "afa7a556-0772-11e6-ba88-0628b69bf6d1",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "Rogue43"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:44:09+0000",
+            "payload": {
+                "Player": "65b2b56e-14b7-11e7-8cf4-020ecf4900d0",
+                "Hero": "*Petal*",
+                "Team": "1",
+                "Handle": "MrPinkk"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:44:16+0000",
+            "payload": {
+                "Player": "01054eb0-9923-11e7-a691-029cb633549e",
+                "Hero": "*Flicker*",
+                "Team": "1",
+                "Handle": "KINGDOM99"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:44:17+0000",
+            "payload": {
+                "Player": "d7b54ff2-4ea9-11e6-ada2-06c5ee41a4a5",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "urthatisthisisu"
+            }
+        }
+    ],
+    "winner": "another"
+}

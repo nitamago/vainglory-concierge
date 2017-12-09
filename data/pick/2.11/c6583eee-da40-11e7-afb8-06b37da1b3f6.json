@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:49:27+0000",
+            "payload": {
+                "Player": "476ee666-6eb2-11e4-b86c-062d0b175276",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "Limit"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:49:35+0000",
+            "payload": {
+                "Player": "4e701af6-3f0a-11e5-bf31-0628b69bf6d1",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "eddiefin"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:49:36+0000",
+            "payload": {
+                "Player": "ef72d264-c2e5-11e4-bc57-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "bhens14"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:49:37+0000",
+            "payload": {
+                "Player": "27fb4e44-cf7f-11e5-8ac6-06fc87f1dd11",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "hiphopster"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:49:43+0000",
+            "payload": {
+                "Player": "716caa44-65d2-11e5-befb-06eb725f8a76",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "TopnotchDamois"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:49:54+0000",
+            "payload": {
+                "Player": "9c6d652a-728b-11e4-95eb-06d90c28bf1a",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "juniord"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

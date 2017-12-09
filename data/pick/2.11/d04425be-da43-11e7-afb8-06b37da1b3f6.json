@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:11:19+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:11:30+0000",
+            "payload": {
+                "Hero": "*Petal*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:11:47+0000",
+            "payload": {
+                "Player": "d23403ea-8fed-11e6-8a68-06d90c28bf1a",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "StayDrizzy"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:11:49+0000",
+            "payload": {
+                "Player": "171131a6-edc0-11e6-90d2-06ab1a16f8e5",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "Febomorningstar"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:11:58+0000",
+            "payload": {
+                "Player": "3dac84b2-1e43-11e5-9c7b-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "5lurmsMacKenzie"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:12:05+0000",
+            "payload": {
+                "Player": "d2c90bfa-27b2-11e6-8a69-0628b69bf6d1",
+                "Hero": "*Vox*",
+                "Team": "1",
+                "Handle": "sanket11"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:12:06+0000",
+            "payload": {
+                "Player": "60d1e29c-6f6c-11e4-ac9d-062d0b175276",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "Jchampion"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:12:15+0000",
+            "payload": {
+                "Player": "11fa96ce-7687-11e4-9a06-06d90c28bf1a",
+                "Hero": "*Gwen*",
+                "Team": "2",
+                "Handle": "Perfectness"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

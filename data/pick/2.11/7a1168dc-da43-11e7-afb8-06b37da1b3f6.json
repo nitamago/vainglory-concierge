@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:08:40+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:08:45+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:08:50+0000",
+            "payload": {
+                "Player": "2b7989b2-27b6-11e5-8666-068789513eb5",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Killamasta"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:08:54+0000",
+            "payload": {
+                "Player": "9a1af290-cc86-11e6-a20b-067e8bc536fd",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Cowch"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:11+0000",
+            "payload": {
+                "Player": "d2c45212-10bb-11e6-aabb-06c5ee41a4a5",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "PooI"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:35+0000",
+            "payload": {
+                "Player": "591e0ba4-d589-11e6-9dcc-06a9175d25fa",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "noSananoLife"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:09:59+0000",
+            "payload": {
+                "Player": "6113879e-27b6-11e5-b354-0628b69bf6d1",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "DINzekeERO"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:10:02+0000",
+            "payload": {
+                "Player": "9d159966-87ee-11e4-9ab9-06eb725f8a76",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "bibituan"
+            }
+        }
+    ],
+    "winner": "another"
+}

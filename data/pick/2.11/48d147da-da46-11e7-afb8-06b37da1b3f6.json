@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:28:42+0000",
+            "payload": {
+                "Player": "7672c70e-a100-11e4-8566-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "xKAMASUTRAx"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:28:53+0000",
+            "payload": {
+                "Player": "c9419470-1476-11e6-9bbc-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Alirkus"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:28:57+0000",
+            "payload": {
+                "Player": "5224eec6-07ac-11e7-845e-068789513eb5",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "Kurtovski"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:28:58+0000",
+            "payload": {
+                "Player": "ab4227d2-699a-11e5-9e7b-068789513eb5",
+                "Hero": "*Kestrel*",
+                "Team": "2",
+                "Handle": "Patella"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:29:00+0000",
+            "payload": {
+                "Player": "bc473e16-1298-11e7-9e1d-02f3b4306918",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "Carmski"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:29:01+0000",
+            "payload": {
+                "Player": "77aeb7bc-bb9f-11e5-ae5e-06d90c28bf1a",
+                "Hero": "*Alpha*",
+                "Team": "1",
+                "Handle": "azotebboy"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

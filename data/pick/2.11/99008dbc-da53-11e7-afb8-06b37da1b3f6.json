@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T07:04:04+0000",
+            "payload": {
+                "Hero": "*Reim*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T07:04:33+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:04:36+0000",
+            "payload": {
+                "Player": "231f2fa8-e69e-11e6-9226-067e8bc536fd",
+                "Hero": "*Ozo*",
+                "Team": "1",
+                "Handle": "Rexluther"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:05:00+0000",
+            "payload": {
+                "Player": "924fec80-c2b7-11e4-a74f-06eb725f8a76",
+                "Hero": "*Celeste*",
+                "Team": "2",
+                "Handle": "LordK50"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:05:05+0000",
+            "payload": {
+                "Player": "d2c10ef0-2d80-11e5-a3ef-06f4ee369f53",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "executioner007"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:05:20+0000",
+            "payload": {
+                "Player": "9d5c5a3e-c551-11e6-94f2-06fc87f1dd11",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "classceleste"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:05:20+0000",
+            "payload": {
+                "Player": "0b811744-5126-11e5-ae48-06d90c28bf1a",
+                "Hero": "*Lorelai*",
+                "Team": "1",
+                "Handle": "flyxboy"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:05:44+0000",
+            "payload": {
+                "Player": "4326fce6-0a74-11e7-9e4a-06c5ee41a4a5",
+                "Hero": "*Joule*",
+                "Team": "2",
+                "Handle": "Veritas91"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

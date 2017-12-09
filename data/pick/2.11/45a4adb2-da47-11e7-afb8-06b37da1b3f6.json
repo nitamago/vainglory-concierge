@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:35:49+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:35:53+0000",
+            "payload": {
+                "Hero": "*Skye*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:36:11+0000",
+            "payload": {
+                "Player": "d943e2da-8c12-11e4-8566-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "LeNNoX"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:36:19+0000",
+            "payload": {
+                "Player": "30ca7b94-b41d-11e5-adb5-06b48b82cd49",
+                "Hero": "*Lyra*",
+                "Team": "2",
+                "Handle": "UnwisestQuill"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:36:27+0000",
+            "payload": {
+                "Player": "0d96d28e-89c6-11e5-8e77-06f4ee369f53",
+                "Hero": "*Reim*",
+                "Team": "2",
+                "Handle": "shmiddy"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:36:48+0000",
+            "payload": {
+                "Player": "a6c63ed8-7741-11e4-bac5-06d90c28bf1a",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "Ooo0ooO"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:37:09+0000",
+            "payload": {
+                "Player": "fbc84e00-8c75-11e4-bc71-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "CGREG15"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:37:14+0000",
+            "payload": {
+                "Player": "53bdb28a-78e4-11e4-aec7-06d90c28bf1a",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "Gomez"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

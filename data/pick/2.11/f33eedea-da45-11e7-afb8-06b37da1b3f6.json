@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:26:29+0000",
+            "payload": {
+                "Player": "0d631e68-bff3-11e5-977a-06eb725f8a76",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "roman4444"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:26:30+0000",
+            "payload": {
+                "Player": "bdfb2e7c-910d-11e7-a7f7-0224e22aef46",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "Stormvolt"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:26:38+0000",
+            "payload": {
+                "Player": "0dc3a0d4-d11f-11e5-8f9b-06b48b82cd49",
+                "Hero": "*Baron*",
+                "Team": "1",
+                "Handle": "CivilizedSavage"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:26:40+0000",
+            "payload": {
+                "Player": "d3579546-bc3c-11e5-b379-06f4ee369f53",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "ABanks"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:26:41+0000",
+            "payload": {
+                "Player": "41794f6e-7200-11e6-9c6b-068789513eb5",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "Striker1928"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:26:46+0000",
+            "payload": {
+                "Player": "87f5c9fe-8960-11e7-a85f-02b3611af5e6",
+                "Hero": "*Churnwalker*",
+                "Team": "2",
+                "Handle": "Vicouw"
+            }
+        }
+    ],
+    "winner": "another"
+}

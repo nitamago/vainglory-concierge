@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:54:17+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T04:54:26+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:54:28+0000",
+            "payload": {
+                "Player": "37ccd68c-99f9-11e5-ad99-068789513eb5",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "pateaculos2000"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:54:33+0000",
+            "payload": {
+                "Player": "256ec242-3c0c-11e6-9fe0-06ab1a16f8e5",
+                "Hero": "*Lance*",
+                "Team": "2",
+                "Handle": "Cesar197"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:54:43+0000",
+            "payload": {
+                "Player": "c2ce5424-caee-11e5-bca4-06fc87f1dd11",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "GENERAL7133"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:54:52+0000",
+            "payload": {
+                "Player": "4ff2380e-196c-11e6-adf2-067e8bc536fd",
+                "Hero": "*Fortress*",
+                "Team": "1",
+                "Handle": "dreadlordss"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:54:55+0000",
+            "payload": {
+                "Player": "93bb9bbc-72e5-11e5-9c24-06f4ee369f53",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "Leoblizzard"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T04:55:06+0000",
+            "payload": {
+                "Player": "c9b9049c-1495-11e5-b7f9-06d90c28bf1a",
+                "Hero": "*Blackfeather*",
+                "Team": "2",
+                "Handle": "unitedcookie"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

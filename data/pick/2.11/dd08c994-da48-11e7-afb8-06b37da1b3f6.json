@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:47:18+0000",
+            "payload": {
+                "Player": "8009a878-894f-11e4-b47c-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "F1NESSE"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:47:54+0000",
+            "payload": {
+                "Player": "93cf9f40-c856-11e7-8ffb-0654fca4c20c",
+                "Hero": "*Reza*",
+                "Team": "2",
+                "Handle": "RenK0"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:47:56+0000",
+            "payload": {
+                "Player": "6c9c159e-d962-11e7-9e5c-06b672bd5be2",
+                "Hero": "*Rona*",
+                "Team": "1",
+                "Handle": "Henkaii"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:48:04+0000",
+            "payload": {
+                "Player": "cd9e16ee-8a6e-11e4-93d5-06eb725f8a76",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "JustCallMeAlpha"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:48:06+0000",
+            "payload": {
+                "Player": "ac03d37e-c9f6-11e6-a0b1-06c5ee41a4a5",
+                "Hero": "*Grace*",
+                "Team": "2",
+                "Handle": "DownstreamV"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:48:06+0000",
+            "payload": {
+                "Player": "f2905e2c-2fcf-11e7-bd9c-067e8bc536fd",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "lColdBloodedl"
+            }
+        }
+    ],
+    "winner": "another"
+}

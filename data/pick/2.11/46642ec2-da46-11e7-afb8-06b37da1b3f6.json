@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:28:45+0000",
+            "payload": {
+                "Hero": "*Krul*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:28:49+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:29:11+0000",
+            "payload": {
+                "Player": "d9d10242-c620-11e6-aa3c-068789513eb5",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "jovonte1"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:29:22+0000",
+            "payload": {
+                "Player": "7163c4ca-bda6-11e5-8221-06d90c28bf1a",
+                "Hero": "*Fortress*",
+                "Team": "2",
+                "Handle": "UniverseGod"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:29:31+0000",
+            "payload": {
+                "Player": "15aac1c4-56c5-11e7-8190-020ecf4900d0",
+                "Hero": "*Idris*",
+                "Team": "2",
+                "Handle": "XCatBugNinjaX"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:29:37+0000",
+            "payload": {
+                "Player": "3dad9b4e-b55f-11e7-baaf-02f3b4306918",
+                "Hero": "*Ardan*",
+                "Team": "1",
+                "Handle": "Yachal"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:29:39+0000",
+            "payload": {
+                "Player": "94768f68-7378-11e7-b12f-02081e0fc90e",
+                "Hero": "*Varya*",
+                "Team": "1",
+                "Handle": "abadath"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:29:47+0000",
+            "payload": {
+                "Player": "38decab8-e1b0-11e5-a0a3-067e8bc536fd",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "ShadowGod13"
+            }
+        }
+    ],
+    "winner": "another"
+}

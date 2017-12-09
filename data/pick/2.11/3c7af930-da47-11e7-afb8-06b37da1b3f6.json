@@ -1,0 +1,82 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:35:39+0000",
+            "payload": {
+                "Hero": "*SAW*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:35:57+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:36:08+0000",
+            "payload": {
+                "Player": "0e763424-4afb-11e5-99fc-068789513eb5",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "darklink2901"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:36:28+0000",
+            "payload": {
+                "Player": "481ba7f8-597e-11e6-a157-067e8bc536fd",
+                "Hero": "*Krul*",
+                "Team": "2",
+                "Handle": "Oracale"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:36:35+0000",
+            "payload": {
+                "Player": "78beaffe-a452-11e5-b8f0-06b48b82cd49",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "Rathzar"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:36:58+0000",
+            "payload": {
+                "Player": "f9035eec-7340-11e4-a296-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "celebi"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:37:01+0000",
+            "payload": {
+                "Player": "141a87c6-0b63-11e6-a062-062cb73cdbb1",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "DonaldDarko"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:37:22+0000",
+            "payload": {
+                "Player": "06d29000-6e60-11e4-b7eb-06641bcbf424",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Gix"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

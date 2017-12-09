@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T07:00:21+0000",
+            "payload": {
+                "Hero": "*Taka*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T07:00:29+0000",
+            "payload": {
+                "Hero": "*Lyra*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:00:30+0000",
+            "payload": {
+                "Player": "1d87fe98-a7ec-11e7-9d9e-0297ea8a7ddc",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "RobertxDD"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:00:54+0000",
+            "payload": {
+                "Player": "3f0819b2-8bfd-11e4-8aab-06d90c28bf1a",
+                "Hero": "*Catherine*",
+                "Team": "2",
+                "Handle": "NotAllowed"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:01:18+0000",
+            "payload": {
+                "Player": "71408d9c-b406-11e5-b02a-068789513eb5",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "deadtag12"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:01:39+0000",
+            "payload": {
+                "Player": "0f9155a4-70f0-11e4-9304-062d0b175276",
+                "Hero": "*Kestrel*",
+                "Team": "1",
+                "Handle": "Dougyair"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:02:02+0000",
+            "payload": {
+                "Player": "d531f494-7037-11e4-afbd-06641bcbf424",
+                "Hero": "*Lance*",
+                "Team": "1",
+                "Handle": "sudoVG"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T07:02:13+0000",
+            "payload": {
+                "Player": "43ee8dfc-7266-11e6-9524-06d90c28bf1a",
+                "Hero": "*Glaive*",
+                "Team": "2",
+                "Handle": "GreenSaki"
+            }
+        }
+    ],
+    "winner": "another"
+}

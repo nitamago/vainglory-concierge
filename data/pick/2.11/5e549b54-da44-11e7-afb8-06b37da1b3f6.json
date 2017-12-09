@@ -1,0 +1,66 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:15:01+0000",
+            "payload": {
+                "Player": "b3973e56-9194-11e4-8662-06d90c28bf1a",
+                "Hero": "*Krul*",
+                "Team": "1",
+                "Handle": "Prefuse"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:15:10+0000",
+            "payload": {
+                "Player": "e5d69136-947e-11e4-a8d3-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "mangbangkey"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:15:23+0000",
+            "payload": {
+                "Player": "a2560992-7371-11e4-a941-06d90c28bf1a",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "NessaMadness"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:15:25+0000",
+            "payload": {
+                "Player": "1db50da4-a3df-11e7-bb08-06fc87f1dd11",
+                "Hero": "*Rona*",
+                "Team": "2",
+                "Handle": "KarmaKill5"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:15:30+0000",
+            "payload": {
+                "Player": "02629e02-34f1-11e7-8b16-06d90c28bf1a",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Lexox1"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:15:53+0000",
+            "payload": {
+                "Player": "fcaacb4c-be2c-11e5-b5db-06b48b82cd49",
+                "Hero": "*Skaarf*",
+                "Team": "1",
+                "Handle": "soldiersilver"
+            }
+        }
+    ],
+    "winner": "another"
+}

@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:32:29+0000",
+            "payload": {
+                "Hero": "*Skye*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:32:48+0000",
+            "payload": {
+                "Hero": "*Lorelai*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:32:50+0000",
+            "payload": {
+                "Player": "321f9b5a-b50b-11e7-96ad-0297ea8a7ddc",
+                "Hero": "*Reim*",
+                "Team": "1",
+                "Handle": "YouOnlyLiveOne"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:33:09+0000",
+            "payload": {
+                "Player": "20b1e232-bc2e-11e6-befb-06a9175d25fa",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "yousawnothing"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:33:13+0000",
+            "payload": {
+                "Player": "684899ce-db83-11e5-aa82-06ab1a16f8e5",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "Xiophose"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:33:29+0000",
+            "payload": {
+                "Player": "6d348910-20b7-11e6-bfee-06eb725f8a76",
+                "Hero": "*Grace*",
+                "Team": "1",
+                "Handle": "ObitoUchihaYT"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:33:53+0000",
+            "payload": {
+                "Player": "9461846a-7077-11e6-a721-06eb725f8a76",
+                "Hero": "*Ringo*",
+                "Team": "1",
+                "Handle": "monicarobles"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:34:00+0000",
+            "payload": {
+                "Player": "eb6ef652-6b22-11e6-aaab-068789513eb5",
+                "Hero": "*Skaarf*",
+                "Team": "2",
+                "Handle": "mrfunnybones"
+            }
+        }
+    ],
+    "winner": "another"
+}

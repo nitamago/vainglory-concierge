@@ -1,0 +1,82 @@
+{
+    "loser": "left/blue",
+    "pick": [
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:33:25+0000",
+            "payload": {
+                "Hero": "*Varya*",
+                "Team": "1"
+            }
+        },
+        {
+            "type": "HeroBan",
+            "time": "2017-12-06T05:33:31+0000",
+            "payload": {
+                "Hero": "*Rona*",
+                "Team": "2"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:33:43+0000",
+            "payload": {
+                "Player": "67b193f0-9113-11e4-a9bb-06eb725f8a76",
+                "Hero": "*Catherine*",
+                "Team": "1",
+                "Handle": "SkyDevil"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:33:53+0000",
+            "payload": {
+                "Player": "22d2753e-64ca-11e5-8811-06eb725f8a76",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "zmusic33"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:33:54+0000",
+            "payload": {
+                "Player": "47ede044-3ed5-11e5-89fb-06eb725f8a76",
+                "Hero": "*Ardan*",
+                "Team": "2",
+                "Handle": "branditoo"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:34:16+0000",
+            "payload": {
+                "Player": "f487ed52-2724-11e7-b564-02f3b4306918",
+                "Hero": "*Blackfeather*",
+                "Team": "1",
+                "Handle": "luvell"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:34:23+0000",
+            "payload": {
+                "Player": "2db50c3a-34b1-11e5-96ee-06b48b82cd49",
+                "Hero": "*Idris*",
+                "Team": "1",
+                "Handle": "SoulreaperX"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T05:34:40+0000",
+            "payload": {
+                "Player": "13b07d4c-db1f-11e4-a261-06eb725f8a76",
+                "Hero": "*Alpha*",
+                "Team": "2",
+                "Handle": "SurGicaL"
+            }
+        }
+    ],
+    "winner": "another"
+}

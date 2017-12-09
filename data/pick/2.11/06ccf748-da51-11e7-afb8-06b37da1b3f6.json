@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:45:42+0000",
+            "payload": {
+                "Player": "5201d4d6-0fd3-11e5-b7a2-06eb725f8a76",
+                "Hero": "*Varya*",
+                "Team": "2",
+                "Handle": "Assailanttt"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:46:02+0000",
+            "payload": {
+                "Player": "c4cbb15e-c9ad-11e6-a06f-06fc87f1dd11",
+                "Hero": "*SAW*",
+                "Team": "2",
+                "Handle": "guccifer"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:46:06+0000",
+            "payload": {
+                "Player": "7f2a84a6-4ac6-11e6-86e3-06ab1a16f8e5",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "rezwack"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:46:15+0000",
+            "payload": {
+                "Player": "c7f4639e-597e-11e5-846a-068789513eb5",
+                "Hero": "*Reza*",
+                "Team": "1",
+                "Handle": "AlejandroZett"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:46:20+0000",
+            "payload": {
+                "Player": "0cc0ec70-233f-11e5-902e-068789513eb5",
+                "Hero": "*Gwen*",
+                "Team": "1",
+                "Handle": "Dodgers"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:46:31+0000",
+            "payload": {
+                "Player": "442076b2-665a-11e7-8c36-062cb73cdbb1",
+                "Hero": "*Baptiste*",
+                "Team": "2",
+                "Handle": "David7u7"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}

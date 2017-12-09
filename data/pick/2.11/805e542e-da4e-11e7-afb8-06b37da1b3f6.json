@@ -1,0 +1,66 @@
+{
+    "loser": "another",
+    "pick": [
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:27:40+0000",
+            "payload": {
+                "Player": "ea35b16a-7856-11e4-9a06-06d90c28bf1a",
+                "Hero": "*SAW*",
+                "Team": "1",
+                "Handle": "natokona"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:27:43+0000",
+            "payload": {
+                "Player": "a70e4e68-3bd4-11e6-b377-067e8bc536fd",
+                "Hero": "*Taka*",
+                "Team": "2",
+                "Handle": "RapTor007"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:27:48+0000",
+            "payload": {
+                "Player": "cbfd0356-97d4-11e7-98b6-06388a2f2ea7",
+                "Hero": "*Vox*",
+                "Team": "2",
+                "Handle": "TioChoky"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:27:52+0000",
+            "payload": {
+                "Player": "acc00f88-fc7b-11e5-a01b-06388a2f2ea7",
+                "Hero": "*Taka*",
+                "Team": "1",
+                "Handle": "TheLastHero99"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:27:59+0000",
+            "payload": {
+                "Player": "693a04ee-c3b0-11e4-988d-06d90c28bf1a",
+                "Hero": "*Flicker*",
+                "Team": "2",
+                "Handle": "Wolfsman"
+            }
+        },
+        {
+            "type": "HeroSelect",
+            "time": "2017-12-06T06:27:59+0000",
+            "payload": {
+                "Player": "a3f9ce30-8669-11e5-bcef-06f4ee369f53",
+                "Hero": "*Lyra*",
+                "Team": "1",
+                "Handle": "Lustyleathers"
+            }
+        }
+    ],
+    "winner": "left/blue"
+}
