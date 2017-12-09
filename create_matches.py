@@ -44,19 +44,22 @@ def pick_list():
 
     ret_list = []
     for ID, d in pick_dict.items():
+        _dict = {}
         dic = {}
         dic["id"] = ID
         team1 = tuple(sorted(d["teams"]['1']))
         dic["pick"] = team1
         dic["win"] = True if d["winner"] == 1 else False
-        ret_list.append(dic)
+        _dict["team1"] = dic
 
         dic = {}
         dic["id"] = ID
         team2 = tuple(sorted(d["teams"]['2']))
         dic["pick"] = team2
         dic["win"] = True if d["winner"] == -1 else False
-        ret_list.append(dic)
+        _dict["team2"] = dic
+
+        ret_list.append(_dict)
 
     return ret_list
 
@@ -64,16 +67,28 @@ def pick_list():
 def main():
     l = pick_list()
     for data in l:
-        print(data)
-        ID = data["id"]
-        heros = data["pick"]
-        hero1 = heros[0]
-        hero2 = heros[1]
-        hero3 = heros[2]
-        win = data["win"]
-        obj = Match.objects.create(match_id=ID, hero1=hero1,
-                           hero2=hero2, hero3=hero3,
-                           win=win)
+        ID = data['team1']["id"]
+        heros = data['team1']["pick"]
+        left_hero1 = heros[0]
+        left_hero2 = heros[1]
+        left_hero3 = heros[2]
+        left_win = data['team1']["win"]
+
+        heros = data['team2']["pick"]
+        right_hero1 = heros[0]
+        right_hero2 = heros[1]
+        right_hero3 = heros[2]
+        right_win = data['team2']["win"]
+
+        obj = Match.objects.create(match_id=ID,
+                                    left_hero1=left_hero1,
+                                    left_hero2=left_hero2,
+                                    left_hero3=left_hero3,
+                                    left_win=left_win,
+                                    right_hero1=right_hero1,
+                                    right_hero2=right_hero2,
+                                    right_hero3=right_hero3,
+                                    right_win=right_win)
         obj.save()
 
 

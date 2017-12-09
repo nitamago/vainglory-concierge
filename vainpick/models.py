@@ -5,10 +5,15 @@ from django import forms
 
 class Match(models.Model):
     match_id = models.CharField(max_length=50)
-    hero1 = models.CharField(max_length=40)
-    hero2 = models.CharField(max_length=40)
-    hero3 = models.CharField(max_length=40)
-    win = models.BooleanField(default=False)
+    left_hero1 = models.CharField(max_length=40)
+    left_hero2 = models.CharField(max_length=40)
+    left_hero3 = models.CharField(max_length=40)
+    left_win = models.BooleanField(default=False)
+
+    right_hero1 = models.CharField(max_length=40)
+    right_hero2 = models.CharField(max_length=40)
+    right_hero3 = models.CharField(max_length=40)
+    right_win = models.BooleanField(default=False)
 
 class Data(models.Model):
     title = models.CharField(max_length=20)
@@ -30,6 +35,10 @@ class HeroSelectForm(forms.Form):
     hero3 = forms.ModelChoiceField(Hero.objects, label='',
                                       to_field_name="name",
                                       required=False)
+    min_sample = forms.IntegerField(initial=0)
+    max_sample = forms.IntegerField(initial=10000)
+    min_win_rate = forms.FloatField(initial=0.0)
+    max_win_rate = forms.FloatField(initial=1.0)
 
 class HeroPickStat(models.Model):
     sample_count = models.IntegerField(default=0)
@@ -38,3 +47,7 @@ class HeroPickStat(models.Model):
     hero3 = models.CharField(max_length=40, null=True)
     win_rate = models.FloatField(default=0.0)
     win_rate_str = models.CharField(max_length=5, default="0.0")
+
+class HeroSingleSelectForm(forms.Form):
+    hero = forms.ModelChoiceField(Hero.objects, label='',
+                                      to_field_name="name")
