@@ -80,7 +80,7 @@ def main():
         right_hero3 = heros[2]
         right_win = data['team2']["win"]
 
-        obj = Match.objects.create(match_id=ID,
+        obj, created = Match.objects.get_or_create(match_id=ID,
                                     left_hero1=left_hero1,
                                     left_hero2=left_hero2,
                                     left_hero3=left_hero3,
@@ -89,7 +89,8 @@ def main():
                                     right_hero2=right_hero2,
                                     right_hero3=right_hero3,
                                     right_win=right_win)
-        obj.save()
+        if created:
+            obj.save()
 
 
 if __name__ == "__main__":
