@@ -19,7 +19,7 @@ def get_matches(offset):
             "filter[gameMode]": "ranked",
             "page[offset]": offset,
             "page[limit]": "5",
-            "filter[createdAt-start]": "2017-12-05T08:25:30Z",
+            "filter[createdAt-start]": "2017-12-06T11:47:48Z",
             }
 
     r = requests.get(url, headers=header, params=query)

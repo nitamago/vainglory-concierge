@@ -127,11 +127,12 @@ def get_win_rate(dic, pick_set):
 
 
 def main():
+    ban_pick_list()
+    exit()
     dic = pick_dict()
     while True:
         names = input("Hero names: ")
         get_win_rate(dic, set(names.split()))
-    #ban_pick_list()
 
 
 if __name__ == "__main__":
