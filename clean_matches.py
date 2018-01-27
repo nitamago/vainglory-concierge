@@ -14,7 +14,7 @@ if __name__ == "__main__":
     current_count = len(all_rec)
 
     for rec in all_rec:
-        if current_count < max_count:
+        if current_count <= max_count:
             break
         rec.delete()
         current_count -= 1

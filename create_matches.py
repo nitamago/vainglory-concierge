@@ -17,12 +17,16 @@ def get_pick(path):
     with open(path) as f:
         dec = json.load(f)
     teams = {'1': [], '2': []}
-    for event in dec["pick"]:
-        action = event['type']
-        if action == "HeroSelect":
-            team = event['payload']['Team']
-            hero = event['payload']['Hero']
-            teams[team].append(hero)
+
+    try:
+    	for event in dec["pick"]:
+            action = event['type']
+            if action == "HeroSelect":
+                team = event['payload']['Team']
+                hero = event['payload']['Hero']
+                teams[team].append(hero)
+    except KeyError:
+        return None
     ret["teams"] = teams
 
     if dec["winner"] == "left/blue":

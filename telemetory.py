@@ -4,6 +4,7 @@ import os
 import requests
 import json
 import time
+import datetime
 
 APIKEY = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI0M2Y4ZDliMC1iOGI5LTAxMzUtNjkwNC0wYTU4NjQ2MGFhYzQiLCJpc3MiOiJnYW1lbG9ja2VyIiwiaWF0IjoxNTEyMTI3OTYxLCJwdWIiOiJzZW1jIiwidGl0bGUiOiJ2YWluZ2xvcnkiLCJhcHAiOiJ2Z19ubiIsInNjb3BlIjoiY29tbXVuaXR5IiwibGltaXQiOjEwfQ.IbSw6eT8OgF7Kn3Vk9QAttgoCkshH2PxGWqnAtbA5Is"
 
@@ -14,12 +15,16 @@ header = {
 
 
 def get_matches(offset):
+    now = datetime.datetime.now()
+    yesterday = now - datetime.timedelta(days = 1)
     url = "https://api.dc01.gamelockerapp.com/shards/na/matches"
     query = {
             "filter[gameMode]": "ranked",
             "page[offset]": offset,
             "page[limit]": "5",
-            "filter[createdAt-start]": "2017-12-06T11:47:48Z",
+            #"filter[createdAt-start]": "2017-12-06T11:47:48Z",
+            "filter[createdAt-start]": yesterday.strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "filter[createdAt-end]": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
             }
 
     r = requests.get(url, headers=header, params=query)
@@ -31,8 +36,8 @@ def get_matches(offset):
         IDs.append({"id": ID, "asset": asset_id, "version": version})
 
 
-    with open("data/raw/raw_%d.json" % offset, "w") as f:
-        f.write(json.dumps(r.json(), indent=4))
+    #with open("data/raw/raw_%d.json" % offset, "w") as f:
+        #f.write(json.dumps(r.json(), indent=4))
      
     tel2ros = create_tel_to_roster_dict(r.json())
 
@@ -98,8 +103,10 @@ def get_pick_seq(tel_url, ID):
     ret = []
     tel_res = requests.get(tel_url, headers=header)
     
+    """
     with open("data/tel/tel_%s.json" % ID, "w") as f:
             f.write(json.dumps(tel_res.json(), indent=4))
+    """
      
     for payload in tel_res.json():
         if payload["type"] == "HeroBan":
