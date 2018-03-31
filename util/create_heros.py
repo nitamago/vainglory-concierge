@@ -24,7 +24,7 @@ if __name__ == "__main__":
              '*Kestrel*', '*Baptiste*', '*Reza*', '*Petal*',
              '*Koshka*', '*Adagio*', '*SAW*', '*Catherine*',
              '*Skye*', '*Alpha*', '*Reim*', '*Grace*', '*Flicker*',
-             '*Ozo*', '*Krul*', '*Lorelai*', '*Varya*']
+             '*Ozo*', '*Krul*', '*Lorelai*', '*Varya*', '*Tony*']
 
     for hero_id in sorted(Heros):
         name = hero_id.replace("*", "")

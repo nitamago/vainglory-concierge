@@ -39,7 +39,9 @@ def get_pick(path):
 
 def pick_list():
     pick_dict = {}
-    for path in glob.glob("data/pick/2.11/*.json"):
+    for path in glob.glob("data/pick/3.1/*.json"):
+        if __debug__:
+            print(path)
         dic = get_pick(path)
         if dic is not None:
             basename = os.path.basename(path)
@@ -76,22 +78,30 @@ def main():
         left_hero1 = heros[0]
         left_hero2 = heros[1]
         left_hero3 = heros[2]
+        left_hero4 = heros[3]
+        left_hero5 = heros[4]
         left_win = data['team1']["win"]
 
         heros = data['team2']["pick"]
         right_hero1 = heros[0]
         right_hero2 = heros[1]
         right_hero3 = heros[2]
+        right_hero4 = heros[3]
+        right_hero5 = heros[4]
         right_win = data['team2']["win"]
 
         obj, created = Match.objects.get_or_create(match_id=ID,
                                     left_hero1=left_hero1,
                                     left_hero2=left_hero2,
                                     left_hero3=left_hero3,
+                                    left_hero4=left_hero4,
+                                    left_hero5=left_hero5,
                                     left_win=left_win,
                                     right_hero1=right_hero1,
                                     right_hero2=right_hero2,
                                     right_hero3=right_hero3,
+                                    right_hero4=right_hero4,
+                                    right_hero5=right_hero5,
                                     right_win=right_win)
         if created:
             obj.save()
