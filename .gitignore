@@ -3,3 +3,6 @@ venv
 staticfiles
 db.sqlite3
 *.json
+vainpick/migrations
+banpick/migrations/
+banpick/static/icons/
