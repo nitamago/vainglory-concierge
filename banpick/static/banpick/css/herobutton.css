@@ -1,0 +1,44 @@
+.heroicon {
+    width: 60px;
+    height: 60px;
+}
+
+#pick_seq {
+    display: table;
+}
+
+.pick_cell {
+    display: table-cell;
+    width: 60px;
+    height: 60x;
+}
+
+.blue {
+    float: left;
+    text-align: center;
+    vertical-align: middle;
+    width: 80px;
+    height: 80px;
+    background-color: #008b8b;
+}
+
+.red {
+    float: left;
+    text-align: center;
+    vertical-align: middle;
+    width: 80px;
+    height: 80px;
+    background-color: #ff0000;
+}
+
+span.blue_box{
+    background-color:#008b8b;
+    width: 15px;
+    height: 15px;
+}
+
+span.red_box{
+    background-color: #ff0000;
+    width: 15px;
+    height: 15px;
+}

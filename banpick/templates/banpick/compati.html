@@ -1,0 +1,36 @@
+
+<html>
+<body>
+  <div>
+    <p> Vaingroly Compatibility Analyzer</p>
+    <form action="/pick/compati" method="POST">{% csrf_token %}
+      {{ select }}
+      <input type="submit" value="Submit" />
+    </form>
+  </div>
+  <div>
+    <p> ヒーローの相性診断結果</p>
+    {{ compati.hero_id }}
+
+    <table border="1">
+      <thead>
+        <tr>
+          <th>敵Hero</th>
+          <th>勝率</th>
+          <th>試合数</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for data in compati.win_rate_list %}
+          <tr>
+            <td>{{ data.id }}</td>
+            <td>{{ data.win_rate_str }}%</td>
+            <td>{{ data.sample_count }}</td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table> <br>
+
+  </div>
+</body>
+</html>

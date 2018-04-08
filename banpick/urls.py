@@ -19,8 +19,5 @@ from django.contrib import admin
 from . import views
 
 urlpatterns = [
-    url(r'^admin/', admin.site.urls),
     url(r'^$', views.index_page, name='index_page'),
-    url(r'^pick/', include('vainpick.urls')),
-    url(r'^banpick/', include('banpick.urls')),
 ]
