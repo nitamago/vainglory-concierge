@@ -8,11 +8,15 @@ class Match(models.Model):
     left_hero1 = models.CharField(max_length=40)
     left_hero2 = models.CharField(max_length=40)
     left_hero3 = models.CharField(max_length=40)
+    left_hero4 = models.CharField(max_length=40)
+    left_hero5 = models.CharField(max_length=40)
     left_win = models.BooleanField(default=False)
 
     right_hero1 = models.CharField(max_length=40)
     right_hero2 = models.CharField(max_length=40)
     right_hero3 = models.CharField(max_length=40)
+    right_hero4 = models.CharField(max_length=40)
+    right_hero5 = models.CharField(max_length=40)
     right_win = models.BooleanField(default=False)
 
 class Data(models.Model):
@@ -22,6 +26,7 @@ class Hero(models.Model):
     hero_id = models.CharField(max_length=30)
     name = models.CharField(max_length=30)
     image = models.CharField(max_length=140)
+    feature = models.CharField(max_length=140)
 
     def __str__(self):
         return self.name

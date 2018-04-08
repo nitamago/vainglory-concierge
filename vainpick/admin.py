@@ -5,12 +5,22 @@ from .models import Hero, Match, HeroPickStat
 
 
 class HerosAdmin(admin.ModelAdmin):
-    list_display = ('name', 'image')
+    list_display = ('name', 'feature', 'image')
 
 class MatchesAdmin(admin.ModelAdmin):
     list_display = ('match_id',
-                    'left_hero1', 'left_hero2', 'left_hero3', 'left_win',
-                    'right_hero1', 'right_hero2', 'right_hero3', 'right_win')
+                    'left_hero1',
+                    'left_hero2',
+                    'left_hero3',
+                    'left_hero4',
+                    'left_hero5',
+                    'left_win',
+                    'right_hero1',
+                    'right_hero2',
+                    'right_hero3',
+                    'right_hero4',
+                    'right_hero5',
+                    'right_win')
 
 class PicksAdmin(admin.ModelAdmin):
     list_display = ('sample_count', 'hero1', 'hero2', 'hero3', 'win_rate')
