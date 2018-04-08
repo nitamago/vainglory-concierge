@@ -14,12 +14,13 @@ header = {
         }
 
 
-def get_matches(offset):
+def get_matches(offset, area="na"):
     now = datetime.datetime.now()
     yesterday = now - datetime.timedelta(days = 1)
-    url = "https://api.dc01.gamelockerapp.com/shards/na/matches"
+    url = "https://api.dc01.gamelockerapp.com/shards/"+area+"/matches"
     query = {
-            "filter[gameMode]": "ranked",
+            #"filter[gameMode]": "ranked",
+            "filter[gameMode]": "5v5_pvp_ranked",
             "page[offset]": offset,
             "page[limit]": "5",
             #"filter[createdAt-start]": "2017-12-06T11:47:48Z",
@@ -38,7 +39,7 @@ def get_matches(offset):
 
     #with open("data/raw/raw_%d.json" % offset, "w") as f:
         #f.write(json.dumps(r.json(), indent=4))
-     
+
     tel2ros = create_tel_to_roster_dict(r.json())
 
     num = offset
@@ -102,12 +103,12 @@ def get_telemetory_info(match_obj):
 def get_pick_seq(tel_url, ID):
     ret = []
     tel_res = requests.get(tel_url, headers=header)
-    
+
     """
     with open("data/tel/tel_%s.json" % ID, "w") as f:
             f.write(json.dumps(tel_res.json(), indent=4))
     """
-     
+
     for payload in tel_res.json():
         if payload["type"] == "HeroBan":
             print(payload)
@@ -120,9 +121,28 @@ def get_pick_seq(tel_url, ID):
     return ret
 
 
-if __name__ == "__main__":
+def main(area):
+    if not os.path.exists("data"):
+        os.mkdir("data")
+    if not os.path.exists("data/pick"):
+        os.mkdir("data/pick")
     for i in range(0, 20000, 5):
-        get_matches(i)
-        time.sleep(5)
+        get_matches(i, area)
+        time.sleep(2)
 
 #print(json.dumps(r.json(), indent=4))
+
+
+if __name__ == "__main__":
+    while True:
+        try:
+            main("na")
+        except Exception as e:
+            print(e)
+        time.sleep(1800)
+
+        try:
+            main("ea")
+        except Exception as e:
+            print(e)
+        time.sleep(1800)
