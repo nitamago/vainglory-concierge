@@ -22,22 +22,22 @@ if __name__ == "__main__":
              {"name": '*Baron*', 'feature': 'brink'},
              {"name": '*Blackfeather*', 'feature': 'brink'},
              {"name": '*Catherine*', 'feature': 'cc'},
-             {"name": '*Celeste*', 'feature': 'cc'},
+             {"name": '*Celeste*', 'feature': 'cc:poke'},
              {"name": '*Churnwalker*', 'feature': 'cc:sustain'},
              {"name": '*Flicker*', 'feature': 'cc:stealth'},
              {"name": '*Fortress*', 'feature': 'brink'},
-             {"name": '*Glaive*', 'feature': 'cc:sustain'},
+             {"name": '*Glaive*', 'feature': 'brink:cc:sustain'},
              {"name": '*Grace*', 'feature': 'cc:heal'},
              {"name": '*Grumpjaw*', 'feature': 'brink'},
              {"name": '*Gwen*', 'feature': ''},
-             {"name": '*Idris*', 'feature': 'brink'},
+             {"name": '*Idris*', 'feature': 'brink:poke'},
              {"name": '*Joule*', 'feature': 'brink'},
-             {"name": '*Kestrel*', 'feature': 'stealth'},
+             {"name": '*Kestrel*', 'feature': 'stealth:poke'},
              {"name": '*Koshka*', 'feature': 'brink'},
              {"name": '*Krul*', 'feature': 'sustain'},
              {"name": '*Lance*', 'feature': 'cc'},
              {"name": '*Lorelai*', 'feature': 'cc'},
-             {"name": '*Lyra*', 'feature': 'cc'},
+             {"name": '*Lyra*', 'feature': 'heal:cc'},
              {"name": '*Ozo*', 'feature': 'sustain'},
              {"name": '*Petal*', 'feature': 'brink'},
              {"name": '*Phinn*', 'feature': ''},
@@ -46,8 +46,8 @@ if __name__ == "__main__":
              {"name": '*Ringo*', 'feature': ''},
              {"name": '*Rona*', 'feature': 'sustain:brink'},
              {"name": '*SAW*', 'feature': ''},
-             {"name": '*Samuel*', 'feature': 'cc'},
-             {"name": '*Skaarf*', 'feature': ''},
+             {"name": '*Samuel*', 'feature': 'cc:poke'},
+             {"name": '*Skaarf*', 'feature': 'poke'},
              {"name": '*Skye*', 'feature': ''},
              {"name": '*Taka*', 'feature': 'brink:stealth'},
              {"name": '*Tony*', 'feature': 'cc'},
@@ -74,7 +74,8 @@ if __name__ == "__main__":
         feature = hero["feature"]
         hero_obj, created = Hero.objects.get_or_create(hero_id=hero_id,
                                                        feature=feature,
-                                                       name=name, image="no")
+                                                       name=name,
+                                                       image="no")
         if created:
             hero_obj.save()
 
