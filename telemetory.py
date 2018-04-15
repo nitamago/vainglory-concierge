@@ -128,7 +128,7 @@ def main(area):
         os.mkdir("data/pick")
     for i in range(0, 20000, 5):
         get_matches(i, area)
-        time.sleep(2)
+        time.sleep(6)
 
 #print(json.dumps(r.json(), indent=4))
 
