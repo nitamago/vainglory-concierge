@@ -30,8 +30,19 @@ def index_page(request,seq=""):
              icon_list = []
              seq_set = [0, 2, 4, 7, 8, 11, 12]
              for (i, name) in enumerate(heros):
+                 if name == "saw":
+                     hero_id = "*SAW*"
+                 else:
+                     hero_id = "*"+name[0].upper()+name[1:]+"*"
+                 hero_obj = Hero.objects.all().filter(Q(hero_id = hero_id))
+                 paths = []
+                 for f in hero_obj[0].feature.split(":"):
+                     if f == "":
+                         break
+                     paths.append("icons/" + f + ".png")
                  icon_list.append({"path": "icons/" + name + ".png",
-                                   "team": "blue" if i in seq_set else "red"})
+                                   "team": "blue" if i in seq_set else "red",
+                                   "feature": paths})
              phase = "ban" if len(heros) < 4 else "pick"
 
         else:
@@ -53,6 +64,22 @@ def index_page(request,seq=""):
 
 def get_pick_stat(heros):
     ret_dict = {}
+    all_hero = Hero.objects.all()
+    for hero in all_hero:
+        hero_name = hero.name
+        ret_dict[hero_name] = {"pick_rate": "?", "win_rate": "?", "count": "?"}
+
+    # ヒーローのfeature iconを設定
+    for hero in all_hero:
+        hero_name = hero.name
+        features = hero.feature.split(":")
+        icon_paths = []
+        for f in features:
+            if f == "":
+                icon_paths = None
+                break
+            icon_paths.append("icons/"+f+".png")
+        ret_dict[hero_name]["feature"] = icon_paths
 
     # キャッシュの確認
     cache = Seq_Cache.objects.all()
@@ -60,11 +87,6 @@ def get_pick_stat(heros):
     cache = cache.filter(Q(key_str = key_str))
 
     if len(cache) != 0:
-        all_hero = Hero.objects.all()
-        for hero in all_hero:
-            hero_name = hero.name
-            ret_dict[hero_name] = {"pick_rate": "?", "win_rate": "?", "count": "?"}
-
         for record in cache:
             ret_dict[record.target]["pick_rate"] = record.pick_rate
             ret_dict[record.target]["win_rate"] = record.win_rate
@@ -195,14 +217,9 @@ def get_pick_stat(heros):
             if seq.left_win:
                 win_count_dict[seq.pick14] += 1
 
+
     # ヒーローのピック率計算
     total = len(tmp_pick_seq)
-
-    all_hero = Hero.objects.all()
-    for hero in all_hero:
-        hero_name = hero.name
-        ret_dict[hero_name] = {"pick_rate": "?", "win_rate": "?", "count": "?"}
-
     for hero_id, count in pick_count_dict.items():
         hero_name = hero_id.replace("*", "")
         ret_dict[hero_name]["count"] = count
