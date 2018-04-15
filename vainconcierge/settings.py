@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'vainconcierge',
     'vainpick',
     'banpick',
+    'blog'
 ]
 
 MIDDLEWARE = [
