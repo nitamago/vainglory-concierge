@@ -3,6 +3,11 @@
     height: 60px;
 }
 
+.featureicon {
+    width: 25px;
+    height: 25px;
+}
+
 #pick_seq {
     display: table;
 }
