@@ -39,6 +39,12 @@
         <button type="button" class="btn btn-default" onclick="reset(this)">リセット / Reset</button>
     </div>
 
+    <span class="blue_box">　</span>
+    <span> Win：{{ current.win_rate }} %</span>
+    <br>
+    <span class="red_box">　</span>
+    <span> Win：{{ current.lose_rate }} %</span>
+
     <div class="btn-group-vertical" role="group">
         {% ifequal phase "ban" %}
         <div class="btn-group" role="group">
@@ -299,6 +305,17 @@
                 <span>Win：{{ hero_dict.Lyra.win_rate }} %</span>
                 <br> <span class="red_box">　</span>
                 <span>Win：{{ hero_dict.Lyra.lose_rate }} %</span>
+            </button>
+            <button type="button" class="btn btn-default" onclick="select(this)" name="malene">
+                <img class="heroicon" src="{% static 'icons/malene.png' %}"/>
+                {% for icon in hero_dict.Malene.feature %}
+                    <img class="featureicon" src="{% static icon %}"/>
+                {% endfor %}
+                <br>Ban：{{ hero_dict.Malene.pick_rate }} %
+                <br> <span class="blue_box">　</span>
+                <span>Win：{{ hero_dict.Malene.win_rate }} %</span>
+                <br> <span class="red_box">　</span>
+                <span>Win：{{ hero_dict.Malene.lose_rate }} %</span>
             </button>
             <button type="button" class="btn btn-default" onclick="select(this)" name="ozo">
                 <img class="heroicon" src="{% static 'icons/ozo.png' %}"/>

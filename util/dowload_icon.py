@@ -25,7 +25,8 @@ if __name__ == "__main__":
               'kestrel', 'baptiste', 'reza', 'petal',
               'koshka', 'adagio', 'saw', 'catherine',
               'skye', 'alpha', 'reim', 'grace', 'flicker',
-              'ozo', 'krul', 'lorelai', 'varya', 'tony']
+              'ozo', 'krul', 'lorelai', 'varya', 'tony',
+              'malene']
 
     url = "http://www.vaingloryfire.com/images/wikibase/icon/heroes/"
     for hero in Heros:
