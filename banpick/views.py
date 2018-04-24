@@ -8,6 +8,9 @@ from django.utils.html import mark_safe
 from .models import Hero, Pick_Seq, Pick_Info, Seq_Cache
 from django.db.models import Q
 
+seq_set = [0, 2, 4, 7, 8, 11, 12]
+hero_ids = []
+
 def index_page(request,seq=""):
     if request.method == 'POST': # フォームが提出された
         pick_info = Pick_Info(request.POST) # POST データの束縛フォーム
@@ -28,7 +31,6 @@ def index_page(request,seq=""):
              hero_dict = get_pick_stat(hero_ids)
 
              icon_list = []
-             seq_set = [0, 2, 4, 7, 8, 11, 12]
              for (i, name) in enumerate(heros):
                  if name == "saw":
                      hero_id = "*SAW*"
@@ -44,6 +46,7 @@ def index_page(request,seq=""):
                                    "team": "blue" if i in seq_set else "red",
                                    "feature": paths})
              phase = "ban" if len(heros) < 4 else "pick"
+             current = predict(heros)
 
         else:
              message = 'データ検証に失敗しました'
@@ -51,15 +54,18 @@ def index_page(request,seq=""):
              hero_dict = get_pick_stat([])
              icon_list = []
              phase = "ban"
+             current = predict([])
     else:
         pick_info = Pick_Info()
         hero_dict = get_pick_stat([])
         icon_list = None
         phase = "ban"
+        current = predict([])
     return render(request, 'banpick/ui.html', {"hero_dict": hero_dict,
                 "pick_info": pick_info,
                 "icon_list": icon_list,
-                "phase": phase})
+                "phase": phase,
+                "current": current})
 
 
 def get_pick_stat(heros):
@@ -217,7 +223,6 @@ def get_pick_stat(heros):
             if seq.left_win:
                 win_count_dict[seq.pick14] += 1
 
-
     # ヒーローのピック率計算
     total = len(tmp_pick_seq)
     for hero_id, count in pick_count_dict.items():
@@ -228,6 +233,7 @@ def get_pick_stat(heros):
         else:
             ret_dict[hero_name]["pick_rate"] = "?"
 
+    # ヒーローの勝率計算
     for hero_id, count in win_count_dict.items():
         pick_count = pick_count_dict[hero_id]
         hero_name = hero_id.replace("*", "")
@@ -235,6 +241,113 @@ def get_pick_stat(heros):
             ret_dict[hero_name]["win_rate"] = "%03.1f" % (count/pick_count*100)
             ret_dict[hero_name]["lose_rate"] = "%03.1f" % ((1-count/pick_count)*100)
         else:
+            ret_dict[hero_name]["win_rate"] = "?"
+            ret_dict[hero_name]["lose_rate"] = "?"
+
+    # ヒーローの予想勝率計算
+    blue_ids = []
+    red_ids = []
+    for index in range(4, 14):
+        if index >= len(heros):
+            break
+        if index in seq_set:
+            blue_ids.append(heros[index])
+        else:
+            red_ids.append(heros[index])
+    left_feature = {}
+    for hero_id in blue_ids:
+        obj = Hero.objects.get(Q(hero_id=hero_id))
+        for f in obj.feature.split(":"):
+            if f in left_feature:
+                left_feature[f] += 1
+            else:
+                left_feature[f] = 1
+    right_feature = {}
+    for hero_id in red_ids:
+        obj = Hero.objects.get(Q(hero_id=hero_id))
+        for f in obj.feature.split(":"):
+            if f in right_feature:
+                right_feature[f] += 1
+            else:
+                right_feature[f] = 1
+
+    # 係数の読み込み
+    coef = None
+    import os
+    import pickle
+    module_dir = os.path.dirname(__file__)  # get current directory
+    file_path = os.path.join(module_dir, 'static', 'banpick', 'coef', 'coef.dat')
+    with open(file_path, "rb") as f:
+        coef =  pickle.load(f)
+
+    for hero_id in win_count_dict.keys():
+        target = Hero.objects.get(Q(hero_id=hero_id))
+        target_feature = {}
+        feature_list = ["brink", "shield", "initiate", "heal", "reflect_block", "stealth", "cc", "poke", "adc", "apc"]
+        for f in feature_list:
+            if not f in left_feature:
+                left_feature[f] = 0
+            if not f in right_feature:
+                right_feature[f] = 0
+            if not f in target_feature:
+                target_feature[f] = 0
+        for f in target.feature.split(":"):
+            if f in target_feature:
+                target_feature[f] += 1
+            else:
+                target_feature[f] = 1
+        if len(heros) in seq_set:
+            predict_win_rate = coef["b0"]+\
+            coef["left_brink"]*(left_feature["brink"]+target_feature["brink"])+\
+            coef["right_brink"]*right_feature["brink"]+\
+            coef["left_shield"]*(left_feature["shield"]+target_feature["shield"])+\
+            coef["right_shield"]*right_feature["shield"]+\
+            coef["left_initiate"]*(left_feature["initiate"]+target_feature["initiate"])+\
+            coef["right_initiate"]*right_feature["initiate"]+\
+            coef["left_heal"]*(left_feature["heal"]+target_feature["heal"])+\
+            coef["right_heal"]*right_feature["heal"]+\
+            coef["left_reflect_block"]*(left_feature["reflect_block"]+target_feature["reflect_block"])+\
+            coef["right_reflect_block"]*right_feature["reflect_block"]+\
+            coef["left_stealth"]*(left_feature["stealth"]+target_feature["stealth"])+\
+            coef["right_stealth"]*right_feature["stealth"]+\
+            coef["left_cc"]*(left_feature["cc"]+target_feature["cc"])+\
+            coef["right_cc"]*right_feature["cc"]+\
+            coef["left_poke"]*(left_feature["poke"]+target_feature["poke"])+\
+            coef["right_poke"]*right_feature["poke"]
+            coef["left_adc"]*(left_feature["adc"]+target_feature["adc"])+\
+            coef["right_adc"]*right_feature["adc"]
+            coef["left_apc"]*(left_feature["apc"]+target_feature["apc"])+\
+            coef["right_apc"]*right_feature["apc"]
+        else:
+            predict_win_rate = coef["b0"]+\
+            coef["right_brink"]*(right_feature["brink"]+target_feature["brink"])+\
+            coef["left_brink"]*left_feature["brink"]+\
+            coef["right_shield"]*(right_feature["shield"]+target_feature["shield"])+\
+            coef["left_shield"]*left_feature["shield"]+\
+            coef["right_initiate"]*(right_feature["initiate"]+target_feature["initiate"])+\
+            coef["left_initiate"]*left_feature["initiate"]+\
+            coef["right_heal"]*(right_feature["heal"]+target_feature["heal"])+\
+            coef["left_heal"]*left_feature["heal"]+\
+            coef["right_reflect_block"]*(right_feature["reflect_block"]+target_feature["reflect_block"])+\
+            coef["left_reflect_block"]*left_feature["reflect_block"]+\
+            coef["right_stealth"]*(right_feature["stealth"]+target_feature["stealth"])+\
+            coef["left_stealth"]*left_feature["stealth"]+\
+            coef["right_cc"]*(right_feature["cc"]+target_feature["cc"])+\
+            coef["left_cc"]*left_feature["cc"]+\
+            coef["right_poke"]*(right_feature["poke"]+target_feature["poke"])+\
+            coef["left_poke"]*left_feature["poke"]+\
+            coef["right_adc"]*(right_feature["adc"]+target_feature["adc"])+\
+            coef["left_adc"]*left_feature["adc"]+\
+            coef["right_apc"]*(right_feature["apc"]+target_feature["apc"])+\
+            coef["left_apc"]*left_feature["apc"]
+
+        hero_name = hero_id.replace("*", "")
+        #ret_dict[hero_name]["predict_win_rate"] = "%03.1f" % (predict_win_rate*100)
+        #ret_dict[hero_name]["predict_lose_rate"] = "%03.1f" % ((1-predict_win_rate)*100)
+        ret_dict[hero_name]["win_rate"] = "%03.1f" % (predict_win_rate*100)
+        ret_dict[hero_name]["lose_rate"] = "%03.1f" % ((1-predict_win_rate)*100)
+
+        if hero_id in heros:
             ret_dict[hero_name]["win_rate"] = "?"
             ret_dict[hero_name]["lose_rate"] = "?"
 
@@ -253,4 +366,83 @@ def get_pick_stat(heros):
 
     return ret_dict
 
+def predict(heros):
+    # ヒーローの予想勝率計算
+    if len(heros) <= 4:
+        return {"win_rate": "?", "lose_rate": "?"}
 
+    hero_ids = []
+    for hero in heros:
+        if hero == "saw":
+            hero_ids.append("*SAW*")
+        else:
+            hero_ids.append("*"+hero[0].upper()+hero[1:]+"*")
+    blue_ids = []
+    red_ids = []
+    for index in range(4, 14):
+        if index >= len(heros):
+            break
+        if index in seq_set:
+            blue_ids.append(hero_ids[index])
+        else:
+            red_ids.append(hero_ids[index])
+    left_feature = {}
+    for hero_id in blue_ids:
+        obj = Hero.objects.get(Q(hero_id=hero_id))
+        for f in obj.feature.split(":"):
+            if f in left_feature:
+                left_feature[f] += 1
+            else:
+                left_feature[f] = 1
+    right_feature = {}
+    for hero_id in red_ids:
+        obj = Hero.objects.get(Q(hero_id=hero_id))
+        for f in obj.feature.split(":"):
+            if f in right_feature:
+                right_feature[f] += 1
+            else:
+                right_feature[f] = 1
+
+    feature_list = ["brink", "shield", "initiate", "heal", "reflect_block", "stealth", "cc", "poke", "adc", "apc"]
+    for f in feature_list:
+        if not f in left_feature:
+            left_feature[f] = 0
+        if not f in right_feature:
+            right_feature[f] = 0
+
+    # 係数の読み込み
+    coef = None
+    import os
+    import pickle
+    module_dir = os.path.dirname(__file__)  # get current directory
+    file_path = os.path.join(module_dir, 'static', 'banpick', 'coef', 'coef.dat')
+    with open(file_path, "rb") as f:
+        coef =  pickle.load(f)
+
+    predict_win_rate = coef["b0"]+\
+            coef["left_brink"]*left_feature["brink"]+\
+            coef["right_brink"]*right_feature["brink"]+\
+            coef["left_shield"]*left_feature["shield"]+\
+            coef["right_shield"]*right_feature["shield"]+\
+            coef["left_initiate"]*left_feature["initiate"]+\
+            coef["right_initiate"]*right_feature["initiate"]+\
+            coef["left_heal"]*left_feature["heal"]+\
+            coef["right_heal"]*right_feature["heal"]+\
+            coef["left_reflect_block"]*left_feature["reflect_block"]+\
+            coef["right_reflect_block"]*right_feature["reflect_block"]+\
+            coef["left_stealth"]*left_feature["stealth"]+\
+            coef["right_stealth"]*right_feature["stealth"]+\
+            coef["left_cc"]*left_feature["cc"]+\
+            coef["right_cc"]*right_feature["cc"]+\
+            coef["left_poke"]*left_feature["poke"]+\
+            coef["right_poke"]*right_feature["poke"]+\
+            coef["left_adc"]*left_feature["adc"]+\
+            coef["right_adc"]*right_feature["adc"]+\
+            coef["left_apc"]*left_feature["apc"]+\
+            coef["right_apc"]*right_feature["apc"]
+
+    ret_dict = {"win_rate": "?", "lose_rate": "?"}
+    ret_dict["win_rate"] = "%03.1f" % (predict_win_rate*100)
+    ret_dict["lose_rate"] = "%03.1f" % ((1-predict_win_rate)*100)
+
+    return ret_dict
