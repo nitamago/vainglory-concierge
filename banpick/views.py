@@ -29,6 +29,7 @@ def index_page(request,seq=""):
                      hero_ids.append("*"+hero[0].upper()+hero[1:]+"*")
 
              hero_dict = get_pick_stat(hero_ids)
+             btn_grp = get_btn_grp(hero_dict)
 
              icon_list = []
              for (i, name) in enumerate(heros):
@@ -52,12 +53,14 @@ def index_page(request,seq=""):
              message = 'データ検証に失敗しました'
              pick_info = Pick_Info()
              hero_dict = get_pick_stat([])
+             btn_grp = get_btn_grp(hero_dict)
              icon_list = []
              phase = "ban"
              current = predict([])
     else:
         pick_info = Pick_Info()
         hero_dict = get_pick_stat([])
+        btn_grp = get_btn_grp(hero_dict)
         icon_list = None
         phase = "ban"
         current = predict([])
@@ -65,7 +68,8 @@ def index_page(request,seq=""):
                 "pick_info": pick_info,
                 "icon_list": icon_list,
                 "phase": phase,
-                "current": current})
+                "current": current,
+                "btn_grps": btn_grp})
 
 
 def get_pick_stat(heros):
@@ -446,3 +450,22 @@ def predict(heros):
     ret_dict["lose_rate"] = "%03.1f" % ((1-predict_win_rate)*100)
 
     return ret_dict
+
+
+def get_btn_grp(hero_dict):
+    btn_low = 6
+    ret = []
+    tmp_list = []
+    for hero_id, hero_data in hero_dict.items():
+        tmp = {}
+        tmp["hero"] = hero_data
+        tmp["hero"]["name"] = hero_id.lower()
+        tmp["icon_path"] = "icons/" + hero_id.lower() + ".png"
+        tmp_list.append(tmp)
+
+        if len(tmp_list) == btn_low:
+            ret.append(tmp_list)
+            tmp_list = []
+    ret.append(tmp_list)
+
+    return ret

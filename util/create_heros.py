@@ -38,7 +38,7 @@ if __name__ == "__main__":
              {"name": '*Lance*', 'feature': 'cc'},
              {"name": '*Lorelai*', 'feature': 'cc:shield'},
              {"name": '*Lyra*', 'feature': 'heal:cc'},
-             {"name": '*Melene*', 'feature': 'cc'},
+             {"name": '*Malene*', 'feature': 'cc'},
              {"name": '*Ozo*', 'feature': 'sustain:initiate'},
              {"name": '*Petal*', 'feature': 'brink'},
              {"name": '*Phinn*', 'feature': 'cc:shield'},
