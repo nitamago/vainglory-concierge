@@ -69,7 +69,7 @@ def get_matches(offset, area="na"):
         with open("data/pick/%s/%s.json" % (version, ID), "w") as f:
             f.write(json.dumps(dic, indent=4))
         num += 1
-        time.sleep(5)
+        time.sleep(1.2)
 
 
 def is_win(match_obj, ros_id):
@@ -94,7 +94,8 @@ def get_telemetory_info(match_obj):
     for data in match_obj["included"]:
         if data["type"] == "asset":
             asset_id = data["id"]
-            print(data["attributes"]["URL"])
+            if __debug__:
+                print(data["attributes"]["URL"])
             url = data["attributes"]["URL"]
             urls[asset_id] = url
     return urls
@@ -111,38 +112,42 @@ def get_pick_seq(tel_url, ID):
 
     for payload in tel_res.json():
         if payload["type"] == "HeroBan":
-            print(payload)
+            if __debug__:
+                print(payload)
             ret.append(payload)
 
         if payload["type"] == "HeroSelect":
-            print(payload)
+            if __debug__:
+                print(payload)
             ret.append(payload)
 
     return ret
 
 
-def main(area):
+def main():
     if not os.path.exists("data"):
         os.mkdir("data")
     if not os.path.exists("data/pick"):
         os.mkdir("data/pick")
-    for i in range(0, 20000, 5):
-        get_matches(i, area)
-        time.sleep(6)
+    area = ["ea", "na"]
+    for area_code in area:
+        for i in range(0, 20000, 5):
+            get_matches(i, area_code)
 
 #print(json.dumps(r.json(), indent=4))
 
 
 if __name__ == "__main__":
+    now = datetime.datetime.now()
+    tomorrow = now
     while True:
-        try:
-            main("na")
-        except Exception as e:
-            print(e)
-        time.sleep(1800)
+        if now >= tomorrow:
+            try:
+                main()
+            except Exception as e:
+                print(e)
+            tomorrow = now + datetime.timedelta(days = 1)
+        else:
+            time.sleep(1800)
 
-        try:
-            main("ea")
-        except Exception as e:
-            print(e)
-        time.sleep(1800)
+        now = datetime.datetime.now()
