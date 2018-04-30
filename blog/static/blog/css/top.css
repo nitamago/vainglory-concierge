@@ -1,0 +1,26 @@
+.title-wrapper {
+    position: relative;
+    width: 300px;
+    height:300px;
+}
+
+.block-centering {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+}
+
+.posts-panel {
+    background-color: #ffffff;
+    width: 300px;
+    height: 300px;
+    padding: 0;
+}
+
+.abstract-area {
+    padding-top: 0;
+    margin-top: 0;
+}

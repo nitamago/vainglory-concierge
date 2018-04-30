@@ -1,0 +1,53 @@
+{% extends "blog/base.html" %}
+{% load static %}
+
+{% block extra_css %}
+<link rel="stylesheet" href="{% static 'blog/css/editor.css' %}">
+{% endblock %}
+
+{% block title %}エディタ{% endblock title %}
+
+{% block content %}
+<div class="editor-area">
+    <form name="article_info" action="/admin/blog/article/register/" method="POST">{% csrf_token %}
+        <p>タイトル</p>
+        <input name='title' type='text' size="100" value="{{ data.title }}" />
+        <p>要約</p>
+        <textarea name="abstract" rows="3" cols="100" wrap="hard" />
+            {{ data.abstract }}
+        </textarea>
+        <input name='content' type='hidden' />
+        <input name='id' type='hidden' value="{{ data.id }}" />
+    </form>
+
+   <div id="editor">
+        {% autoescape off %}
+            {{ data.content }}
+        {% endautoescape %}
+        <script src="{% static 'ckeditor/ckeditor.js' %}"></script>
+        <script>
+            // エディタへの設定を適用する
+            CKEDITOR.replace('editor', {
+                uiColor: '#EEEEEE',
+                height: 400,
+
+                extraPlugins: 'wordcount,notification,font',
+
+                wordcount: {
+                    showCharCount: true,
+                    countLineBreaks: true,
+                },
+
+            });
+        </script>
+    </div>
+    <button type="button" onclick="submmit(this)">
+        Submmit
+    </button>
+</div>
+{% endblock content %}
+
+{% block extra_js %}
+<script src="{% static 'blog/js/editor.js' %}"></script>
+{% endblock %}
+

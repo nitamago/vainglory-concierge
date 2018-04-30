@@ -20,4 +20,7 @@ from . import views
 
 urlpatterns = [
     url(r'^$', views.top_page, name='top_page'),
+    url(r'top.html', views.top_page, name='top_page'),
+    url(r'about.html', views.about_page, name='about_page'),
+    url(r'index/(\d+)/$', views.article_page, name='article_page'),
 ]

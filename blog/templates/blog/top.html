@@ -9,18 +9,29 @@
 
 {% block content %}
 <!-- Page Header -->
-<header class="masthead" style="background-image: url('img/home-bg.jpg')">
     <div class="overlay"></div>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-md-10 mx-auto">
-                <div class="site-heading">
+    <div class="container title-wrapper">
+        <div class="row block-centering">
+            <div class="col-lg-8 col-md-10 mx-auto" style="padding:80px 0 0 0">
+                <div class="site-heading text-center">
                     <h1>煮卵ラボ</h1>
                 </div>
             </div>
         </div>
     </div>
-</header>
+
+<div class="row">
+    {% for item in all %}
+        <div class="">
+            <button class="posts-panel"  onclick="location.href='index/{{ item.id }}/'">
+                    {% autoescape off %}
+                    <h3> {{ item.title }} </h3>
+                    <p> {{ item.abstract }} </p>
+                    {% endautoescape %}
+            </button>
+        </div>
+    {% endfor %}
+</div>
 {% endblock content %}
 
 {% block extra_js %}

@@ -1,0 +1,38 @@
+{% extends "blog/base.html" %}
+{% load static %}
+
+{% block extra_css %}
+<link rel="stylesheet" href="{% static 'blog/css/about.css' %}">
+{% endblock %}
+
+{% block title %}煮卵ラボについて{% endblock title %}
+
+{% block content %}
+<!-- Page Header -->
+<header class="masthead" style="background-image: url('img/home-bg.jpg')">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-10 mx-auto" style="padding:80px 0 0 0">
+                <div class="site-heading text-center">
+                    <h1>煮卵ラボについて</h1>
+                </div>
+            </div>
+        </div>
+        <div class="content">
+        <h2>このサイトは、クソ雑魚プレイスキルの筆者が、師匠の教えを発信していく場である。</h2>
+
+        <h2>また、ITを活用してVaingloryの誉れへ上り詰める軌跡を描いたものであるといいな。</h2>
+        <h2>対象読者は，ランク7よりも下の層を想定している。</h2>
+        <h2>ランク9までは，チュートリアルだという声もあり，半端者が何を言っているんだという意見もあるだろうが，Vaingloryプレイ層のスキル底上げを目指しているのでご容赦していただきたい。</h2>
+        <h2>より高度な情報を求める方は，筆者が誉れになるまで，首をながぁぁぁくして待っていただきたい。</h2>
+        </div>
+
+    </div>
+</header>
+{% endblock content %}
+
+{% block extra_js %}
+<script src="{% static 'blog/js/top.js' %}"></script>
+{% endblock %}
+

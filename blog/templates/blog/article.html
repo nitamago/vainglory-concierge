@@ -1,0 +1,24 @@
+{% extends "blog/base.html" %}
+{% load static %}
+
+{% block extra_css %}
+<link rel="stylesheet" href="{% static 'blog/css/article.css' %}">
+{% endblock %}
+
+{% block title %} {{ data.title }} {% endblock title %}
+
+{% block content %}
+<div class="article-area">
+    <h1>{{ data.title }}</h1>
+    <div class="content-area">
+        {% autoescape off %}
+            {{ data.content }}
+        {% endautoescape %}
+    </div>
+</div>
+{% endblock content %}
+
+{% block extra_js %}
+<script src="{% static 'blog/js/top.js' %}"></script>
+{% endblock %}
+
