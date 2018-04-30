@@ -14,9 +14,7 @@ header = {
         }
 
 
-def get_matches(offset, area="na"):
-    now = datetime.datetime.now()
-    yesterday = now - datetime.timedelta(days = 1)
+def get_matches(offset, now, yesterday, area="na"):
     url = "https://api.dc01.gamelockerapp.com/shards/"+area+"/matches"
     query = {
             #"filter[gameMode]": "ranked",
@@ -69,7 +67,7 @@ def get_matches(offset, area="na"):
         with open("data/pick/%s/%s.json" % (version, ID), "w") as f:
             f.write(json.dumps(dic, indent=4))
         num += 1
-        time.sleep(1.2)
+        time.sleep(1.5)
 
 
 def is_win(match_obj, ros_id):
@@ -129,10 +127,12 @@ def main():
         os.mkdir("data")
     if not os.path.exists("data/pick"):
         os.mkdir("data/pick")
+    n = datetime.datetime.now()
+    y = n - datetime.timedelta(days = 1)
     area = ["ea", "na"]
     for area_code in area:
         for i in range(0, 20000, 5):
-            get_matches(i, area_code)
+            get_matches(i, n, y, area_code)
 
 #print(json.dumps(r.json(), indent=4))
 
@@ -143,11 +143,12 @@ if __name__ == "__main__":
     while True:
         if now >= tomorrow:
             try:
+                print("Start getting logs at " + str(now))
                 main()
             except Exception as e:
                 print(e)
             tomorrow = now + datetime.timedelta(days = 1)
         else:
-            time.sleep(1800)
+            time.sleep(900)
 
         now = datetime.datetime.now()

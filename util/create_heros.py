@@ -7,6 +7,7 @@ heroレコードをDBへ登録する
 
 import os
 import django
+import json
 
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "vainconcierge.settings")
@@ -14,7 +15,7 @@ if __name__ == "__main__":
     django.setup()
 
     from vainpick.models import Hero
-
+    """
     Heros = [{"name": '*Adagio*', 'feature': 'cc:heal'},
              {"name": '*Alpha*', 'feature': 'sustain:initiate'},
              {"name": '*Ardan*', 'feature': 'cc:initiate:shield'},
@@ -54,6 +55,10 @@ if __name__ == "__main__":
              {"name": '*Tony*', 'feature': 'cc:shield'},
              {"name": '*Varya*', 'feature': 'brink:apc'},
              {"name": '*Vox*', 'feature': 'brink:adc'}]
+        """
+
+    with open("data/json/Hero.json", "r") as f:
+        Heros = json.load(f)
 
     s = set()
     for hero in Heros:

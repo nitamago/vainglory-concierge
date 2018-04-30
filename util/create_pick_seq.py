@@ -39,7 +39,7 @@ def get_pick_seq(path):
 
 def get_pick_dict():
     pick_dict = {}
-    for path in glob.glob("data/pick/3.1/*.json"):
+    for path in glob.glob("data/pick/3.2/*.json"):
         if __debug__:
             print(path)
         seq, winner = get_pick_seq(path)
